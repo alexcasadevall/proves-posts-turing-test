@@ -6,12 +6,12 @@ def transformar_reddit_a_xat_final(input_file):
         with open(input_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
-        # 1. POST ORIGINAL (NEWS CARD)
+        # 1. POST ORIGINAL (NEWS CARD): Ho deixem EXACTAMENT com ve al JSON original
         op_data = data[0]['data']['children'][0]['data']
         post_original = {
             "agency": f"r/{op_data.get('subreddit', 'Reddit')}",
             "title": op_data.get('title', ''),
-            "body": op_data.get('selftext', ''),  
+            "body": op_data.get('selftext', ''),  # SENSE TOCAR RES
             "author": op_data.get('author', ''),
             "timestamp": op_data.get('created_utc', 0)
         }
@@ -28,35 +28,44 @@ def transformar_reddit_a_xat_final(input_file):
         def process_comment(comment_obj, parent_id=None, parent_author=None):
             nonlocal user_counter
             c_data = comment_obj.get('data', {})
+
+            # --- 1) FILTRE DE COMENTARIS ELIMINATS ---
+            # Si l'autor és '[deleted]' o el cos és '[deleted]', ignorem el comentari i tota la seva branca.
+            autor_original = c_data.get('author', '')
+            cos_original = c_data.get('body', '')
+            
+            if autor_original == '[deleted]' or cos_original == '[deleted]':
+                return # Sortim de la funció: ni es guarda ni es processen les seves respostes.
+
             if 'body' not in c_data: return
 
-            real_author = c_data['author']
-            if real_author not in user_mapping:
+            # Gestió de pseudònims
+            if autor_original not in user_mapping:
                 if user_counter < len(noms_pool):
-                    user_mapping[real_author] = noms_pool[user_counter]
+                    user_mapping[autor_original] = noms_pool[user_counter]
                 else:
-                    user_mapping[real_author] = f"Participant {user_counter + 1}"
+                    user_mapping[autor_original] = f"Participant {user_counter + 1}"
                 user_counter += 1
             
-            current_name = user_mapping[real_author]
+            current_name = user_mapping[autor_original]
             
-            # --- NETEJA DE TEXT (NOMÉS PER A MISSATGES) ---
-            raw_body = c_data['body']
+            # --- 2) NETEJA DE TEXT (NOMÉS PER A MISSATGES) ---
+            text = cos_original
             
-            # 1. Decodificar entitats HTML
-            text = raw_body.replace('&gt;', '>').replace('&lt;', '<').replace('&amp;', '&')
+            # Decodificar entitats HTML
+            text = text.replace('&gt;', '>').replace('&lt;', '<').replace('&amp;', '&')
             
-            # 2. Eliminar línies de cita (Markdown >)
+            # Eliminar línies de cita (Markdown >)
             text = re.sub(r'^\s*>.*$', '', text, flags=re.MULTILINE)
             
-            # 3. Format de negretes i cursives
+            # Format de negretes i cursives
             text = re.sub(r'(\*\*|__)(.*?)\1', r'<b>\2</b>', text)
             text = re.sub(r'(\*|_)(.*?)\1', r'<i>\2</i>', text)
             
-            # 4. Convertir salts de línia a <br>
+            # Convertir salts de línia a <br>
             text = text.strip().replace('\n', '<br>')
             
-            # 5. Netejar <br> duplicats
+            # Netejar <br> duplicats
             text = re.sub(r'(<br>\s*){2,}', '<br><br>', text)
             text = re.sub(r'^(<br>)+|(<br>)+$', '', text)
 
@@ -72,24 +81,26 @@ def transformar_reddit_a_xat_final(input_file):
             message = {
                 "id": c_data['id'],
                 "sender": current_name,
-                "real_author": real_author,
+                "real_author": autor_original,
                 "text": text,
                 "timestamp": c_data['created_utc'],
                 "reply_to": parent_author,
-                # En la previsualització del reply traiem els <br> per a que no es trenqui el disseny
                 "reply_text": parent_text.replace('<br>', ' ')[:85] + "...",
                 "likes": abs(hash(c_data['id'])) % 7 
             }
             chat_messages.append(message)
 
+            # Seguir processant les respostes (fills)
             replies = c_data.get('replies')
             if replies and isinstance(replies, dict):
                 for reply in replies['data']['children']:
                     process_comment(reply, c_data['id'], current_name)
 
+        # Processar l'arbre de comentaris
         for root_comment in raw_comments:
             process_comment(root_comment)
 
+        # Ordenar cronològicament
         chat_messages.sort(key=lambda x: x['timestamp'])
         
         return {
@@ -101,11 +112,12 @@ def transformar_reddit_a_xat_final(input_file):
     except Exception as e:
         return {"error": str(e)}
 
+# Execució del script
 resultat = transformar_reddit_a_xat_final('reddit_thread.json')
 
 if "error" not in resultat:
     with open('conversa_neta.json', 'w', encoding='utf-8') as f:
         json.dump(resultat, f, indent=4, ensure_ascii=False)
-    print(f"✅ Fet! News Card impecable i xat amb format HTML.")
+    print(f"✅ JSON generat. S'han exclòs els comentaris [deleted] i les seves branques.")
 else:
     print(f"❌ Error: {resultat['error']}")
