@@ -6,7 +6,7 @@
         "author": "jotakajk",
         "timestamp": 1769455040.0
     },
-    "num_participants": 11,
+    "num_participants": 12,
     "messages": [
         {
             "id": "o1vi4u4",
@@ -16,37 +16,37 @@
             "timestamp": 1769455234.0,
             "reply_to": null,
             "reply_text": "...",
-            "likes": 3
+            "likes": 0
         },
         {
             "id": "o1x5l1o",
-            "sender": "Marc",
+            "sender": "Sílvia",
             "real_author": "InsideHousing4965",
             "text": "Lo wue va tocando ya es que la gente se deje de hostias y empiece a tener hijos para que no tengamos que depender de la inmigración.<br><br>Me parece indignante que haya gente que ha tenido 1 hijo o ninguno y aún así pretenda cobrar una pensión y se queje de la inmigración.",
             "timestamp": 1769471630.0,
             "reply_to": "Miguel",
             "reply_text": "Creo que habría que empezar a deportar a los ilegales e implementar un sistema de inm...",
-            "likes": 5
+            "likes": 3
         },
         {
             "id": "o1xra1x",
-            "sender": "Lucía",
+            "sender": "Sergi",
             "real_author": "maxxxbbb",
             "text": "Caro",
             "timestamp": 1769478466.0,
-            "reply_to": "Marc",
+            "reply_to": "Sílvia",
             "reply_text": "Lo wue va tocando ya es que la gente se deje de hostias y empiece a tener hijos para ...",
             "likes": 2
         },
         {
             "id": "o1yprr3",
-            "sender": "Sílvia",
+            "sender": "Dani",
             "real_author": "Chromaggus",
             "text": "Enga empieza",
             "timestamp": 1769490645.0,
-            "reply_to": "Marc",
+            "reply_to": "Sílvia",
             "reply_text": "Lo wue va tocando ya es que la gente se deje de hostias y empiece a tener hijos para ...",
-            "likes": 2
+            "likes": 4
         },
         {
             "id": "o1yung6",
@@ -60,43 +60,53 @@
         },
         {
             "id": "o1z5fs2",
-            "sender": "Dani",
+            "sender": "Lucía",
             "real_author": "RocosoSabroso1",
             "text": "Lo de transicionar a un sistema de pensiones de capitalización ya para otro día.",
             "timestamp": 1769497942.0,
-            "reply_to": "Marc",
+            "reply_to": "Sílvia",
             "reply_text": "Lo wue va tocando ya es que la gente se deje de hostias y empiece a tener hijos para ...",
-            "likes": 1
+            "likes": 4
+        },
+        {
+            "id": "o1zgrkh",
+            "sender": "Alex",
+            "real_author": "[deleted]",
+            "text": "😂😂😂 los latinos vivís en una realidad paralela macho",
+            "timestamp": 1769504082.0,
+            "reply_to": "Helena",
+            "reply_text": "No se olviden que ustedes se iban muertos de hambre a LATAM y nadie les pedía nada. H...",
+            "likes": 2
         },
         {
             "id": "o1zie6t",
-            "sender": "Alex",
+            "sender": "Juan",
             "real_author": "ruaraid",
             "text": "Fueron 4 millones, repartidos entre 17 países de Sudamérica. Al menos la mitad acabaron regresando. ¿Te parece comparable 4 millones en 17 países en el periodo 1880-1940 a 1,2 millones en 1 país en 2024?",
             "timestamp": 1769504997.0,
             "reply_to": "Helena",
             "reply_text": "No se olviden que ustedes se iban muertos de hambre a LATAM y nadie les pedía nada. H...",
-            "likes": 0
+            "likes": 4
         },
         {
             "id": "o1zihiu",
-            "sender": "Alex",
+            "sender": "Juan",
             "real_author": "ruaraid",
             "text": "Nada nada, hay que follar para pagar las pensiones estratosféricas y artificiales de un grupo poblacional que no tuvo hijos suficientes.",
             "timestamp": 1769505050.0,
-            "reply_to": "Dani",
+            "reply_to": "Lucía",
             "reply_text": "Lo de transicionar a un sistema de pensiones de capitalización ya para otro día....",
-            "likes": 0
+            "likes": 5
         },
         {
             "id": "o1zsazd",
-            "sender": "Sergi",
+            "sender": "Carla",
             "real_author": "FelixTheFckngCat",
             "text": "Y a partidos como Podemos que sostienen a un partido que perdió las elecciones y se aferra al poder para qur su líder no vaya a la cárcel, por ejemplo",
             "timestamp": 1769510431.0,
             "reply_to": "Miguel",
             "reply_text": "Creo que habría que empezar a deportar a los ilegales e implementar un sistema de inm...",
-            "likes": 5
+            "likes": 1
         },
         {
             "id": "o1zsolr",
@@ -110,23 +120,23 @@
         },
         {
             "id": "o20msxp",
-            "sender": "Clara",
+            "sender": "Marc",
             "real_author": "iagovar",
             "text": "Es muy justo que un tipo cruce el atlántico después de haber estudiado, haber ahorrado, haber hecho el papeleo, llegue a España, haga su vida, y me cuente en el trabajo \"me fuí por la inseguridad, y para escapar de una sociedad decadente\".<br><br>Pasan los años y la misma gente que le causaba inseguridad y que era la causa de una sociedad decadente le rodea. Pero ellos no tuvieron que estudiar, ahorrar, hacer el papeleo, etc.<br><br>Lo que hayan hecho nuestros antepasados es completamente irrelevante. A día de hoy España recibe demasiada gente, y meter más sólo va a empeorar las situaciones de la vivienda, el la presión sobre los servicios públicos y la inseguridad.",
             "timestamp": 1769522669.0,
             "reply_to": "Helena",
             "reply_text": "No se olviden que ustedes se iban muertos de hambre a LATAM y nadie les pedía nada. H...",
-            "likes": 4
+            "likes": 1
         },
         {
             "id": "o21luix",
-            "sender": "Juan",
+            "sender": "Paula",
             "real_author": "djalma_21",
             "text": "Porque la natalidad es muy baja y faltan cotizantes (cuando se regularicen, que al final lo hacen), mientras tanto aportan mano de obra barata. Es la única razón de que se haga la vista gorda con este tema",
             "timestamp": 1769532389.0,
             "reply_to": "Miguel",
             "reply_text": "Es increíble como hay gente que defienda la inmigración ILEGAL. Yo he sido inmigrante...",
-            "likes": 1
+            "likes": 3
         },
         {
             "id": "o221jtu",
@@ -134,13 +144,23 @@
             "real_author": "Camelstrike",
             "text": "Te puedo asegurar que mucha gente de LATAM también se regresa",
             "timestamp": 1769536462.0,
-            "reply_to": "Alex",
+            "reply_to": "Juan",
             "reply_text": "Fueron 4 millones, repartidos entre 17 países de Sudamérica. Al menos la mitad acabar...",
             "likes": 2
         },
         {
+            "id": "o221r43",
+            "sender": "Helena",
+            "real_author": "Camelstrike",
+            "text": "La culpa no es del cerdo sino del que le da de comer",
+            "timestamp": 1769536513.0,
+            "reply_to": "Alex",
+            "reply_text": "😂😂😂 los latinos vivís en una realidad paralela macho...",
+            "likes": 4
+        },
+        {
             "id": "o225s0o",
-            "sender": "Alex",
+            "sender": "Juan",
             "real_author": "ruaraid",
             "text": "https://preview.redd.it/78t5m3omnxfg1.jpeg?width=1020&format=pjpg&auto=webp&s=ad89982b6586b75edd1a6519e65299fc12c941bb<br><br>No tiene pinta.",
             "timestamp": 1769537545.0,
@@ -150,53 +170,53 @@
         },
         {
             "id": "o23xkdz",
-            "sender": "Paula",
+            "sender": "Clara",
             "real_author": "Live-Letter4296",
             "text": "Se nota que no sabes de lo que hablas, esto no tiene nada que ver con las pensiones o la SS, es más los inmigrantes son un neto negativo para las arcas españolas, reciben más de lo que contribuyen, y aunque sí fuera el caso que fueran grandes cotizantes esto sería solo un parche para posponer el problema",
             "timestamp": 1769554661.0,
-            "reply_to": "Juan",
+            "reply_to": "Paula",
             "reply_text": "Porque la natalidad es muy baja y faltan cotizantes (cuando se regularicen, que al fi...",
-            "likes": 5
+            "likes": 0
         },
         {
             "id": "o23ybya",
-            "sender": "Juan",
+            "sender": "Paula",
             "real_author": "djalma_21",
             "text": "Tú sí que no sabes nada<br><br>Reciben ayudas cuando llegan, cuando se regularizan tienen años o décadas de aportación mediante cotizaciones e impuestos.",
             "timestamp": 1769554889.0,
-            "reply_to": "Paula",
+            "reply_to": "Clara",
             "reply_text": "Se nota que no sabes de lo que hablas, esto no tiene nada que ver con las pensiones o...",
-            "likes": 5
+            "likes": 4
         },
         {
             "id": "o240i8i",
-            "sender": "Paula",
+            "sender": "Clara",
             "real_author": "Live-Letter4296",
             "text": "Sí, es algo manifiesto como ha mejorado la calidad de vida en este país gracias a la inmigración, sobresaturación de los servicios públicos, estancamiento de sueldos, crisis de vivienda y mayor inseguridad en las calles, y encima España cada año parece menos España, guau, que genial, salgo a la calle y me siento extranjero en mi propio país, según el barrio a veces parece que estoy en Marruecos y otras veces en Perú.",
             "timestamp": 1769555541.0,
-            "reply_to": "Juan",
+            "reply_to": "Paula",
             "reply_text": "Tú sí que no sabes nada  Reciben ayudas cuando llegan, cuando se regularizan tienen a...",
-            "likes": 3
+            "likes": 5
         },
         {
             "id": "o241415",
-            "sender": "Paula",
+            "sender": "Clara",
             "real_author": "Live-Letter4296",
             "text": "Sí correcto, además los españoles tiene que someterse a una competición de follar con los inmigrantes, no se pueden quejar de la inmigración si no. Entran 600.000 extranjeros al año, entonces los españoles tendrán que tener 600.000 bebés, si entran 1 millón pues 1 millón.",
             "timestamp": 1769555724.0,
-            "reply_to": "Alex",
+            "reply_to": "Juan",
             "reply_text": "Nada nada, hay que follar para pagar las pensiones estratosféricas y artificiales de ...",
             "likes": 0
         },
         {
             "id": "o241egm",
-            "sender": "Paula",
+            "sender": "Clara",
             "real_author": "Live-Letter4296",
             "text": "Has pensado que la inmigración masiva que tenemos en este país es causa directa de la pobre situación económica de los españoles? O no te has planteado que en materia de economía 2 cosas pueden estar relacionadas",
             "timestamp": 1769555812.0,
-            "reply_to": "Marc",
+            "reply_to": "Sílvia",
             "reply_text": "Lo wue va tocando ya es que la gente se deje de hostias y empiece a tener hijos para ...",
-            "likes": 5
+            "likes": 3
         }
     ]
 }
