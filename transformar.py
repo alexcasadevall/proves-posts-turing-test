@@ -6,7 +6,7 @@ def transformar_reddit_a_xat_final(input_file):
         with open(input_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
-        # 1. POST ORIGINAL (NEWS CARD)
+        # 1. POST ORIGINAL
         op_data = data[0]['data']['children'][0]['data']
         post_original = {
             "agency": f"r/{op_data.get('subreddit', 'Reddit')}",
@@ -29,16 +29,18 @@ def transformar_reddit_a_xat_final(input_file):
             nonlocal user_counter
             c_data = comment_obj.get('data', {})
 
-            # --- 1) FILTRE DE COMENTARIS ELIMINATS ---
-            # Si l'autor és '[deleted]' o el cos és '[deleted]', ignorem el comentari i tota la seva branca.
-            autor_original = c_data.get('author', '')
+            # --- FILTRE DE CONTINGUT ELIMINAT O MODERAT ---
             cos_original = c_data.get('body', '')
             
-            if autor_original == '[deleted]' or cos_original == '[deleted]':
-                return # Sortim de la funció: ni es guarda ni es processen les seves respostes.
+            # Si el TEXT del comentari és [deleted] o [removed], descartem el missatge i tota la branca.
+            if cos_original in ['[deleted]', '[removed]']:
+                return 
 
             if 'body' not in c_data: return
 
+            # L'autor ens és igual si és [deleted] o [removed], el processem mentre hi hagi text.
+            autor_original = c_data.get('author', '[deleted]')
+            
             # Gestió de pseudònims
             if autor_original not in user_mapping:
                 if user_counter < len(noms_pool):
@@ -49,9 +51,8 @@ def transformar_reddit_a_xat_final(input_file):
             
             current_name = user_mapping[autor_original]
             
-            # --- 2) NETEJA DE TEXT (NOMÉS PER A MISSATGES) ---
+            # --- NETEJA DE TEXT ---
             text = cos_original
-            
             # Decodificar entitats HTML
             text = text.replace('&gt;', '>').replace('&lt;', '<').replace('&amp;', '&')
             
@@ -71,7 +72,6 @@ def transformar_reddit_a_xat_final(input_file):
 
             if not text.strip(): text = "..."
             
-            # Guardem el text processat per a les referències de reply
             textos_per_id[c_data['id']] = text
 
             parent_text = ""
@@ -90,17 +90,14 @@ def transformar_reddit_a_xat_final(input_file):
             }
             chat_messages.append(message)
 
-            # Seguir processant les respostes (fills)
             replies = c_data.get('replies')
             if replies and isinstance(replies, dict):
                 for reply in replies['data']['children']:
                     process_comment(reply, c_data['id'], current_name)
 
-        # Processar l'arbre de comentaris
         for root_comment in raw_comments:
             process_comment(root_comment)
 
-        # Ordenar cronològicament
         chat_messages.sort(key=lambda x: x['timestamp'])
         
         return {
@@ -112,12 +109,10 @@ def transformar_reddit_a_xat_final(input_file):
     except Exception as e:
         return {"error": str(e)}
 
-# Execució del script
+# Execució
 resultat = transformar_reddit_a_xat_final('reddit_thread.json')
 
 if "error" not in resultat:
     with open('conversa_neta.json', 'w', encoding='utf-8') as f:
         json.dump(resultat, f, indent=4, ensure_ascii=False)
-    print(f"✅ JSON generat. S'han exclòs els comentaris [deleted] i les seves branques.")
-else:
-    print(f"❌ Error: {resultat['error']}")
+    print(f"✅ Fet! S'han ignorat els missatges [deleted] i [removed].")
