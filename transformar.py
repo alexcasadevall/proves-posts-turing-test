@@ -6,12 +6,12 @@ def transformar_reddit_a_xat_final(input_file):
         with open(input_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
-        # 1. POST ORIGINAL (NEWS CARD): Ho deixem EXACTAMENT com ve al JSON original
+        # 1. POST ORIGINAL (NEWS CARD)
         op_data = data[0]['data']['children'][0]['data']
         post_original = {
             "agency": f"r/{op_data.get('subreddit', 'Reddit')}",
             "title": op_data.get('title', ''),
-            "body": op_data.get('selftext', ''),  # SENSE TOCAR RES
+            "body": op_data.get('selftext', ''),
             "author": op_data.get('author', ''),
             "timestamp": op_data.get('created_utc', 0)
         }
