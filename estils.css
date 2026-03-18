@@ -45,7 +45,7 @@ body {
     gap: 8px;
 }
 
-/* TARGETA DE NOTÍCIA: Alineació amb 'i' i 'punt verd' */
+/* TARGETA DE NOTÍCIA */
 .news-card {
     position: relative;
     background: white;
@@ -74,6 +74,7 @@ body {
     color: #64748b;
     line-height: 1.6;   
     display: block;  
+    white-space: pre-wrap; /* Per respectar els paràgrafs del post original */
 }
 
 /* GLOBUS DE COMENTARI */
@@ -83,6 +84,7 @@ body {
     border-left: 4px solid #ddd; 
     border-radius: 12px; 
     padding: 16px;
+    margin-bottom: 8px;
 }
 
 .msg-header {
@@ -101,14 +103,29 @@ body {
 .un { font-size: 14px; font-weight: 600; }
 .ts { font-size: 11px; color: #94a3b8; }
 
+/* CITA (QUOTE) ACTUALITZADA */
 .quote {
     margin: 8px 0 12px 0;
     padding: 8px 12px;
-    background: #f1f5f9;
-    border-left: 2px solid #cbd5e1;
+    background: #f8f9fa;
+    border-left: 3px solid #cbd5e1; /* La vora és una mica més gruixuda */
     border-radius: 6px;
+}
+
+.quote-user {
+    font-weight: 600;
     font-size: 13px;
-    color: #64748b;
+    margin-bottom: 2px;
+}
+
+.quote-text {
+    font-size: 13px;
+    color: #64748be9;
+    font-style: normal; 
+    line-height: 1.4;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; 
 }
 
 .msg-body {
