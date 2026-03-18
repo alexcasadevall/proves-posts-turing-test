@@ -6,22 +6,30 @@ def transformar_reddit_a_xat_final(input_file):
         with open(input_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
-        # 1. POST ORIGINAL
+        # 1. POST ORIGINAL (NEWS CARD): Text pur per a .innerText
         op_data = data[0]['data']['children'][0]['data']
         post_original = {
             "agency": f"r/{op_data.get('subreddit', 'Reddit')}",
             "title": op_data.get('title', ''),
-            "body": op_data.get('selftext', ''),
+            "body": op_data.get('selftext', ''), # Es manté tal qual per a l'HTML simple
             "author": op_data.get('author', ''),
             "timestamp": op_data.get('created_utc', 0)
         }
 
         # 2. MISSATGES DEL XAT
         raw_comments = data[1]['data']['children']
-        chat_messages = []
+        all_messages = []
         user_mapping = {}
 
-        noms_pool = ["Miguel", "Helena", "Alex", "Juan", "Paula", "Clara", "Marc", "Sílvia", "Dani", "Lucía", "Sergi", "Carla", "Adrià", "Marta", "Jordi"]
+        # Pool de 60 noms per evitar repeticions
+        noms_pool = [
+            "Miguel", "Helena", "Alex", "Juan", "Paula", "Clara", "Marc", "Sílvia", "Dani", "Lucía",
+            "Sergi", "Carla", "Adrià", "Marta", "Jordi", "Núria", "Pau", "Laia", "Oriol", "Emma",
+            "Pol", "Júlia", "Víctor", "Irene", "Albert", "Marina", "Gerard", "Alba", "Oscar", "Sònia",
+            "Roger", "Berta", "Xavi", "Anna", "Lluís", "Sara", "Mateu", "Elena", "Ivan", "Noa",
+            "Raül", "Queralt", "Eloi", "Aina", "Hugo", "Èric", "Vila", "Nil", "Mar", "Ismael",
+            "Biel", "Neus", "Enric", "Clàudia", "Ignasi", "Ivet", "Ramon", "Gisela", "Cesc", "Isona"
+        ]
         user_counter = 0
         textos_per_id = {}
 
@@ -31,42 +39,25 @@ def transformar_reddit_a_xat_final(input_file):
 
             # --- FILTRE DE CONTINGUT ELIMINAT O MODERAT ---
             cos_original = c_data.get('body', '')
-            
-            # Si el TEXT del comentari és [deleted] o [removed], descartem el missatge i tota la branca.
-            if cos_original in ['[deleted]', '[removed]']:
+            if cos_original in ['[deleted]', '[removed]'] or 'body' not in c_data:
                 return 
 
-            if 'body' not in c_data: return
-
-            # L'autor ens és igual si és [deleted] o [removed], el processem mentre hi hagi text.
             autor_original = c_data.get('author', '[deleted]')
             
-            # Gestió de pseudònims
+            # Gestió de pseudònims amb el pool ampliat
             if autor_original not in user_mapping:
-                if user_counter < len(noms_pool):
-                    user_mapping[autor_original] = noms_pool[user_counter]
-                else:
-                    user_mapping[autor_original] = f"Participant {user_counter + 1}"
+                user_mapping[autor_original] = noms_pool[user_counter % len(noms_pool)]
                 user_counter += 1
             
             current_name = user_mapping[autor_original]
             
-            # --- NETEJA DE TEXT ---
+            # --- NETEJA DE TEXT PER AL COS DEL MISSATGE (AMB HTML) ---
             text = cos_original
-            # Decodificar entitats HTML
             text = text.replace('&gt;', '>').replace('&lt;', '<').replace('&amp;', '&')
-            
-            # Eliminar línies de cita (Markdown >)
             text = re.sub(r'^\s*>.*$', '', text, flags=re.MULTILINE)
-            
-            # Format de negretes i cursives
             text = re.sub(r'(\*\*|__)(.*?)\1', r'<b>\2</b>', text)
             text = re.sub(r'(\*|_)(.*?)\1', r'<i>\2</i>', text)
-            
-            # Convertir salts de línia a <br>
             text = text.strip().replace('\n', '<br>')
-            
-            # Netejar <br> duplicats
             text = re.sub(r'(<br>\s*){2,}', '<br><br>', text)
             text = re.sub(r'^(<br>)+|(<br>)+$', '', text)
 
@@ -74,9 +65,21 @@ def transformar_reddit_a_xat_final(input_file):
             
             textos_per_id[c_data['id']] = text
 
-            parent_text = ""
+            # --- LÒGICA DE REPLY_TEXT (EL TEU CANVI) ---
+            reply_display = ""
             if parent_id and parent_id in textos_per_id:
-                parent_text = textos_per_id[parent_id]
+                parent_text_raw = textos_per_id[parent_id]
+                # 1. Treure etiquetes HTML (<b>, <i>, <br>) per a la previsualització
+                clean_preview = re.sub(r'<[^>]*>', ' ', parent_text_raw).strip()
+                # 2. Treure espais duplicats
+                clean_preview = re.sub(r'\s+', ' ', clean_preview)
+                
+                # 3. Només posar punts suspensius si realment tallem (límit 200)
+                limit = 200
+                if len(clean_preview) > limit:
+                    reply_display = clean_preview[:limit] + "..."
+                else:
+                    reply_display = clean_preview
 
             message = {
                 "id": c_data['id'],
@@ -85,34 +88,42 @@ def transformar_reddit_a_xat_final(input_file):
                 "text": text,
                 "timestamp": c_data['created_utc'],
                 "reply_to": parent_author,
-                "reply_text": parent_text.replace('<br>', ' ')[:85] + "...",
+                "reply_text": reply_display,
                 "likes": abs(hash(c_data['id'])) % 7 
             }
-            chat_messages.append(message)
+            all_messages.append(message)
 
             replies = c_data.get('replies')
             if replies and isinstance(replies, dict):
                 for reply in replies['data']['children']:
                     process_comment(reply, c_data['id'], current_name)
 
+        # Processar tot l'arbre de Reddit
         for root_comment in raw_comments:
             process_comment(root_comment)
 
-        chat_messages.sort(key=lambda x: x['timestamp'])
+        # 3. ORDENAR I LIMITAR A 16 MISSATGES
+        all_messages.sort(key=lambda x: x['timestamp'])
+        final_messages = all_messages[:16]
+
+        # 4. RECALCULAR PARTICIPANTS
+        participants_actius = set(m['sender'] for m in final_messages)
         
         return {
             "post_original": post_original,
-            "num_participants": len(user_mapping),
-            "messages": chat_messages
+            "num_participants": len(participants_actius),
+            "messages": final_messages
         }
 
     except Exception as e:
         return {"error": str(e)}
 
-# Execució
+# Execució del script
 resultat = transformar_reddit_a_xat_final('reddit_thread.json')
 
 if "error" not in resultat:
     with open('conversa_neta.json', 'w', encoding='utf-8') as f:
         json.dump(resultat, f, indent=4, ensure_ascii=False)
-    print(f"✅ Fet! S'han ignorat els missatges [deleted] i [removed].")
+    print(f"✅ Fet! S'han processat {len(resultat['messages'])} missatges.")
+else:
+    print(f"❌ Error: {resultat['error']}")
