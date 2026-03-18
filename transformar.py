@@ -57,7 +57,7 @@ def transformar_reddit_a_xat_final(input_file):
             text = re.sub(r'^\s*>.*$', '', text, flags=re.MULTILINE)
             text = re.sub(r'(\*\*|__)(.*?)\1', r'<b>\2</b>', text)
             text = re.sub(r'(\*|_)(.*?)\1', r'<i>\2</i>', text)
-            text = text.strip().replace('\n', '<br>')
+            text = text.strip().replace('\n', ' ')
             text = re.sub(r'(<br>\s*){2,}', '<br><br>', text)
             text = re.sub(r'^(<br>)+|(<br>)+$', '', text)
 
