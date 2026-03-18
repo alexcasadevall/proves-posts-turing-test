@@ -43,7 +43,7 @@
             const res = await fetch('conversa_neta.json');
             const data = await res.json();
 
-            // 1. Omplir la News Card amb el post original
+            // 1. Omplir la News Card amb el post original (innerText tal com volies)
             if (data.post_original) {
                 document.getElementById('news-agency').innerText = data.post_original.agency;
                 document.getElementById('news-title').innerText = data.post_original.title;
@@ -56,26 +56,41 @@
             // 2. Comptador de participants
             document.getElementById('p-count').innerText = `${data.num_participants} participants`;
 
-            // 3. Renderitzar els missatges amb lògica de context
+            // 3. Renderitzar els missatges
             const list = document.getElementById('reddit-messages');
             const userColors = {};
             let cIdx = 0;
-            let lastSender = null; // Variable per rastrejar el missatge anterior
+            let lastSender = null; 
 
             data.messages.forEach(m => {
+                // Assignar color a l'emissor
                 if(!userColors[m.sender]) { 
                     userColors[m.sender] = COLORS[cIdx % COLORS.length]; 
                     cIdx++; 
                 }
                 const col = userColors[m.sender];
+
+                // Assignar color a l'usuari citat (per a la vora del quote)
+                if(m.reply_to && !userColors[m.reply_to]) {
+                    userColors[m.reply_to] = COLORS[cIdx % COLORS.length];
+                    cIdx++;
+                }
+                const replyCol = m.reply_to ? userColors[m.reply_to] : null;
+
                 const card = document.createElement('div');
                 card.className = 'message-card';
                 card.style.borderLeftColor = col;
                 card.style.marginBottom = "20px";
                 
-                // LÒGICA DE QUOTE: Només si el destinatari no és el que ha parlat just abans
-                let showQuote = m.reply_to && m.reply_to !== lastSender;
-                let q = showQuote ? `<div class="quote"><b>@${m.reply_to}</b> "${m.reply_text}"</div>` : '';
+                // LÒGICA DE QUOTE CORREGIDA: Nom a dalt, color dinàmic, sense @ i sense cometes
+                let q = '';
+                if (m.reply_to && m.reply_to !== lastSender) {
+                    q = `
+                    <div class="quote" style="border-left-color: ${replyCol}">
+                        <div class="quote-user" style="color: ${replyCol}">${m.reply_to}</div>
+                        <div class="quote-text">${m.reply_text}</div>
+                    </div>`;
+                }
                 
                 const t = new Date(m.timestamp * 1000).toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
                 
@@ -87,18 +102,17 @@
                         </div>
                         <span class="ts">${t}</span>
                     </div>
-                    ${q}<div class="msg-body">${m.text}</div>
+                    ${q}
+                    <div class="msg-body">${m.text}</div>
                     <div class="msg-footer">
                         <span class="btn"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path d="M3 10h10a8 8 0 018 8v2M3 10l6 6m-6-6l6-6"/></svg> Reply</span>
                         <span class="btn" style="${m.likes > 0 ? 'color:#ef4444' : ''}"><svg fill="${m.likes > 0 ? '#ef4444' : 'none'}" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/></svg> ${m.likes > 0 ? m.likes : 'Like'}</span>
-                        
                         <span class="btn"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><circle cx="12" cy="12" r="4"></circle><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94"></path></svg> Mention</span>
-                        
                         <span class="btn"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"></path><line x1="4" y1="22" x2="4" y2="15"></line></svg> Report</span>
                     </div>`;
                 
                 list.appendChild(card);
-                lastSender = m.sender; // Actualitzem l'últim autor
+                lastSender = m.sender; 
             });
         }
         
