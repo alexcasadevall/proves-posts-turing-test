@@ -1,5 +1,7 @@
 import json
 import re
+import os
+import glob
 
 def transformar_reddit_a_xat_final(input_file):
     try:
@@ -118,12 +120,33 @@ def transformar_reddit_a_xat_final(input_file):
     except Exception as e:
         return {"error": str(e)}
 
-# Execució del script
-resultat = transformar_reddit_a_xat_final('reddit_thread.json')
+# --- BUCLE DINÀMIC ---
+if __name__ == "__main__":
+    # Busquem tots els fitxers que compleixin el patró reddit_thread_*.json
+    fitxers_reddit = glob.glob("reddit_thread_*.json")
+    
+    if not fitxers_reddit:
+        print("No s'ha trobat cap fitxer 'reddit_thread_*.json' a la carpeta.")
+    else:
+        # Ordenem els fitxers per nom
+        fitxers_reddit.sort()
 
-if "error" not in resultat:
-    with open('conversa_neta.json', 'w', encoding='utf-8') as f:
-        json.dump(resultat, f, indent=4, ensure_ascii=False)
-    print(f"✅ Fet! S'han processat {len(resultat['messages'])} missatges.")
-else:
-    print(f"❌ Error: {resultat['error']}")
+        for input_file in fitxers_reddit:
+            # Extraiem el número per mantenir la coherència en el nom de sortida
+            match = re.search(r'reddit_thread_(\d+)\.json', input_file)
+            if match:
+                output_file = f"conversa_neta_{match.group(1)}.json"
+            else:
+                output_file = input_file.replace("reddit_thread", "conversa_neta")
+
+            print(f"Processant {input_file}...")
+            resultat = transformar_reddit_a_xat_final(input_file)
+            
+            if "error" not in resultat:
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    json.dump(resultat, f, indent=4, ensure_ascii=False)
+                print(f"  ✅ Generat: {output_file}")
+            else:
+                print(f"  ❌ Error a {input_file}: {resultat['error']}")
+
+        print(f"\n🚀 S'han processat {len(fitxers_reddit)} fitxers (limitats a 16 posts cadascun).")
