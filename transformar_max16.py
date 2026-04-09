@@ -8,12 +8,12 @@ def transformar_reddit_a_xat_final(input_file):
         with open(input_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
-        # 1. POST ORIGINAL
+        # 1. POST ORIGINAL (NEWS CARD): Text pur per a .innerText
         op_data = data[0]['data']['children'][0]['data']
         post_original = {
             "agency": f"r/{op_data.get('subreddit', 'Reddit')}",
             "title": op_data.get('title', ''),
-            "body": op_data.get('selftext', ''),
+            "body": op_data.get('selftext', ''), # Es manté tal qual per a l'HTML simple
             "author": op_data.get('author', ''),
             "timestamp": op_data.get('created_utc', 0)
         }
@@ -23,6 +23,7 @@ def transformar_reddit_a_xat_final(input_file):
         all_messages = []
         user_mapping = {}
 
+        # Pool de 60 noms per evitar repeticions
         noms_pool = [
             "Miguel", "Helena", "Alex", "Juan", "Paula", "Clara", "Marc", "Sílvia", "Dani", "Lucía",
             "Sergi", "Carla", "Adrià", "Marta", "Jordi", "Núria", "Pau", "Laia", "Oriol", "Emma",
@@ -38,38 +39,44 @@ def transformar_reddit_a_xat_final(input_file):
             nonlocal user_counter
             c_data = comment_obj.get('data', {})
 
+            # --- FILTRE DE CONTINGUT ELIMINAT O MODERAT ---
             cos_original = c_data.get('body', '')
             if cos_original in ['[deleted]', '[removed]'] or 'body' not in c_data:
                 return 
 
             autor_original = c_data.get('author', '[deleted]')
+            
+            # Gestió de pseudònims amb el pool ampliat
             if autor_original not in user_mapping:
                 user_mapping[autor_original] = noms_pool[user_counter % len(noms_pool)]
                 user_counter += 1
             
             current_name = user_mapping[autor_original]
             
+            # --- NETEJA DE TEXT PER AL COS DEL MISSATGE (AMB HTML) ---
             text = cos_original
             text = text.replace('&gt;', '>').replace('&lt;', '<').replace('&amp;', '&')
             text = re.sub(r'^\s*>.*$', '', text, flags=re.MULTILINE)
-            text = re.sub(r'(\*\*|__)(.*?)\\1', r'<b>\2</b>', text)
-            text = re.sub(r'(\*|_)(.*?)\\1', r'<i>\2</i>', text)
-            
-            # Mantenim el teu format de salts de línia com a espais
+            text = re.sub(r'(\*\*|__)(.*?)\1', r'<b>\2</b>', text)
+            text = re.sub(r'(\*|_)(.*?)\1', r'<i>\2</i>', text)
             text = text.strip().replace('\n', ' ')
-            
-            # Neteja de possibles br que hagin quedat
             text = re.sub(r'(<br>\s*){2,}', '<br><br>', text)
             text = re.sub(r'^(<br>)+|(<br>)+$', '', text)
 
             if not text.strip(): text = "..."
+            
             textos_per_id[c_data['id']] = text
 
+            # --- LÒGICA DE REPLY_TEXT (EL TEU CANVI) ---
             reply_display = ""
             if parent_id and parent_id in textos_per_id:
                 parent_text_raw = textos_per_id[parent_id]
+                # 1. Treure etiquetes HTML (<b>, <i>, <br>) per a la previsualització
                 clean_preview = re.sub(r'<[^>]*>', ' ', parent_text_raw).strip()
+                # 2. Treure espais duplicats
                 clean_preview = re.sub(r'\s+', ' ', clean_preview)
+                
+                # 3. Només posar punts suspensius si realment tallem (límit 200)
                 limit = 200
                 if len(clean_preview) > limit:
                     reply_display = clean_preview[:limit] + "..."
@@ -94,16 +101,21 @@ def transformar_reddit_a_xat_final(input_file):
                 for reply in replies['data']['children']:
                     process_comment(reply, c_data['id'], current_name)
 
+        # Processar tot l'arbre de Reddit
         for root_comment in raw_comments:
             process_comment(root_comment)
 
+        # 3. ORDENAR I LIMITAR A 16 MISSATGES
         all_messages.sort(key=lambda x: x['timestamp'])
-        participants_actius = set(m['sender'] for m in all_messages)
+        final_messages = all_messages[:16]
+
+        # 4. RECALCULAR PARTICIPANTS
+        participants_actius = set(m['sender'] for m in final_messages)
         
         return {
             "post_original": post_original,
             "num_participants": len(participants_actius),
-            "messages": all_messages
+            "messages": final_messages
         }
 
     except Exception as e:
@@ -111,24 +123,20 @@ def transformar_reddit_a_xat_final(input_file):
 
 # --- BUCLE DINÀMIC ---
 if __name__ == "__main__":
-    # Busquem tots els fitxers que comencin per reddit_thread_ i acabin en .json
+    # Busquem tots els fitxers que compleixin el patró reddit_thread_*.json
     fitxers_reddit = glob.glob("reddit_thread_*.json")
     
     if not fitxers_reddit:
-        print("No s'ha trobat cap fitxer amb el format 'reddit_thread_X.json'")
+        print("No s'ha trobat cap fitxer 'reddit_thread_*.json' a la carpeta.")
     else:
-        # Opcional: els ordenem perquè el procés sigui seqüencial (1, 2, 3...)
-        # Nota: l'ordenació per defecte de strings faria 1, 10, 2. 
-        # Si vols l'ordre numèric real caldria una mica més de lògica, 
-        # però per transformar-los l'ordre d'execució és igual.
+        # Ordenem els fitxers per nom
         fitxers_reddit.sort()
 
         for input_file in fitxers_reddit:
-            # Generem el nom de sortida basant-nos en el d'entrada
-            # Exemple: reddit_thread_5.json -> conversa_neta_5.json
-            numero = re.search(r'reddit_thread_(\d+)\.json', input_file)
-            if numero:
-                output_file = f"conversa_neta_{numero.group(1)}.json"
+            # Extraiem el número per mantenir la coherència en el nom de sortida
+            match = re.search(r'reddit_thread_(\d+)\.json', input_file)
+            if match:
+                output_file = f"conversa_neta_{match.group(1)}.json"
             else:
                 output_file = input_file.replace("reddit_thread", "conversa_neta")
 
@@ -142,4 +150,4 @@ if __name__ == "__main__":
             else:
                 print(f"  ❌ Error a {input_file}: {resultat['error']}")
 
-        print(f"\n🚀 S'han processat {len(fitxers_reddit)} fitxers.")
+        print(f"\n🚀 S'han processat {len(fitxers_reddit)} fitxers (limitats a 16 posts cadascun).")
