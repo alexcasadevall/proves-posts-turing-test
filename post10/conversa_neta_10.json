@@ -1,0 +1,188 @@
+{
+    "post_original": {
+        "agency": "r/SpainEconomics",
+        "title": "El 90% de los inmigrantes en situación irregular viene de Latinoamérica",
+        "body": "https://www.elconfidencial.com/economia/2026-01-26/numero-de-inmigrantes-irregulares-viviendo-en-espana\\_4290871/\n\nLa gran mayoría de estos inmigrantes irregulares procede de latinoamérica. En total, el 89% tienen nacionalidad americana. Hay 288.000 colombianos; 107.000 peruanos; 63.000 venezolanos o 55.000 paraguayos. De África proceden casi 45.000 inmigrantes extranjeros, de los que casi 21.000 son de Marruecos y 18.000, de Argelia.",
+        "author": "jotakajk",
+        "timestamp": 1769455040.0
+    },
+    "num_participants": 7,
+    "messages": [
+        {
+            "id": "o1yco5d",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "No_Command_1772",
+            "text": "Yo nací en brasil pero llevo desde los 9 en España, ahora mismo estoy de vacaciones en Barcelona y me quede flipado con la cantidad de latinos que hay en TODOS los comercios, asi que es fácil llegar a la conclusión de que los empresarios españoles prefieren contratar a Latinos y sin ellos la economía no funciona en gran parte del pais, vamos y creo que a los españoles les interesa mas tener a 288k colombianos que 288k Somalís, por ejemplo.",
+            "timestamp": 1769485611.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 6
+        },
+        {
+            "id": "o1zed4h",
+            "parent_id": "o1yco5d",
+            "sender": "Helena",
+            "real_author": "Thorxal",
+            "text": "En realidad traer gente sin descontrol es una práctica bastante mala, disfraza los datos macroeconomicos durante un tiempo y le da una inyección a la economía pero los problemas sistemicos que tiene el pais siguen estando, simplemente se está posponiendo la implosion del pais y saturando una infraestructura que no está preparada para lidiar con este nivel de gente.",
+            "timestamp": 1769502739.0,
+            "reply_to": "Miguel",
+            "reply_text": "Yo nací en brasil pero llevo desde los 9 en España, ahora mismo estoy de vacaciones en Barcelona y me quede flipado con la cantidad de latinos que hay en TODOS los comercios, asi que es fácil llegar a...",
+            "likes": 2
+        },
+        {
+            "id": "o1zfj5d",
+            "parent_id": "o1zed4h",
+            "sender": "Miguel",
+            "real_author": "No_Command_1772",
+            "text": "Como sabes que es sin control? Probablemente estas repitiendo lo que dicen en Youtube, la realidad es que lá gran parte de la inmigración es controlada y legal, pero en Youtube te harán creer lo contrario.",
+            "timestamp": 1769503392.0,
+            "reply_to": "Helena",
+            "reply_text": "En realidad traer gente sin descontrol es una práctica bastante mala, disfraza los datos macroeconomicos durante un tiempo y le da una inyección a la economía pero los problemas sistemicos que tiene e...",
+            "likes": 3
+        },
+        {
+            "id": "o1zg7fv",
+            "parent_id": "o1zfj5d",
+            "sender": "Helena",
+            "real_author": "Thorxal",
+            "text": "Vamos a ver alma de cantaro, es sin control porque no están entrando con visado de trabajo al pais ni de ninguna otra forma regulada, vienen a hacer \"turismo\" y se quedan aqui en situación irregular hasta que obtienen papeles, a dia de hoy se estima que hay casi 900k personas en situación irregular en el pais (acorde a FUNCAS, porCausa y CIBERESP), que no estes de acuerdo con lo que digo no significa que este repitiendo cosas de youtube.",
+            "timestamp": 1769503771.0,
+            "reply_to": "Miguel",
+            "reply_text": "Como sabes que es sin control? Probablemente estas repitiendo lo que dicen en Youtube, la realidad es que lá gran parte de la inmigración es controlada y legal, pero en Youtube te harán creer lo contr...",
+            "likes": 0
+        },
+        {
+            "id": "o1zk3s4",
+            "parent_id": "o1yco5d",
+            "sender": "Sílvia",
+            "real_author": "DaqTulu",
+            "text": "Son los que mas fácilmente se dejan explotar, por eso los empresarios españoles quieren traer más y más.",
+            "timestamp": 1769505960.0,
+            "reply_to": "Miguel",
+            "reply_text": "Yo nací en brasil pero llevo desde los 9 en España, ahora mismo estoy de vacaciones en Barcelona y me quede flipado con la cantidad de latinos que hay en TODOS los comercios, asi que es fácil llegar a...",
+            "likes": 0
+        },
+        {
+            "id": "o1zr4lq",
+            "parent_id": "o1zk3s4",
+            "sender": "Juan",
+            "real_author": "ruaraid",
+            "text": "Estoy viendo por ahí gente que dice lo contrario, que si están regularizados no los explotan.   La hostelería, los almacenes y el campo no funcionan así. Allí trabajas 12 o 14 horas y cotizas la mitad. Estás trabajando sin parar librando 1 día cada dos semanas y a lo mejor cotizas media jornada. Si yo, que he nacido en España, he hecho eso porque me ha hecho falta evidentemente se la van a colar a un colombiano que no sabe ni lo que es un convenio colectivo.",
+            "timestamp": 1769509808.0,
+            "reply_to": "Sílvia",
+            "reply_text": "Son los que mas fácilmente se dejan explotar, por eso los empresarios españoles quieren traer más y más.",
+            "likes": 6
+        },
+        {
+            "id": "o1zw98y",
+            "parent_id": "o1zfj5d",
+            "sender": "Alex",
+            "real_author": "comeberza",
+            "text": "como se llega al punta de regularizar medio millón de personas si no hay descontrol???",
+            "timestamp": 1769512444.0,
+            "reply_to": "Miguel",
+            "reply_text": "Como sabes que es sin control? Probablemente estas repitiendo lo que dicen en Youtube, la realidad es que lá gran parte de la inmigración es controlada y legal, pero en Youtube te harán creer lo contr...",
+            "likes": 6
+        },
+        {
+            "id": "o1zx0va",
+            "parent_id": "o1zw98y",
+            "sender": "Miguel",
+            "real_author": "No_Command_1772",
+            "text": "Pues de 10 millones 500 mil son 5%.",
+            "timestamp": 1769512826.0,
+            "reply_to": "Alex",
+            "reply_text": "como se llega al punta de regularizar medio millón de personas si no hay descontrol???",
+            "likes": 1
+        },
+        {
+            "id": "o20anqg",
+            "parent_id": "o1zfj5d",
+            "sender": "Clara",
+            "real_author": "ervendehmecheros",
+            "text": "Que sea legal no signifca que el volumen sea descontrolado",
+            "timestamp": 1769518676.0,
+            "reply_to": "Miguel",
+            "reply_text": "Como sabes que es sin control? Probablemente estas repitiendo lo que dicen en Youtube, la realidad es que lá gran parte de la inmigración es controlada y legal, pero en Youtube te harán creer lo contr...",
+            "likes": 6
+        },
+        {
+            "id": "o20b5hy",
+            "parent_id": "o1yco5d",
+            "sender": "Clara",
+            "real_author": "ervendehmecheros",
+            "text": "La realidad es que prefiere contratar inmigrantes porque estan dispuestos a trabajar por menos y peores condiciones, no porque los españoles no quieran trabajar. Vete a Reino Unido, Irlanda, Alemania, Suiza, Australia, y veras montones de españoles en trabajos que aqui se dice que no quieren hacer. Y todo esto es causa de dejar entrar gente en una cantidad que el pais no es capaz de absorver.",
+            "timestamp": 1769518857.0,
+            "reply_to": "Miguel",
+            "reply_text": "Yo nací en brasil pero llevo desde los 9 en España, ahora mismo estoy de vacaciones en Barcelona y me quede flipado con la cantidad de latinos que hay en TODOS los comercios, asi que es fácil llegar a...",
+            "likes": 2
+        },
+        {
+            "id": "o20dbst",
+            "parent_id": "o20b5hy",
+            "sender": "Miguel",
+            "real_author": "No_Command_1772",
+            "text": "No te creas, en Colombia por ejemplo el salario mínimo ya esta en casi $800, en España es casi $1300, igual en otros paises de América latina, ademas el que quiere hacer dinero no se biene a España, se va a Irlanda o Alemania, y el empresario como apriete mucho esa gente se va.  Esa mentalidad de amos de esclavos que tenemos está bastante desactualizada.",
+            "timestamp": 1769519630.0,
+            "reply_to": "Clara",
+            "reply_text": "La realidad es que prefiere contratar inmigrantes porque estan dispuestos a trabajar por menos y peores condiciones, no porque los españoles no quieran trabajar. Vete a Reino Unido, Irlanda, Alemania,...",
+            "likes": 0
+        },
+        {
+            "id": "o20g0db",
+            "parent_id": "o20anqg",
+            "sender": "Miguel",
+            "real_author": "No_Command_1772",
+            "text": "Pues si eso fuera cierto no tendría España el menor paro histórico, lo que pasa es que sois racistas y os molesta ver morenos y negros",
+            "timestamp": 1769520526.0,
+            "reply_to": "Clara",
+            "reply_text": "Que sea legal no signifca que el volumen sea descontrolado",
+            "likes": 5
+        },
+        {
+            "id": "o20tgt4",
+            "parent_id": "o20g0db",
+            "sender": "Clara",
+            "real_author": "ervendehmecheros",
+            "text": "El único que ha sacado la raza has sido tú, lo que se discute es el volumen, no quien viene.",
+            "timestamp": 1769524685.0,
+            "reply_to": "Miguel",
+            "reply_text": "Pues si eso fuera cierto no tendría España el menor paro histórico, lo que pasa es que sois racistas y os molesta ver morenos y negros",
+            "likes": 4
+        },
+        {
+            "id": "o20uvrh",
+            "parent_id": "o20dbst",
+            "sender": "Clara",
+            "real_author": "ervendehmecheros",
+            "text": "Lo de los 800$ no sé de dónde lo sacas yo lo único que he visto es que ronda los 500$, además de que no es lo único que se busca, la calidad de vida en general es mucho mejor en España que Colombia o la mayor parte de Sudamérica; infraestructura, seguridad, atención médica,etc.",
+            "timestamp": 1769525103.0,
+            "reply_to": "Miguel",
+            "reply_text": "No te creas, en Colombia por ejemplo el salario mínimo ya esta en casi $800, en España es casi $1300, igual en otros paises de América latina, ademas el que quiere hacer dinero no se biene a España, s...",
+            "likes": 2
+        },
+        {
+            "id": "o241o9d",
+            "parent_id": "o20g0db",
+            "sender": "Marc",
+            "real_author": "Live-Letter4296",
+            "text": "Vuélvete a Brasil, dejános en paz",
+            "timestamp": 1769555895.0,
+            "reply_to": "Miguel",
+            "reply_text": "Pues si eso fuera cierto no tendría España el menor paro histórico, lo que pasa es que sois racistas y os molesta ver morenos y negros",
+            "likes": 2
+        },
+        {
+            "id": "o2420un",
+            "parent_id": "o20b5hy",
+            "sender": "Marc",
+            "real_author": "Live-Letter4296",
+            "text": "Esa es la puta realidad, estamos siendo reemplazados por capricho de los empresarios y los de izquierdas son los tontos útiles del patrón explotador, que con su podrida ideología contribuyen a perpetuar que en España se tenga un flujo migratorio completamente desproporcionado",
+            "timestamp": 1769556001.0,
+            "reply_to": "Clara",
+            "reply_text": "La realidad es que prefiere contratar inmigrantes porque estan dispuestos a trabajar por menos y peores condiciones, no porque los españoles no quieran trabajar. Vete a Reino Unido, Irlanda, Alemania,...",
+            "likes": 1
+        }
+    ]
+}
