@@ -1,0 +1,78 @@
+{
+    "post_original": {
+        "agency": "r/SpainPolitics",
+        "title": "España se mantiene como el único país europeo del Mediterráneo que frena la inmigración irregular",
+        "body": "",
+        "author": "rolmos",
+        "timestamp": 1691486214.0
+    },
+    "num_participants": 4,
+    "messages": [
+        {
+            "id": "jvb2rj7",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "magni7",
+            "text": "Algo que me sorprende con esto es, ¿cómo es que baja (ligeramente) la inmigración en España, y sube en países como Grecia e Italia?, donde los políticos actualmente gobernando tienen una posición,  mucho mas fuerte contra la inmigración.",
+            "timestamp": 1691506739.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 6
+        },
+        {
+            "id": "jvb8ju1",
+            "parent_id": "jvb2rj7",
+            "sender": "Helena",
+            "real_author": "sabutilnik",
+            "text": "Probablemente tenga que ver con las buenas relaciones de España con Marruecos desde que dejamos tirados a los saharauis",
+            "timestamp": 1691508909.0,
+            "reply_to": "Miguel",
+            "reply_text": "Algo que me sorprende con esto es, ¿cómo es que baja (ligeramente) la inmigración en España, y sube en países como Grecia e Italia?, donde los políticos actualmente gobernando tienen una posición, muc...",
+            "likes": 6
+        },
+        {
+            "id": "jvc232q",
+            "parent_id": "jvb8ju1",
+            "sender": "Alex",
+            "real_author": "RBUexiste-RBUya",
+            "text": "¿QUE BAJAAA? jajajajjj  porque no vivís en los barrios-gueto murcianos, andaluzes, valencianos, etc...  Porque desde que en Murcia han activado la última fase de gentrificación, ahora han traido a centenares de familias muy  necesitadas de atención institucional, justo donde vivo: en un barrio abandonado de la mano del escudo social y civil. Antes era un barrio con mucho futuro, eran parejas jóvenes pero al crecer un poco sus hijos, se han largado huyendo. Ahora es un barrio más marginal si cabe. Joer creo en la inclusión y en la ayuda a la vivienda pero no creo en ir concentrando a pobres en guetos -mientras a pocos kilómetros hay barrios de lujo con parques, bancos, alumbrado,  césped natural cuidado...- sobre todo si me encierran en uno, leñe. A nadie le haría gracia. Deberíamos crecer o decrecer por igual. No someter y hundir a un barrio para que otro tenga muchos lujos.  A ver cuándo los llevan a vivir junto a los consejeros, alcaldes, empresaurios, concejales y demás políticos  ricachones de V0x, PP, PsoE, Sumar, Partido Feminista (o sea, podemos), Separatistas esclavizadores, regionalistas hipócritas o partidos independientes sometidos al PP-PsoE.  Ah, no, ahi no, que son pisos de lujo o urbanizaciones privadas. Mejor encerremos a parados, pobres, inmigrantes, incívicos, violentos, necesitados y ruidosos en el mismo barrio abandonado, sucio y vandalizado, así nos ahorramos los servicios municipales, autonómicos y estatales, y cuando lleguen los miles y miles de millones de Europa nos los gastamos en una urbanización privada de ricos o en paguitas a ricos y empresarios.  Menudo engaño todo.",
+            "timestamp": 1691519717.0,
+            "reply_to": "Helena",
+            "reply_text": "Probablemente tenga que ver con las buenas relaciones de España con Marruecos desde que dejamos tirados a los saharauis",
+            "likes": 4
+        },
+        {
+            "id": "jvc4d7n",
+            "parent_id": "jvc232q",
+            "sender": "Juan",
+            "real_author": "Quiet_Warthog5088",
+            "text": "¿QUE BAJAAA? jajajajjj porque no vivís en los barrios-gueto murcianos, andaluzes, valencianos   Vives tu en 3 barrios separados por 300km? cierra la puerta al salir",
+            "timestamp": 1691520536.0,
+            "reply_to": "Alex",
+            "reply_text": "¿QUE BAJAAA? jajajajjj porque no vivís en los barrios-gueto murcianos, andaluzes, valencianos, etc... Porque desde que en Murcia han activado la última fase de gentrificación, ahora han traido a cente...",
+            "likes": 5
+        },
+        {
+            "id": "jvlbopa",
+            "parent_id": "jvc232q",
+            "sender": "Helena",
+            "real_author": "sabutilnik",
+            "text": "Perdón, pero creo que te has equivocado y querías responder a otro comentario.",
+            "timestamp": 1691678814.0,
+            "reply_to": "Alex",
+            "reply_text": "¿QUE BAJAAA? jajajajjj porque no vivís en los barrios-gueto murcianos, andaluzes, valencianos, etc... Porque desde que en Murcia han activado la última fase de gentrificación, ahora han traido a cente...",
+            "likes": 6
+        },
+        {
+            "id": "jvwgovz",
+            "parent_id": "jvlbopa",
+            "sender": "Alex",
+            "real_author": "RBUexiste-RBUya",
+            "text": "No me he equivocado.  Es en esta conversación donde he querido responder.",
+            "timestamp": 1691864315.0,
+            "reply_to": "Helena",
+            "reply_text": "Perdón, pero creo que te has equivocado y querías responder a otro comentario.",
+            "likes": 1
+        }
+    ]
+}
