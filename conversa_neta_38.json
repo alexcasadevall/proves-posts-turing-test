@@ -1,0 +1,342 @@
+{
+    "post_original": {
+        "agency": "r/spain",
+        "title": "Casi tres de cada cuatro empresas en España no toman ninguna medida contra el cambio climático",
+        "body": "",
+        "author": "On_The_Road_13",
+        "timestamp": 1672909366.0
+    },
+    "num_participants": 9,
+    "messages": [
+        {
+            "id": "j312glj",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "¿Y que medida quieren que tome una panadería? ¿Cocinar el pan con la mirada?",
+            "timestamp": 1672909585.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 5
+        },
+        {
+            "id": "j315axo",
+            "parent_id": "j312glj",
+            "sender": "Alex",
+            "real_author": "tsaimaitreya",
+            "text": "Claro este dato en si mismo no dice mucho",
+            "timestamp": 1672911870.0,
+            "reply_to": "Miguel",
+            "reply_text": "¿Y que medida quieren que tome una panadería? ¿Cocinar el pan con la mirada?",
+            "likes": 5
+        },
+        {
+            "id": "j315oj4",
+            "parent_id": "j312glj",
+            "sender": "Helena",
+            "real_author": "remeruscomunus",
+            "text": "Claro, la mayoría de las Pymes (y de las empresas de españa) son oficinas o tiendas. Lo único que pueden hacer es bajar el aire acondicionado y apagar más luces, lo cual ya hacen normalmente si quieren reducir gastos.",
+            "timestamp": 1672912169.0,
+            "reply_to": "Miguel",
+            "reply_text": "¿Y que medida quieren que tome una panadería? ¿Cocinar el pan con la mirada?",
+            "likes": 6
+        },
+        {
+            "id": "j317ls3",
+            "parent_id": "j312glj",
+            "sender": "Juan",
+            "real_author": "Visual_Traveler",
+            "text": "Hay muchísimas medidas que pueden tomar, como usar hornos más eficientes que no disipen el calor de forma innecesaria (calor disipado = energía desperdiciada), trabajar con proveedores que a su vez tengan políticas de ahorro energético, acondicionar mejor sus locales para mejorar su eficiencia energética, etc, etc.  Casi cualquier tipo de negocio puede hacer cambios en ese sentido.",
+            "timestamp": 1672913701.0,
+            "reply_to": "Miguel",
+            "reply_text": "¿Y que medida quieren que tome una panadería? ¿Cocinar el pan con la mirada?",
+            "likes": 2
+        },
+        {
+            "id": "j31bj6r",
+            "parent_id": "j317ls3",
+            "sender": "Paula",
+            "real_author": "Breakin7",
+            "text": "Todo eso que mencionas requiere una inversion sustancial",
+            "timestamp": 1672916753.0,
+            "reply_to": "Juan",
+            "reply_text": "Hay muchísimas medidas que pueden tomar, como usar hornos más eficientes que no disipen el calor de forma innecesaria (calor disipado = energía desperdiciada), trabajar con proveedores que a su vez te...",
+            "likes": 0
+        },
+        {
+            "id": "j31egmm",
+            "parent_id": "j31bj6r",
+            "sender": "Juan",
+            "real_author": "Visual_Traveler",
+            "text": "Más inversión requerirá, a todos los niveles, cuando el cambio climático pegue fuerte. Hay cosas que muchos negocios pueden ir haciendo y no son tan costosas:",
+            "timestamp": 1672918810.0,
+            "reply_to": "Paula",
+            "reply_text": "Todo eso que mencionas requiere una inversion sustancial",
+            "likes": 1
+        },
+        {
+            "id": "j31g4td",
+            "parent_id": "j31egmm",
+            "sender": "Paula",
+            "real_author": "Breakin7",
+            "text": "Menuda tonteria, Paco el panadero puede desembolsar mucho dinero en un horno y 100 cosas mas que mientras grandes empresas y estados no hagan nada lo de Paco sera tirar dinero, ademas con un poco de suerte los efectos son leves hasta que palme Paco y todos los que actualmente tienen empresas.",
+            "timestamp": 1672919923.0,
+            "reply_to": "Juan",
+            "reply_text": "Más inversión requerirá, a todos los niveles, cuando el cambio climático pegue fuerte. Hay cosas que muchos negocios pueden ir haciendo y no son tan costosas:",
+            "likes": 4
+        },
+        {
+            "id": "j31jzqh",
+            "parent_id": "j31egmm",
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "Claro que si, gastemos el 99% del presupuesto de la gente en ahorrar un 0.05% del cambio climático.  Así seguro que solucionamos el problema.",
+            "timestamp": 1672922334.0,
+            "reply_to": "Juan",
+            "reply_text": "Más inversión requerirá, a todos los niveles, cuando el cambio climático pegue fuerte. Hay cosas que muchos negocios pueden ir haciendo y no son tan costosas:",
+            "likes": 6
+        },
+        {
+            "id": "j31l13x",
+            "parent_id": "j31jzqh",
+            "sender": "Juan",
+            "real_author": "Visual_Traveler",
+            "text": "No, mejor sigamos haciéndolo todo igual, que seguro que así desparece el problema por arte de magia.",
+            "timestamp": 1672922940.0,
+            "reply_to": "Miguel",
+            "reply_text": "Claro que si, gastemos el 99% del presupuesto de la gente en ahorrar un 0.05% del cambio climático. Así seguro que solucionamos el problema.",
+            "likes": 6
+        },
+        {
+            "id": "j31lgrd",
+            "parent_id": "j31g4td",
+            "sender": "Juan",
+            "real_author": "Visual_Traveler",
+            "text": "Paco, el panadero, ya ha visto lo que pasa cuando hay guerra en un país y suben los precios de las materias primas.  Pues que se imagine lo que va a pasar cuando las cosechas a nivel mundial empiecen a estar afectadas seriamente por el cambio climático y la escasez de agua.",
+            "timestamp": 1672923183.0,
+            "reply_to": "Paula",
+            "reply_text": "Menuda tonteria, Paco el panadero puede desembolsar mucho dinero en un horno y 100 cosas mas que mientras grandes empresas y estados no hagan nada lo de Paco sera tirar dinero, ademas con un poco de s...",
+            "likes": 1
+        },
+        {
+            "id": "j31mvs1",
+            "parent_id": "j31lgrd",
+            "sender": "Paula",
+            "real_author": "Breakin7",
+            "text": "Pero vamos a ver y cambiar dos cosas en su local va a cambiar ese futuro catastrofista? Ya te lo respondo yo, no, y encima ha gastado en un local que estara desasbastecido.",
+            "timestamp": 1672923965.0,
+            "reply_to": "Juan",
+            "reply_text": "Paco, el panadero, ya ha visto lo que pasa cuando hay guerra en un país y suben los precios de las materias primas. Pues que se imagine lo que va a pasar cuando las cosechas a nivel mundial empiecen a...",
+            "likes": 4
+        },
+        {
+            "id": "j31nerw",
+            "parent_id": "j31l13x",
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "Una pena que suspendieras matemáticas. Pero si no tienes nivel suficiente mejor no comentes.",
+            "timestamp": 1672924242.0,
+            "reply_to": "Juan",
+            "reply_text": "No, mejor sigamos haciéndolo todo igual, que seguro que así desparece el problema por arte de magia.",
+            "likes": 1
+        },
+        {
+            "id": "j31nqig",
+            "parent_id": "j31mvs1",
+            "sender": "Juan",
+            "real_author": "Visual_Traveler",
+            "text": "Hay que cambiar muchas cosas, a todos los niveles, micro y macro. Está claro que sin el cambio macro no se va a resolver el problema, pero sin el micro, tampoco. Y luego, cuando los gobiernos intentan adoptar medidas macro, las empresas de todo tamaño son las primeras en quejarse. Así no vamos más que de cabeza al desastre, y no será que no llevan décadas avisando los científicos.",
+            "timestamp": 1672924414.0,
+            "reply_to": "Paula",
+            "reply_text": "Pero vamos a ver y cambiar dos cosas en su local va a cambiar ese futuro catastrofista? Ya te lo respondo yo, no, y encima ha gastado en un local que estara desasbastecido.",
+            "likes": 4
+        },
+        {
+            "id": "j31vidy",
+            "parent_id": "j31egmm",
+            "sender": "Sílvia",
+            "real_author": "ProgTorero",
+            "text": "Pegar fuerte pegará independentemente de lo que hagamos. Y lo que surgieres si es costoso.  Ya pagamos mas y empobrezemos a los pobres más para un problema futuro hipotetico que ni sí quiera podemos cambiar.",
+            "timestamp": 1672928132.0,
+            "reply_to": "Juan",
+            "reply_text": "Más inversión requerirá, a todos los niveles, cuando el cambio climático pegue fuerte. Hay cosas que muchos negocios pueden ir haciendo y no son tan costosas:",
+            "likes": 3
+        },
+        {
+            "id": "j32agzu",
+            "parent_id": "j31g4td",
+            "sender": "Marc",
+            "real_author": "On_The_Road_13",
+            "text": "Bueno. Tal vez le parezca una tontería pero las inversiones de todo tipo son algo bastante más complejo de lo wue usted pretende ¿por qué lo lía todo? Cualquier inversión necesaria lleva implicita mejora en impacto ambiental y reducción de coste energético. Usted pretende liarnos.",
+            "timestamp": 1672934234.0,
+            "reply_to": "Paula",
+            "reply_text": "Menuda tonteria, Paco el panadero puede desembolsar mucho dinero en un horno y 100 cosas mas que mientras grandes empresas y estados no hagan nada lo de Paco sera tirar dinero, ademas con un poco de s...",
+            "likes": 6
+        },
+        {
+            "id": "j32bylx",
+            "parent_id": "j31mvs1",
+            "sender": "Marc",
+            "real_author": "On_The_Road_13",
+            "text": "¿Futuro catastrofista? Eso se lo he oído a los trolls anticambio climático. ¿Es usted de esa especie? A ellos al nenos les pagan por intoxicar el ambiente, es un trabajo como otro cualquiera. Tal vez sea usted tan joven que crea que las temperaturas o la sequía o la deforestación actuales es lo habitual",
+            "timestamp": 1672934803.0,
+            "reply_to": "Paula",
+            "reply_text": "Pero vamos a ver y cambiar dos cosas en su local va a cambiar ese futuro catastrofista? Ya te lo respondo yo, no, y encima ha gastado en un local que estara desasbastecido.",
+            "likes": 0
+        },
+        {
+            "id": "j32cufu",
+            "parent_id": "j31nqig",
+            "sender": "Paula",
+            "real_author": "Breakin7",
+            "text": "Entonces queda claro que las acciones individuales son imperceptibles e inutiles de manera aislada, ademas en algunos casos conllevan un sobrecoste para el que las aplica. Es por lo tanto tirar dinero.   Si el sistema economico no cambia de nada sirve obligar a nadie a cambiar 4 cosas, es una tirita en una herida de bala.",
+            "timestamp": 1672935141.0,
+            "reply_to": "Juan",
+            "reply_text": "Hay que cambiar muchas cosas, a todos los niveles, micro y macro. Está claro que sin el cambio macro no se va a resolver el problema, pero sin el micro, tampoco. Y luego, cuando los gobiernos intentan...",
+            "likes": 4
+        },
+        {
+            "id": "j32dags",
+            "parent_id": "j32agzu",
+            "sender": "Paula",
+            "real_author": "Breakin7",
+            "text": "Para liosos tu comentario, la verdad que nose muy bien que dices.",
+            "timestamp": 1672935312.0,
+            "reply_to": "Marc",
+            "reply_text": "Bueno. Tal vez le parezca una tontería pero las inversiones de todo tipo son algo bastante más complejo de lo wue usted pretende ¿por qué lo lía todo? Cualquier inversión necesaria lleva implicita mej...",
+            "likes": 3
+        },
+        {
+            "id": "j32dim8",
+            "parent_id": "j32bylx",
+            "sender": "Paula",
+            "real_author": "Breakin7",
+            "text": "Relaja un poco esa soberbia por favor y mejora tu capacidad de comprension lectora o deja de tergiversar mis palabras la que prefieras.",
+            "timestamp": 1672935398.0,
+            "reply_to": "Marc",
+            "reply_text": "¿Futuro catastrofista? Eso se lo he oído a los trolls anticambio climático. ¿Es usted de esa especie? A ellos al nenos les pagan por intoxicar el ambiente, es un trabajo como otro cualquiera. Tal vez ...",
+            "likes": 0
+        },
+        {
+            "id": "j32h59c",
+            "parent_id": "j312glj",
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "Soy de familia de panaderos. Me he pasado muchisimas horas en el Obrador.  Y se pueden hacer \"un huevo de cosas\"  Desde no vender pan congelado, a deshechar los hornos de gasoil, a hacer rutas de reparto optimizadas.  Lo que no me vale decir \"no se puede hacer nada\" cuando la barra de pan media que compras en una ciudad lleva 2 semanas congelada.  Granier es una puta desgracia para el negocio. Asi te lo digo.",
+            "timestamp": 1672936751.0,
+            "reply_to": "Miguel",
+            "reply_text": "¿Y que medida quieren que tome una panadería? ¿Cocinar el pan con la mirada?",
+            "likes": 5
+        },
+        {
+            "id": "j32hfba",
+            "parent_id": "j31bj6r",
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "O dejar de invertir en congeladores y volver a pagar a un panadero de verdad.",
+            "timestamp": 1672936855.0,
+            "reply_to": "Paula",
+            "reply_text": "Todo eso que mencionas requiere una inversion sustancial",
+            "likes": 5
+        },
+        {
+            "id": "j32ldt1",
+            "parent_id": "j32dags",
+            "sender": "Marc",
+            "real_author": "On_The_Road_13",
+            "text": "Bueno tal vez no se dedique a las inversiones, salvo a hablar de ellas.",
+            "timestamp": 1672938304.0,
+            "reply_to": "Paula",
+            "reply_text": "Para liosos tu comentario, la verdad que nose muy bien que dices.",
+            "likes": 2
+        },
+        {
+            "id": "j32sqb0",
+            "parent_id": "j32cufu",
+            "sender": "Juan",
+            "real_author": "Visual_Traveler",
+            "text": "Nada de eso queda claro. No hacer nada uno con la excusa de que el sistema no cambia es muy cómodo, y conduce al desastre.",
+            "timestamp": 1672940915.0,
+            "reply_to": "Paula",
+            "reply_text": "Entonces queda claro que las acciones individuales son imperceptibles e inutiles de manera aislada, ademas en algunos casos conllevan un sobrecoste para el que las aplica. Es por lo tanto tirar dinero...",
+            "likes": 2
+        },
+        {
+            "id": "j32udq3",
+            "parent_id": "j32ldt1",
+            "sender": "Paula",
+            "real_author": "Breakin7",
+            "text": "Eres un bot? Hablas mejor otro idioma? sin acritud",
+            "timestamp": 1672941494.0,
+            "reply_to": "Marc",
+            "reply_text": "Bueno tal vez no se dedique a las inversiones, salvo a hablar de ellas.",
+            "likes": 2
+        },
+        {
+            "id": "j32umdk",
+            "parent_id": "j32hfba",
+            "sender": "Paula",
+            "real_author": "Breakin7",
+            "text": "Tendríamos que tener muchísimos mas panaderos y panaderias, y no es un trabajo agradecido la verdad.",
+            "timestamp": 1672941579.0,
+            "reply_to": "Miguel",
+            "reply_text": "O dejar de invertir en congeladores y volver a pagar a un panadero de verdad.",
+            "likes": 6
+        },
+        {
+            "id": "j32xc0n",
+            "parent_id": "j312glj",
+            "sender": "Dani",
+            "real_author": "dazerine",
+            "text": "cambiar las bombillas por leds",
+            "timestamp": 1672942543.0,
+            "reply_to": "Miguel",
+            "reply_text": "¿Y que medida quieren que tome una panadería? ¿Cocinar el pan con la mirada?",
+            "likes": 3
+        },
+        {
+            "id": "j333rb8",
+            "parent_id": "j32umdk",
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "Y poco rentable, teniendo en cuenta los precios de hoy en día.  Sabes que tampoco quedan muchos?  Muchas panaderías no tienen ni Obrador propio, la súper industrialización esta matando al sector.  Granier, tiene una planta que hace millones de panes al día, que distribuye congelados. Es imposible competir, y eso si es contaminante. El que tiene un horno de leña/eléctrico y hace unos numeros humildes, es hasta ecológico en comparación.",
+            "timestamp": 1672944799.0,
+            "reply_to": "Paula",
+            "reply_text": "Tendríamos que tener muchísimos mas panaderos y panaderias, y no es un trabajo agradecido la verdad.",
+            "likes": 1
+        },
+        {
+            "id": "j3367pe",
+            "parent_id": "j31egmm",
+            "sender": "Clara",
+            "real_author": "Alamasy",
+            "text": "España produce el 2% del CO2 mundial.",
+            "timestamp": 1672945660.0,
+            "reply_to": "Juan",
+            "reply_text": "Más inversión requerirá, a todos los niveles, cuando el cambio climático pegue fuerte. Hay cosas que muchos negocios pueden ir haciendo y no son tan costosas:",
+            "likes": 4
+        },
+        {
+            "id": "j336fpm",
+            "parent_id": "j333rb8",
+            "sender": "Paula",
+            "real_author": "Breakin7",
+            "text": "Precios caros de materias primas, un sector hiper industrializado y un trabajo poco rentable y muy trabajoso. Vata ruina.",
+            "timestamp": 1672945737.0,
+            "reply_to": "Miguel",
+            "reply_text": "Y poco rentable, teniendo en cuenta los precios de hoy en día. Sabes que tampoco quedan muchos? Muchas panaderías no tienen ni Obrador propio, la súper industrialización esta matando al sector. Granie...",
+            "likes": 2
+        },
+        {
+            "id": "j33cs4n",
+            "parent_id": "j3367pe",
+            "sender": "Juan",
+            "real_author": "Visual_Traveler",
+            "text": "Que otros contaminen más no es argumento para que nosotros no intentemos contaminar menos.",
+            "timestamp": 1672948000.0,
+            "reply_to": "Clara",
+            "reply_text": "España produce el 2% del CO2 mundial.",
+            "likes": 5
+        }
+    ]
+}
