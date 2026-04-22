@@ -1,0 +1,188 @@
+{
+    "post_original": {
+        "agency": "r/SpainPolitics",
+        "title": "El nuevo reglamento de extranjería permitirá regularizar a 900.000 migrantes en tres años",
+        "body": "",
+        "author": "hysbald",
+        "timestamp": 1732089571.0
+    },
+    "num_participants": 7,
+    "messages": [
+        {
+            "id": "ly2r2nl",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "provenzal",
+            "text": "Qué mejor incentivo para tener más y más inmigrantes ilegales entrando a España cada año.  Son unos genios.",
+            "timestamp": 1732096077.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 4
+        },
+        {
+            "id": "ly2u9um",
+            "parent_id": "ly2r2nl",
+            "sender": "Paula",
+            "real_author": "ionforge",
+            "text": "Yo entiendo que la gente que ya está aquí es preferible que sea más productiva para el estado, pero esto debería venir acompañado con endurecer las fronteras de los que entran ilegalmente.",
+            "timestamp": 1732098219.0,
+            "reply_to": "Miguel",
+            "reply_text": "Qué mejor incentivo para tener más y más inmigrantes ilegales entrando a España cada año. Son unos genios.",
+            "likes": 6
+        },
+        {
+            "id": "ly2y0hg",
+            "parent_id": "ly2r2nl",
+            "sender": "Helena",
+            "real_author": "Angel24Marin",
+            "text": "[Link](https://elobservatoriosocial.fundacionlacaixa.org/es/-/la-regularitzaci%C3%B3-de-la-situaci%C3%B3-de-la-poblaci%C3%B3-immigrant-no-provoca-cap-efecte-crida)",
+            "timestamp": 1732100579.0,
+            "reply_to": "Miguel",
+            "reply_text": "Qué mejor incentivo para tener más y más inmigrantes ilegales entrando a España cada año. Son unos genios.",
+            "likes": 4
+        },
+        {
+            "id": "ly2zc0t",
+            "parent_id": "ly2r2nl",
+            "sender": "Clara",
+            "real_author": "MisterFor",
+            "text": "Más efecto llamada no puede haber, solo mira el número de personas legalizadas de latam estos últimos 3-4 años.  A mi traer inmigrantes me parece perfecto siempre que filtren y no dejen entrar a cualquier inútil o criminal, cosa que no se está haciendo.  Y legalizar al que lleva aquí años, 100%. No se puede permitir la esclavitud y explotación que tenemos. Pero igual, filtrando.",
+            "timestamp": 1732101369.0,
+            "reply_to": "Miguel",
+            "reply_text": "Qué mejor incentivo para tener más y más inmigrantes ilegales entrando a España cada año. Son unos genios.",
+            "likes": 2
+        },
+        {
+            "id": "ly32htg",
+            "parent_id": "ly2zc0t",
+            "sender": "Marc",
+            "real_author": "Edd75",
+            "text": "Latam es otra historia. Por acuerdos históricos obtienen permisos muy fácilmente, pero siempre ha sido así.",
+            "timestamp": 1732103142.0,
+            "reply_to": "Clara",
+            "reply_text": "Más efecto llamada no puede haber, solo mira el número de personas legalizadas de latam estos últimos 3-4 años. A mi traer inmigrantes me parece perfecto siempre que filtren y no dejen entrar a cualqu...",
+            "likes": 0
+        },
+        {
+            "id": "ly38bp7",
+            "parent_id": "ly32htg",
+            "sender": "Clara",
+            "real_author": "MisterFor",
+            "text": "Bueno, si vienen sin papeles es el mismo problema. Si es más fácil conseguir la nacionalidad, pero la residencia es complicado también.",
+            "timestamp": 1732106001.0,
+            "reply_to": "Marc",
+            "reply_text": "Latam es otra historia. Por acuerdos históricos obtienen permisos muy fácilmente, pero siempre ha sido así.",
+            "likes": 0
+        },
+        {
+            "id": "ly3dgax",
+            "parent_id": "ly2y0hg",
+            "sender": "Miguel",
+            "real_author": "provenzal",
+            "text": "Interesante. No conocía el estudio.  He encontrado éste [otro](https://infer-research.eu/wp-content/uploads/2024/10/WP2024.14.pdf) ,más completo, y el matiz está en el nivel económico del país receptor. Básicamente los países más ricos pueden controlar mejor sus fronteras y eso hace que no aumente significativamente la inmigración posterior. En los países más pobres sí que aumenta.  Así que supongo que la medida dependerá de cómo de controladas mantengamos nuestras fronteras y si el gobierno va a adoptar políticas que mejoren la vigilancia.",
+            "timestamp": 1732108214.0,
+            "reply_to": "Helena",
+            "reply_text": "[Link](https://elobservatoriosocial.fundacionlacaixa.org/es/-/la-regularitzaci%C3%B3-de-la-situaci%C3%B3-de-la-poblaci%C3%B3-immigrant-no-provoca-cap-efecte-crida)",
+            "likes": 4
+        },
+        {
+            "id": "ly41p8s",
+            "parent_id": "ly2y0hg",
+            "sender": "Juan",
+            "real_author": "icebeat",
+            "text": "Por supuesto la mano de obra barata siempre crea riqueza para el empresario, el problema es que el 1% no suele repartir beneficios.",
+            "timestamp": 1732116837.0,
+            "reply_to": "Helena",
+            "reply_text": "[Link](https://elobservatoriosocial.fundacionlacaixa.org/es/-/la-regularitzaci%C3%B3-de-la-situaci%C3%B3-de-la-poblaci%C3%B3-immigrant-no-provoca-cap-efecte-crida)",
+            "likes": 4
+        },
+        {
+            "id": "ly4amjx",
+            "parent_id": "ly3dgax",
+            "sender": "Helena",
+            "real_author": "Angel24Marin",
+            "text": "Si depende del país receptor lo mejor es basarse en los estudios de la regulación de 2005 de España como ejemplo.",
+            "timestamp": 1732119626.0,
+            "reply_to": "Miguel",
+            "reply_text": "Interesante. No conocía el estudio. He encontrado éste [otro](https://infer-research.eu/wp-content/uploads/2024/10/WP2024.14.pdf) ,más completo, y el matiz está en el nivel económico del país receptor...",
+            "likes": 6
+        },
+        {
+            "id": "ly4dwxk",
+            "parent_id": "ly4amjx",
+            "sender": "Miguel",
+            "real_author": "provenzal",
+            "text": "Pues mira, estaba equivocado. Gracias por el enlace.",
+            "timestamp": 1732120662.0,
+            "reply_to": "Helena",
+            "reply_text": "Si depende del país receptor lo mejor es basarse en los estudios de la regulación de 2005 de España como ejemplo.",
+            "likes": 0
+        },
+        {
+            "id": "ly592dq",
+            "parent_id": "ly2y0hg",
+            "sender": "Alex",
+            "real_author": "reaqtion",
+            "text": "Pincho en \"ver artículo completo\" para ver algo sobre la metodología y...   Si lo más detallado sobre metodología que da un estudio es \"se comparó el número [de unos y otros]. y lo siguiente es \"se concluye...\", entonces el estudio no es serio. ¿Dónde está la metodología? ¿y el estudio estadístico? ¿Cómo se han probado una hipótesis y otra?  Si no hay estudio econométrico (que, como no lo veo, asumo que no existe), entonces este estudio no nos dice nada. Además, ese no es el único problema. De entrada, este \"estudio\" (Ya hay que entrecomillarlo) nos habla de \"número de migrantes provenientes de países afectados\" y lo contrapone - supuestamente - con el \"número de migrantes provenientes de países no afectados\"; pero luego el gráfico que acompaña este apartado muestra datos muy distintos (que, por encima, están obfuscados con un logaritmo que no se especifica; he tenido que adivinar que debe de ser el neperiano...); el de un cherrypicking de 3 países afectados y el de un único país no afectado. Si comparamos lo que supongo que son los migrantes provenientes de *todos* los países afectados y los de *todos* los países no afectados, ¿por qué no nos muestran esas cantidades y no otras de las que no hablan?  Este estudio - que no parece ser un artículo académico sino que un encargo de La Caixa y por tanto carece de la revisión por pares; que es lo que le da miga a cualquier estudio - tiene todas las marcas de deshonestidad y con él se pretende echar por tierra el trabajo de George J. Borjas (profesor en Hardvard) sobre el efecto llamada.  Lo honesto hubiera sido comparar dos países con perfiles de migración similares (¿España y Portugal? ¿España e Italia? no sé) de los cuales *el otro* no tenga una regularización (pero idealmente sí se tomen las demás medidas posteriores). Esto, que es el experimento natural, es una de las mejores formas que tenemos de llegar a conclusiones en economía y lo sabemos desde los años 90.",
+            "timestamp": 1732130137.0,
+            "reply_to": "Helena",
+            "reply_text": "[Link](https://elobservatoriosocial.fundacionlacaixa.org/es/-/la-regularitzaci%C3%B3-de-la-situaci%C3%B3-de-la-poblaci%C3%B3-immigrant-no-provoca-cap-efecte-crida)",
+            "likes": 5
+        },
+        {
+            "id": "ly5zdtt",
+            "parent_id": "ly41p8s",
+            "sender": "Helena",
+            "real_author": "Angel24Marin",
+            "text": "Que esa mano de obra ya estaba aquí trabajando. Regularizarlos simplemente elimina el mercado laboral dual dejando de haber una mano de obra más barata que otra.",
+            "timestamp": 1732145228.0,
+            "reply_to": "Juan",
+            "reply_text": "Por supuesto la mano de obra barata siempre crea riqueza para el empresario, el problema es que el 1% no suele repartir beneficios.",
+            "likes": 5
+        },
+        {
+            "id": "ly60kvu",
+            "parent_id": "ly592dq",
+            "sender": "Helena",
+            "real_author": "Angel24Marin",
+            "text": "El estudio es:  [Understanding the Effects of Granting Work Permits to Undocumented Immigrants](https://bse.eu/research/working-papers/understanding-effects-granting-work-permits-undocumented-immigrants)  El de la Caixa es una versión más entendible.",
+            "timestamp": 1732145809.0,
+            "reply_to": "Alex",
+            "reply_text": "Pincho en \"ver artículo completo\" para ver algo sobre la metodología y... Si lo más detallado sobre metodología que da un estudio es \"se comparó el número [de unos y otros]. y lo siguiente es \"se conc...",
+            "likes": 4
+        },
+        {
+            "id": "ly69nx6",
+            "parent_id": "ly5zdtt",
+            "sender": "Juan",
+            "real_author": "icebeat",
+            "text": "Ya bueno, te acuerdas de papeles para todos, Que pasó luego? El problema no es que haya mani de obra barata (que si es un problema pero bueno) el problema es donde están los servicios para acogerlos y donde está la vivienda barata para alojarlos.",
+            "timestamp": 1732149417.0,
+            "reply_to": "Helena",
+            "reply_text": "Que esa mano de obra ya estaba aquí trabajando. Regularizarlos simplemente elimina el mercado laboral dual dejando de haber una mano de obra más barata que otra.",
+            "likes": 1
+        },
+        {
+            "id": "ly81lgw",
+            "parent_id": "ly69nx6",
+            "sender": "Helena",
+            "real_author": "Angel24Marin",
+            "text": "[Link](https://elobservatoriosocial.fundacionlacaixa.org/es/-/la-regularitzaci%C3%B3-de-la-situaci%C3%B3-de-la-poblaci%C3%B3-immigrant-no-provoca-cap-efecte-crida",
+            "timestamp": 1732177637.0,
+            "reply_to": "Juan",
+            "reply_text": "Ya bueno, te acuerdas de papeles para todos, Que pasó luego? El problema no es que haya mani de obra barata (que si es un problema pero bueno) el problema es donde están los servicios para acogerlos y...",
+            "likes": 6
+        },
+        {
+            "id": "ly8nwof",
+            "parent_id": "ly60kvu",
+            "sender": "Alex",
+            "real_author": "reaqtion",
+            "text": "Gracias. Me lo leeré detenidamente a lo largo del día.",
+            "timestamp": 1732191312.0,
+            "reply_to": "Helena",
+            "reply_text": "El estudio es: [Understanding the Effects of Granting Work Permits to Undocumented Immigrants](https://bse.eu/research/working-papers/understanding-effects-granting-work-permits-undocumented-immigrant...",
+            "likes": 6
+        }
+    ]
+}
