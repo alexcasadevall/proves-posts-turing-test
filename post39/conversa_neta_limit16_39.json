@@ -6,7 +6,7 @@
         "author": "On_The_Road_13",
         "timestamp": 1672909366.0
     },
-    "num_participants": 6,
+    "num_participants": 5,
     "messages": [
         {
             "id": "j31ult6",
@@ -183,39 +183,6 @@
             "reply_to": "Juan",
             "reply_text": "Y si lo encuentras no faltarán socialistas dispuestos a comérselo por pura envidia, se creen que empiezas la empresa, te tocas los huevos y te haces rico y para colmo tienes \"personajes\" como el OP qu...",
             "likes": 6
-        },
-        {
-            "id": "j33c78t",
-            "parent_id": "j332819",
-            "sender": "Clara",
-            "real_author": "carlosd2show",
-            "text": "Marx neoliberal? JAJAJAJAJAJAJA lo que necesitas tu es pensar un poco y aclarar tus ideas. Educado en tiktok e intagram me parece a mi. Estudia!!",
-            "timestamp": 1672947795.0,
-            "reply_to": "Paula",
-            "reply_text": "Me temo que tu intento de deseducarme no va a funcionar. Si no sabes con claridad qué es un directivo, te adelanto que los cuadros intermedios no lo son. Por cierto, nunca he estudiado a Marx, así que...",
-            "likes": 1
-        },
-        {
-            "id": "j33iyo4",
-            "parent_id": "j335t5i",
-            "sender": "Helena",
-            "real_author": "ConsciousInsurance67",
-            "text": "Será eso me falta calle, por cierto tanto que hablas de que los empresarios extranjeros son mejor que los españoles te comento una curiosidad : en el único sitio que me han preguntado durante las entrevistas DOS veces si pensaba quedarme embarazada ha sido en Alemania. Edito escritura",
-            "timestamp": 1672950189.0,
-            "reply_to": "Miguel",
-            "reply_text": "Si quieres comparamos linkedin y vemos quien ha estado en qué empresas y qué hemos visto los dos, si es que tienes de eso, claro. Porque créeme que llevo suficiente tiempo trabajando y en suficientes ...",
-            "likes": 4
-        },
-        {
-            "id": "j36p261",
-            "parent_id": "j33iyo4",
-            "sender": "Miguel",
-            "real_author": "Neuromante",
-            "text": "Me resulta tope significativo que de mi anterior comentario sólo hayas podido sacar esa respuesta. En fin, cosas que pasan, supongo.",
-            "timestamp": 1673008038.0,
-            "reply_to": "Helena",
-            "reply_text": "Será eso me falta calle, por cierto tanto que hablas de que los empresarios extranjeros son mejor que los españoles te comento una curiosidad : en el único sitio que me han preguntado durante las entr...",
-            "likes": 5
         }
     ]
 }
