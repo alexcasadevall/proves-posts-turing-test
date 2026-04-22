@@ -1,0 +1,188 @@
+{
+    "post_original": {
+        "agency": "r/SpainPolitics",
+        "title": "España experimenta actualmente el crecimiento de inmigración más rápido entre los países europeos. Desde el año 2000, la población extranjera ha crecido en España en 6 millones, muy por delante de otros países europeos",
+        "body": "",
+        "author": "[deleted]",
+        "timestamp": 1734570158.0
+    },
+    "num_participants": 10,
+    "messages": [
+        {
+            "id": "m2s7qdd",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "TheLastRole",
+            "text": "Una noticia muy positiva, tanto desde un punto de vista interesado, dado el problema demográfico del país, como altruista puesto que mucha gente tendrá la oportunidad de vivir en condiciones más plenas teniendo en cuenta las condiciones que lamentablemente muchos tenían en sus países de origen.  Ojalá el gobierno mejore el sistema que ayuda a estas personas a asentarse en el país y como ciudadanos haríamos bien en darles la bienvenida.",
+            "timestamp": 1734587315.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 3
+        },
+        {
+            "id": "m2seao4",
+            "parent_id": "m2s7qdd",
+            "sender": "Paula",
+            "real_author": "Xvalidation",
+            "text": "IMO “muy” positivo no es  * En parte el crecimiento del % es debido a baja natalidad español * España está en la cola de Europa en muchos indicadores y no hay un plan claro de cómo la inmigración va a aliviar algo (crisis de vivienda, sueldos bajos, alta presión fiscal…)  (Combina lo arriba con que somos el que mas crece en europa - teniendo de los peores números en varias medidas de bien estar)  Yo no veo la inmigración como algo malo, pero en el caso de España tengo mis dudas de los resultados que va a traer.  Entiendo el punto de altruismo y bien para esa gente - pero hay muchos españoles en necesidad de “altruismo” y es muy necesario foco ahí.",
+            "timestamp": 1734591042.0,
+            "reply_to": "Miguel",
+            "reply_text": "Una noticia muy positiva, tanto desde un punto de vista interesado, dado el problema demográfico del país, como altruista puesto que mucha gente tendrá la oportunidad de vivir en condiciones más plena...",
+            "likes": 1
+        },
+        {
+            "id": "m2sfi5p",
+            "parent_id": "m2seao4",
+            "sender": "Dani",
+            "real_author": "siegerroller",
+            "text": "y además te venden que el PIB crece, cuando lo que está creciendo es la población…el PiB per cápita sigue estancado.",
+            "timestamp": 1734591774.0,
+            "reply_to": "Paula",
+            "reply_text": "IMO “muy” positivo no es * En parte el crecimiento del % es debido a baja natalidad español * España está en la cola de Europa en muchos indicadores y no hay un plan claro de cómo la inmigración va a ...",
+            "likes": 1
+        },
+        {
+            "id": "m2sioag",
+            "parent_id": "m2sfi5p",
+            "sender": "Clara",
+            "real_author": "FreqzMod",
+            "text": "Lo que dices es falso, deberias revisar tus fuentes de datos.  2022: El PIB per cápita fue de 28.750 euros (30.403 dólares), según datos de Datosmacro.   2023: Datosmacro reporta un PIB per cápita de 30.970 euros (33.896 dólares).   2024: Statista estima un PIB per cápita de 34.045 dólares para España",
+            "timestamp": 1734593788.0,
+            "reply_to": "Dani",
+            "reply_text": "y además te venden que el PIB crece, cuando lo que está creciendo es la población…el PiB per cápita sigue estancado.",
+            "likes": 5
+        },
+        {
+            "id": "m2siwyt",
+            "parent_id": "m2seao4",
+            "sender": "Clara",
+            "real_author": "FreqzMod",
+            "text": "Con que cuando vas por la calle y veas a un inmigrante elimines su puesto de trabajo ya ves los impactos. Olvidate de los camareros, cocineros, albañiles, recolectores de frutas,, de la comida a domicilio, del cuidado de personas mayores, de los taxistas. Querrias vivir tu sin esos servicios?",
+            "timestamp": 1734593943.0,
+            "reply_to": "Paula",
+            "reply_text": "IMO “muy” positivo no es * En parte el crecimiento del % es debido a baja natalidad español * España está en la cola de Europa en muchos indicadores y no hay un plan claro de cómo la inmigración va a ...",
+            "likes": 2
+        },
+        {
+            "id": "m2sorms",
+            "parent_id": "m2s7qdd",
+            "sender": "Helena",
+            "real_author": "DramaticAstronaut",
+            "text": "Pareceré “facha” pero muy positivo no. Si los diferentes gobiernos que hemos tenido no toman las medidas adecuadas para introducir a estas personas en la sociedad, cultura e idioma español, no se por que hay un esfuerzo en atraerles/las. Es muy facil aceptar una patera, soltarles en diferentes partes de España, y seamos sinceros, el gobierno se olvida de ellos.   No estamos en condiciones de aceptar a inmigrantes porque no tenemos ni los medios, ni los recursos y al parecer ni la intención de ayudarles a integrarse en la sociedad de manera efectiva.  Pero hey! Tenemos la natalidad mas alta de UE. :)",
+            "timestamp": 1734597867.0,
+            "reply_to": "Miguel",
+            "reply_text": "Una noticia muy positiva, tanto desde un punto de vista interesado, dado el problema demográfico del país, como altruista puesto que mucha gente tendrá la oportunidad de vivir en condiciones más plena...",
+            "likes": 3
+        },
+        {
+            "id": "m2splja",
+            "parent_id": "m2seao4",
+            "sender": "Alex",
+            "real_author": "umbium",
+            "text": "Esas cosas que pones ahi poco o nada tienen que ver con la inmigración. La baja natalidad es debido a los bajos salarios y a la especulación con productos estratégicos como la energía y la vivienda, así como haber dinamitado el tejido productivo de españa dedicándolo al  sector terciario y turismo.  Y los bajos salarios, la crisis de vivienda, la crisis de la sanidad pública y tal y cual, eso viene dado porque somos incapaces de ponernos de acuerdo y salir a la calle para hacer ruído y arriesgar nuestra posición actual para conseguir derechos para todos.",
+            "timestamp": 1734598433.0,
+            "reply_to": "Paula",
+            "reply_text": "IMO “muy” positivo no es * En parte el crecimiento del % es debido a baja natalidad español * España está en la cola de Europa en muchos indicadores y no hay un plan claro de cómo la inmigración va a ...",
+            "likes": 5
+        },
+        {
+            "id": "m2srcnr",
+            "parent_id": "m2sorms",
+            "sender": "Alex",
+            "real_author": "umbium",
+            "text": "No sé si eres facha. Pero que estás condicionado a pensar en los extranjeros como violentas personas que no entiendes su cultura ni lenguaje, es un hecho.  Porque tal como hablas, tu mente está actuando automáticamente replicando narrativas y discursos, sin pararte a pensar un poco en lo que lees y lo que ves a tu alrededor.   En España la gran mayoría de migrantes que llegan saben hablar español, tienen una cultura judeocristiana, y escuchas su música en las emisoras más escuchadas del país. Ves sus producciones audiovisuales, seguro que si tienes cierta edad escuchaste sus doblajes, o si eres más joven ves a sus influencers.  Si miramos el top 10 de orígenes desde los que nos llegan más migrantes tenemos que:  Latinoamericanos: 2.8 millones  Europeos: 1.4 millones  Africanos: 1 millón  Te paso la fuente al final para que puedas ver como los que vienen en pateras son una proporción ínfima.   Osea que tenemos que la mayoría de migrantes pasan tu filtro de lo que un buen emigrante debe de ser que viene a ser \"que sea como yo y no moleste\".  Sinceramente, no creo que seas facha, ni racista. Simplemente te has tragado soluciones fáciles con narrativas infantiles, hechos por gente que mienten con mucha confianza.  Fuente: [https://es.statista.com/estadisticas/472512/poblacion-extranjera-de-espana-por-nacionalidad/](https://es.statista.com/estadisticas/472512/poblacion-extranjera-de-espana-por-nacionalidad/)",
+            "timestamp": 1734599638.0,
+            "reply_to": "Helena",
+            "reply_text": "Pareceré “facha” pero muy positivo no. Si los diferentes gobiernos que hemos tenido no toman las medidas adecuadas para introducir a estas personas en la sociedad, cultura e idioma español, no se por ...",
+            "likes": 3
+        },
+        {
+            "id": "m2t26k3",
+            "parent_id": "m2siwyt",
+            "sender": "Marc",
+            "real_author": "imjustafuckingcunt",
+            "text": "Creéis que los inmigrantes solo sirven para limpiarle el culo a las abuelas o como va la cosa?    Tenemos la tasa de paro (y paro juvenil) mas alta de la UE y medio millón de españoles se fueron el año pasado en busca de oportunidades en el extranjero.   No necesitamos ser el país con más crecimiento en población extranjera, en 20 años la vamos a pasar putas. Que dios reparta suerte",
+            "timestamp": 1734606864.0,
+            "reply_to": "Clara",
+            "reply_text": "Con que cuando vas por la calle y veas a un inmigrante elimines su puesto de trabajo ya ves los impactos. Olvidate de los camareros, cocineros, albañiles, recolectores de frutas,, de la comida a domic...",
+            "likes": 1
+        },
+        {
+            "id": "m2t7bui",
+            "parent_id": "m2splja",
+            "sender": "Paula",
+            "real_author": "Xvalidation",
+            "text": "Que el % de inmigrantes en el país sube si tiene que ver con la baja natalidad. No es directamente causado por inmigración - pero es una “noticia” en cubierto está parte.  La vivienda y sueldos si que pueden ser afectados. Más demanda de vivienda y más oferta de trabajadores.",
+            "timestamp": 1734609799.0,
+            "reply_to": "Alex",
+            "reply_text": "Esas cosas que pones ahi poco o nada tienen que ver con la inmigración. La baja natalidad es debido a los bajos salarios y a la especulación con productos estratégicos como la energía y la vivienda, a...",
+            "likes": 1
+        },
+        {
+            "id": "m2t7g2j",
+            "parent_id": "m2siwyt",
+            "sender": "Paula",
+            "real_author": "Xvalidation",
+            "text": "No he dicho nada de esto. Si tenemos camareros mal pagados y luego vienen de fuera para tomar estos puestos - no roba de nadie pero si que baja sueldos.",
+            "timestamp": 1734609862.0,
+            "reply_to": "Clara",
+            "reply_text": "Con que cuando vas por la calle y veas a un inmigrante elimines su puesto de trabajo ya ves los impactos. Olvidate de los camareros, cocineros, albañiles, recolectores de frutas,, de la comida a domic...",
+            "likes": 1
+        },
+        {
+            "id": "m2t7yom",
+            "parent_id": "m2sioag",
+            "sender": "Paula",
+            "real_author": "Xvalidation",
+            "text": "No es falso exactamente - mira [este artículo](https://www.eleconomista.es/economia/noticias/13040050/10/24/el-dato-que-desmonta-el-milagro-economico-de-espana-producir-mas-no-siempre-genera-prosperidad.html) que explica bien el fenómeno que está diciendo el anterior",
+            "timestamp": 1734610133.0,
+            "reply_to": "Clara",
+            "reply_text": "Lo que dices es falso, deberias revisar tus fuentes de datos. 2022: El PIB per cápita fue de 28.750 euros (30.403 dólares), según datos de Datosmacro. 2023: Datosmacro reporta un PIB per cápita de 30....",
+            "likes": 3
+        },
+        {
+            "id": "m2te2sz",
+            "parent_id": "m2t7g2j",
+            "sender": "Sílvia",
+            "real_author": "juliohernanz",
+            "text": "Si tenemos camareros mal pagados será que alguien los paga mal porque https://www.elconfidencial.com/economia/2024-02-16/margenes-beneficio-empresariales-maximo-hosteleria_3831495/ aquí se demuestra que los beneficios de la hostelería no son pocos. Todos lo vemos en las colas continuas en los establecimientos.",
+            "timestamp": 1734613092.0,
+            "reply_to": "Paula",
+            "reply_text": "No he dicho nada de esto. Si tenemos camareros mal pagados y luego vienen de fuera para tomar estos puestos - no roba de nadie pero si que baja sueldos.",
+            "likes": 5
+        },
+        {
+            "id": "m2tnily",
+            "parent_id": "m2te2sz",
+            "sender": "Paula",
+            "real_author": "Xvalidation",
+            "text": "Entonces precisamente mi punto. Si hay dinero para pagar más pero viene gente dispuesto a aceptar menos…  Obviamente es más complejo de esto, pero algo contribuye",
+            "timestamp": 1734616952.0,
+            "reply_to": "Sílvia",
+            "reply_text": "Si tenemos camareros mal pagados será que alguien los paga mal porque https://www.elconfidencial.com/economia/2024-02-16/margenes-beneficio-empresariales-maximo-hosteleria_3831495/ aquí se demuestra q...",
+            "likes": 5
+        },
+        {
+            "id": "m309ay8",
+            "parent_id": "m2sorms",
+            "sender": "Juan",
+            "real_author": "IllustriousDinner923",
+            "text": "Solo centrandome en la integracion viendo como es el resto de Europa es verdad que necesitariamos mas facilidades para acceder a temas de integracion de lengua, cultura y demas..     Por lo demas veo bastante mejor la integración social en cuanto a que la gente no suele rechazar. Lo estoy comparando actualmente con mi experiencia en Alemania y el lenguaje ya tan complejo que como en tu zona no hablen aleman no te integras y su modus operandi (de los alemanes) es dificil de comprender. Los españoles generalmente somos sociales y nos gusta bromear muchisimo para bien.     Opinion personal",
+            "timestamp": 1734714424.0,
+            "reply_to": "Helena",
+            "reply_text": "Pareceré “facha” pero muy positivo no. Si los diferentes gobiernos que hemos tenido no toman las medidas adecuadas para introducir a estas personas en la sociedad, cultura e idioma español, no se por ...",
+            "likes": 6
+        },
+        {
+            "id": "m32jqot",
+            "parent_id": "m2sioag",
+            "sender": "Lucía",
+            "real_author": "Paquito86_",
+            "text": "Busca el PIB per cápita en términos reales ya que has dado el PIB per cápita en términos nominales, es decir, sin descontar la inflación. Cuando descuentas la inflación ves que prácticamente estamos como en 2019. Es decir, vamos para 5 años de estancamiento.",
+            "timestamp": 1734743851.0,
+            "reply_to": "Clara",
+            "reply_text": "Lo que dices es falso, deberias revisar tus fuentes de datos. 2022: El PIB per cápita fue de 28.750 euros (30.403 dólares), según datos de Datosmacro. 2023: Datosmacro reporta un PIB per cápita de 30....",
+            "likes": 1
+        }
+    ]
+}
