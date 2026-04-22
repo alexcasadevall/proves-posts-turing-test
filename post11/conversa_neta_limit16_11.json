@@ -1,0 +1,188 @@
+{
+    "post_original": {
+        "agency": "r/SpainEconomics",
+        "title": "El 90% de los inmigrantes en situación irregular viene de Latinoamérica",
+        "body": "https://www.elconfidencial.com/economia/2026-01-26/numero-de-inmigrantes-irregulares-viviendo-en-espana\\_4290871/\n\nLa gran mayoría de estos inmigrantes irregulares procede de latinoamérica. En total, el 89% tienen nacionalidad americana. Hay 288.000 colombianos; 107.000 peruanos; 63.000 venezolanos o 55.000 paraguayos. De África proceden casi 45.000 inmigrantes extranjeros, de los que casi 21.000 son de Marruecos y 18.000, de Argelia.",
+        "author": "jotakajk",
+        "timestamp": 1769455040.0
+    },
+    "num_participants": 8,
+    "messages": [
+        {
+            "id": "o1w5r55",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "De aquí 10-20 años nos vamos a reír pero bien, pero eh, alguien tiene que pagar las pensiones no?",
+            "timestamp": 1769461457.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 4
+        },
+        {
+            "id": "o1wsm1h",
+            "parent_id": "o1w5r55",
+            "sender": "Helena",
+            "real_author": "PrimaveraEterna",
+            "text": "Pregunta muy teórica: cuándo llegue el momento, quién les pagaría las pensiones a ellos?",
+            "timestamp": 1769467692.0,
+            "reply_to": "Miguel",
+            "reply_text": "De aquí 10-20 años nos vamos a reír pero bien, pero eh, alguien tiene que pagar las pensiones no?",
+            "likes": 1
+        },
+        {
+            "id": "o1x3fwy",
+            "parent_id": "o1wsm1h",
+            "sender": "Paula",
+            "real_author": "Either-Praline8255",
+            "text": "Sus hijos",
+            "timestamp": 1769470970.0,
+            "reply_to": "Helena",
+            "reply_text": "Pregunta muy teórica: cuándo llegue el momento, quién les pagaría las pensiones a ellos?",
+            "likes": 2
+        },
+        {
+            "id": "o1x58u1",
+            "parent_id": "o1w5r55",
+            "sender": "Marc",
+            "real_author": "InsideHousing4965",
+            "text": "Eso digo siempre yo. En mi familia tanto mis padres como mis tíos han tenido 3-4 hijos (todos con estudios y cotizando ya). Y sin sueldazos ni hostias, sino con un estilo de vida humilde de toda la vida, pero sin que faltase nunca de nada.  Cada vez que veo a alguien de 40-50 quejarse de la inmigración le pregunto: \"tú cuántos hijos has tenido?\"  La mayoria entre 0 y 2. Así nos va. Prefirieron vivir la vida padre, irse a esquiar, tener la casita en la playa... y ahora lloran.  Si no queríamos inmigración haber tenido más hijos.",
+            "timestamp": 1769471527.0,
+            "reply_to": "Miguel",
+            "reply_text": "De aquí 10-20 años nos vamos a reír pero bien, pero eh, alguien tiene que pagar las pensiones no?",
+            "likes": 5
+        },
+        {
+            "id": "o1z4rcu",
+            "parent_id": "o1wsm1h",
+            "sender": "Alex",
+            "real_author": "RocosoSabroso1",
+            "text": "Al tratarse de un esquema ponzi, tendremos que traer hispanoamericanos por millones anualmente en unas décadas.  Muy sostenible todo.",
+            "timestamp": 1769497602.0,
+            "reply_to": "Helena",
+            "reply_text": "Pregunta muy teórica: cuándo llegue el momento, quién les pagaría las pensiones a ellos?",
+            "likes": 6
+        },
+        {
+            "id": "o1z500x",
+            "parent_id": "o1x58u1",
+            "sender": "Alex",
+            "real_author": "RocosoSabroso1",
+            "text": "Quizá en lugar de seguir apostando por un crecimiento exponencial e ilimitado (si ahora tienes 3/4 hijos, la siguiente generación deberá tener más y así sucesivamente), deberíamos replantear si el modelo piramidal de pensiones es sostenible, dado que los recursos, el espacio, las infraestructuras y los servicios son limitados.",
+            "timestamp": 1769497724.0,
+            "reply_to": "Marc",
+            "reply_text": "Eso digo siempre yo. En mi familia tanto mis padres como mis tíos han tenido 3-4 hijos (todos con estudios y cotizando ya). Y sin sueldazos ni hostias, sino con un estilo de vida humilde de toda la vi...",
+            "likes": 5
+        },
+        {
+            "id": "o1za7i0",
+            "parent_id": "o1z500x",
+            "sender": "Dani",
+            "real_author": "maqcky",
+            "text": "Es que no llegamos al reemplazo poblacional. Ya no hablamos de crecimiento, es que sin inmigración la población se va a reducir, lo cual es un problema a muchos niveles.",
+            "timestamp": 1769500455.0,
+            "reply_to": "Alex",
+            "reply_text": "Quizá en lugar de seguir apostando por un crecimiento exponencial e ilimitado (si ahora tienes 3/4 hijos, la siguiente generación deberá tener más y así sucesivamente), deberíamos replantear si el mod...",
+            "likes": 0
+        },
+        {
+            "id": "o1zbdgh",
+            "parent_id": "o1za7i0",
+            "sender": "Marc",
+            "real_author": "InsideHousing4965",
+            "text": "This!",
+            "timestamp": 1769501085.0,
+            "reply_to": "Dani",
+            "reply_text": "Es que no llegamos al reemplazo poblacional. Ya no hablamos de crecimiento, es que sin inmigración la población se va a reducir, lo cual es un problema a muchos niveles.",
+            "likes": 6
+        },
+        {
+            "id": "o1zbnn6",
+            "parent_id": "o1z500x",
+            "sender": "Marc",
+            "real_author": "InsideHousing4965",
+            "text": "3/4 hijos no es un crecimiento exponencial eh. Eso se vive con 6/7 hijos.  3/4 hijos es la suficiente para tener un crecimiento \"leve\". Ten en cuenta que el índice de reemplazo está en 2,1 hijos, eso teniendo en cuenta que nadie muera, todo el mundo tenga hijos, no haya nadie infertil... hechos imposibles.  Con 3 o 4 hijos por pareja fertil te aseguras de que haya \"extras\" para cubrir esas muertes prematuras por enfermedades infantiles, matrimonios que no pueden tener hijos, etc.",
+            "timestamp": 1769501240.0,
+            "reply_to": "Alex",
+            "reply_text": "Quizá en lugar de seguir apostando por un crecimiento exponencial e ilimitado (si ahora tienes 3/4 hijos, la siguiente generación deberá tener más y así sucesivamente), deberíamos replantear si el mod...",
+            "likes": 0
+        },
+        {
+            "id": "o1zcyw8",
+            "parent_id": "o1x3fwy",
+            "sender": "Helena",
+            "real_author": "PrimaveraEterna",
+            "text": "Y si tienen tantos hijos como un europeo de hoy en día? Ahí va el tema. Mucha gente inmigrante (que no toda) también tiene menos hijos de los que tendría en su país.",
+            "timestamp": 1769501961.0,
+            "reply_to": "Paula",
+            "reply_text": "Sus hijos",
+            "likes": 3
+        },
+        {
+            "id": "o1ze0as",
+            "parent_id": "o1za7i0",
+            "sender": "Alex",
+            "real_author": "RocosoSabroso1",
+            "text": "No hay ningún problema en ello. España ha funcionado como un reloj con 35 y 40 millones de habitantes, que es para lo que está dimensionado realmente el país. ¿Por qué no iba a hacerlo ahora?",
+            "timestamp": 1769502537.0,
+            "reply_to": "Dani",
+            "reply_text": "Es que no llegamos al reemplazo poblacional. Ya no hablamos de crecimiento, es que sin inmigración la población se va a reducir, lo cual es un problema a muchos niveles.",
+            "likes": 6
+        },
+        {
+            "id": "o1zg8k6",
+            "parent_id": "o1z4rcu",
+            "sender": "Juan",
+            "real_author": "InspectionIcy2506",
+            "text": "Efectivamente el sistema capitalista es una estafa piramidal que requiere que siempre haya que crecer indefinidamente para mantener los beneficios del capital",
+            "timestamp": 1769503789.0,
+            "reply_to": "Alex",
+            "reply_text": "Al tratarse de un esquema ponzi, tendremos que traer hispanoamericanos por millones anualmente en unas décadas. Muy sostenible todo.",
+            "likes": 6
+        },
+        {
+            "id": "o1zgc1w",
+            "parent_id": "o1zg8k6",
+            "sender": "Alex",
+            "real_author": "RocosoSabroso1",
+            "text": "Estaba hablando del sistema de pensiones, no del sistema capitalista. Los beneficios del capital se pueden mantener con mayor productividad, un sistema de pensiones de reparto, no.",
+            "timestamp": 1769503844.0,
+            "reply_to": "Juan",
+            "reply_text": "Efectivamente el sistema capitalista es una estafa piramidal que requiere que siempre haya que crecer indefinidamente para mantener los beneficios del capital",
+            "likes": 5
+        },
+        {
+            "id": "o1zi7zg",
+            "parent_id": "o1zbnn6",
+            "sender": "Sílvia",
+            "real_author": "ruaraid",
+            "text": "He oído hablar de que la tasa de reemplazo es todavía un poco más alta, pero bueno. En cualquier caso ¿cuál es la manía de tener más población? ¿Eso que repercusión positiva tiene? Cada pareja de este país podría tener 2 hijos, vivir feliz y no poner más presión sobre el medio ambiente.",
+            "timestamp": 1769504901.0,
+            "reply_to": "Marc",
+            "reply_text": "3/4 hijos no es un crecimiento exponencial eh. Eso se vive con 6/7 hijos. 3/4 hijos es la suficiente para tener un crecimiento \"leve\". Ten en cuenta que el índice de reemplazo está en 2,1 hijos, eso t...",
+            "likes": 2
+        },
+        {
+            "id": "o1zin4n",
+            "parent_id": "o1zi7zg",
+            "sender": "Marc",
+            "real_author": "InsideHousing4965",
+            "text": "Pues porque la tasa de reemplazo es 2,1 y no 2. Los accidentes pasan, muertes prematuras, etc.  A parte, por desgracia no todos estas dispuestos a tener hijos... pero todos quieren su pensión (a pesar de no habérsela ganado) y esta la han de pagar los hijos.  Si por cada adulto nace un niño, por cada pensionista habría un trabajador. Imagina la de impuestos que caerían para pagar semejante despropósito...",
+            "timestamp": 1769505138.0,
+            "reply_to": "Sílvia",
+            "reply_text": "He oído hablar de que la tasa de reemplazo es todavía un poco más alta, pero bueno. En cualquier caso ¿cuál es la manía de tener más población? ¿Eso que repercusión positiva tiene? Cada pareja de este...",
+            "likes": 2
+        },
+        {
+            "id": "o1zjsub",
+            "parent_id": "o1zi7zg",
+            "sender": "Alex",
+            "real_author": "RocosoSabroso1",
+            "text": "El problema es que hay gente (los actuales pensionistas) que no están dispuestos a recortar sus pensiones para facilitar la transición. Mientras tanto, aquellos que tenemos menos de 50 años lo pagaremos con unas pensiones y condiciones para acceder a ellas sideralmente peores, pese a haber cotizado muchos más años y pagado muchos más impuestos en comparación.  Y eso nos lleva a seguir perpetuando un modelo donde en cada generación tenemos que crecer por la fuerza ya que de lo contrario se cae el castillo de naipes.",
+            "timestamp": 1769505790.0,
+            "reply_to": "Sílvia",
+            "reply_text": "He oído hablar de que la tasa de reemplazo es todavía un poco más alta, pero bueno. En cualquier caso ¿cuál es la manía de tener más población? ¿Eso que repercusión positiva tiene? Cada pareja de este...",
+            "likes": 0
+        }
+    ]
+}
