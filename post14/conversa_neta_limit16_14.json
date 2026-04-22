@@ -1,0 +1,188 @@
+{
+    "post_original": {
+        "agency": "r/SpainPolitics",
+        "title": "El nuevo reglamento de extranjería permitirá regularizar a 900.000 migrantes en tres años",
+        "body": "",
+        "author": "hysbald",
+        "timestamp": 1732089571.0
+    },
+    "num_participants": 5,
+    "messages": [
+        {
+            "id": "ly2xoxc",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "Me encanta leeros las reaccionariadas que os delatan como xenofobos, amigos, seguid asi.",
+            "timestamp": 1732100381.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 5
+        },
+        {
+            "id": "ly2z204",
+            "parent_id": "ly2xoxc",
+            "sender": "Helena",
+            "real_author": "MisterFor",
+            "text": "Pues no veo ningún comentario excesivamente exagerado…",
+            "timestamp": 1732101205.0,
+            "reply_to": "Miguel",
+            "reply_text": "Me encanta leeros las reaccionariadas que os delatan como xenofobos, amigos, seguid asi.",
+            "likes": 6
+        },
+        {
+            "id": "ly2zgz8",
+            "parent_id": "ly2z204",
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "Si lees entre lineas, vas a ver medio argumentario de vox, sin nombrarlos ni na.   O igual soy yo, que ya pillo el tema al vuelo despues de 10 años aguantando argumentos que ignoran la estadistica de 1º de Bachiller.",
+            "timestamp": 1732101449.0,
+            "reply_to": "Helena",
+            "reply_text": "Pues no veo ningún comentario excesivamente exagerado…",
+            "likes": 5
+        },
+        {
+            "id": "ly34psx",
+            "parent_id": "ly2xoxc",
+            "sender": "Alex",
+            "real_author": "perculaessss",
+            "text": "Una cosa loca no querer que bajen aún más los sueldos en España con mano de obra barata. Fascismo en estado puro",
+            "timestamp": 1732104283.0,
+            "reply_to": "Miguel",
+            "reply_text": "Me encanta leeros las reaccionariadas que os delatan como xenofobos, amigos, seguid asi.",
+            "likes": 0
+        },
+        {
+            "id": "ly356o3",
+            "parent_id": "ly34psx",
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "Has probado a decirle algo a tu jefe o unirte a la CNT en vez de descargar su culpa en los senegaleses?",
+            "timestamp": 1732104512.0,
+            "reply_to": "Alex",
+            "reply_text": "Una cosa loca no querer que bajen aún más los sueldos en España con mano de obra barata. Fascismo en estado puro",
+            "likes": 3
+        },
+        {
+            "id": "ly37s3w",
+            "parent_id": "ly356o3",
+            "sender": "Alex",
+            "real_author": "perculaessss",
+            "text": "Quien está descargando culpa a nadie? Creo que estás equivocado de conversación o inventando cosas?",
+            "timestamp": 1732105751.0,
+            "reply_to": "Miguel",
+            "reply_text": "Has probado a decirle algo a tu jefe o unirte a la CNT en vez de descargar su culpa en los senegaleses?",
+            "likes": 0
+        },
+        {
+            "id": "ly3840c",
+            "parent_id": "ly37s3w",
+            "sender": "Juan",
+            "real_author": "dac2199",
+            "text": "Literalmente la primera frase de tu comentario estas culpando a los inmigrantes o al menos lo estas insinuando.",
+            "timestamp": 1732105904.0,
+            "reply_to": "Alex",
+            "reply_text": "Quien está descargando culpa a nadie? Creo que estás equivocado de conversación o inventando cosas?",
+            "likes": 2
+        },
+        {
+            "id": "ly3901p",
+            "parent_id": "ly3840c",
+            "sender": "Alex",
+            "real_author": "perculaessss",
+            "text": "En todo caso echo la culpa a la administración y sus regulaciones, no a los inmigrantes. Hay que aprender a debatir sobre lo que se dice y no sobre lo que cada uno se imagina en su mente",
+            "timestamp": 1732106309.0,
+            "reply_to": "Juan",
+            "reply_text": "Literalmente la primera frase de tu comentario estas culpando a los inmigrantes o al menos lo estas insinuando.",
+            "likes": 5
+        },
+        {
+            "id": "ly3c023",
+            "parent_id": "ly3901p",
+            "sender": "Juan",
+            "real_author": "dac2199",
+            "text": "También está bien aclarar las cosas al principio y evitar confusiones",
+            "timestamp": 1732107610.0,
+            "reply_to": "Alex",
+            "reply_text": "En todo caso echo la culpa a la administración y sus regulaciones, no a los inmigrantes. Hay que aprender a debatir sobre lo que se dice y no sobre lo que cada uno se imagina en su mente",
+            "likes": 4
+        },
+        {
+            "id": "ly3f4dq",
+            "parent_id": "ly3901p",
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "Recogida de cable. ;P",
+            "timestamp": 1732108889.0,
+            "reply_to": "Alex",
+            "reply_text": "En todo caso echo la culpa a la administración y sus regulaciones, no a los inmigrantes. Hay que aprender a debatir sobre lo que se dice y no sobre lo que cada uno se imagina en su mente",
+            "likes": 3
+        },
+        {
+            "id": "ly3ozq8",
+            "parent_id": "ly3f4dq",
+            "sender": "Alex",
+            "real_author": "perculaessss",
+            "text": "? Exactamente qué recogida de cable? Responder a una falacia que no viene a cuento?   No sé ni por qué os molestais en venir a comentar a un foro de política si solo vais a argumentar con hombres de paja y a llamar xenófobo/fascista a cualquiera que ose estar en un mínimo desacuerdo o al menos busque un debate con sentido.   Bueno, lo peor es que sí lo sé, y explica bastante bien el estado de la política española.",
+            "timestamp": 1732112593.0,
+            "reply_to": "Miguel",
+            "reply_text": "Recogida de cable. ;P",
+            "likes": 0
+        },
+        {
+            "id": "ly3pf91",
+            "parent_id": "ly3ozq8",
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "Falacia cual que y donde.  Me cago en las leyes de morgan, Falacia, argumento facil universal.  Por cierto, te he dicho, que hables con tu jefe o te unas a la CNT, pero no culpes a quien no puede votar.  No se aqui quien esta contando medias verdades.",
+            "timestamp": 1732112744.0,
+            "reply_to": "Alex",
+            "reply_text": "? Exactamente qué recogida de cable? Responder a una falacia que no viene a cuento? No sé ni por qué os molestais en venir a comentar a un foro de política si solo vais a argumentar con hombres de paj...",
+            "likes": 2
+        },
+        {
+            "id": "ly3pm7k",
+            "parent_id": "ly3c023",
+            "sender": "Alex",
+            "real_author": "perculaessss",
+            "text": "Aclarar sobre qué exactamente? Anticiparme a la falacia cualquiera que ya tenéis carburando en el momento en que alguien discrepa con alguna medida de la administración?   Yo solo he dicho que no tiene nada de fascista tener una preferencia sobre política migratoria, tú de primeras ya has saltado a que digo que es culpa de los inmigrantes que haya sueldos bajos.   Allá cada uno con sus películas.",
+            "timestamp": 1732112813.0,
+            "reply_to": "Juan",
+            "reply_text": "También está bien aclarar las cosas al principio y evitar confusiones",
+            "likes": 3
+        },
+        {
+            "id": "ly3pugo",
+            "parent_id": "ly3pm7k",
+            "sender": "Juan",
+            "real_author": "dac2199",
+            "text": "Que falacia?",
+            "timestamp": 1732112893.0,
+            "reply_to": "Alex",
+            "reply_text": "Aclarar sobre qué exactamente? Anticiparme a la falacia cualquiera que ya tenéis carburando en el momento en que alguien discrepa con alguna medida de la administración? Yo solo he dicho que no tiene ...",
+            "likes": 4
+        },
+        {
+            "id": "ly3rare",
+            "parent_id": "ly3pm7k",
+            "sender": "Miguel",
+            "real_author": "[deleted]",
+            "text": "Si, la culpa de que cobrará por debajo del sueldo mínimo en la difuntiña de la consultoría aquella,  cuando entre de Junior es del Senegales que recoje oliva.  Anda ya",
+            "timestamp": 1732113402.0,
+            "reply_to": "Alex",
+            "reply_text": "Aclarar sobre qué exactamente? Anticiparme a la falacia cualquiera que ya tenéis carburando en el momento en que alguien discrepa con alguna medida de la administración? Yo solo he dicho que no tiene ...",
+            "likes": 5
+        },
+        {
+            "id": "ly3s8zu",
+            "parent_id": "ly356o3",
+            "sender": "Paula",
+            "real_author": "Xvalidation",
+            "text": "“Despedido”  España funciona así. No hay bastantes puestos de trabajo para crear buenas condiciones. No hay bastantes puestos porque la economía es mala.  En si no tiene porque hay algo malo con la inmigración - pero tiene efectos que (entre otras cosas) exagera el problema más importante de la España actual",
+            "timestamp": 1732113730.0,
+            "reply_to": "Miguel",
+            "reply_text": "Has probado a decirle algo a tu jefe o unirte a la CNT en vez de descargar su culpa en los senegaleses?",
+            "likes": 1
+        }
+    ]
+}
