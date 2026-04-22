@@ -17,7 +17,7 @@
             "timestamp": 1769455234.0,
             "reply_to": null,
             "reply_text": "",
-            "likes": 3
+            "likes": 2
         },
         {
             "id": "o1x5l1o",
@@ -39,7 +39,7 @@
             "timestamp": 1769478466.0,
             "reply_to": "Sílvia",
             "reply_text": "Lo wue va tocando ya es que la gente se deje de hostias y empiece a tener hijos para que no tengamos que depender de la inmigración. Me parece indignante que haya gente que ha tenido 1 hijo o ninguno ...",
-            "likes": 2
+            "likes": 3
         },
         {
             "id": "o1yprr3",
@@ -50,7 +50,7 @@
             "timestamp": 1769490645.0,
             "reply_to": "Sílvia",
             "reply_text": "Lo wue va tocando ya es que la gente se deje de hostias y empiece a tener hijos para que no tengamos que depender de la inmigración. Me parece indignante que haya gente que ha tenido 1 hijo o ninguno ...",
-            "likes": 1
+            "likes": 0
         },
         {
             "id": "o1yung6",
@@ -83,7 +83,7 @@
             "timestamp": 1769504082.0,
             "reply_to": "Helena",
             "reply_text": "No se olviden que ustedes se iban muertos de hambre a LATAM y nadie les pedía nada. Hay que ser recíproco y justos.",
-            "likes": 4
+            "likes": 5
         },
         {
             "id": "o1zie6t",
@@ -94,7 +94,7 @@
             "timestamp": 1769504997.0,
             "reply_to": "Helena",
             "reply_text": "No se olviden que ustedes se iban muertos de hambre a LATAM y nadie les pedía nada. Hay que ser recíproco y justos.",
-            "likes": 0
+            "likes": 1
         },
         {
             "id": "o1zihiu",
@@ -105,7 +105,7 @@
             "timestamp": 1769505050.0,
             "reply_to": "Lucía",
             "reply_text": "Lo de transicionar a un sistema de pensiones de capitalización ya para otro día.",
-            "likes": 4
+            "likes": 5
         },
         {
             "id": "o1zsazd",
@@ -116,7 +116,7 @@
             "timestamp": 1769510431.0,
             "reply_to": "Miguel",
             "reply_text": "Creo que habría que empezar a deportar a los ilegales e implementar un sistema de inmigración justo y ordenado. La inmigración ilegal solo beneficia a los empresarios.",
-            "likes": 3
+            "likes": 2
         },
         {
             "id": "o1zsolr",
@@ -138,7 +138,7 @@
             "timestamp": 1769522669.0,
             "reply_to": "Helena",
             "reply_text": "No se olviden que ustedes se iban muertos de hambre a LATAM y nadie les pedía nada. Hay que ser recíproco y justos.",
-            "likes": 3
+            "likes": 4
         },
         {
             "id": "o21luix",
@@ -149,7 +149,7 @@
             "timestamp": 1769532389.0,
             "reply_to": "Miguel",
             "reply_text": "Es increíble como hay gente que defienda la inmigración ILEGAL. Yo he sido inmigrante y he cumplido siempre los pasos y procesos establecidos en el país que me acogió (Canadá). Mi mujer es extranjera ...",
-            "likes": 3
+            "likes": 4
         },
         {
             "id": "o221jtu",
@@ -160,7 +160,7 @@
             "timestamp": 1769536462.0,
             "reply_to": "Juan",
             "reply_text": "Fueron 4 millones, repartidos entre 17 países de Sudamérica. Al menos la mitad acabaron regresando. ¿Te parece comparable 4 millones en 17 países en el periodo 1880-1940 a 1,2 millones en 1 país en 20...",
-            "likes": 0
+            "likes": 5
         },
         {
             "id": "o221r43",
@@ -171,7 +171,18 @@
             "timestamp": 1769536513.0,
             "reply_to": "Alex",
             "reply_text": "😂😂😂 los latinos vivís en una realidad paralela macho",
-            "likes": 5
+            "likes": 0
+        },
+        {
+            "id": "o225s0o",
+            "parent_id": "o221jtu",
+            "sender": "Juan",
+            "real_author": "ruaraid",
+            "text": "https://preview.redd.it/78t5m3omnxfg1.jpeg?width=1020&format=pjpg&auto=webp&s=ad89982b6586b75edd1a6519e65299fc12c941bb  No tiene pinta.",
+            "timestamp": 1769537545.0,
+            "reply_to": "Helena",
+            "reply_text": "Te puedo asegurar que mucha gente de LATAM también se regresa",
+            "likes": 3
         },
         {
             "id": "o23xkdz",
@@ -193,7 +204,7 @@
             "timestamp": 1769554889.0,
             "reply_to": "Clara",
             "reply_text": "Se nota que no sabes de lo que hablas, esto no tiene nada que ver con las pensiones o la SS, es más los inmigrantes son un neto negativo para las arcas españolas, reciben más de lo que contribuyen, y ...",
-            "likes": 5
+            "likes": 2
         },
         {
             "id": "o240i8i",
@@ -215,7 +226,7 @@
             "timestamp": 1769555724.0,
             "reply_to": "Juan",
             "reply_text": "Nada nada, hay que follar para pagar las pensiones estratosféricas y artificiales de un grupo poblacional que no tuvo hijos suficientes.",
-            "likes": 5
+            "likes": 1
         },
         {
             "id": "o241egm",
@@ -226,7 +237,7 @@
             "timestamp": 1769555812.0,
             "reply_to": "Sílvia",
             "reply_text": "Lo wue va tocando ya es que la gente se deje de hostias y empiece a tener hijos para que no tengamos que depender de la inmigración. Me parece indignante que haya gente que ha tenido 1 hijo o ninguno ...",
-            "likes": 0
+            "likes": 6
         }
     ]
 }
