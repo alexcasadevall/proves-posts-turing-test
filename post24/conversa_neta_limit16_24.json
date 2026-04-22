@@ -1,0 +1,188 @@
+{
+    "post_original": {
+        "agency": "r/SpainPolitics",
+        "title": "Solo el 1,7% de los inmigrantes cobra ayudas sociales",
+        "body": "",
+        "author": "gustavoladron",
+        "timestamp": 1576411139.0
+    },
+    "num_participants": 8,
+    "messages": [
+        {
+            "id": "fazwhwp",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "pedrito77",
+            "text": "1.7% si cuentas a todos. Ingleses, alemanes. Contad solo de sudamerica o marruecos y su % de la población. Serán el 5% o similar y eso es una burrada.",
+            "timestamp": 1576420271.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 4
+        },
+        {
+            "id": "fb06su4",
+            "parent_id": "fazwhwp",
+            "sender": "Helena",
+            "real_author": "Kosarev",
+            "text": "Hay datos del percentaje de la poblacion que cobra ayudas? Porque sin comparar no se si es mucho o poco. Y ya si esta desglosado por regiones mejor.",
+            "timestamp": 1576423196.0,
+            "reply_to": "Miguel",
+            "reply_text": "1.7% si cuentas a todos. Ingleses, alemanes. Contad solo de sudamerica o marruecos y su % de la población. Serán el 5% o similar y eso es una burrada.",
+            "likes": 2
+        },
+        {
+            "id": "fb1ares",
+            "parent_id": "fazwhwp",
+            "sender": "Paula",
+            "real_author": "camaron28",
+            "text": "Ah, y si cuentas por renta? Quien sabe, a lo mejor los de esos países las reciben en mayor medida porque las necesitan más al ser más pobres. Llámame loco, es casi como si fueran ayudas y ese fuera su proposito.",
+            "timestamp": 1576434213.0,
+            "reply_to": "Miguel",
+            "reply_text": "1.7% si cuentas a todos. Ingleses, alemanes. Contad solo de sudamerica o marruecos y su % de la población. Serán el 5% o similar y eso es una burrada.",
+            "likes": 4
+        },
+        {
+            "id": "fb1c5fw",
+            "parent_id": "fb1ares",
+            "sender": "Miguel",
+            "real_author": "pedrito77",
+            "text": "PUES Nos ahorramos el dinero si no permitimos a los pobres inmigrantes acampar en españa, no crees?",
+            "timestamp": 1576434782.0,
+            "reply_to": "Paula",
+            "reply_text": "Ah, y si cuentas por renta? Quien sabe, a lo mejor los de esos países las reciben en mayor medida porque las necesitan más al ser más pobres. Llámame loco, es casi como si fueran ayudas y ese fuera su...",
+            "likes": 3
+        },
+        {
+            "id": "fb1d0br",
+            "parent_id": "fb1c5fw",
+            "sender": "Paula",
+            "real_author": "camaron28",
+            "text": "Tambien lo ahorramos si echamos a los reyes, nacionalizamos varias empresas estratégicas, purgamos el ejército,etc.",
+            "timestamp": 1576435135.0,
+            "reply_to": "Miguel",
+            "reply_text": "PUES Nos ahorramos el dinero si no permitimos a los pobres inmigrantes acampar en españa, no crees?",
+            "likes": 4
+        },
+        {
+            "id": "fb1dvf0",
+            "parent_id": "fb06su4",
+            "sender": "Miguel",
+            "real_author": "pedrito77",
+            "text": "El dato sin disgregar no vale para absolutamente nada, no vale meter a todos en el mismo saco, hay que disgregar por procedencia, cuando se habla de inmigrantes y paguitas no se esta pensando en un sueco, aleman, noruego, frances, etc etc, eso es hacer trampas.",
+            "timestamp": 1576435494.0,
+            "reply_to": "Helena",
+            "reply_text": "Hay datos del percentaje de la poblacion que cobra ayudas? Porque sin comparar no se si es mucho o poco. Y ya si esta desglosado por regiones mejor.",
+            "likes": 3
+        },
+        {
+            "id": "fb1pftd",
+            "parent_id": "fazwhwp",
+            "sender": "Marc",
+            "real_author": "Javix92",
+            "text": "↑ Eso es xenofobia.",
+            "timestamp": 1576439363.0,
+            "reply_to": "Miguel",
+            "reply_text": "1.7% si cuentas a todos. Ingleses, alemanes. Contad solo de sudamerica o marruecos y su % de la población. Serán el 5% o similar y eso es una burrada.",
+            "likes": 0
+        },
+        {
+            "id": "fb1qvmv",
+            "parent_id": "fb1d0br",
+            "sender": "Miguel",
+            "real_author": "pedrito77",
+            "text": "ESO ES LO QUE TU DICES, hazme los numeros, y las consecuencias, pq montar una republica, elecciones cada 5 años para un presidente de palo, financiar sus campañas, etc etc no creo que salga mas barato, y nacionalizar las empresas sale mucho mas caro porque seria la ruina en manos de politicos. Y respecto al ejercito, pues se podra recortar por ahi, no te digo que no, pero ese es otro debate. se pierde algo siempre que recortes, yo no entiendo qué perdemos si no dejamos a los pobres entrar o los echamos. Alguien me lo explica?",
+            "timestamp": 1576439927.0,
+            "reply_to": "Paula",
+            "reply_text": "Tambien lo ahorramos si echamos a los reyes, nacionalizamos varias empresas estratégicas, purgamos el ejército,etc.",
+            "likes": 5
+        },
+        {
+            "id": "fb1ylmj",
+            "parent_id": "fb1dvf0",
+            "sender": "Alex",
+            "real_author": "jaiman",
+            "text": "O sea que no se está pensando en blancos de países ricos.",
+            "timestamp": 1576443032.0,
+            "reply_to": "Miguel",
+            "reply_text": "El dato sin disgregar no vale para absolutamente nada, no vale meter a todos en el mismo saco, hay que disgregar por procedencia, cuando se habla de inmigrantes y paguitas no se esta pensando en un su...",
+            "likes": 4
+        },
+        {
+            "id": "fb21grv",
+            "parent_id": "fb1dvf0",
+            "sender": "Helena",
+            "real_author": "Kosarev",
+            "text": "Vale, pero lo que yo quiero son los datos de la poblacion no inmigrante. No se si 5% es mucho o poco.",
+            "timestamp": 1576444134.0,
+            "reply_to": "Miguel",
+            "reply_text": "El dato sin disgregar no vale para absolutamente nada, no vale meter a todos en el mismo saco, hay que disgregar por procedencia, cuando se habla de inmigrantes y paguitas no se esta pensando en un su...",
+            "likes": 3
+        },
+        {
+            "id": "fb24ycj",
+            "parent_id": "fb21grv",
+            "sender": "Miguel",
+            "real_author": "pedrito77",
+            "text": "Ya, pero eso es si consideras que un inmigrante ilegal debe tener las mismas ayudas que un nacional, yo no estoy de acuerdo, porque al ilegal nos lo podemos ahorrar, es una cuestion de ahorro economico.  UNA VEZ AQUI, te compro que hay que ayudar a todos, a quien mas lo necesite, mas, en eso no me puedo oponer, pero tambien te digo, si no aportas y es solo para paguitas, expulsion y problema solucionado.",
+            "timestamp": 1576445494.0,
+            "reply_to": "Helena",
+            "reply_text": "Vale, pero lo que yo quiero son los datos de la poblacion no inmigrante. No se si 5% es mucho o poco.",
+            "likes": 2
+        },
+        {
+            "id": "fb2dr2p",
+            "parent_id": "fb1ylmj",
+            "sender": "Miguel",
+            "real_author": "pedrito77",
+            "text": "por supuesto que no, cuando se asocia delincuencia e inmigracion tu piensas en noruegos, daneses o en marroquies, sudamericanos o rumanos?",
+            "timestamp": 1576449198.0,
+            "reply_to": "Alex",
+            "reply_text": "O sea que no se está pensando en blancos de países ricos.",
+            "likes": 1
+        },
+        {
+            "id": "fb2k75p",
+            "parent_id": "fb2dr2p",
+            "sender": "Alex",
+            "real_author": "jaiman",
+            "text": "Yo no asocio delincuencia e inmigración, así que no pienso ni en los unos ni los otros. Así de fácil.",
+            "timestamp": 1576452552.0,
+            "reply_to": "Miguel",
+            "reply_text": "por supuesto que no, cuando se asocia delincuencia e inmigracion tu piensas en noruegos, daneses o en marroquies, sudamericanos o rumanos?",
+            "likes": 3
+        },
+        {
+            "id": "fb3q5pi",
+            "parent_id": "fb1qvmv",
+            "sender": "Clara",
+            "real_author": "yngSeep",
+            "text": "Y que ganamos echándolos? Porque lo del ahorro lo basas en menos costes, pero para echar la cuenta hay que conocer tambien los beneficios. Por esa regla de tres tambien quitamos becas por ejemplo.",
+            "timestamp": 1576483289.0,
+            "reply_to": "Miguel",
+            "reply_text": "ESO ES LO QUE TU DICES, hazme los numeros, y las consecuencias, pq montar una republica, elecciones cada 5 años para un presidente de palo, financiar sus campañas, etc etc no creo que salga mas barato...",
+            "likes": 2
+        },
+        {
+            "id": "fb3r06x",
+            "parent_id": "fazwhwp",
+            "sender": "Dani",
+            "real_author": "gnark",
+            "text": "Solo un 10% o asi de los immigrantes a españa son de paises más desarolladas/ricas. Entonces quitando ellos, este 1.6% de immigrantes cobrando ayudas subiría a que? 2%? Pero a 5% ni de lejos. Si no entiendes las matematicas basicas, porque creas que se puede opinar a temas de economia?",
+            "timestamp": 1576484477.0,
+            "reply_to": "Miguel",
+            "reply_text": "1.7% si cuentas a todos. Ingleses, alemanes. Contad solo de sudamerica o marruecos y su % de la población. Serán el 5% o similar y eso es una burrada.",
+            "likes": 5
+        },
+        {
+            "id": "fba8hn9",
+            "parent_id": "fb1dvf0",
+            "sender": "Juan",
+            "real_author": "Julzbour",
+            "text": "Es verdad, has contado los 300,000 ingleses que vienen aqui a pasar su jubilación, y que, sus gastos más elevados en sanidad son pagados por España? o los Holandeses o Noruegos o Suecos o Fineses o Alemanes o Franceses que hacen lo mismo? Y todo los servicios que se han creado en ciudades como Benidorm, Salou, Magalouf para los extranjeros y no los Españoles (como policias bilingues, emergencias en ingles, etc.), también los cuentas? o esos ya no? Y si tantas ayudas cobran, dime tu que ayudas puede cobrar un inmigrante, que yo estoy harto de ser pobre, y todos dicen que vivien del cuento...",
+            "timestamp": 1576669756.0,
+            "reply_to": "Miguel",
+            "reply_text": "El dato sin disgregar no vale para absolutamente nada, no vale meter a todos en el mismo saco, hay que disgregar por procedencia, cuando se habla de inmigrantes y paguitas no se esta pensando en un su...",
+            "likes": 4
+        }
+    ]
+}
