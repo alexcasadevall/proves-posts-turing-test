@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <title>Índex de Posts</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; color: #1e293b; background-color: #f8fafc; max-width: 800px; margin: 0 auto; }
+        h1 { color: #0f172a; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; }
+        .config-box { background: white; padding: 15px; border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px; box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
+        .config-box label { font-weight: bold; display: block; margin-bottom: 8px; font-size: 0.9em; color: #64748b; }
+        select { width: 100%; padding: 8px; border-radius: 4px; border: 1px solid #cbd5e1; font-size: 1em; cursor: pointer; }
+        b { display: block; margin-top: 20px; font-size: 1.1em; color: #334155; }
+        ul { margin-top: 5px; list-style-type: none; padding-left: 0; }
+        li { margin-bottom: 5px; background: white; padding: 8px 12px; border-radius: 6px; border: 1px solid #f1f5f9; transition: all 0.2s; }
+        a { color: #2563eb; text-decoration: none; font-weight: 500; display: block; transition: all 0.2s; }
+        a:hover { text-decoration: underline; }
+        .respostes { color: #94a3b8; font-size: 0.9em; font-weight: normal; margin-left: 5px; }
+        
+        /* Estils per als seleccionats (>=16 i sense links) */
+        .escollit { font-weight: bold !important; color: #0f172a !important; }
+        .li-escollit { border-color: #cbd5e1; background-color: #f1f5f9; }
+        .star { margin-right: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Arxiu de Reddit</h1>
+
+    <div class="config-box">
+        <label for="mode-selector">SELECCIONA EL MODE DE VISUALITZACIÓ:</label>
+        <select id="mode-selector" onchange="updateLinks()">
+            <option value="limit16" selected>16 Response Thread</option>
+            <option value="original">Original Thread</option>
+            <option value="filtered">Filtered Thread</option>
+        </select>
+    </div>
+
+    <p><b>Posts Immigració</b></p>
+    <ul class="post-list">
+        <li><a href="post1/">Post 1 <span class="respostes">(20 respostes)</span></a></li>
+        <li><a href="post4/">Post 2 <span class="respostes">(25 respostes)</span></a></li>
+        <li><a href="post5/">Post 3 <span class="respostes">(13 respostes+links)</span></a></li>
+        <li><a href="post6/">Post 4 <span class="respostes">(26 respostes)</span></a></li>
+        <li><a href="post7/">Post 5 <span class="respostes">(14 respostes)</span></a></li>
+        <li><a href="post8/">Post 6 <span class="respostes">(6 respostes)</span></a></li>
+        <li><a href="post9/">Post 7 <span class="respostes">(18 respostes)</span></a></li>
+        <li><a href="post10/">Post 8 <span class="respostes">(16 respostes)</span></a></li>
+        <li><a href="post11/">Post 9 <span class="respostes">(24 respostes)</span></a></li>
+        <li><a href="post12/">Post 10 <span class="respostes">(16 respostes)</span></a></li>
+        <li><a href="post13/">Post 11 <span class="respostes">(14 respostes+links)</span></a></li>
+        <li><a href="post14/">Post 12 <span class="respostes">(21 respostes)</span></a></li>
+        <li><a href="post15/">Post 13 <span class="respostes">(17 respostes+links)</span></a></li>
+        <li><a href="post16/">Post 14 <span class="respostes">(5 respostes)</span></a></li>
+        <li><a href="post17/">Post 15 <span class="respostes">(23 respostes)</span></a></li>
+        <li><a href="post18/">Post 16 <span class="respostes">(16 respostes+links)</span></a></li>
+        <li><a href="post19/">Post 17 <span class="respostes">(42 respostes)</span></a></li>
+        <li><a href="post20/">Post 18 <span class="respostes">(23 respostes+links)</span></a></li>
+        <li><a href="post21/">Post 19 <span class="respostes">(20 respostes)</span></a></li>
+        <li><a href="post22/">Post 20 <span class="respostes">(19 respostes)</span></a></li>
+        <li><a href="post23/">Post 21 <span class="respostes">(10 respostes)</span></a></li>
+        <li><a href="post24/">Post 22 <span class="respostes">(19 respostes)</span></a></li>
+        <li><a href="post25/">Post 23 <span class="respostes">(22 respostes)</span></a></li>
+    </ul>
+
+    <p><b>Posts Canvi Climàtic</b></p>
+    <ul class="post-list">
+        <li><a href="post2/">Post 1 <span class="respostes">(30 respostes)</span></a></li>
+        <li><a href="post3/">Post 2 <span class="respostes">(32 respostes)</span></a></li>
+        <li><a href="post26/">Post 3 <span class="respostes">(20 respostes+links)</span></a></li>
+        <li><a href="post27/">Post 4 <span class="respostes">(51 respostes)</span></a></li>
+        <li><a href="post28/">Post 5 <span class="respostes">(20 respostes)</span></a></li>
+        <li><a href="post29/">Post 6 <span class="respostes">(24 respostes)</span></a></li>
+        <li><a href="post30/">Post 7 <span class="respostes">(15 respostes)</span></a></li>
+        <li><a href="post31/">Post 8 <span class="respostes">(12 respostes+links)</span></a></li>
+        <li><a href="post32/">Post 9 <span class="respostes">(16 respostes+links)</span></a></li>
+        <li><a href="post33/">Post 10 <span class="respostes">(10 respostes)</span></a></li>
+        <li><a href="post34/">Post 11 <span class="respostes">(19 respostes)</span></a></li>
+        <li><a href="post35/">Post 12 <span class="respostes">(11 respostes)</span></a></li>
+        <li><a href="post36/">Post 13 <span class="respostes">(14 respostes)</span></a></li>
+        <li><a href="post37/">Post 14 <span class="respostes">(17 respostes)</span></a></li>
+    </ul>
+
+    <script>
+        function updateLinks() {
+            const mode = document.getElementById('mode-selector').value;
+            const links = document.querySelectorAll('.post-list a');
+
+            links.forEach(link => {
+                // 1. Actualitzar el paràmetre de la URL
+                const baseUrl = link.getAttribute('href').split('?')[0];
+                link.setAttribute('href', baseUrl + "?mode=" + mode);
+                
+                // 2. Neteja inicial: treure estrelles, negretes i fons seleccionats
+                link.classList.remove('escollit');
+                link.parentElement.classList.remove('li-escollit');
+                const existingStar = link.querySelector('.star');
+                if (existingStar) existingStar.remove();
+
+                // 3. Gestionar el span de les respostes
+                const span = link.querySelector('.respostes');
+                if (span) {
+                    // Desa el text original si no el tenim
+                    if (!span.hasAttribute('data-orig')) {
+                        span.setAttribute('data-orig', span.innerText);
+                    }
+                    const origText = span.getAttribute('data-orig');
+
+                    // Lògica segons el mode
+                    if (mode === 'original') {
+                        span.style.display = 'none';
+                    } 
+                    else if (mode === 'filtered') {
+                        span.style.display = 'inline';
+                        span.innerText = origText;
+                    } 
+                    else if (mode === 'limit16') {
+                        span.style.display = 'inline';
+                        
+                        const numMatch = origText.match(/\d+/);
+                        const hasLinks = origText.toLowerCase().includes('links');
+
+                        if (numMatch) {
+                            const num = parseInt(numMatch[0]);
+                            if (num >= 16) {
+                                span.innerText = hasLinks ? "(16 respostes+links)" : "(16 respostes)";
+                                
+                                // Només estrella i negreta si no té links
+                                if (!hasLinks) {
+                                    link.classList.add('escollit');
+                                    link.parentElement.classList.add('li-escollit');
+                                    
+                                    const star = document.createElement('span');
+                                    star.className = 'star';
+                                    star.innerText = '⭐';
+                                    link.prepend(star);
+                                }
+                            } else {
+                                span.innerText = origText;
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Executar en carregar
+        window.onload = updateLinks;
+    </script>
+</body>
+</html>
