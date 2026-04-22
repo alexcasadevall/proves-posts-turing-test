@@ -1,0 +1,254 @@
+{
+    "post_original": {
+        "agency": "r/SpainEconomics",
+        "title": "La inmigración mejora la economía ",
+        "body": "He visto en varios sitios comentarios sobre la innecesaria inmigración en un país con un alto nivel de desempleo como es España. \n\nEl argumento económico a favor de la inmigración es muy claro. La inmigración mejora la productividad de la economía de acogida e incrementa su crecimiento económico en el corto, medio y largo plazo, en países ricos como el nuestro. La inmigración no tiene un impacto negativo en el nivel de empleo de la población nativa. \n\nEsto lo sabemos porque hay evidencia acumulada desde hace décadas para decenas de países y disponible en publicaciones. Pongo por ejemplo un estudio sobre el efecto económico de inmigración masiva a países de la OCDE del FMI: \n\nhttps://www.imf.org/-/media/Files/Publications/WP/2023/English/wpiea2023259-print-pdf.ashx",
+        "author": "ElTalento",
+        "timestamp": 1724953161.0
+    },
+    "num_participants": 10,
+    "messages": [
+        {
+            "id": "lkjm16w",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "No_Cantaloupe6756",
+            "text": "Con una de las tasas de paro más altas de la Unión Europea, la importación masiva de trabajadores no cualificados no parece ser una decisión demasiado inteligente. Un país que destina recursos en formación, para luego exportar mano de obra cualificada e importar mano de obra no cualificada está condenada al fracaso.",
+            "timestamp": 1724955984.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 0
+        },
+        {
+            "id": "lkjmsy2",
+            "parent_id": "lkjm16w",
+            "sender": "Paula",
+            "real_author": "ElTalento",
+            "text": "Has leído el artículo?   Por cierto, España tiene una tasa de paro alta pero su tasa de ocupación, mas importante a la hora de entender su realidad laboral, está a un nivel parecido al de Bélgica. El paro es un problema en España pero hay que entender que en España mucha más gente se apunta al paro que en otros países de la UE.",
+            "timestamp": 1724956222.0,
+            "reply_to": "Miguel",
+            "reply_text": "Con una de las tasas de paro más altas de la Unión Europea, la importación masiva de trabajadores no cualificados no parece ser una decisión demasiado inteligente. Un país que destina recursos en form...",
+            "likes": 2
+        },
+        {
+            "id": "lkjp4u9",
+            "parent_id": "lkjm16w",
+            "sender": "Dani",
+            "real_author": "alexx8b",
+            "text": "Quién tiene los números para saber el nivel de preparación que tiene la inmigración? Todo mi círculo son licenciados, ingenieros, etc.",
+            "timestamp": 1724956951.0,
+            "reply_to": "Miguel",
+            "reply_text": "Con una de las tasas de paro más altas de la Unión Europea, la importación masiva de trabajadores no cualificados no parece ser una decisión demasiado inteligente. Un país que destina recursos en form...",
+            "likes": 4
+        },
+        {
+            "id": "lkjp8t8",
+            "parent_id": "lkjmsy2",
+            "sender": "Miguel",
+            "real_author": "No_Cantaloupe6756",
+            "text": "España tiene una tasa de desempleo más alta que Grecia, un país en bancarrota que tuvo que ser rescatado. Con una deuda de más del 100% del PIB y el incremento de gasto social, sobre todo en pensiones, lo único que puede salvar la economía española es acercarse todo lo posible al pleno empleo.",
+            "timestamp": 1724956984.0,
+            "reply_to": "Paula",
+            "reply_text": "Has leído el artículo? Por cierto, España tiene una tasa de paro alta pero su tasa de ocupación, mas importante a la hora de entender su realidad laboral, está a un nivel parecido al de Bélgica. El pa...",
+            "likes": 4
+        },
+        {
+            "id": "lkjqn4n",
+            "parent_id": "lkjp8t8",
+            "sender": "Paula",
+            "real_author": "ElTalento",
+            "text": "Es fácil tener una tasa de desempleo más baja que España cuanto el porcentaje de tu población que trabaja es más pequeño, es decir, menos gente busca trabajo. Y cuando la gente se va de tu país. Aparte, como deja claro el artículo, la inmigración no aumenta el desempleo, más bien ayuda que haya más empleo.",
+            "timestamp": 1724957417.0,
+            "reply_to": "Miguel",
+            "reply_text": "España tiene una tasa de desempleo más alta que Grecia, un país en bancarrota que tuvo que ser rescatado. Con una deuda de más del 100% del PIB y el incremento de gasto social, sobre todo en pensiones...",
+            "likes": 4
+        },
+        {
+            "id": "lkjr19g",
+            "parent_id": "lkjm16w",
+            "sender": "Helena",
+            "real_author": "sparky_roboto",
+            "text": "Casi se pueden unir los puntos.  Esa es la clave, el sistema no está diseñado para que los cualificados se queden en España.  España se ha desindustriazado disminuyendo su capacidad de absorber sus propios trabajadores cualificados para dedicar la producción a la economía de bajo valor añadido.",
+            "timestamp": 1724957540.0,
+            "reply_to": "Miguel",
+            "reply_text": "Con una de las tasas de paro más altas de la Unión Europea, la importación masiva de trabajadores no cualificados no parece ser una decisión demasiado inteligente. Un país que destina recursos en form...",
+            "likes": 0
+        },
+        {
+            "id": "lkjr8jd",
+            "parent_id": "lkjp4u9",
+            "sender": "Miguel",
+            "real_author": "No_Cantaloupe6756",
+            "text": "Que tengan estudios superiores en sus países de origen no quiere decir nada, de hecho la mayoría de esos títulos no son homologables en la Unión Europea al no tener un nivel equivalente a un título europeo.",
+            "timestamp": 1724957602.0,
+            "reply_to": "Dani",
+            "reply_text": "Quién tiene los números para saber el nivel de preparación que tiene la inmigración? Todo mi círculo son licenciados, ingenieros, etc.",
+            "likes": 0
+        },
+        {
+            "id": "lkjs2bo",
+            "parent_id": "lkjqn4n",
+            "sender": "Miguel",
+            "real_author": "No_Cantaloupe6756",
+            "text": "Me puedes explicar como se va a crear más empleo trayendo a más gente cuando no somos capaces de dar trabajo a los que residen aquí actualmente y quieren trabajar?",
+            "timestamp": 1724957858.0,
+            "reply_to": "Paula",
+            "reply_text": "Es fácil tener una tasa de desempleo más baja que España cuanto el porcentaje de tu población que trabaja es más pequeño, es decir, menos gente busca trabajo. ",
+            "likes": 1
+        },
+        {
+            "id": "lkjsdeq",
+            "parent_id": "lkjs2bo",
+            "sender": "Paula",
+            "real_author": "ElTalento",
+            "text": "Lee   El   Artículo",
+            "timestamp": 1724957953.0,
+            "reply_to": "Miguel",
+            "reply_text": "Me puedes explicar como se va a crear más empleo trayendo a más gente cuando no somos capaces de dar trabajo a los que residen aquí actualmente y quieren trabajar?",
+            "likes": 3
+        },
+        {
+            "id": "lkjsul2",
+            "parent_id": "lkjqn4n",
+            "sender": "Miguel",
+            "real_author": "No_Cantaloupe6756",
+            "text": "El tamaño no tiene nada que ver, USA con más de 300 millones de habitantes tiene una tasa de desempleo que no llega al 4%.",
+            "timestamp": 1724958101.0,
+            "reply_to": "Paula",
+            "reply_text": "Es fácil tener una tasa de desempleo más baja que España cuanto el porcentaje de tu población que trabaja es más pequeño, es decir, menos gente busca trabajo.",
+            "likes": 6
+        },
+        {
+            "id": "lkjtg6r",
+            "parent_id": "lkjsdeq",
+            "sender": "Miguel",
+            "real_author": "No_Cantaloupe6756",
+            "text": "Propaganda barata del Fmi? Precisamente gran parte del problema fue creado por los keynesianos.",
+            "timestamp": 1724958287.0,
+            "reply_to": "Paula",
+            "reply_text": "Lee El Artículo",
+            "likes": 2
+        },
+        {
+            "id": "lkkb3yx",
+            "parent_id": "lkjp4u9",
+            "sender": "Lucía",
+            "real_author": "Juanindaliano",
+            "text": "Es probable que no vives en una provincia como Almeria donde la inmigración (prácticamente toda de Africa) se dedica a la agricultura.",
+            "timestamp": 1724963748.0,
+            "reply_to": "Dani",
+            "reply_text": "Quién tiene los números para saber el nivel de preparación que tiene la inmigración? Todo mi círculo son licenciados, ingenieros, etc.",
+            "likes": 5
+        },
+        {
+            "id": "lkkdf79",
+            "parent_id": "lkjm16w",
+            "sender": "Alex",
+            "real_author": "siegerroller",
+            "text": "nones solo paro…es mas demanda para la situación de vivienda loca que tenemos ya. en una situación en que la gente compite compra otros 50 por pisos de alquiler, quien le va a alquilar a un migrsnte recien llegado??",
+            "timestamp": 1724964455.0,
+            "reply_to": "Miguel",
+            "reply_text": "Con una de las tasas de paro más altas de la Unión Europea, la importación masiva de trabajadores no cualificados no parece ser una decisión demasiado inteligente. Un país que destina recursos en form...",
+            "likes": 3
+        },
+        {
+            "id": "lkky6iu",
+            "parent_id": "lkjm16w",
+            "sender": "Juan",
+            "real_author": "[deleted]",
+            "text": "seguro tiene más sentido importar trabajadores cualificados para que lo nacionales cualificados tengan más competencia no?",
+            "timestamp": 1724971262.0,
+            "reply_to": "Miguel",
+            "reply_text": "Con una de las tasas de paro más altas de la Unión Europea, la importación masiva de trabajadores no cualificados no parece ser una decisión demasiado inteligente. Un país que destina recursos en form...",
+            "likes": 3
+        },
+        {
+            "id": "lkmkoif",
+            "parent_id": "lkky6iu",
+            "sender": "Miguel",
+            "real_author": "No_Cantaloupe6756",
+            "text": "Si fuese necesario importar personal cualificado sería porque habría demanda. Por desgracia no es el caso y los cualificados nacionales tienen que emigrar, creando riqueza en otros países. En lugar de importar prosperidad, importamos miseria.",
+            "timestamp": 1724994875.0,
+            "reply_to": "Juan",
+            "reply_text": "seguro tiene más sentido importar trabajadores cualificados para que lo nacionales cualificados tengan más competencia no?",
+            "likes": 5
+        },
+        {
+            "id": "lkmlhu4",
+            "parent_id": "lkjr8jd",
+            "sender": "Dani",
+            "real_author": "alexx8b",
+            "text": "Bueno bueno bueno, de donde sacas la info ? Dices q una universidad de Colombia, chile, argentina, brasil, México o cuba no tiene validez sus títulos en España? Hay q tener sentimientos de superioridad para afirmar eso.",
+            "timestamp": 1724995330.0,
+            "reply_to": "Miguel",
+            "reply_text": "Que tengan estudios superiores en sus países de origen no quiere decir nada, de hecho la mayoría de esos títulos no son homologables en la Unión Europea al no tener un nivel equivalente a un título eu...",
+            "likes": 6
+        },
+        {
+            "id": "lkmlv4o",
+            "parent_id": "lkkb3yx",
+            "sender": "Dani",
+            "real_author": "alexx8b",
+            "text": "De todas formas me gustaría ver datos , aunq te creo q no vienen muchos profesionales de África. De todas formas no todos tienen q ser universitario, necesitamos también gente q trabaje la agricultura que en España nadie quiere",
+            "timestamp": 1724995540.0,
+            "reply_to": "Lucía",
+            "reply_text": "Es probable que no vives en una provincia como Almeria donde la inmigración (prácticamente toda de Africa) se dedica a la agricultura.",
+            "likes": 2
+        },
+        {
+            "id": "lkmx41u",
+            "parent_id": "lkmlhu4",
+            "sender": "Miguel",
+            "real_author": "No_Cantaloupe6756",
+            "text": "Datos generales (teniendo en cuenta información publicada en años recientes):  1. Porcentaje general: Aunque los datos pueden variar año a año, en general, se estima que aproximadamente entre el 50% y el 70% de las solicitudes de homologación son aprobadas favorablemente, pero este porcentaje puede fluctuar dependiendo de varios factores. 2. Variabilidad por países de origen: Los títulos provenientes de países con sistemas educativos que tienen convenios bilaterales o una estructura similar a la española suelen tener un mayor porcentaje de homologación favorable. Por ejemplo, títulos de países de la Unión Europea, América Latina (en particular, aquellos que provienen de sistemas educativos similares como los de Chile, Argentina o México), suelen tener mayor tasa de homologación. 3. Áreas de Estudio: Las áreas de estudio técnicas o científicas, como ingeniería o medicina, pueden tener procesos de homologación más rigurosos, lo que puede afectar los porcentajes de homologación favorable.  No es cuestión de sentimientos. Muchos títulos europeos tampoco son homologables en otros países como EEUU o Japón. De hecho dentro de la UE se creo el Plan Bolonia para armonizar el sistema universitario.",
+            "timestamp": 1725002371.0,
+            "reply_to": "Dani",
+            "reply_text": "Bueno bueno bueno, de donde sacas la info ? Dices q una universidad de Colombia, chile, argentina, brasil, México o cuba no tiene validez sus títulos en España? Hay q tener sentimientos de superiorida...",
+            "likes": 5
+        },
+        {
+            "id": "lkzcb4f",
+            "parent_id": "lkjqn4n",
+            "sender": "Sílvia",
+            "real_author": "washaaah",
+            "text": "No sabes ni por dónde te sopla el viento. Los datos objetivos, no las pajas mentales, son claros. Y seguís con los delirios.",
+            "timestamp": 1725195209.0,
+            "reply_to": "Paula",
+            "reply_text": "Es fácil tener una tasa de desempleo más baja que España cuanto el porcentaje de tu población que trabaja es más pequeño, es decir, menos gente busca trabajo.",
+            "likes": 2
+        },
+        {
+            "id": "ll2a68b",
+            "parent_id": "lkjtg6r",
+            "sender": "Clara",
+            "real_author": "acelgoso",
+            "text": "Ya salió el austriaco.  ¿No os aburrís?",
+            "timestamp": 1725231700.0,
+            "reply_to": "Miguel",
+            "reply_text": "Propaganda barata del Fmi? Precisamente gran parte del problema fue creado por los keynesianos.",
+            "likes": 1
+        },
+        {
+            "id": "llv8d9n",
+            "parent_id": "ll2a68b",
+            "sender": "Marc",
+            "real_author": "Ludens0",
+            "text": "¿Como puede uno aburrirse de estar en lo correcto?",
+            "timestamp": 1725661188.0,
+            "reply_to": "Clara",
+            "reply_text": "Ya salió el austriaco. ¿No os aburrís?",
+            "likes": 3
+        },
+        {
+            "id": "lly8y25",
+            "parent_id": "llv8d9n",
+            "sender": "Clara",
+            "real_author": "acelgoso",
+            "text": "El último medio siglo ha sido básicamente el desmantelamiento de lo keynesiano para implantar lo austriaco. Y vaya mierda de medio siglo.",
+            "timestamp": 1725715150.0,
+            "reply_to": "Marc",
+            "reply_text": "¿Como puede uno aburrirse de estar en lo correcto?",
+            "likes": 2
+        }
+    ]
+}
