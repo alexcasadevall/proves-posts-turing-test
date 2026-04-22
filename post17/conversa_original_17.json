@@ -1,0 +1,265 @@
+{
+    "post_original": {
+        "agency": "r/SpainPolitics",
+        "title": "La inmigración crece, los delitos no: los datos rebaten la conexión entre más extranjeros y más delincuencia",
+        "body": "",
+        "author": "hysbald",
+        "timestamp": 1725878093.0
+    },
+    "num_participants": 14,
+    "messages": [
+        {
+            "id": "lm9d3io",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "ESPILFIRE",
+            "text": "No he leído el artículo. Pero para saber la verdad, ¿no bastaría con saber el registro de incidentes por habitante y luego filtrar por si son inmigrantes o no y cotejarlos respecto al porciento de población de ese mismo tipo que hay?  Es decir, imaginemos que de un 100% de incidentes, el 20% es causado por inmigrantes. Luego, ¿que porcentaje de población española e inmigrante hay? es decir, ¿puede ser que el 20% de partes de delincuencia estén originados por una población que es mucho inferior a la española?  Es que, ¿porqué no dan las cifras reales y completas y así salimos de dudas? Tan mal me parece echar la culpa a los inmigrantes por la delincuencia como no abordar un posible problema derivado de esto. Con los datos en la mano se puede intentar actuar en un sentido u otro en vez de hacer demagogia y política sin datos.",
+            "timestamp": 1725880529.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 3
+        },
+        {
+            "id": "lm9dpwe",
+            "parent_id": "lm9d3io",
+            "sender": "Helena",
+            "real_author": "anteojosrojos",
+            "text": "Sería mejor compararlo con el nivel social del delincuente. A ver si se descubre que es cosa de necesidad y que los inmigrantes igual suponen un 12% de la población pero un 30% de la población en situación de desamparo.... Por ejemplo digo",
+            "timestamp": 1725880857.0,
+            "reply_to": "Miguel",
+            "reply_text": "No he leído el artículo. Pero para saber la verdad, ¿no bastaría con saber el registro de incidentes por habitante y luego filtrar por si son inmigrantes o no y cotejarlos respecto al porciento de pob...",
+            "likes": 3
+        },
+        {
+            "id": "lm9dued",
+            "parent_id": "lm9dpwe",
+            "sender": "Miguel",
+            "real_author": "ESPILFIRE",
+            "text": "También, cuantos más datos mejor. Lo que no se puede es decir que hay o no un problema y no aportar datos.",
+            "timestamp": 1725880921.0,
+            "reply_to": "Helena",
+            "reply_text": "Sería mejor compararlo con el nivel social del delincuente. A ver si se descubre que es cosa de necesidad y que los inmigrantes igual suponen un 12% de la población pero un 30% de la población en situ...",
+            "likes": 3
+        },
+        {
+            "id": "lm9e0ay",
+            "parent_id": "lm9dued",
+            "sender": "Helena",
+            "real_author": "anteojosrojos",
+            "text": "Los datos si que se pueden mirar, lo que no hace es publicar porque se ha comprobado que solo se consigue fomentar el racismo.",
+            "timestamp": 1725881003.0,
+            "reply_to": "Miguel",
+            "reply_text": "También, cuantos más datos mejor. Lo que no se puede es decir que hay o no un problema y no aportar datos.",
+            "likes": 6
+        },
+        {
+            "id": "lm9e503",
+            "parent_id": "lm9d3io",
+            "sender": "Sílvia",
+            "real_author": "hysbald",
+            "text": "El artículo aborda estos temas:  \"Los datos del Instituto Nacional de Estadística (INE) indican que los españoles delinquen más que las personas extranjeras en términos absolutos. En 2022, un 74,19% de los condenados tenían nacionalidad española, frente a un 25,81% de extranjeros. Pero si se analizan las tasas por cada 1.000 habitantes, es cierto que la de condenados extranjeros duplica a la de los españoles, 18,1 frente a 7,5. Sin embargo, los criminólogos advierten de que existe una sobrerrepresentación de los extranjeros por diversos factores, ninguno de los cuales es su nacionalidad o su origen.\"  \"Que los ciudadanos extranjeros estén implicados en una media del 33% de los casos policiales es un ejemplo de esa sobrerrepresentación, según los expertos, que recuerdan otros elementos ya citados, como la especial focalización de la policía sobre ciertos colectivos o que no todos los procedimientos siguen finalmente adelante.\"",
+            "timestamp": 1725881069.0,
+            "reply_to": "Miguel",
+            "reply_text": "No he leído el artículo. Pero para saber la verdad, ¿no bastaría con saber el registro de incidentes por habitante y luego filtrar por si son inmigrantes o no y cotejarlos respecto al porciento de pob...",
+            "likes": 0
+        },
+        {
+            "id": "lm9gujb",
+            "parent_id": "lm9dpwe",
+            "sender": "Alex",
+            "real_author": "kyussorder",
+            "text": "ESE es el dato relevante. Quedarse con si es de Marruecos o de Venezuela es solo una parte.",
+            "timestamp": 1725882421.0,
+            "reply_to": "Helena",
+            "reply_text": "Sería mejor compararlo con el nivel social del delincuente. A ver si se descubre que es cosa de necesidad y que los inmigrantes igual suponen un 12% de la población pero un 30% de la población en situ...",
+            "likes": 5
+        },
+        {
+            "id": "lm9i3mi",
+            "parent_id": "lm9e0ay",
+            "sender": "Clara",
+            "real_author": "Wall_Smart",
+            "text": "El que es racista lo es con y sin datos. Sabemos quiénes cometen los delitos en Barcelona? No, ya que los datos no están publicados, pero en todos nosotros ha permeado en mayor o menor medida que son extranjeros.",
+            "timestamp": 1725883017.0,
+            "reply_to": "Helena",
+            "reply_text": "Los datos si que se pueden mirar, lo que no hace es publicar porque se ha comprobado que solo se consigue fomentar el racismo.",
+            "likes": 5
+        },
+        {
+            "id": "lm9ie4s",
+            "parent_id": "lm9e503",
+            "sender": "Dani",
+            "real_author": "provenzal",
+            "text": "O sea, que la población extranjera sí tiene una tasa de delincuencia superior a la española. De hecho es del doble.   Curioso artículo y curioso titular, que dice exactamente lo contrario de lo que dicen las estadísticas.   (Y no pretendo decir que todos los extranjeros son unos delincuentes ni hay que deportarlos. Sólo señalo un hecho, que puede tener muchas razones, socioeconomicas, discriminación, bandas, etc).",
+            "timestamp": 1725883151.0,
+            "reply_to": "Sílvia",
+            "reply_text": "El artículo aborda estos temas: \"Los datos del Instituto Nacional de Estadística (INE) indican que los españoles delinquen más que las personas extranjeras en términos absolutos. En 2022, un 74,19% de...",
+            "likes": 5
+        },
+        {
+            "id": "lm9ih7r",
+            "parent_id": "lm9i3mi",
+            "sender": "Helena",
+            "real_author": "anteojosrojos",
+            "text": "No es cierto. Si una persona no es racista pero todos los días oye de un hurto menor cometido por tal o cuál nacionalidad al final relacionará la nacionalidad esa con el robo, incluso si hay 365 hurtos de esa nacional por 365000 de hurtos de españoles.  Al final una mentira o una medio verdad repetida mil veces vale más que una imagen real cualquier cosa.",
+            "timestamp": 1725883191.0,
+            "reply_to": "Clara",
+            "reply_text": "El que es racista lo es con y sin datos. Sabemos quiénes cometen los delitos en Barcelona? No, ya que los datos no están publicados, pero en todos nosotros ha permeado en mayor o menor medida que son ...",
+            "likes": 6
+        },
+        {
+            "id": "lm9ko8u",
+            "parent_id": "lm9dued",
+            "sender": "Juan",
+            "real_author": "[deleted]",
+            "text": "Aún que ambos fueran, por ejemplo senegaleses,  ¿meterías en la misma bolsa a un señor robando pañales en el Mercadona que a un violador reincidente?  Es un ejemplo un poco chorra, pero a donde quiero llegar es a lo siguiente, tampoco deberíamos hablar de \"criminalidad\" así a lo brusco, mezclando delitos que poco tienen que ver.  En este tema, hay muchos matices que nos saltamos muchas veces por el zasca rápido.  Hay una parte de crimenes que si son directamente correlacionados a la pobreza. Como hurtos en supermercados, pero hay otros que no se pueden explicar sin afiliación a banda criminal.  Por eso, no me gusta la generalización de todos buenos o todos malos.  Deberíamos dejar de reírle las gracias a los de Vox, y empezar a hablar en singular y no en colectivo.  El hecho de que existan magrebíes traficando con droga, no implica que todo señor con melanina sea camello.",
+            "timestamp": 1725884191.0,
+            "reply_to": "Miguel",
+            "reply_text": "También, cuantos más datos mejor. Lo que no se puede es decir que hay o no un problema y no aportar datos.",
+            "likes": 5
+        },
+        {
+            "id": "lm9ri08",
+            "parent_id": "lm9ih7r",
+            "sender": "Clara",
+            "real_author": "Wall_Smart",
+            "text": "Pero si esa supuesta mentira ya la están contando y repitiendo mil veces qué necesidad hay de no publicar los datos?   Porque puedes ver en los comentarios de noticias de robo o violencia machista cómo se acusa de estos delitos a los inmigrantes.",
+            "timestamp": 1725887086.0,
+            "reply_to": "Helena",
+            "reply_text": "No es cierto. Si una persona no es racista pero todos los días oye de un hurto menor cometido por tal o cuál nacionalidad al final relacionará la nacionalidad esa con el robo, incluso si hay 365 hurto...",
+            "likes": 0
+        },
+        {
+            "id": "lm9w1oe",
+            "parent_id": "lm9d3io",
+            "sender": "Lucía",
+            "real_author": "jaiman",
+            "text": "Si se distingue entre inmigrantes y turistas, vale, y entonces hablaríamos de los factores detrás de la delincuencia, o de todos los delitos cometidos por españoles (sobre todo empresarios y policía) que no se denuncian o contabilizan, pero la comparación habitual entre delitos cometidos por extranjeros y población extranjera es una grave y malinteresada confusión de términos.  En cuanto a los datos, sí se dan las cifras completas de población, no entiendo de dónde viene esa acusación. Lo que el INE no detalla en la nacionalidad exacta en los datos de delincuencia, sin distinguir entre inmigrante y turista. Los anuarios del ministerio suelen tener información más detallada que el INE, pero en cualquier caso puede que no sea tan fácil como crees reunir tantos datos.",
+            "timestamp": 1725888940.0,
+            "reply_to": "Miguel",
+            "reply_text": "No he leído el artículo. Pero para saber la verdad, ¿no bastaría con saber el registro de incidentes por habitante y luego filtrar por si son inmigrantes o no y cotejarlos respecto al porciento de pob...",
+            "likes": 2
+        },
+        {
+            "id": "lm9xgkz",
+            "parent_id": "lm9e503",
+            "sender": "Lucía",
+            "real_author": "jaiman",
+            "text": "Esa comparación no puede hacerse sin separar los delitos cometidos por turistas y otros visitantes que no cuentan en las cifras de población.  No vale decir que A+B+C cometen en conjunto x delitos, pero luego hacer la proporción por habitantes cuando B y C no son habitantes, porque A por sí sola no ha cometido tantos delitos.",
+            "timestamp": 1725889480.0,
+            "reply_to": "Sílvia",
+            "reply_text": "El artículo aborda estos temas: \"Los datos del Instituto Nacional de Estadística (INE) indican que los españoles delinquen más que las personas extranjeras en términos absolutos. En 2022, un 74,19% de...",
+            "likes": 6
+        },
+        {
+            "id": "lm9xp0u",
+            "parent_id": "lm9ih7r",
+            "sender": "Marc",
+            "real_author": "GranPino",
+            "text": "El problema es que hay ciertos medios e influencers que sólo le interesan los delitos cometidos por ciertas demográfias. Y de hecho, eso lleva a que se hayan inventado muchas veces la etnia o nacionalidad del criminal de turno. Ya te digo yo, que si fuera magrebie el francés que drogaba a su mujer para que fuera violada por casi un centenar de personas... Tendríamos un ciclo de noticias altamente tóxico obsesionados con que fuera magrebí a unos niveles disparatados. En cambio en mis redes sociales hoy ya ni se habla del tema, y antes tampoco demasiado.   Y ese nivel de exposición a los delitos de los que se odia, crea una imagen distorsionada de la realidad.   Además de que no basta con hacer una regla de 3 de % de inmigración sobre delitos. Tendrías que ponderar por edad, por sexo, y por pobreza, para ver si a igualdad  de comparación, te sale mejor o peor, cosa que nos e hace nunca. Porque puede resultar que el problema sea de pobreza y no de inmigrantes. Y es que la solución a una u otra, es muy distinta",
+            "timestamp": 1725889569.0,
+            "reply_to": "Helena",
+            "reply_text": "No es cierto. Si una persona no es racista pero todos los días oye de un hurto menor cometido por tal o cuál nacionalidad al final relacionará la nacionalidad esa con el robo, incluso si hay 365 hurto...",
+            "likes": 2
+        },
+        {
+            "id": "lm9zl3t",
+            "parent_id": "lm9ri08",
+            "sender": "Marc",
+            "real_author": "GranPino",
+            "text": "Los datos yo los veo muchas veces, pero no llega a muchos sectores de la población.   La mayoría de delitos violentos están en niveles cercanos a los mínimos históricos, y por supuesto, muy inferiores a los niveles de los 90, antes de que llegara la gran mayoría de inmigrantes.   Hay quien te dirá que sólo importa la proporción de delitos cometidos por inmigrantes, pero cómo es posible que los cometan desproporcionadamente los inmigrantes y al mismo tiempo hayan bajado tantísimo en estas décadas? Pues porque la delincuencia, suele ser más un producto de marginación y pobreza. Los inmigrantes han pasado a ocupar los puestos más difíciles económicamente en nuestra sociedad. crees que los españoles de repente nos hemos vuelto santos, y que si no hubiera inmigrantes seríamos de repente la sociedad con menos criminalidad casi del mundo? O que el hecho de que los inmigrantes tengan un mayor porcentaje de criminalidad es porque también tienen un mayor porcentaje de personas en peores condiciones económicas , viviendo en los peores barrios, que en la gran mayoría ya eran malos antes de que ellos llegaran?",
+            "timestamp": 1725890170.0,
+            "reply_to": "Clara",
+            "reply_text": "Pero si esa supuesta mentira ya la están contando y repitiendo mil veces qué necesidad hay de no publicar los datos? Porque puedes ver en los comentarios de noticias de robo o violencia machista cómo ...",
+            "likes": 5
+        },
+        {
+            "id": "lma63sl",
+            "parent_id": "lm9zl3t",
+            "sender": "Clara",
+            "real_author": "Wall_Smart",
+            "text": "Si yo estoy totalmente de acuerdo contigo. Es algo no intrínseco a España, ya he escuchado a varios decir que los problemas de un negro estadounidense están más cercanos a los de un blanco de su mismo nivel socioeconómico que de un negro de una “clase superior”.  Quizá sea porque trabajo mucho con la frase “si no es medible, no es mejorable” y, por tanto, para mí, es importante tener los datos para hacer valoraciones.",
+            "timestamp": 1725892456.0,
+            "reply_to": "Marc",
+            "reply_text": "Los datos yo los veo muchas veces, pero no llega a muchos sectores de la población. La mayoría de delitos violentos están en niveles cercanos a los mínimos históricos, y por supuesto, muy inferiores a...",
+            "likes": 1
+        },
+        {
+            "id": "lma6b0d",
+            "parent_id": "lm9ri08",
+            "sender": "Helena",
+            "real_author": "anteojosrojos",
+            "text": "Para no crear más racismo que el que los pseudo periodistas crean.",
+            "timestamp": 1725892526.0,
+            "reply_to": "Clara",
+            "reply_text": "Pero si esa supuesta mentira ya la están contando y repitiendo mil veces qué necesidad hay de no publicar los datos? Porque puedes ver en los comentarios de noticias de robo o violencia machista cómo ...",
+            "likes": 0
+        },
+        {
+            "id": "lmazayk",
+            "parent_id": "lm9ko8u",
+            "sender": "Paula",
+            "real_author": "ionforge",
+            "text": "Los datos podrían estar categorizados perfectamente. Como el dice, mientras más datos mejor",
+            "timestamp": 1725902392.0,
+            "reply_to": "Juan",
+            "reply_text": "Aún que ambos fueran, por ejemplo senegaleses, ¿meterías en la misma bolsa a un señor robando pañales en el Mercadona que a un violador reincidente? Es un ejemplo un poco chorra, pero a donde quiero l...",
+            "likes": 2
+        },
+        {
+            "id": "lmb1g9w",
+            "parent_id": "lm9xgkz",
+            "sender": "Sergi",
+            "real_author": "guineuenmascarada",
+            "text": "No se trata de los fucking turistas, se trata de que la estratificacion social de los immigrantes es diferente que  la de la poblacion nativa, y que esos \"otros factores\" es la estratificacion social de la criminalidad. Resumiendo:  - la criminalidad es mayor en los sectores mas bajos de la sociedad.   - hay mas immigrantes porcentualmente en esos sectores que poblacion local",
+            "timestamp": 1725903083.0,
+            "reply_to": "Lucía",
+            "reply_text": "Esa comparación no puede hacerse sin separar los delitos cometidos por turistas y otros visitantes que no cuentan en las cifras de población. No vale decir que A+B+C cometen en conjunto x delitos, per...",
+            "likes": 0
+        },
+        {
+            "id": "lmb4za8",
+            "parent_id": "lmb1g9w",
+            "sender": "Lucía",
+            "real_author": "jaiman",
+            "text": "A ver, evidentemente, pero yo estoy hablando de esa manía de comparar las dos estadísticas como si se usaran términos equivalentes en las dos, y no.",
+            "timestamp": 1725904220.0,
+            "reply_to": "Sergi",
+            "reply_text": "No se trata de los fucking turistas, se trata de que la estratificacion social de los immigrantes es diferente que la de la poblacion nativa, y que esos \"otros factores\" es la estratificacion social d...",
+            "likes": 6
+        },
+        {
+            "id": "lmbxkkh",
+            "parent_id": "lmb1g9w",
+            "sender": "Carla",
+            "real_author": "Hetaroi",
+            "text": "Uh, dudo que el sector más alto tenga índices de criminalidad menores si consideramos los delitos contra la hacienda pública. O si los de.los sectores  más.bajos tuvieran segundas oportunidades del tipo de amnistías fiscales o de declaraciones complementarias. Lo que pasa es que son muchos más los desafortunados que los muy privilegiados.",
+            "timestamp": 1725913315.0,
+            "reply_to": "Sergi",
+            "reply_text": "No se trata de los fucking turistas, se trata de que la estratificacion social de los immigrantes es diferente que la de la poblacion nativa, y que esos \"otros factores\" es la estratificacion social d...",
+            "likes": 4
+        },
+        {
+            "id": "lmeamcm",
+            "parent_id": "lm9e503",
+            "sender": "Adrià",
+            "real_author": "siegerroller",
+            "text": "muy tramposo el articulo diciendo que los españoles delinquen mas “en términos absolutos”, pues claro coño, somos muchísimos más. presentar la información de esta forma tan inutil tiene clara intención.",
+            "timestamp": 1725946022.0,
+            "reply_to": "Sílvia",
+            "reply_text": "El artículo aborda estos temas: \"Los datos del Instituto Nacional de Estadística (INE) indican que los españoles delinquen más que las personas extranjeras en términos absolutos. En 2022, un 74,19% de...",
+            "likes": 0
+        },
+        {
+            "id": "lmqowaf",
+            "parent_id": "lm9d3io",
+            "sender": "Marta",
+            "real_author": "umbium",
+            "text": "No hay ningun problema.  Las cifras de delincuencia no suben al aumentar la migración que es lo que defienden las tesis de los partidos anti inmigración.  Pero estoy de acuerdo, que den esos datos que dices tu. Pero que den también los de delitos por ingresos anuales en la unidad familiar del criminal. También por delitos según el nivel de enseñanza. La relación de delitos por barrios de origen. De hecho también se podria ya de paso enlazar esos barrios con las caracteristicas del mismo (numero de empresas, sectores predominantes, numero de institutos publicos, pistas de deporte publicas, numero de programas de actividades públicas, etc. Ah por supuesto tambien analisis de las edades y de los géneros que han cometido los crimenes.  De hecho deberían también sacar un apartado más especifico con los casos de violencia domestica y/o violencia de género y hacer un análisis como el anterior.",
+            "timestamp": 1726134080.0,
+            "reply_to": "Miguel",
+            "reply_text": "No he leído el artículo. Pero para saber la verdad, ¿no bastaría con saber el registro de incidentes por habitante y luego filtrar por si son inmigrantes o no y cotejarlos respecto al porciento de pob...",
+            "likes": 6
+        }
+    ]
+}
