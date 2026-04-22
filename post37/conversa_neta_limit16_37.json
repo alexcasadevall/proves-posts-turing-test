@@ -1,0 +1,188 @@
+{
+    "post_original": {
+        "agency": "r/OpinionesPolemicas",
+        "title": "Porque todavia existe gente que no cree en el cambio climatico? es algo mas que simple pendejez?",
+        "body": "Tengo 24, para cuando cuando estaba en quinto de primaria ya nos daban algunas clases en la escuela sobre el llamado en ese entonces calentamiento global, sus efectos, sus origenes.\n\nPero hoy en dia todavia es comun encontrarse mucha gente que no cree en ello, a pesar de la agobiante evidencia.\n\nSeria facil decir que es por la deficiencia en el sistema educativo, pero es algo que puedes googlear en unas horas, es algo que se siente al salir afuera y sentir el clima\n\n\n\nporque existe tanto rechazo a la idea? es miedo? conspiracion? religion?  \n(noten los negativos en la publicacion)",
+        "author": "5mesesintento",
+        "timestamp": 1709312532.0
+    },
+    "num_participants": 10,
+    "messages": [
+        {
+            "id": "ksvk1ve",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "aleks1309",
+            "text": "Yo siento que no es eso, quiero pensar que muchas veces es negación, no querer perder ciertas comodidades como por ejemplo: Tardar 1 hora bañándose Usar el carro para ir a cualquier lugar Desperdiciar recursos  Etc Es más fácil decir que no existe e incluso eso deja de ser un poco agobiante. Creo que eso es lo que pasa",
+            "timestamp": 1709312930.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 3
+        },
+        {
+            "id": "ksvylp7",
+            "parent_id": "ksvk1ve",
+            "sender": "Helena",
+            "real_author": "South-Sir-4184",
+            "text": "Aparte es obvio que si existe, cada año los climas se intensifican más, por ejemplo aquí en México cada vez hace más calor x_x",
+            "timestamp": 1709317804.0,
+            "reply_to": "Miguel",
+            "reply_text": "Yo siento que no es eso, quiero pensar que muchas veces es negación, no querer perder ciertas comodidades como por ejemplo: Tardar 1 hora bañándose Usar el carro para ir a cualquier lugar Desperdiciar...",
+            "likes": 4
+        },
+        {
+            "id": "ksw6xb5",
+            "parent_id": "ksvylp7",
+            "sender": "Alex",
+            "real_author": "5mesesintento",
+            "text": "ey, che juarez esta mas caliente que la chingada",
+            "timestamp": 1709320628.0,
+            "reply_to": "Helena",
+            "reply_text": "Aparte es obvio que si existe, cada año los climas se intensifican más, por ejemplo aquí en México cada vez hace más calor x_x",
+            "likes": 2
+        },
+        {
+            "id": "kswh2cu",
+            "parent_id": "ksvylp7",
+            "sender": "Sílvia",
+            "real_author": "[deleted]",
+            "text": "ayer hizo 30 grados y se supone que estamos en Invierno faltan días Pero Para la primavera En verano nos va a llevar la chingada",
+            "timestamp": 1709324072.0,
+            "reply_to": "Helena",
+            "reply_text": "Aparte es obvio que si existe, cada año los climas se intensifican más, por ejemplo aquí en México cada vez hace más calor x_x",
+            "likes": 0
+        },
+        {
+            "id": "kswktx3",
+            "parent_id": "ksw6xb5",
+            "sender": "Juan",
+            "real_author": "Decent-Cow-9201",
+            "text": "No existe evidencia. La teoría de ese cambio climático bien podría ser una excusa para limitar a las naciones subdesarrolladas y evitar su crecimiento",
+            "timestamp": 1709325357.0,
+            "reply_to": "Alex",
+            "reply_text": "ey, che juarez esta mas caliente que la chingada",
+            "likes": 4
+        },
+        {
+            "id": "kswlfk0",
+            "parent_id": "kswktx3",
+            "sender": "Alex",
+            "real_author": "5mesesintento",
+            "text": "que no la entiendas o no la busques es otra cosa",
+            "timestamp": 1709325563.0,
+            "reply_to": "Juan",
+            "reply_text": "No existe evidencia. La teoría de ese cambio climático bien podría ser una excusa para limitar a las naciones subdesarrolladas y evitar su crecimiento",
+            "likes": 4
+        },
+        {
+            "id": "kswo022",
+            "parent_id": "kswlfk0",
+            "sender": "Juan",
+            "real_author": "Decent-Cow-9201",
+            "text": "A ver, explícala por favor. Pruébanos como el cambio climático es hecho por el hombre.",
+            "timestamp": 1709326437.0,
+            "reply_to": "Alex",
+            "reply_text": "que no la entiendas o no la busques es otra cosa",
+            "likes": 6
+        },
+        {
+            "id": "ksx59tu",
+            "parent_id": "kswo022",
+            "sender": "Paula",
+            "real_author": "Alexshnikov",
+            "text": "Es súper sencillo, los gases que los hombres provocan con la producción en masa de carne, vehículos y fábricas, se acumulan en la atmósfera y no dejan escapar el calor al espacio, estamos construyendo un domo de gas, dónde el calor no puede escapar, a largo plazo seremos un horno. El claro ejemplo es Venus ¿Por qué es más caliente que mercurio si está más lejos del sol? Por su atmósfera, es simple.",
+            "timestamp": 1709332464.0,
+            "reply_to": "Juan",
+            "reply_text": "A ver, explícala por favor. Pruébanos como el cambio climático es hecho por el hombre.",
+            "likes": 4
+        },
+        {
+            "id": "ksx6tce",
+            "parent_id": "ksx59tu",
+            "sender": "Juan",
+            "real_author": "Decent-Cow-9201",
+            "text": "Si, tan simple que se tardaron cientos de años en descifrarlo.",
+            "timestamp": 1709333023.0,
+            "reply_to": "Paula",
+            "reply_text": "Es súper sencillo, los gases que los hombres provocan con la producción en masa de carne, vehículos y fábricas, se acumulan en la atmósfera y no dejan escapar el calor al espacio, estamos construyendo...",
+            "likes": 5
+        },
+        {
+            "id": "ksxdxlq",
+            "parent_id": "ksx6tce",
+            "sender": "Paula",
+            "real_author": "Alexshnikov",
+            "text": "También tardaron cientos de años en descubrir el fuego, en crear herramientas y etc. Eso no tiene nada que ver, solo avanzaron los conocimientos en el tema.",
+            "timestamp": 1709335731.0,
+            "reply_to": "Juan",
+            "reply_text": "Si, tan simple que se tardaron cientos de años en descifrarlo.",
+            "likes": 0
+        },
+        {
+            "id": "ksxul9s",
+            "parent_id": "ksx6tce",
+            "sender": "Clara",
+            "real_author": "CupexD",
+            "text": "No, se tardaron apenas unos 50 a lo mucho",
+            "timestamp": 1709342368.0,
+            "reply_to": "Juan",
+            "reply_text": "Si, tan simple que se tardaron cientos de años en descifrarlo.",
+            "likes": 6
+        },
+        {
+            "id": "ksy7zjd",
+            "parent_id": "ksx6tce",
+            "sender": "Marc",
+            "real_author": "Sea-Writer-6961",
+            "text": "When avances tecnológicos 😱",
+            "timestamp": 1709347984.0,
+            "reply_to": "Juan",
+            "reply_text": "Si, tan simple que se tardaron cientos de años en descifrarlo.",
+            "likes": 5
+        },
+        {
+            "id": "ksy80r5",
+            "parent_id": "ksx59tu",
+            "sender": "Marc",
+            "real_author": "Sea-Writer-6961",
+            "text": "Te lo papeaste re bien",
+            "timestamp": 1709348000.0,
+            "reply_to": "Paula",
+            "reply_text": "Es súper sencillo, los gases que los hombres provocan con la producción en masa de carne, vehículos y fábricas, se acumulan en la atmósfera y no dejan escapar el calor al espacio, estamos construyendo...",
+            "likes": 3
+        },
+        {
+            "id": "ksywfxv",
+            "parent_id": "ksvk1ve",
+            "sender": "Lucía",
+            "real_author": "scotchOne2016",
+            "text": "negacion de lo que te han enseñado durante años, si ese es un buen resumen",
+            "timestamp": 1709360627.0,
+            "reply_to": "Miguel",
+            "reply_text": "Yo siento que no es eso, quiero pensar que muchas veces es negación, no querer perder ciertas comodidades como por ejemplo: Tardar 1 hora bañándose Usar el carro para ir a cualquier lugar Desperdiciar...",
+            "likes": 2
+        },
+        {
+            "id": "ksz24b9",
+            "parent_id": "ksvk1ve",
+            "sender": "Sergi",
+            "real_author": "fableton",
+            "text": "Ni siquiera es negación, es simple desinterés, es como saber que si no comes sano te vas enfermar pero vives al día.",
+            "timestamp": 1709364441.0,
+            "reply_to": "Miguel",
+            "reply_text": "Yo siento que no es eso, quiero pensar que muchas veces es negación, no querer perder ciertas comodidades como por ejemplo: Tardar 1 hora bañándose Usar el carro para ir a cualquier lugar Desperdiciar...",
+            "likes": 1
+        },
+        {
+            "id": "ksz2dv7",
+            "parent_id": "ksxul9s",
+            "sender": "Paula",
+            "real_author": "Alexshnikov",
+            "text": "Si fueron más de 100, porque la era industrial empezó por 1800, ha de tener por lo menos 110 años",
+            "timestamp": 1709364626.0,
+            "reply_to": "Clara",
+            "reply_text": "No, se tardaron apenas unos 50 a lo mucho",
+            "likes": 4
+        }
+    ]
+}
