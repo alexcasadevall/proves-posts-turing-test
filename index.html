@@ -16,7 +16,6 @@
         a:hover { text-decoration: underline; }
         .respostes { color: #94a3b8; font-size: 0.9em; font-weight: normal; margin-left: 5px; }
         
-        /* Estils per als seleccionats (>=16 i sense links) */
         .escollit { font-weight: bold !important; color: #0f172a !important; }
         .li-escollit { border-color: #cbd5e1; background-color: #f1f5f9; }
         .star { margin-right: 5px; }
@@ -58,7 +57,7 @@
         <li><a href="post22/">Post 20 <span class="respostes">(19 respostes)</span></a></li>
         <li><a href="post23/">Post 21 <span class="respostes">(10 respostes)</span></a></li>
         <li><a href="post24/">Post 22 <span class="respostes">(19 respostes)</span></a></li>
-        <li><a href="post25/">Post 23 <span class="respostes">(22 respostes)</span></a></li>
+        <li><a href="post25/" class="no-destacar">Post 23 <span class="respostes">(22 respostes)</span></a></li>
     </ul>
 
     <p><b>Posts Canvi Climàtic</b></p>
@@ -87,28 +86,24 @@
             const links = document.querySelectorAll('.post-list a');
 
             links.forEach(link => {
-                // 1. Actualitzar el paràmetre de la URL
                 const baseUrl = link.getAttribute('href').split('?')[0];
                 link.setAttribute('href', baseUrl + "?mode=" + mode);
                 
-                // 2. Neteja inicial: treure estrelles, negretes i fons seleccionats
                 link.classList.remove('escollit');
                 link.parentElement.classList.remove('li-escollit');
                 const existingStar = link.querySelector('.star');
                 if (existingStar) existingStar.remove();
 
-                // 3. Gestionar el span de les respostes
                 const span = link.querySelector('.respostes');
                 if (span) {
-                    // Desa el text original si no el tenim
                     if (!span.hasAttribute('data-orig')) {
                         span.setAttribute('data-orig', span.innerText);
                     }
                     const origText = span.getAttribute('data-orig');
 
-                    // Lògica segons el mode
                     if (mode === 'original') {
                         span.style.display = 'none';
+                        span.innerText = origText; 
                     } 
                     else if (mode === 'filtered') {
                         span.style.display = 'inline';
@@ -119,14 +114,14 @@
                         
                         const numMatch = origText.match(/\d+/);
                         const hasLinks = origText.toLowerCase().includes('links');
+                        const esExclusioManual = link.classList.contains('no-destacar');
 
                         if (numMatch) {
                             const num = parseInt(numMatch[0]);
                             if (num >= 16) {
                                 span.innerText = hasLinks ? "(16 respostes+links)" : "(16 respostes)";
                                 
-                                // Només estrella i negreta si no té links
-                                if (!hasLinks) {
+                                if (!hasLinks && !esExclusioManual) {
                                     link.classList.add('escollit');
                                     link.parentElement.classList.add('li-escollit');
                                     
@@ -144,7 +139,6 @@
             });
         }
 
-        // Executar en carregar
         window.onload = updateLinks;
     </script>
 </body>
