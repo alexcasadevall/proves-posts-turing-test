@@ -1,0 +1,162 @@
+{
+    "post_original": {
+        "agency": "INFOLIBRE",
+        "title": "El nuevo reglamento de extranjería permitirá regularizar a 900.000 migrantes en tres años",
+        "body": "El Consejo de Ministros ha aprobado este martes una reforma del reglamento de la ley de extranjería que reduce plazos y simplifica requisitos para regularizar a migrantes que viven en España sin papeles, del que podrían beneficiarse unas 300.000 personas cada año en los próximos tres años, según informa EFE.\n\nAsí lo ha señalado la ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, en la rueda de prensa posterior al Consejo de Ministros, en el que ha detallado los principales cambios de la que ha calificado como “la reforma más integral y ambiciosa“ de este texto desde que entró en vigor, hace 13 años.\n\nEntre sus novedades, esta modificación reduce el tiempo de permanencia en España necesario para acceder a las figuras de arraigo de tres a dos años, establece que todos los visados tendrán una duración inicial de un año, incorpora mecanismos de protección para los trabajadores migrantes de temporada y refuerza la reagrupación familiar.",
+        "author": "Alex",
+        "timestamp": 1778672998.589502
+    },
+    "num_participants": 9,
+    "messages": [
+        {
+            "id": "71497ed0-398f-41ef-9069-c049f20f1d7d",
+            "sender": "Alberto",
+            "text": "No veo cómo vamos a absorber a tanta gente de golpe sin colapsar los servicios públicos. Regularizar a casi un millón de personas es una cifra irreal que solo va a generar más presión sobre el sistema.",
+            "timestamp": 1778673026.257215,
+            "reply_to": null,
+            "reply_text": null,
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "06ba9f00-0e8a-42f2-9b1e-f162f9bd6e41",
+            "sender": "Irene",
+            "text": "no seas tan dramatico que no se va a colapsar nada. El problema no es la cantidad, sino q el plan es una farsa mal gestionada que va a dejar pasar cualquier fraude.",
+            "timestamp": 1778673066.399607,
+            "reply_to": "Alberto",
+            "reply_text": "No veo cómo vamos a absorber a tanta gente de golpe sin colapsar los servicios públicos. Regularizar a casi un millón de personas es una cifra irreal que solo va a generar más presión sobre el sistema.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "735ce3b3-5dff-411d-92fb-75c31589ca52",
+            "sender": "Cristina",
+            "text": "Más q el fraude, el problema es que estas medidas solo incentivan a que venga más gente sin papeles esperando que luego los regularicen. Es un círculo vicioso que no soluciona nada.",
+            "timestamp": 1778673099.168966,
+            "reply_to": "Irene",
+            "reply_text": "no seas tan dramatico que no se va a colapsar nada. El problema no es la cantidad, sino q el plan es una farsa mal gestionada que va a dejar pasar cualquier fraude.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "0e9aa262-8798-4e96-a6d1-662e4d7a6644",
+            "sender": "Sergio",
+            "text": "Que tonteria lo del circulo vicioso,es el cuento de siempre para asustar. Regularizar es lo logico y lo justo,pero decir q es un problema es una farsa.",
+            "timestamp": 1778673133.984265,
+            "reply_to": "Cristina",
+            "reply_text": "Más q el fraude, el problema es que estas medidas solo incentivan a que venga más gente sin papeles esperando que luego los regularicen. Es un círculo vicioso que no soluciona nada.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "47d66e9f-b0b5-4371-adeb-34eac9570f79",
+            "sender": "Oscar",
+            "text": "Que ingenuo eres Sergio. Es una farsa total q solo sirve pa saturar los servicios publicos y cargar con gente que no aporta nada. Menuda estupidez pensar que esto no es un problema!",
+            "timestamp": 1778673175.148025,
+            "reply_to": "Sergio",
+            "reply_text": "Que tonteria lo del circulo vicioso,es el cuento de siempre para asustar. Regularizar es lo logico y lo justo,pero decir q es un problema es una farsa.",
+            "is_mention": false,
+            "likes": 1
+        },
+        {
+            "id": "64714c7e-e372-431c-a61f-6fad9913a2e4",
+            "sender": "Carlos",
+            "text": "No es una farsa, Oscar. Regularizar a quien ya trabaja permite que coticen y aporten impuestos, lo cual es sentido común económico. El problema no es la regularización en sí, sino cómo gestionamos la presión sobre los servicios públicos.",
+            "timestamp": 1778673217.852846,
+            "reply_to": "Oscar",
+            "reply_text": "Que ingenuo eres Sergio. Es una farsa total q solo sirve pa saturar los servicios publicos y cargar con gente que no aporta nada. Menuda estupidez pensar que esto no es un problema!",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "ef961d46-a26b-4352-8a9e-9a1c2f575ce2",
+            "sender": "Alberto",
+            "text": "El problema es que el aporte fiscal no compensa la carga inmediata sobre la sanidad o la educación. No es cuestión de sentido común económico, sino de capacidad real de infraestructura y sostenibilidad a largo plazo.",
+            "timestamp": 1778673251.397356,
+            "reply_to": "Carlos",
+            "reply_text": "No es una farsa, Oscar. Regularizar a quien ya trabaja permite que coticen y aporten impuestos, lo cual es sentido común económico. El problema no es la regularización en sí, sino cómo gestionamos la presión sobre los servicios públicos.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "22f84d71-9441-4ad8-a5b4-c171145b8596",
+            "sender": "Sergio",
+            "text": "Menudo cuento lo de la infraestructura pa justificar el miedo. Es una farsa usar la sanidad como excusa cuando el problema es la gestión,no la gente.",
+            "timestamp": 1778673304.484878,
+            "reply_to": "Alberto",
+            "reply_text": "El problema es que el aporte fiscal no compensa la carga inmediata sobre la sanidad o la educación. No es cuestión de sentido común económico, sino de capacidad real de infraestructura y sostenibilidad a largo plazo.",
+            "is_mention": false,
+            "likes": 1
+        },
+        {
+            "id": "3d940ba1-bfe5-43bb-94ec-4abb22720585",
+            "sender": "Pilar",
+            "text": "Que ingenuo eres,Sergio. No es gestion,es q meter a miles de personas mas es una mierda pa el sistema y lo sabes. Estas ciego si no ves q colapsamos.",
+            "timestamp": 1778673361.404479,
+            "reply_to": "Sergio",
+            "reply_text": "Menudo cuento lo de la infraestructura pa justificar el miedo. Es una farsa usar la sanidad como excusa cuando el problema es la gestión,no la gente.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "5cb97fb8-3f99-456b-aa22-a6445b088f93",
+            "sender": "Paula",
+            "text": "No creo que colapsemos por la llegada de personas, sino por la falta de inversion real. El problema es que este reglamento es solo un parche administrativo q no trae los recursos necesarios para una integracion digna.",
+            "timestamp": 1778673414.566811,
+            "reply_to": "Pilar",
+            "reply_text": "Que ingenuo eres,Sergio. No es gestion,es q meter a miles de personas mas es una mierda pa el sistema y lo sabes. Estas ciego si no ves q colapsamos.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "9a44634c-eb5a-44b4-a048-bb10344ca40d",
+            "sender": "Cristina",
+            "text": "El problema es que no se trata solo de invertir más dinero. x mucha inversión que haya, hay un límite de capacidad real en las infraestructuras que no se soluciona con un reglamento.",
+            "timestamp": 1778673444.847329,
+            "reply_to": "Paula",
+            "reply_text": "No creo que colapsemos por la llegada de personas, sino por la falta de inversion real. El problema es que este reglamento es solo un parche administrativo q no trae los recursos necesarios para una integracion digna.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "feff3ce8-01a5-4b1d-b86a-52435f6e3a2c",
+            "sender": "Nuria",
+            "text": "Deja de soltar esas gilipolleces de la capacidad,Cristina,q solo son excusas pa ocultar vuestro racismo. El problema no es el reglamento, sino que os horroriza q la gente tenga papeles. Menuda farsa de argumento!",
+            "timestamp": 1778673479.687244,
+            "reply_to": "Cristina",
+            "reply_text": "El problema es que no se trata solo de invertir más dinero. x mucha inversión que haya, hay un límite de capacidad real en las infraestructuras que no se soluciona con un reglamento.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "e6f7147d-4f2a-4780-b701-f6524cb1c386",
+            "sender": "Alberto",
+            "text": "analizar la saturación de los servicios públicos no es racismo, es gestión básica. Se puede estar a favor de las personas y, aun así, reconocer que el sistema no soporta un volumen tan alto de regularizaciones.",
+            "timestamp": 1778673516.149253,
+            "reply_to": "Nuria",
+            "reply_text": "Deja de soltar esas gilipolleces de la capacidad,Cristina,q solo son excusas pa ocultar vuestro racismo. El problema no es el reglamento, sino que os horroriza q la gente tenga papeles. Menuda farsa de argumento!",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "3292d785-6810-4b22-b0fc-123bda8a4f01",
+            "sender": "Sergio",
+            "text": "Alberto, el problema no es la capacidad sino q este reglamento es un parche q no soluciona nada de fondo. No es cuestion de racismo, sino de que simplificar tramites sin una inversion real en servicios es un engaño.",
+            "timestamp": 1778673547.382253,
+            "reply_to": "Alberto",
+            "reply_text": "analizar la saturación de los servicios públicos no es racismo, es gestión básica. Se puede estar a favor de las personas y, aun así, reconocer que el sistema no soporta un volumen tan alto de regularizaciones.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "f02a9fdf-3750-401d-bfcd-6e5a41512df7",
+            "sender": "Cristina",
+            "text": "Hablar de gestión y capacidad no es racismo, es sentido común. Simplificar trámites no crea más centros de salud ni más aulas, así que al final es una medida vacía.",
+            "timestamp": 1778673599.50513,
+            "reply_to": "Sergio",
+            "reply_text": "Alberto, el problema no es la capacidad sino q este reglamento es un parche q no soluciona nada de fondo. No es cuestion de racismo, sino de que simplificar tramites sin una inversion real en servicios es un engaño.",
+            "is_mention": false,
+            "likes": 0
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <title>Pilot Platform Replication</title>
+    <link rel="stylesheet" href="../estils.css">
+</head>
+<body>
+    <div id="session-wrapper">
+        <div class="header">
+            <div style="display: flex; align-items: center; gap: 12px;">
+                <div style="background: #f1f5f9; padding: 8px; border-radius: 8px; display: flex;">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6366f1" stroke-width="2">
+                        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                    </svg>
+                </div>
+                <div>
+                    <div style="font-weight: 600; font-size: 14px; color: #1e293b;">Discussion Room</div>
+                    <div id="p-count" style="font-size: 12px; color: #64748b;">0 participants</div>
+                </div>
+            </div>
+            <div style="display: flex; align-items: center; gap: 6px; font-size: 12px; color: #64748b;">
+                <span style="height: 8px; width: 8px; background: #22c55e; border-radius: 50%;"></span> Connected
+            </div>
+        </div>
+
+        <div id="messages-container">
+            <div class="date-pill"><span>Today</span></div>
+            
+            <div class="news-card">
+                <div id="news-agency" style="font-size: 11px; color: #94a3b8; margin-bottom: 4px; text-transform: uppercase; font-weight: 600;">Loading...</div>
+                <div id="news-title" class="news-title"></div>
+                <div id="news-body" class="news-body"></div>
+                <div id="news-time" style="text-align: right; font-size: 11px; color: #94a3b8; margin-top: 10px;"></div>
+            </div>
+
+            <div id="reddit-messages"></div>
+        </div>
+    </div>
+
+    <script>
+        const COLORS = ['#6366f1', '#f59e0b', '#10b981', '#ef4444', '#0ea5e9', '#ec4899', '#8b5cf6'];
+        
+        async function start() {
+            // 1. Identificació de la carpeta: busquem el prefix "plat_post_"
+            const pathParts = window.location.pathname.split('/');
+            const folderName = pathParts.find(p => p.startsWith('plat_post_')) || 'plat_post_1';
+            
+            // 2. Extraiem el número (eliminem "plat_post_") per tenir el ID del post
+            const postNum = folderName.replace('plat_post_', '');
+            
+            const urlParams = new URLSearchParams(window.location.search);
+            const mode = urlParams.get('mode'); 
+
+            // 3. DETERMINACIÓ DEL FITXER
+            let fileName;
+            if (mode === 'original') {
+                fileName = `conversa_original_${postNum}.json`;
+            } else if (mode === 'limit16') {
+                fileName = `conversa_neta_limit16_${postNum}.json`;
+            } else {
+                // Per defecte: conversa_neta_plataforma1.json (si postNum és 1)
+                fileName = `conversa_neta_plataforma${postNum}.json`;
+            }
+
+            try {
+                const res = await fetch(fileName);
+                if (!res.ok) throw new Error("File not found");
+                const data = await res.json();
+
+                // Renderització de la notícia
+                if (data.post_original) {
+                    document.getElementById('news-agency').innerText = data.post_original.agency;
+                    document.getElementById('news-title').innerText = data.post_original.title;
+                    document.getElementById('news-body').innerText = data.post_original.body;
+                    const postTime = new Date(data.post_original.timestamp * 1000).toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
+                    document.getElementById('news-time').innerText = postTime;
+                }
+
+                document.getElementById('p-count').innerText = `${data.num_participants} participants`;
+
+                const list = document.getElementById('reddit-messages');
+                const userColors = {};
+                let cIdx = 0;
+
+                // Renderització de missatges
+                data.messages.forEach(m => {
+                    if(!userColors[m.sender]) { 
+                        userColors[m.sender] = COLORS[cIdx % COLORS.length]; 
+                        cIdx++; 
+                    }
+                    const col = userColors[m.sender];
+                    const replyCol = m.reply_to ? (userColors[m.reply_to] || '#cbd5e1') : null;
+
+                    const card = document.createElement('div');
+                    card.className = 'message-card';
+                    card.style.borderLeftColor = col;
+                    
+                    // LÒGICA DE CITA: Només si is_mention és true
+                    let quoteHtml = '';
+                    if (m.is_mention && m.reply_to) {
+                        quoteHtml = `
+                        <div class="quote" style="border-left-color: ${replyCol}">
+                            <div class="quote-user" style="color: ${replyCol}">${m.reply_to}</div>
+                            <div class="quote-text">${m.reply_text || "..."}</div>
+                        </div>`;
+                    }
+                    
+                    const t = new Date(m.timestamp * 1000).toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
+                    
+                    card.innerHTML = `
+                        <div class="msg-header">
+                            <div style="display:flex; align-items:center; gap:12px;">
+                                <div class="av" style="background:${col}">${m.sender[0]}</div>
+                                <span class="un" style="color:${col}">${m.sender}</span>
+                            </div>
+                            <span class="ts">${t}</span>
+                        </div>
+                        ${quoteHtml}
+                        <div class="msg-body">${m.text}</div>
+                        <div class="msg-footer">
+                            <span class="btn">Reply</span>
+                            <span class="btn" style="${m.likes > 0 ? 'color:#ef4444' : ''}">
+                                ${m.likes > 0 ? '❤️ ' + m.likes : 'Like'}
+                            </span>
+                            <span class="btn">Mention</span>
+                            <span class="btn">Report</span>
+                        </div>`;
+                    
+                    list.appendChild(card);
+                });
+            } catch (err) {
+                document.getElementById('reddit-messages').innerHTML = `<p style="padding:20px; color:red;">Error: ${err.message}. Buscant: ${fileName}</p>`;
+            }
+        }
+        start();
+    </script>
+</body>
+</html>
