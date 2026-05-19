@@ -1,0 +1,112 @@
+{
+    "post_original": {
+        "agency": "INFOLIBRE",
+        "title": "El nuevo reglamento de extranjería permitirá regularizar a 900.000 migrantes en tres años",
+        "body": "El Consejo de Ministros ha aprobado este martes una reforma del reglamento de la ley de extranjería que reduce plazos y simplifica requisitos para regularizar a migrantes que viven en España sin papeles, del que podrían beneficiarse unas 300.000 personas cada año en los próximos tres años, según informa EFE.\n\nAsí lo ha señalado la ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, en la rueda de prensa posterior al Consejo de Ministros, en el que ha detallado los principales cambios de la que ha calificado como “la reforma más integral y ambiciosa“ de este texto desde que entró en vigor, hace 13 años.\n\nEntre sus novedades, esta modificación reduce el tiempo de permanencia en España necesario para acceder a las figuras de arraigo de tres a dos años, establece que todos los visados tendrán una duración inicial de un año, incorpora mecanismos de protección para los trabajadores migrantes de temporada y refuerza la reagrupación familiar.",
+        "author": "Alex",
+        "timestamp": 1779189177.944942
+    },
+    "num_participants": 9,
+    "messages": [
+        {
+            "id": "61088642-da60-4811-9321-b28a5a33f8e6",
+            "sender": "Alberto",
+            "text": "Me parece un error simplificar los requisitos así. Solo vamos a colapsar los servicios públicos y no hay garantías reales de que se controle quién entra.",
+            "timestamp": 1779189201.674493,
+            "reply_to": null,
+            "reply_text": null,
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "5db4c246-d1bb-47cd-808e-a3af4b805318",
+            "sender": "Irene",
+            "text": "No digas tonterias, que el colapso de los servicios no es por los papeles sino por la gestion nefasta de siempre. Menuda farsa de argumento usar el miedo al control para todo.",
+            "timestamp": 1779189240.178226,
+            "reply_to": "Alberto",
+            "reply_text": "Me parece un error simplificar los requisitos así. Solo vamos a colapsar los servicios públicos y no hay garantías reales de que se controle quién entra.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "d19b7791-03b0-4874-98c5-0689ad838b3e",
+            "sender": "Oscar",
+            "text": "Que ingenuidad... creer que la gestion arregla que metan a casi un millon de personas sin control. Solo queremos mas caos y saturacion, es una farsa total.",
+            "timestamp": 1779189287.179438,
+            "reply_to": "Irene",
+            "reply_text": "No digas tonterias, que el colapso de los servicios no es por los papeles sino por la gestion nefasta de siempre. Menuda farsa de argumento usar el miedo al control para todo.",
+            "is_mention": true,
+            "likes": 1
+        },
+        {
+            "id": "30d140f3-c60f-4459-a684-47b47286b9d0",
+            "sender": "Carlos",
+            "text": "No creo que sea un caos total, pero sí dudo que la administración pueda gestionarlo eficientemente.",
+            "timestamp": 1779189323.531684,
+            "reply_to": "Oscar",
+            "reply_text": "Que ingenuidad... creer que la gestion arregla que metan a casi un millon de personas sin control. Solo queremos mas caos y saturacion, es una farsa total.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "b21d029b-be7b-4696-94df-8917763bddd3",
+            "sender": "Cristina",
+            "text": "Exacto, es imposible que la administración gestione tal volumen de personas sin perjudicar la calidad de los servicios.",
+            "timestamp": 1779189362.956641,
+            "reply_to": "Carlos",
+            "reply_text": "No creo que sea un caos total, pero sí dudo que la administración pueda gestionarlo eficientemente.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "7fec4886-d5c0-4716-8112-ec386ea6e5c8",
+            "sender": "Sergio",
+            "text": "El problema no es el volumen de gente,sino que llevan años asfixiando la administracion a proposito. No es q sea imposible gestionarlo, es que no hay voluntad politica de invertir lo necesario en los servicios publicos pa q funcionen. Se pasan la vida recortando presupuestos y luego se asombran de que la burocracia sea lenta. Me harta que siempre se culpe a la medida o al migrante cuando el verdadero fallo es la falta de recursos y el sabotaje institucional. Dejad de mirar la superficie; si los servicios saturan es por la gestion neoliberal de los fondos,no porque regularizar a la gente sea un error.",
+            "timestamp": 1779189402.177381,
+            "reply_to": "Cristina",
+            "reply_text": "Exacto, es imposible que la administración gestione tal volumen de personas sin perjudicar la calidad de los servicios.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "89b428a9-12ee-4cc2-8d5e-0b7f42284687",
+            "sender": "Pilar",
+            "text": "Que farsa!",
+            "timestamp": 1779189459.211966,
+            "reply_to": "Sergio",
+            "reply_text": "El problema no es el volumen de gente,sino que llevan años asfixiando la administracion a proposito. No es q sea imposible gestionarlo, es que no hay voluntad politica de invertir lo necesario en los servicios publicos pa q funcionen. Se pasan la vida recortando presupuestos y luego se asombran de que la burocracia sea lenta. Me harta que siempre se culpe a la medida o al migrante cuando el verdadero fallo es la falta de recursos y el sabotaje institucional. Dejad de mirar la superficie; si los servicios saturan es por la gestion neoliberal de los fondos,no porque regularizar a la gente sea un error.",
+            "is_mention": false,
+            "likes": 1
+        },
+        {
+            "id": "b3478a20-4d58-45ca-8afd-ed91aa9d6112",
+            "sender": "Irene",
+            "text": "No mezcles cosas. El problema es que regularizar a ciegas sin un control real de quién entra y quién se queda es un error administrativo garrafal.",
+            "timestamp": 1779189536.218663,
+            "reply_to": "Sergio",
+            "reply_text": "El problema no es el volumen de gente,sino que llevan años asfixiando la administracion a proposito. No es q sea imposible gestionarlo, es que no hay voluntad politica de invertir lo necesario en los servicios publicos pa q funcionen. Se pasan la vida recortando presupuestos y luego se asombran de que la burocracia sea lenta. Me harta que siempre se culpe a la medida o al migrante cuando el verdadero fallo es la falta de recursos y el sabotaje institucional. Dejad de mirar la superficie; si los servicios saturan es por la gestion neoliberal de los fondos,no porque regularizar a la gente sea un error.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "b0e2ee20-14b7-4e79-9c58-a5cbf101f21b",
+            "sender": "Rafa",
+            "text": "No es \"a ciegas\" ni mucho menos. Para regularizarse hay que demostrar arraigo, presentar papeles,pasar controles y acreditar q llevas tiempo aqui. No es q alguien llegue y le den el permiso asi porque si, hay todo un proceso administrativo detras con requisitos claros y comprobaciones. Es ridiculo decir q no hay control cuando la ley exige documentacion y plazos minimos de permanencia. Simplemente es una medida justa para gente q ya vive y trabaja aqui.",
+            "timestamp": 1779189585.473752,
+            "reply_to": "Irene",
+            "reply_text": "No mezcles cosas. El problema es que regularizar a ciegas sin un control real de quién entra y quién se queda es un error administrativo garrafal.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "4bf4f037-e9d1-43d1-b502-a0865ab47470",
+            "sender": "Nuria",
+            "text": "Vaya sarta de estupideces!",
+            "timestamp": 1779189618.608385,
+            "reply_to": "Irene",
+            "reply_text": "No mezcles cosas. El problema es que regularizar a ciegas sin un control real de quién entra y quién se queda es un error administrativo garrafal.",
+            "is_mention": true,
+            "likes": 0
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "post_original": {
+        "agency": "INFOLIBRE",
+        "title": "El nuevo reglamento de extranjería permitirá regularizar a 900.000 migrantes en tres años",
+        "body": "El Consejo de Ministros ha aprobado este martes una reforma del reglamento de la ley de extranjería que reduce plazos y simplifica requisitos para regularizar a migrantes que viven en España sin papeles, del que podrían beneficiarse unas 300.000 personas cada año en los próximos tres años, según informa EFE.\n\nAsí lo ha señalado la ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, en la rueda de prensa posterior al Consejo de Ministros, en el que ha detallado los principales cambios de la que ha calificado como “la reforma más integral y ambiciosa“ de este texto desde que entró en vigor, hace 13 años.\n\nEntre sus novedades, esta modificación reduce el tiempo de permanencia en España necesario para acceder a las figuras de arraigo de tres a dos años, establece que todos los visados tendrán una duración inicial de un año, incorpora mecanismos de protección para los trabajadores migrantes de temporada y refuerza la reagrupación familiar.",
+        "author": "Alex",
+        "timestamp": 1779186672.097134
+    },
+    "num_participants": 9,
+    "messages": [
+        {
+            "id": "884141bd-363f-404b-935c-46368597ac5b",
+            "sender": "Diego",
+            "text": "Me parece una medida muy pragmática. Esas personas ya están aquí y trabajan, así que regularizarlas ayuda a ordenar la situación y reduce la burocracia. Si se gestiona con seguimiento y recursos,es la mejor forma de integrarlos formalmente en la sociedad y en la economía.",
+            "timestamp": 1779186704.953014,
+            "reply_to": null,
+            "reply_text": null,
+            "is_mention": false,
+            "likes": 1
+        },
+        {
+            "id": "fc036dfb-0af9-4f85-b2f1-ce2871c53398",
+            "sender": "Sergio",
+            "text": "Menuda farsa de pragmatismo... Me parece ingenuo pensar q esto es \"ordenar\". Es un parche asqueroso para q las empresas sigan explotando a la gente con salarios de mierda pero ahora con un papelito q no sirve para nada. No es integracion, es darle el gusto al capital para que tengan mano de obra barata y legalizada sin cambiar el sistema podrido. Me irrita q vendais este cuento como la solucion perfecta cuando es una mediocridad absoluta. Menos optimismo barato y mas realismo sobre la precariedad,que aqui nos estan tomando el pelo a todos.",
+            "timestamp": 1779186750.324943,
+            "reply_to": "Diego",
+            "reply_text": "Me parece una medida muy pragmática. Esas personas ya están aquí y trabajan, así que regularizarlas ayuda a ordenar la situación y reduce la burocracia. Si se gestiona con seguimiento y recursos,es la mejor forma de integrarlos formalmente en la sociedad y en la economía.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "550d9210-067c-4f7f-b54d-fccf194cff12",
+            "sender": "Lucia",
+            "text": "No es un parche, tener papeles les da derechos legales y protección frente a la explotación laboral.",
+            "timestamp": 1779186786.851975,
+            "reply_to": "Sergio",
+            "reply_text": "Menuda farsa de pragmatismo... Me parece ingenuo pensar q esto es \"ordenar\". Es un parche asqueroso para q las empresas sigan explotando a la gente con salarios de mierda pero ahora con un papelito q no sirve para nada. No es integracion, es darle el gusto al capital para que tengan mano de obra barata y legalizada sin cambiar el sistema podrido. Me irrita q vendais este cuento como la solucion perfecta cuando es una mediocridad absoluta. Menos optimismo barato y mas realismo sobre la precariedad,que aqui nos estan tomando el pelo a todos.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "482a301d-22cf-4df5-a3fb-c064137127d4",
+            "sender": "Irene",
+            "text": "Qué inocencia... Tener un papel no significa que el Estado controle nada. La burocracia es lenta y las leyes no se cumplen solas.",
+            "timestamp": 1779186820.256188,
+            "reply_to": "Lucia",
+            "reply_text": "No es un parche, tener papeles les da derechos legales y protección frente a la explotación laboral.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "cb62d242-c55a-48ea-b295-e4e9b8921293",
+            "sender": "Oscar",
+            "text": "Menuda estupidez lo de los derechos... Regularizar a casi un millon de personas es una farsa para saturar los servicios publicos y cargar con gente que no pertenece aqui. Que ingenuos!",
+            "timestamp": 1779186862.444213,
+            "reply_to": "Lucia",
+            "reply_text": "No es un parche, tener papeles les da derechos legales y protección frente a la explotación laboral.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "069d703f-edbd-4714-bd39-9e33e7c95668",
+            "sender": "Rafa",
+            "text": "Menuda mierda de argumento el de saturar los servicios... Siempre salis con la misma historia basada en miedos absurdos. Es una farsa que el pais funcione gracias a esa gente mientras vosotros seguis con vuestro discurso rancio y cerrado. Dejad de soltar estupideces y empezad a entender que regularizarlos es lo logico y lo justo. Vuestra vision es tan limitada que dais pena, solo sabeis quejaros sin tener ni puta idea de como funciona la economia real.",
+            "timestamp": 1779186909.884483,
+            "reply_to": "Oscar",
+            "reply_text": "Menuda estupidez lo de los derechos... Regularizar a casi un millon de personas es una farsa para saturar los servicios publicos y cargar con gente que no pertenece aqui. Que ingenuos!",
+            "is_mention": true,
+            "likes": 1
+        },
+        {
+            "id": "5b8c0b3b-071a-4963-8ad6-5702584d7874",
+            "sender": "Nuria",
+            "text": "Menuda estupidez decir q no pertenecen aqui,se nota que el racismo te nubla la vista. Lo de saturar los servicios es la excusa de siempre para ocultar vuestro prejuicio. Vuestra mentalidad cerrada es la verdadera farsa, no la regularizacion.",
+            "timestamp": 1779186943.135741,
+            "reply_to": "Oscar",
+            "reply_text": "Menuda estupidez lo de los derechos... Regularizar a casi un millon de personas es una farsa para saturar los servicios publicos y cargar con gente que no pertenece aqui. Que ingenuos!",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "7e230747-d00a-4db3-8e11-89f8990caae6",
+            "sender": "Carlos",
+            "text": "No creo que cuestionar el plan sea necesariamente racismo. Se puede estar a favor de los migrantes y, aun así, pensar que regularizar a tanta gente de golpe es un error organizativo. El problema es práctico: más presión sobre el alquiler, los centros de salud y la gestión administrativa que ya está colapsada. No es una cuestión de prejuicios, sino de capacidad real de servicios para que todo funcione bien para todos.",
+            "timestamp": 1779186998.534425,
+            "reply_to": "Nuria",
+            "reply_text": "Menuda estupidez decir q no pertenecen aqui,se nota que el racismo te nubla la vista. Lo de saturar los servicios es la excusa de siempre para ocultar vuestro prejuicio. Vuestra mentalidad cerrada es la verdadera farsa, no la regularizacion.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "3ae9de87-5b15-432a-8134-300f56b36483",
+            "sender": "Diego",
+            "text": "Entiendo tu punto, pero regularizarlos ayuda precisamente a aliviar el sistema. Al salir de la economía sumergida, pagan impuestos y cotizan,lo que aporta más recursos pa sanidad y servicios públicos que tenerlos en la invisibilidad.",
+            "timestamp": 1779187055.161852,
+            "reply_to": "Carlos",
+            "reply_text": "No creo que cuestionar el plan sea necesariamente racismo. Se puede estar a favor de los migrantes y, aun así, pensar que regularizar a tanta gente de golpe es un error organizativo. El problema es práctico: más presión sobre el alquiler, los centros de salud y la gestión administrativa que ya está colapsada. No es una cuestión de prejuicios, sino de capacidad real de servicios para que todo funcione bien para todos.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "93005444-59a9-4f40-9eb5-1fccf1828914",
+            "sender": "Sergio",
+            "text": "Que coticen no es el problema,el problema es que este reglamento sigue siendo una herramienta burocrática que no ataca el fondo de la precariedad. Regularizar a un grupo no sirve de nada si las condiciones laborales siguen siendo deplorables y el acceso a la vivienda es imposible para cualquier trabajador. Me parece q nos quedamos en la superficie al hablar de impuestos cuando lo que necesitamos es una política migratoria estructural que garantice derechos reales y no solo un trámite administrativo. Esta reforma es insuficiente porque no desmantela las causas que hacen q el migrante sea el eslabón más débil del mercado laboral.",
+            "timestamp": 1779187118.854805,
+            "reply_to": "Diego",
+            "reply_text": "Entiendo tu punto, pero regularizarlos ayuda precisamente a aliviar el sistema. Al salir de la economía sumergida, pagan impuestos y cotizan,lo que aporta más recursos pa sanidad y servicios públicos que tenerlos en la invisibilidad.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "b1a70032-926c-48cb-970c-89414e76f872",
+            "sender": "Pilar",
+            "text": "Menuda farsa de analisis. Eres un ingenuo si crees que esto ayuda; es una regalada total q solo colapsa el pais. Que vergüenza de gestion!",
+            "timestamp": 1779187151.113674,
+            "reply_to": "Sergio",
+            "reply_text": "Que coticen no es el problema,el problema es que este reglamento sigue siendo una herramienta burocrática que no ataca el fondo de la precariedad. Regularizar a un grupo no sirve de nada si las condiciones laborales siguen siendo deplorables y el acceso a la vivienda es imposible para cualquier trabajador. Me parece q nos quedamos en la superficie al hablar de impuestos cuando lo que necesitamos es una política migratoria estructural que garantice derechos reales y no solo un trámite administrativo. Esta reforma es insuficiente porque no desmantela las causas que hacen q el migrante sea el eslabón más débil del mercado laboral.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "5b1b1e0b-d99f-43c4-9e25-94592e5c948e",
+            "sender": "Lucia",
+            "text": "No creo que sea una farsa. Regularizar a estas personas permite que tengan contratos legales y seguridad social, lo que evita la precariedad y ayuda a que el sistema sea más justo y sostenible para todos.",
+            "timestamp": 1779187196.704601,
+            "reply_to": "Pilar",
+            "reply_text": "Menuda farsa de analisis. Eres un ingenuo si crees que esto ayuda; es una regalada total q solo colapsa el pais. Que vergüenza de gestion!",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "58247d32-02c6-4f6d-b278-24d7d0e08733",
+            "sender": "Diego",
+            "text": "No es ninguna farsa. Al regularizar a estas personas,pasan a cotizar y pagar impuestos, lo que refuerza los servicios publicos en lugar de colapsarlos. Es una medida pragmatica contra la precariedad.",
+            "timestamp": 1779187226.95561,
+            "reply_to": "Pilar",
+            "reply_text": "Menuda farsa de analisis. Eres un ingenuo si crees que esto ayuda; es una regalada total q solo colapsa el pais. Que vergüenza de gestion!",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "19494fbd-b237-41bd-a627-ac3403ed947a",
+            "sender": "Irene",
+            "text": "Que ingenuidad. Cotizar no arregla el caos de gestion ni el fraude sistemico.",
+            "timestamp": 1779187277.597681,
+            "reply_to": "Diego",
+            "reply_text": "No es ninguna farsa. Al regularizar a estas personas,pasan a cotizar y pagar impuestos, lo que refuerza los servicios publicos en lugar de colapsarlos. Es una medida pragmatica contra la precariedad.",
+            "is_mention": true,
+            "likes": 0
+        }
+    ]
+}
