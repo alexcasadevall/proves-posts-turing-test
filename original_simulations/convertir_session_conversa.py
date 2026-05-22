@@ -111,7 +111,7 @@ def convertir_sessio_a_conversa_neta(ruta_entrada, ruta_sortida):
         json.dump(conversa_neta, f, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
-    fitxers = glob.glob('sessio8.json')
+    fitxers = glob.glob('sessio*.json')
     for f_in in fitxers:
         n = os.path.basename(f_in).replace('sessio', '').replace('.json', '')
         f_out = f'conversa_neta_plataforma{n}.json'

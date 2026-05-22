@@ -14,10 +14,10 @@
             "sender": "Miguel",
             "real_author": "[deleted]",
             "text": "Desde un punto de vista ecológico y técnico, la energía nuclear es buena idea para cubrir el suministro mínimo de la red.   Los coches eléctricos tampoco son una solución viable para el cambio climático. Lo que hace falta en el ámbito del transporte es depender menos del automóvil. Es una forma de transporte increíblemente ineficiente y derrochadora.   En general lo que hace falta es cambiar el modo de producción en general. No tiene sentido prohibir los coches de combustión interna o las bolsas de plástico si después se les permite a las empresas crear productos baratos y que duran una mierda porque así venden más a menudo y mantienen mayores beneficios.",
-            "timestamp": 1713518309.0,
+            "timestamp": 1713516754.0,
             "reply_to": null,
             "reply_text": "",
-            "likes": 4
+            "likes": 0
         },
         {
             "id": "l09vcpc",
@@ -25,10 +25,10 @@
             "sender": "Paula",
             "real_author": "Ramoncin",
             "text": "Puede que sea conveniente recurrir más a la nuclear si se quire recortar las cifras de co2, pero... ¡¿ecológico?!",
-            "timestamp": 1713518621.0,
+            "timestamp": 1713516786.0,
             "reply_to": "Miguel",
             "reply_text": "Desde un punto de vista ecológico y técnico, la energía nuclear es buena idea para cubrir el suministro mínimo de la red. Los coches eléctricos tampoco son una solución viable para el cambio climático...",
-            "likes": 2
+            "likes": 0
         },
         {
             "id": "l09vody",
@@ -36,7 +36,7 @@
             "sender": "Clara",
             "real_author": "MisterFor",
             "text": "Mira que no me gusta la nuclear, pero es bastante más ecológico que todos los residuos de los paneles solares y molinos.  El problema es que si tienes un accidente o guerra es una movida de la hostia",
-            "timestamp": 1713518861.0,
+            "timestamp": 1713516816.0,
             "reply_to": "Paula",
             "reply_text": "Puede que sea conveniente recurrir más a la nuclear si se quire recortar las cifras de co2, pero... ¡¿ecológico?!",
             "likes": 0
@@ -47,10 +47,10 @@
             "sender": "Paula",
             "real_author": "Ramoncin",
             "text": "Los residuos de los paneles solares y molinos no tardan siglos en ser inocuos...",
-            "timestamp": 1713520010.0,
+            "timestamp": 1713516838.0,
             "reply_to": "Clara",
             "reply_text": "Mira que no me gusta la nuclear, pero es bastante más ecológico que todos los residuos de los paneles solares y molinos. El problema es que si tienes un accidente o guerra es una movida de la hostia",
-            "likes": 2
+            "likes": 0
         },
         {
             "id": "l09xlhf",
@@ -58,10 +58,10 @@
             "sender": "Sergi",
             "real_author": "zetadgp",
             "text": "Si tenemos en cuenta todo el impacto ambiental de todas las tecnologías, la nuclear posiblemente es la que menos impacto tiene.  A nivel de materias primas usa poca cantidad de uranio, que una mina nunca es buena para el ecosistema, pero es poca cantidad la que se necesita por cada MWh.  Los paneles solares y los aerogeneradores usan muchos más metales y algunos de muy dificil extracción -como el Dy o Nd en los imanes permanentes de los aerogeneradores- que tienen un mayor impacto minero.  A nivel de terreno usado, la nuclear de lejos es la que menos superficie ocupa por MWh.  En cuanto a los residuos nucleares, existe la capacidad -pero no lo hacemos en España, se lo damos a Francia o UK para que lo hagan ellos- de \"reciclar\" el combustible usado, convertilo en combustible nuevo (lo que reduce la cantidad de nuevo uranio y por tanto impacto ambiental causado), este nuevo combustible reciclado una vez usado, es mucho menos radiactivo que el combustible original, sí, hay que enterrarlo y es peligroso, pero muchisisisimo menos, además de reducir el volumen de residuos en un factor 10 creo recordar.  Los problemas siguen ahí, pero muchas veces una central genera menos residuos en un año, que lo que se tira a vertederos de palas de aerogeneradores obsoletos o paneles solares, actualmente reciclar combustible nuclear es más barato y sencillo que reciclar la eolica y solar",
-            "timestamp": 1713520250.0,
+            "timestamp": 1713516854.0,
             "reply_to": "Paula",
             "reply_text": "Puede que sea conveniente recurrir más a la nuclear si se quire recortar las cifras de co2, pero... ¡¿ecológico?!",
-            "likes": 3
+            "likes": 0
         },
         {
             "id": "l09xvll",
@@ -69,10 +69,10 @@
             "sender": "Marc",
             "real_author": "C_h_a_n",
             "text": "Esta una comparación tramposa ya que se contabiliza el coste completo de fabricación de paneles y molinos pero no el de las centrales nucleares ni de los cementerios, solo los residuos directos.",
-            "timestamp": 1713520447.0,
+            "timestamp": 1713516880.0,
             "reply_to": "Clara",
             "reply_text": "Mira que no me gusta la nuclear, pero es bastante más ecológico que todos los residuos de los paneles solares y molinos. El problema es que si tienes un accidente o guerra es una movida de la hostia",
-            "likes": 6
+            "likes": 1
         },
         {
             "id": "l09z4lu",
@@ -80,10 +80,10 @@
             "sender": "Clara",
             "real_author": "MisterFor",
             "text": "Aunque los contases, una central, especialmente de las modernas, contaminaría menos porque dura muchísimos más años y son más resistentes. La eólica no dura nada, y la solar como empieces a tener altas temperaturas o granizo a tomar por culo.  Es mucho más cara, dependes de terceros países y peligrosa, pero en cuanto residuos es bastante menos aún sumando todo. Los paneles solares son basura tóxica generada en masa y que en 15 años, o menos, no valen para nada. Una central nuclear te dura 40-50 años.  Yo personalmente no quiero nucleares porque es un peligro y una dependencia muy grande de países no amigos. Y tampoco queremos hacer esa minería y procesado en España… Pero al Cesar lo que es del César.",
-            "timestamp": 1713521306.0,
+            "timestamp": 1713516926.0,
             "reply_to": "Marc",
             "reply_text": "Esta una comparación tramposa ya que se contabiliza el coste completo de fabricación de paneles y molinos pero no el de las centrales nucleares ni de los cementerios, solo los residuos directos.",
-            "likes": 5
+            "likes": 0
         },
         {
             "id": "l09z686",
@@ -91,10 +91,10 @@
             "sender": "Clara",
             "real_author": "MisterFor",
             "text": "¿Como que no? A ver si te crees que están hechos de madera y flores…",
-            "timestamp": 1713521336.0,
+            "timestamp": 1713516974.0,
             "reply_to": "Paula",
             "reply_text": "Los residuos de los paneles solares y molinos no tardan siglos en ser inocuos...",
-            "likes": 2
+            "likes": 0
         },
         {
             "id": "l0a006y",
@@ -102,10 +102,10 @@
             "sender": "Helena",
             "real_author": "_ssac_",
             "text": "Debería haber impuestos sobre los productos que luego generan sobre costo extra al herario público.    Si no me confundo, parte de la altos impuestos sobre el tabaco se justificaron porque luego generan altos gastos a sanidad.   Si un producto contamina mucho tras su uso, y requiere un dinero el tratarlo, veo razonable que tenga un impuesto diferente a uno que hace la misma función y no contamina tanto.",
-            "timestamp": 1713521889.0,
+            "timestamp": 1713517013.0,
             "reply_to": "Miguel",
             "reply_text": "Desde un punto de vista ecológico y técnico, la energía nuclear es buena idea para cubrir el suministro mínimo de la red. Los coches eléctricos tampoco son una solución viable para el cambio climático...",
-            "likes": 6
+            "likes": 1
         },
         {
             "id": "l0a00en",
@@ -113,10 +113,10 @@
             "sender": "Alex",
             "real_author": "sparky_roboto",
             "text": "Muy de acuerdo, el artículo da a entender que oponerse al coche eléctrico como solución al cambio climático es malo. Pero el vehículo privado en si mismo es la peor alternativa al transporte. Una buena red de transporte público más vehículos de último-km  es el sistema más eficiente de transporte.  Es como cuando te venden los coches autónomos como la solución al tráfico. Un autobús es equivalente a 49 coches autónomos y uno con conductor pero solo ocupa el espacio de 3 o 4 coches. Dime que es mejor para el tráfico.",
-            "timestamp": 1713521893.0,
+            "timestamp": 1713517063.0,
             "reply_to": "Miguel",
             "reply_text": "Desde un punto de vista ecológico y técnico, la energía nuclear es buena idea para cubrir el suministro mínimo de la red. Los coches eléctricos tampoco son una solución viable para el cambio climático...",
-            "likes": 6
+            "likes": 0
         },
         {
             "id": "l0a0je9",
@@ -124,10 +124,10 @@
             "sender": "Helena",
             "real_author": "_ssac_",
             "text": "A nivel de ecosistema, hace más daño la actividad humana que la radiación. Fíjate en Chernobyl: ahora hay más lobos que antes.     Y es relativamente cerca en el tiempo. Probablemente con más años, el contraste será aún mayor, las especies salvajes se adaptaran mejor a la radiación y se hable de esa zona como reserva natural. Si es que no hay quién ya lo haga.",
-            "timestamp": 1713522233.0,
+            "timestamp": 1713517085.0,
             "reply_to": "Paula",
             "reply_text": "Los residuos de los paneles solares y molinos no tardan siglos en ser inocuos...",
-            "likes": 4
+            "likes": 0
         },
         {
             "id": "l0adhnx",
@@ -135,10 +135,10 @@
             "sender": "Miguel",
             "real_author": "[deleted]",
             "text": "Como usuario del transporte publico, te digo una cosa, no es igual de practico en una ciudad que en el campo.      De mi pueblo a santiago en coche me planto en 15 mins. En autobus es 1 hora.      Me encantaria que mejoraran las lineas, frecuencias y tal, pero al mismo tiempo, como tengas prisa, el transporte publico no es ni de lejos lo mas optimo.     Por eso, esta bien que se amplie, que lo hagamos mas comodo, y que mantengamos buenos precios (cosa que no pasa, por que con la excusa del AVE ahora en galicia Orense-Santiago  ha pasado de valer 14€ a 51€ de la noche a la mañana)",
-            "timestamp": 1713529181.0,
+            "timestamp": 1713517116.0,
             "reply_to": "Alex",
             "reply_text": "Muy de acuerdo, el artículo da a entender que oponerse al coche eléctrico como solución al cambio climático es malo. Pero el vehículo privado en si mismo es la peor alternativa al transporte. Una buen...",
-            "likes": 6
+            "likes": 0
         },
         {
             "id": "l0adosv",
@@ -146,7 +146,7 @@
             "sender": "Miguel",
             "real_author": "[deleted]",
             "text": "Tampoco se contabiliza que vienen a galicia a cortar bosques milenarios para poner 5 molinos que no alimentan ni a la comarca donde los ponen.      Despues nos preguntamos que por que el Jabalí anda suelto por nuestras calles, sabes.",
-            "timestamp": 1713529270.0,
+            "timestamp": 1713517147.0,
             "reply_to": "Marc",
             "reply_text": "Esta una comparación tramposa ya que se contabiliza el coste completo de fabricación de paneles y molinos pero no el de las centrales nucleares ni de los cementerios, solo los residuos directos.",
             "likes": 0
@@ -157,10 +157,10 @@
             "sender": "Alex",
             "real_author": "sparky_roboto",
             "text": "También como usuario de transporte público en mi experiencia te digo que depende. Existe mucho espacio de mejora para el transporte público en zonas menos densas. Cuando vivía en Ourense trabajaba en un polígono industrial con 2-3k personas más y había un autobús que pasaba cada hora y ya. Total cada mañana cogía el coche para hacer 15 minutos que en autobús podríahn haber sido 20-25 si hubiera una frecuencia aceptable.  La clave del transporte público es que tenga un coste similar o más bajo al coche, sea fiable y regular. Con eso la gente lo usaría.    Como residente de paises bajos he cogido el tren a pesar de que tarda más que el coche simplemente porque es más cómodo y menos estresante. Hablamos de 1 hora de trayecto en vez de 35 minutos en coche.  De todas maneras el transporte público no tiene que funcionar para el 100% de las personas, es imposible. Pero si que para el 80% de las personas sería suficiente y la mayoría de las personas viven en ciudades.",
-            "timestamp": 1713529984.0,
+            "timestamp": 1713517207.0,
             "reply_to": "Miguel",
             "reply_text": "Como usuario del transporte publico, te digo una cosa, no es igual de practico en una ciudad que en el campo. De mi pueblo a santiago en coche me planto en 15 mins. En autobus es 1 hora. Me encantaria...",
-            "likes": 3
+            "likes": 0
         },
         {
             "id": "l0ag3uw",
@@ -168,10 +168,10 @@
             "sender": "Miguel",
             "real_author": "[deleted]",
             "text": "No es exactamente asi, en chernobyl se murieron todos los bichos, y cuando la radiación fue bajando, hay animales que volvieron a ocupar la zona ya que ahora nada les molesta. Es verdad que a nivel de diversidad vino bien, pero no es que se hayan adaptado a la radioactividad, les afecta igual que a nosotros, pero según tengo entendido nosotros ya podriamos vivir en chernobyl sin muchos problemas, sobre todo a corto plazo.",
-            "timestamp": 1713530347.0,
+            "timestamp": 1713517250.0,
             "reply_to": "Helena",
             "reply_text": "A nivel de ecosistema, hace más daño la actividad humana que la radiación. Fíjate en Chernobyl: ahora hay más lobos que antes. Y es relativamente cerca en el tiempo. Probablemente con más años, el con...",
-            "likes": 6
+            "likes": 0
         },
         {
             "id": "l0agh71",
@@ -179,10 +179,10 @@
             "sender": "Miguel",
             "real_author": "[deleted]",
             "text": "Siempre se habla de resiudos y demás, pero a mi lo que mas me preocupa de la nuclear es la extracción de uranio. Tengo que decir que hablo sin ser un experto, pero vi poca información al respecto, y la que vi no me hizo mucha gracia. Aun asi estoy a favor de la nuclear porque viene bien para reducir el co2, que es el problema mas urgente que tenemos.",
-            "timestamp": 1713530508.0,
+            "timestamp": 1713517278.0,
             "reply_to": "Clara",
             "reply_text": "Mira que no me gusta la nuclear, pero es bastante más ecológico que todos los residuos de los paneles solares y molinos. El problema es que si tienes un accidente o guerra es una movida de la hostia",
-            "likes": 4
+            "likes": 0
         },
         {
             "id": "l0aijdr",
@@ -190,10 +190,10 @@
             "sender": "Miguel",
             "real_author": "[deleted]",
             "text": "Exacto, tiene que ser una opcion igual o mas comoda que el coche, para que sera realmente rentable.",
-            "timestamp": 1713531391.0,
+            "timestamp": 1713517332.0,
             "reply_to": "Alex",
             "reply_text": "También como usuario de transporte público en mi experiencia te digo que depende. Existe mucho espacio de mejora para el transporte público en zonas menos densas. Cuando vivía en Ourense trabajaba en ...",
-            "likes": 5
+            "likes": 0
         },
         {
             "id": "l0athch",
@@ -201,10 +201,10 @@
             "sender": "Helena",
             "real_author": "_ssac_",
             "text": "Que se murieran inicialmente no quita que ahora haya más. Cómo dijiste, sigue habiendo radiación y, con esos niveles, y los futuros, la población que esté viviendo allí poco a poco se irá adaptando cada vez más. Cómo ha pasado siempre, y seguirá pasando.",
-            "timestamp": 1713535669.0,
+            "timestamp": 1713517365.0,
             "reply_to": "Miguel",
             "reply_text": "No es exactamente asi, en chernobyl se murieron todos los bichos, y cuando la radiación fue bajando, hay animales que volvieron a ocupar la zona ya que ahora nada les molesta. Es verdad que a nivel de...",
-            "likes": 4
+            "likes": 0
         },
         {
             "id": "l0bsghz",
@@ -212,10 +212,10 @@
             "sender": "Juan",
             "real_author": "Salmopacho",
             "text": "Lo mismo me pasa a mí. Mi oficina está a casi 60 km de mi casa, y tengo dos opciones: el autocar y el coche. El autocar no es ya que únicamente llegue al pueblo de al lado de donde está la oficina a la misma hora a la que entro (a las 10:00, porque no hay ninguno más temprano), sino que el otro bus de línea que hace de enlace no sale hasta una hora después (llegaría a las 11:15 o así); encima, a la vuelta tampoco me da tiempo a nada, porque salgo a las 17:00 pero no alcanzo a coger el mismo bus de línea más autocar, sino que tendría que esperarme a la siguiente ronda (llegando a mi casa a las 21:30. Repito, ¡saliendo de trabajar a las 17:00!). Así que, sintiéndolo mucho, tanto por mí porque no me gusta conducir como por las consecuencias que conlleva ir en vehículo privado, esa es la única opción de la que dispongo por ahora.  Ojo, y eso que en mi ciudad las frecuencias de autocares son rey comparadas con las de tren. Hace meses estuve mirando horarios de tren por si me tocaba ir a la capital vecina a trabajar; bueno, pues el primer tren era a las 06:00 y pico de la mañana y los dos siguientes ya por la tarde. Es que así cómo va a optar la ciudadanía por el transporte público, macho.",
-            "timestamp": 1713547701.0,
+            "timestamp": 1713517424.0,
             "reply_to": "Miguel",
             "reply_text": "Como usuario del transporte publico, te digo una cosa, no es igual de practico en una ciudad que en el campo. De mi pueblo a santiago en coche me planto en 15 mins. En autobus es 1 hora. Me encantaria...",
-            "likes": 4
+            "likes": 0
         },
         {
             "id": "l0evqj8",
@@ -223,10 +223,10 @@
             "sender": "Lucía",
             "real_author": "snolodjur",
             "text": "Preparando habitantes para marte 😂 la adaptación comienza en chernobyl",
-            "timestamp": 1713595009.0,
+            "timestamp": 1713517470.0,
             "reply_to": "Helena",
             "reply_text": "Que se murieran inicialmente no quita que ahora haya más. Cómo dijiste, sigue habiendo radiación y, con esos niveles, y los futuros, la población que esté viviendo allí poco a poco se irá adaptando ca...",
-            "likes": 5
+            "likes": 0
         },
         {
             "id": "l0fbrwa",
@@ -234,10 +234,10 @@
             "sender": "Dani",
             "real_author": "D-AlonsoSariego",
             "text": "Ningún proceso productivo necesita que sus residuos se liberen al medio ambiente. La mayoría, por no decir todos, se podrían tratar o almacenar de tal forma que no supusieran un problema, pero a las empresas les sale más barato tirarlo por ahí. Si no hubiera tantas regulación sobre la energía nuclear ya te digo yo que muy limpia no era",
-            "timestamp": 1713604933.0,
+            "timestamp": 1713517497.0,
             "reply_to": "Clara",
             "reply_text": "¿Como que no? A ver si te crees que están hechos de madera y flores…",
-            "likes": 4
+            "likes": 0
         },
         {
             "id": "l0fg75f",
@@ -245,10 +245,10 @@
             "sender": "Clara",
             "real_author": "MisterFor",
             "text": "El problema es almacenar hectáreas y hectáreas de paneles solares.",
-            "timestamp": 1713607816.0,
+            "timestamp": 1713517519.0,
             "reply_to": "Dani",
             "reply_text": "Ningún proceso productivo necesita que sus residuos se liberen al medio ambiente. La mayoría, por no decir todos, se podrían tratar o almacenar de tal forma que no supusieran un problema, pero a las e...",
-            "likes": 4
+            "likes": 0
         },
         {
             "id": "l0fgoq1",
@@ -256,10 +256,10 @@
             "sender": "Dani",
             "real_author": "D-AlonsoSariego",
             "text": "Los paneles solares son reciclabes. Me remito otra vez a que a las empresas les sale más rentable tirarlos por ahí que en molestarse en hacerlo",
-            "timestamp": 1713608125.0,
+            "timestamp": 1713517542.0,
             "reply_to": "Clara",
             "reply_text": "El problema es almacenar hectáreas y hectáreas de paneles solares.",
-            "likes": 5
+            "likes": 0
         },
         {
             "id": "l0pmj7h",
@@ -267,7 +267,7 @@
             "sender": "Sílvia",
             "real_author": "umbium",
             "text": "Una central nuclear dura lo que quieras, pero sus componentes no, estás generando residuos \"ingenieriles\" también, y aparte del residuo nuclear. Por no hablar de que para el combustible nuclear también dependemos de terceros países y su transporte.   La comunidad científica tiene consenso en utilizar las centrales existentes como energía de soporte para la transición a cero hidrocarburos. Pero casi nadie salvo que esté untado, aboga por crear más centrales nucleares.",
-            "timestamp": 1713771294.0,
+            "timestamp": 1713517561.0,
             "reply_to": "Clara",
             "reply_text": "Aunque los contases, una central, especialmente de las modernas, contaminaría menos porque dura muchísimos más años y son más resistentes. La eólica no dura nada, y la solar como empieces a tener alta...",
             "likes": 0
@@ -278,10 +278,10 @@
             "sender": "Sílvia",
             "real_author": "umbium",
             "text": "El combustible nuclear no se recicla, se deshecha. A pesar de que se use para varios ciclos, esos ciclos extra necesitan otro compuesto para reusar el uranio.  Mi crítica va sobre crear más centrales. Estoy a favor de usar las que ya se tienen como energía de soporte. El uranio, además, no es nada abundante y hay que importarlo, si incrementamos la producción de centrales nucleares en el planeta, a ver cuánto tardamos en agotarlo, o en que haya más tragedias, porque claro, ese material radioactivo hay que transportarlo. No sé a quien le apetece tener más densidad de camiones transportando material radioactivo en el país (y paga el coste de ello).  Y por último, está el tema de que construir una central nuclear es unos 10 años, si la transición a dejar de usar hidrocarburos necesita ser rápida, crear más centrales no es la solución.",
-            "timestamp": 1713771668.0,
+            "timestamp": 1713517604.0,
             "reply_to": "Sergi",
             "reply_text": "Si tenemos en cuenta todo el impacto ambiental de todas las tecnologías, la nuclear posiblemente es la que menos impacto tiene. A nivel de materias primas usa poca cantidad de uranio, que una mina nun...",
-            "likes": 3
+            "likes": 0
         },
         {
             "id": "l0puk8k",
@@ -289,7 +289,7 @@
             "sender": "Sergi",
             "real_author": "zetadgp",
             "text": "Las pastillas de uranio enriquecido una vez completado un ciclo nuclear tienen aun más de un 96% de uranio no utilizado, al menos en reactores lentos, de ese combustible usado se puede separar el uranio, el plutonio y el resto de actinidos.  Si separas ese combustible en vez de tirarlo y guardarlo bajo tierra tienes nuevo combustible nuclear, que reduce la cantidad de uranio nuevo que necesitas. Si a este combustible nuevo que es una mezcla de óxidos de actinidos, lo metes en un reactor rápido puedes \"quemar\" la gran mayoria del combustible, de manera que al terminar el segundo ciclo apenas tienes residuos que enterrar. Reduces cantidad total y tiempo que son radiactivos.  En España hay Uranio, las minas seguramente se cargarían el ecosistema, pero haberlo haylo. De manera que los móviles que usamos se están cargando el ecosistema del Congo por el Coltán, o contaminando ríos y arrasando terreno para el procesado de tierras raras.  El uranio que transporta combustible nuclear es nimiamente radiactivo. El uranio puro -sin enriquecer- es menos radiactivo que el granito que cubre muchos puntos de la península, como galicia, zamora o la sierra de Madrid. Por lo que el argumento de que se transporta más camiones con sustancias radiactivas no viene a cuento, para la fabricación de michrocips se usan agentes químicos super tóxicos que producen cancer y no veo a nadie poner el grito en el cielo de que cada vez usamos más microchips y por tanto hay más peligro en camiones circulando.  Efectivamente, la construcción de una central nuclear lleva tiempo, puede ser más corta que 10 años, pero no vamos a mentirnos y decir que se hace en una noche. Pero la razón de muchos países de apostar por la nuclear es por su capacidad de generar energía de manera constante independientemente de las condiciones climaticas. Otros paises apuestan por baterías, que son a día de hoy más caras, y no se sabe si aguantarán los ciclos de carga y descarga de manera óptima, pero eso ya es una decisión en base a si crees que esa tecnología será más económica en el futuro o no, los que apuestan por la nuclear se la juegan a que les vaya bien, los que apoyan una cantidad masiva de baterias hacen lo propio",
-            "timestamp": 1713777460.0,
+            "timestamp": 1713517630.0,
             "reply_to": "Sílvia",
             "reply_text": "El combustible nuclear no se recicla, se deshecha. A pesar de que se use para varios ciclos, esos ciclos extra necesitan otro compuesto para reusar el uranio. Mi crítica va sobre crear más centrales. ...",
             "likes": 0

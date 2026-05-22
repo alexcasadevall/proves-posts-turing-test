@@ -14,10 +14,10 @@
             "sender": "Miguel",
             "real_author": "B_Spaceman",
             "text": "Anda ya, yo he visto un video del youtube que dice que vienen aquí a llevarse las ayudas",
-            "timestamp": 1576411960.0,
+            "timestamp": 1576411174.0,
             "reply_to": null,
             "reply_text": "",
-            "likes": 6
+            "likes": 1
         },
         {
             "id": "faz7fnq",
@@ -25,7 +25,7 @@
             "sender": "Helena",
             "real_author": "firminmet",
             "text": "Vienen a vivir del cuento y de las ayudas, pero también a quitarnos el trabajo. Los inmigrantes de Schrödinger.",
-            "timestamp": 1576412814.0,
+            "timestamp": 1576411210.0,
             "reply_to": "Miguel",
             "reply_text": "Anda ya, yo he visto un video del youtube que dice que vienen aquí a llevarse las ayudas",
             "likes": 0
@@ -36,10 +36,10 @@
             "sender": "Sílvia",
             "real_author": "NombreGracioso",
             "text": "Esto de que haya gente que se fíe más de los datos oficiales que de los YouTubers... de verdad, a dónde vamos a ir a parar...",
-            "timestamp": 1576416327.0,
+            "timestamp": 1576411268.0,
             "reply_to": "Miguel",
             "reply_text": "Anda ya, yo he visto un video del youtube que dice que vienen aquí a llevarse las ayudas",
-            "likes": 3
+            "likes": 0
         },
         {
             "id": "fb0lrc8",
@@ -47,10 +47,10 @@
             "sender": "Alex",
             "real_author": "Meandmyrandomname",
             "text": "No empezará por D y terminará por alasReview",
-            "timestamp": 1576427191.0,
+            "timestamp": 1576411317.0,
             "reply_to": "Miguel",
             "reply_text": "Anda ya, yo he visto un video del youtube que dice que vienen aquí a llevarse las ayudas",
-            "likes": 6
+            "likes": 1
         },
         {
             "id": "fb0pr6z",
@@ -58,10 +58,10 @@
             "sender": "Juan",
             "real_author": "LordGuille",
             "text": "Solo de leer ese nombre me da asco, la verdad. Dejé de verlo antes de la controversia porque tenía algo que me ponía incómodo y cuando me enteré ni me sorprendió. Está ahora haciendo contenido facha a lo pewdiepie o qué?",
-            "timestamp": 1576428177.0,
+            "timestamp": 1576411356.0,
             "reply_to": "Alex",
             "reply_text": "No empezará por D y terminará por alasReview",
-            "likes": 6
+            "likes": 0
         },
         {
             "id": "fb0vy2i",
@@ -69,10 +69,10 @@
             "sender": "Paula",
             "real_author": "gustavoladron",
             "text": "Sí, me acuerdo que hace poco instó a sus fans españoles a votar por Vox.  Él vive en Irlanda.",
-            "timestamp": 1576429768.0,
+            "timestamp": 1576411391.0,
             "reply_to": "Juan",
             "reply_text": "Solo de leer ese nombre me da asco, la verdad. Dejé de verlo antes de la controversia porque tenía algo que me ponía incómodo y cuando me enteré ni me sorprendió. Está ahora haciendo contenido facha a...",
-            "likes": 3
+            "likes": 0
         },
         {
             "id": "fb17hco",
@@ -80,10 +80,10 @@
             "sender": "Clara",
             "real_author": "Sky-is-here",
             "text": "Es el único partido no aliade o algo así dijo. Hijo de la gran puta",
-            "timestamp": 1576433149.0,
+            "timestamp": 1576411446.0,
             "reply_to": "Paula",
             "reply_text": "Sí, me acuerdo que hace poco instó a sus fans españoles a votar por Vox. Él vive en Irlanda.",
-            "likes": 3
+            "likes": 0
         },
         {
             "id": "fb4a3gf",
@@ -91,10 +91,10 @@
             "sender": "Marc",
             "real_author": "umbium",
             "text": "Espera al video que se pongan en plan Gervasio Deferr con estos datos para hacerlo ver más grave de lo que es.",
-            "timestamp": 1576504859.0,
+            "timestamp": 1576411506.0,
             "reply_to": "Miguel",
             "reply_text": "Anda ya, yo he visto un video del youtube que dice que vienen aquí a llevarse las ayudas",
-            "likes": 4
+            "likes": 0
         },
         {
             "id": "fb4a700",
@@ -102,10 +102,10 @@
             "sender": "Marc",
             "real_author": "umbium",
             "text": "No jodas XDDDD es un grande Dalas, una parodia de si mismo.",
-            "timestamp": 1576504914.0,
+            "timestamp": 1576411552.0,
             "reply_to": "Paula",
             "reply_text": "Sí, me acuerdo que hace poco instó a sus fans españoles a votar por Vox. Él vive en Irlanda.",
-            "likes": 5
+            "likes": 0
         },
         {
             "id": "fb4a9ch",
@@ -113,10 +113,10 @@
             "sender": "Marc",
             "real_author": "umbium",
             "text": "Es que los datos oficiales están manipulados por los gobiernos y los medios /s",
-            "timestamp": 1576504952.0,
+            "timestamp": 1576411601.0,
             "reply_to": "Sílvia",
             "reply_text": "Esto de que haya gente que se fíe más de los datos oficiales que de los YouTubers... de verdad, a dónde vamos a ir a parar...",
-            "likes": 1
+            "likes": 0
         }
     ]
 }

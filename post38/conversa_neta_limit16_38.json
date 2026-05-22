@@ -14,10 +14,10 @@
             "sender": "Miguel",
             "real_author": "[deleted]",
             "text": "¿Y que medida quieren que tome una panadería? ¿Cocinar el pan con la mirada?",
-            "timestamp": 1672909585.0,
+            "timestamp": 1672909432.0,
             "reply_to": null,
             "reply_text": "",
-            "likes": 5
+            "likes": 0
         },
         {
             "id": "j315axo",
@@ -25,10 +25,10 @@
             "sender": "Alex",
             "real_author": "tsaimaitreya",
             "text": "Claro este dato en si mismo no dice mucho",
-            "timestamp": 1672911870.0,
+            "timestamp": 1672909473.0,
             "reply_to": "Miguel",
             "reply_text": "¿Y que medida quieren que tome una panadería? ¿Cocinar el pan con la mirada?",
-            "likes": 5
+            "likes": 0
         },
         {
             "id": "j315oj4",
@@ -36,10 +36,10 @@
             "sender": "Helena",
             "real_author": "remeruscomunus",
             "text": "Claro, la mayoría de las Pymes (y de las empresas de españa) son oficinas o tiendas. Lo único que pueden hacer es bajar el aire acondicionado y apagar más luces, lo cual ya hacen normalmente si quieren reducir gastos.",
-            "timestamp": 1672912169.0,
+            "timestamp": 1672909499.0,
             "reply_to": "Miguel",
             "reply_text": "¿Y que medida quieren que tome una panadería? ¿Cocinar el pan con la mirada?",
-            "likes": 6
+            "likes": 1
         },
         {
             "id": "j317ls3",
@@ -47,10 +47,10 @@
             "sender": "Juan",
             "real_author": "Visual_Traveler",
             "text": "Hay muchísimas medidas que pueden tomar, como usar hornos más eficientes que no disipen el calor de forma innecesaria (calor disipado = energía desperdiciada), trabajar con proveedores que a su vez tengan políticas de ahorro energético, acondicionar mejor sus locales para mejorar su eficiencia energética, etc, etc.  Casi cualquier tipo de negocio puede hacer cambios en ese sentido.",
-            "timestamp": 1672913701.0,
+            "timestamp": 1672909556.0,
             "reply_to": "Miguel",
             "reply_text": "¿Y que medida quieren que tome una panadería? ¿Cocinar el pan con la mirada?",
-            "likes": 2
+            "likes": 0
         },
         {
             "id": "j31bj6r",
@@ -58,7 +58,7 @@
             "sender": "Paula",
             "real_author": "Breakin7",
             "text": "Todo eso que mencionas requiere una inversion sustancial",
-            "timestamp": 1672916753.0,
+            "timestamp": 1672909613.0,
             "reply_to": "Juan",
             "reply_text": "Hay muchísimas medidas que pueden tomar, como usar hornos más eficientes que no disipen el calor de forma innecesaria (calor disipado = energía desperdiciada), trabajar con proveedores que a su vez te...",
             "likes": 0
@@ -69,10 +69,10 @@
             "sender": "Juan",
             "real_author": "Visual_Traveler",
             "text": "Más inversión requerirá, a todos los niveles, cuando el cambio climático pegue fuerte. Hay cosas que muchos negocios pueden ir haciendo y no son tan costosas:",
-            "timestamp": 1672918810.0,
+            "timestamp": 1672909633.0,
             "reply_to": "Paula",
             "reply_text": "Todo eso que mencionas requiere una inversion sustancial",
-            "likes": 1
+            "likes": 0
         },
         {
             "id": "j31g4td",
@@ -80,10 +80,10 @@
             "sender": "Paula",
             "real_author": "Breakin7",
             "text": "Menuda tonteria, Paco el panadero puede desembolsar mucho dinero en un horno y 100 cosas mas que mientras grandes empresas y estados no hagan nada lo de Paco sera tirar dinero, ademas con un poco de suerte los efectos son leves hasta que palme Paco y todos los que actualmente tienen empresas.",
-            "timestamp": 1672919923.0,
+            "timestamp": 1672909681.0,
             "reply_to": "Juan",
             "reply_text": "Más inversión requerirá, a todos los niveles, cuando el cambio climático pegue fuerte. Hay cosas que muchos negocios pueden ir haciendo y no son tan costosas:",
-            "likes": 4
+            "likes": 0
         },
         {
             "id": "j31jzqh",
@@ -91,10 +91,10 @@
             "sender": "Miguel",
             "real_author": "[deleted]",
             "text": "Claro que si, gastemos el 99% del presupuesto de la gente en ahorrar un 0.05% del cambio climático.  Así seguro que solucionamos el problema.",
-            "timestamp": 1672922334.0,
+            "timestamp": 1672909719.0,
             "reply_to": "Juan",
             "reply_text": "Más inversión requerirá, a todos los niveles, cuando el cambio climático pegue fuerte. Hay cosas que muchos negocios pueden ir haciendo y no son tan costosas:",
-            "likes": 6
+            "likes": 1
         },
         {
             "id": "j31l13x",
@@ -102,10 +102,10 @@
             "sender": "Juan",
             "real_author": "Visual_Traveler",
             "text": "No, mejor sigamos haciéndolo todo igual, que seguro que así desparece el problema por arte de magia.",
-            "timestamp": 1672922940.0,
+            "timestamp": 1672909738.0,
             "reply_to": "Miguel",
             "reply_text": "Claro que si, gastemos el 99% del presupuesto de la gente en ahorrar un 0.05% del cambio climático. Así seguro que solucionamos el problema.",
-            "likes": 6
+            "likes": 0
         },
         {
             "id": "j31lgrd",
@@ -113,10 +113,10 @@
             "sender": "Juan",
             "real_author": "Visual_Traveler",
             "text": "Paco, el panadero, ya ha visto lo que pasa cuando hay guerra en un país y suben los precios de las materias primas.  Pues que se imagine lo que va a pasar cuando las cosechas a nivel mundial empiecen a estar afectadas seriamente por el cambio climático y la escasez de agua.",
-            "timestamp": 1672923183.0,
+            "timestamp": 1672909786.0,
             "reply_to": "Paula",
             "reply_text": "Menuda tonteria, Paco el panadero puede desembolsar mucho dinero en un horno y 100 cosas mas que mientras grandes empresas y estados no hagan nada lo de Paco sera tirar dinero, ademas con un poco de s...",
-            "likes": 1
+            "likes": 0
         },
         {
             "id": "j31mvs1",
@@ -124,10 +124,10 @@
             "sender": "Paula",
             "real_author": "Breakin7",
             "text": "Pero vamos a ver y cambiar dos cosas en su local va a cambiar ese futuro catastrofista? Ya te lo respondo yo, no, y encima ha gastado en un local que estara desasbastecido.",
-            "timestamp": 1672923965.0,
+            "timestamp": 1672909835.0,
             "reply_to": "Juan",
             "reply_text": "Paco, el panadero, ya ha visto lo que pasa cuando hay guerra en un país y suben los precios de las materias primas. Pues que se imagine lo que va a pasar cuando las cosechas a nivel mundial empiecen a...",
-            "likes": 4
+            "likes": 0
         },
         {
             "id": "j31nerw",
@@ -135,10 +135,10 @@
             "sender": "Miguel",
             "real_author": "[deleted]",
             "text": "Una pena que suspendieras matemáticas. Pero si no tienes nivel suficiente mejor no comentes.",
-            "timestamp": 1672924242.0,
+            "timestamp": 1672909882.0,
             "reply_to": "Juan",
             "reply_text": "No, mejor sigamos haciéndolo todo igual, que seguro que así desparece el problema por arte de magia.",
-            "likes": 1
+            "likes": 0
         },
         {
             "id": "j31nqig",
@@ -146,10 +146,10 @@
             "sender": "Juan",
             "real_author": "Visual_Traveler",
             "text": "Hay que cambiar muchas cosas, a todos los niveles, micro y macro. Está claro que sin el cambio macro no se va a resolver el problema, pero sin el micro, tampoco. Y luego, cuando los gobiernos intentan adoptar medidas macro, las empresas de todo tamaño son las primeras en quejarse. Así no vamos más que de cabeza al desastre, y no será que no llevan décadas avisando los científicos.",
-            "timestamp": 1672924414.0,
+            "timestamp": 1672909929.0,
             "reply_to": "Paula",
             "reply_text": "Pero vamos a ver y cambiar dos cosas en su local va a cambiar ese futuro catastrofista? Ya te lo respondo yo, no, y encima ha gastado en un local que estara desasbastecido.",
-            "likes": 4
+            "likes": 0
         },
         {
             "id": "j31vidy",
@@ -157,10 +157,10 @@
             "sender": "Sílvia",
             "real_author": "ProgTorero",
             "text": "Pegar fuerte pegará independentemente de lo que hagamos. Y lo que surgieres si es costoso.  Ya pagamos mas y empobrezemos a los pobres más para un problema futuro hipotetico que ni sí quiera podemos cambiar.",
-            "timestamp": 1672928132.0,
+            "timestamp": 1672909979.0,
             "reply_to": "Juan",
             "reply_text": "Más inversión requerirá, a todos los niveles, cuando el cambio climático pegue fuerte. Hay cosas que muchos negocios pueden ir haciendo y no son tan costosas:",
-            "likes": 3
+            "likes": 0
         },
         {
             "id": "j32agzu",
@@ -168,10 +168,10 @@
             "sender": "Marc",
             "real_author": "On_The_Road_13",
             "text": "Bueno. Tal vez le parezca una tontería pero las inversiones de todo tipo son algo bastante más complejo de lo wue usted pretende ¿por qué lo lía todo? Cualquier inversión necesaria lleva implicita mejora en impacto ambiental y reducción de coste energético. Usted pretende liarnos.",
-            "timestamp": 1672934234.0,
+            "timestamp": 1672909995.0,
             "reply_to": "Paula",
             "reply_text": "Menuda tonteria, Paco el panadero puede desembolsar mucho dinero en un horno y 100 cosas mas que mientras grandes empresas y estados no hagan nada lo de Paco sera tirar dinero, ademas con un poco de s...",
-            "likes": 6
+            "likes": 0
         },
         {
             "id": "j32bylx",
@@ -179,7 +179,7 @@
             "sender": "Marc",
             "real_author": "On_The_Road_13",
             "text": "¿Futuro catastrofista? Eso se lo he oído a los trolls anticambio climático. ¿Es usted de esa especie? A ellos al nenos les pagan por intoxicar el ambiente, es un trabajo como otro cualquiera. Tal vez sea usted tan joven que crea que las temperaturas o la sequía o la deforestación actuales es lo habitual",
-            "timestamp": 1672934803.0,
+            "timestamp": 1672910034.0,
             "reply_to": "Paula",
             "reply_text": "Pero vamos a ver y cambiar dos cosas en su local va a cambiar ese futuro catastrofista? Ya te lo respondo yo, no, y encima ha gastado en un local que estara desasbastecido.",
             "likes": 0
