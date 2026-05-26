@@ -1,0 +1,172 @@
+{
+    "post_original": {
+        "agency": "LA VANGUARDIA",
+        "title": "El Gobierno aprueba la reforma que facilita incorporar extranjeros al mercado laboral",
+        "body": "El Gobierno ha aprobado este martes en Consejo de Ministros la reforma del reglamento de Extranjería por la que se facilita la incorporación de los extranjeros al mercado de trabajo. \n\n“Por la propia naturaleza del fenómeno subyacente es imposible hacer una estimación que tampoco es el objetivo de la reforma. El objetivo es modernizar el modelo migratorio para que se propicie la migración regular y segura en toda circunstancia“, ha explicado el ministro de Inclusión, Seguridad Social y Migraciones, José Luis Escrivá, este martes en la rueda de prensa posterior a la reunión del Consejo de Ministros. \n\nEntre las medidas que se incluyen en la reforma, Escrivá ha destacado que “se racionalizan y actualizan las figuras del arraigo social y laboral y por reagrupación familiar“ y “se crea una nueva figura de arraigo por formación“ que va a permitir a migrantes que lleven dos años en España y quieran formarse en profesiones particularmente deficitarias, que puedan hacerlo. \n\nAdemás, ha precisado que se corrige una “anomalía“ que había en España pues se va a “facilitar el trabajo al terminar sus estudios a 50.000 extranjeros“; y ha añadido que también se modernizan los requisitos de acceso al trabajo autónomo, que eran “extraordinariamente complejos“. \n\n Igualmente, se “reformula“ el catálogo de ocupaciones particularmente demandadas “para que se puedan generar contrataciones en origen en las situaciones que así lo justifiquen por la evolución del mercado laboral“ y se “perfecciona el modelo de migración estacional (circular)“, todo ello acompañado de “una mejora en la gestión reduciendo trámites y haciendo que las cargas administrativas sean más razonables“, tal y como ha puntualizado Escrivá.",
+        "author": "Alex",
+        "timestamp": 1779789481.461692
+    },
+    "num_participants": 9,
+    "messages": [
+        {
+            "id": "a19ef7c4-5575-4bef-a4e4-4707a3d84109",
+            "sender": "Alberto",
+            "text": "Tienes razón, al final esto solo sirve para abaratar costes laborales y saturar aún más los servicios públicos. No creo que tengan un plan real para gestionar tanta presión sobre la infraestructura del país.",
+            "timestamp": 1779789507.259353,
+            "reply_to": null,
+            "reply_text": null,
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "8c617f0d-6027-4276-b9e2-9aca95f5b75a",
+            "sender": "Irene",
+            "text": "Qué visión tan limitada... es obvio q hace falta modernizar el mercado para cubrir puestos q nadie quiere, aunque este plan sea una chapuza llena de huecos para el fraude.",
+            "timestamp": 1779789545.651925,
+            "reply_to": "Alberto",
+            "reply_text": "Tienes razón, al final esto solo sirve para abaratar costes laborales y saturar aún más los servicios públicos. No creo que tengan un plan real para gestionar tanta presión sobre la infraestructura del país.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "5e95f234-f5f2-4826-8930-3a014be09143",
+            "sender": "Oscar",
+            "text": "Menuda farsa de reforma... Solo sirve para colapsar los servicios y poner en riesgo la seguridad. Es una vergüenza como venden el pais!",
+            "timestamp": 1779789584.160793,
+            "reply_to": "Irene",
+            "reply_text": "Qué visión tan limitada... es obvio q hace falta modernizar el mercado para cubrir puestos q nadie quiere, aunque este plan sea una chapuza llena de huecos para el fraude.",
+            "is_mention": false,
+            "likes": 1
+        },
+        {
+            "id": "85bbb52f-a305-4eb0-bff1-7a1e699ee2ba",
+            "sender": "Diego",
+            "text": "Creo q modernizar el acceso al trabajo es fundamental para regularizar una realidad q ya existe. Facilitar q los graduados trabajen y cubrir sectores deficitarios ayuda a la economía y ordena mucho mejor la gestión migratoria.",
+            "timestamp": 1779789618.195448,
+            "reply_to": "Oscar",
+            "reply_text": "Menuda farsa de reforma... Solo sirve para colapsar los servicios y poner en riesgo la seguridad. Es una vergüenza como venden el pais!",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "d595aa54-370b-48e3-bbce-d5cd55a4a2a2",
+            "sender": "Cristina",
+            "text": "No creo que ayude. Solo distorsiona el mercado laboral y satura más los servicios públicos.",
+            "timestamp": 1779789653.4878,
+            "reply_to": "Diego",
+            "reply_text": "Creo q modernizar el acceso al trabajo es fundamental para regularizar una realidad q ya existe. Facilitar q los graduados trabajen y cubrir sectores deficitarios ayuda a la economía y ordena mucho mejor la gestión migratoria.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "cbd89565-6189-43f8-8e96-3615b8f66214",
+            "sender": "Sergio",
+            "text": "Decir q distorsiona el mercado es no tener ni idea de la realidad. Esos trabajadores ya estan aqui, trabajando en sectores que nadie quiere tocar y sosteniendo la economia en la sombra. Regularizarlos no es crear un problema,es dejar de ignorar que ya existen y darles la dignidad que merecen. El problema no es la llegada de gente,sino q el Gobierno se conforma con estos parches mediocres en lugar de hacer una reforma migratoria valiente y profunda de una vez.",
+            "timestamp": 1779789701.557218,
+            "reply_to": "Cristina",
+            "reply_text": "No creo que ayude. Solo distorsiona el mercado laboral y satura más los servicios públicos.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "bc8dbefc-519a-445b-aa0b-a3688a0d6ada",
+            "sender": "Pilar",
+            "text": "Que farsa!",
+            "timestamp": 1779789730.800451,
+            "reply_to": "Sergio",
+            "reply_text": "Decir q distorsiona el mercado es no tener ni idea de la realidad. Esos trabajadores ya estan aqui, trabajando en sectores que nadie quiere tocar y sosteniendo la economia en la sombra. Regularizarlos no es crear un problema,es dejar de ignorar que ya existen y darles la dignidad que merecen. El problema no es la llegada de gente,sino q el Gobierno se conforma con estos parches mediocres en lugar de hacer una reforma migratoria valiente y profunda de una vez.",
+            "is_mention": false,
+            "likes": 1
+        },
+        {
+            "id": "70a8c94a-02d0-4d29-b7b5-df0b36cd4f80",
+            "sender": "Nuria",
+            "text": "Que mierda de argumentos los de algunos. Es pura hipocresia para tapar un racismo rancio y obvio.",
+            "timestamp": 1779789775.491166,
+            "reply_to": "Pilar",
+            "reply_text": "Que farsa!",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "8a9c0b22-d19c-4b58-bf32-997c9b6667e9",
+            "sender": "Alberto",
+            "text": "No se trata de prejuicios, sino de capacidad real. Abrir las puertas sin planificación solo conlleva una mayor presión sobre la sanidad y la educación, además de precarizar los salarios.",
+            "timestamp": 1779789830.314032,
+            "reply_to": "Nuria",
+            "reply_text": "Que mierda de argumentos los de algunos. Es pura hipocresia para tapar un racismo rancio y obvio.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "6aa47f8f-82d7-4a93-8e62-74819d887ba3",
+            "sender": "Irene",
+            "text": "El problema no es la llegada de gente,sino que el Gobierno lo gestione tan mal que sea un caos administrativo. Decir que colapsara todo es exagerar, aunque con este plan tan mal atado el fraude este servido.",
+            "timestamp": 1779789885.119626,
+            "reply_to": "Alberto",
+            "reply_text": "No se trata de prejuicios, sino de capacidad real. Abrir las puertas sin planificación solo conlleva una mayor presión sobre la sanidad y la educación, además de precarizar los salarios.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "7ce44a16-197d-4166-9756-8ea8842c381a",
+            "sender": "Rafa",
+            "text": "El caos real es tener a miles de personas trabajando en la sombra y sin derechos ahora mismo. El problema no es la reforma, sino q los ignoramos. Regularizar es la unica forma de poner orden y acabar con la precariedad. Ver fraudes donde hay necesidad es tipico de quien no quiere entender que este pais necesita a esos trabajadores ya.",
+            "timestamp": 1779789919.229811,
+            "reply_to": "Irene",
+            "reply_text": "El problema no es la llegada de gente,sino que el Gobierno lo gestione tan mal que sea un caos administrativo. Decir que colapsara todo es exagerar, aunque con este plan tan mal atado el fraude este servido.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "a9869fb2-3843-4918-9c02-92f2ab8ac434",
+            "sender": "Cristina",
+            "text": "Regularizar no soluciona la falta de infraestructura. Es un error creer que mas gente es siempre la solucion.",
+            "timestamp": 1779789953.463213,
+            "reply_to": "Rafa",
+            "reply_text": "El caos real es tener a miles de personas trabajando en la sombra y sin derechos ahora mismo. El problema no es la reforma, sino q los ignoramos. Regularizar es la unica forma de poner orden y acabar con la precariedad. Ver fraudes donde hay necesidad es tipico de quien no quiere entender que este pais necesita a esos trabajadores ya.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "3c24c622-fecd-41e8-a309-169ec4047dbf",
+            "sender": "Oscar",
+            "text": "Que ingenuidad tan absurda. Regularizar no quita la precariedad,solo colapsa mas el sistema. Vender ese cuento es una farsa para ignorar el desastre que estamos creando.",
+            "timestamp": 1779789990.441271,
+            "reply_to": "Rafa",
+            "reply_text": "El caos real es tener a miles de personas trabajando en la sombra y sin derechos ahora mismo. El problema no es la reforma, sino q los ignoramos. Regularizar es la unica forma de poner orden y acabar con la precariedad. Ver fraudes donde hay necesidad es tipico de quien no quiere entender que este pais necesita a esos trabajadores ya.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "a301e1f3-7c30-4085-a195-2d1f3cb4e196",
+            "sender": "Sergio",
+            "text": "Hablar de farsa es muy fácil cuando ignoras q este país se mantiene en pie gracias a la explotación de gente sin papeles. Es absurdo decir que colapsa el sistema cuando el sistema ya es un desastre porque prefiere la precariedad invisible. El problema es que hay gente que solo ve números y no personas,defendiendo una ceguera ideológica total mientras se benefician de un trabajo que no quieren reconocer.",
+            "timestamp": 1779790026.622684,
+            "reply_to": "Oscar",
+            "reply_text": "Que ingenuidad tan absurda. Regularizar no quita la precariedad,solo colapsa mas el sistema. Vender ese cuento es una farsa para ignorar el desastre que estamos creando.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "37181c2d-f655-4e5b-b8cb-d5d140669f80",
+            "sender": "Pilar",
+            "text": "Menudo cuento chino... que zurdo mas ingenuo y ridiculo!",
+            "timestamp": 1779790077.630479,
+            "reply_to": "Sergio",
+            "reply_text": "Hablar de farsa es muy fácil cuando ignoras q este país se mantiene en pie gracias a la explotación de gente sin papeles. Es absurdo decir que colapsa el sistema cuando el sistema ya es un desastre porque prefiere la precariedad invisible. El problema es que hay gente que solo ve números y no personas,defendiendo una ceguera ideológica total mientras se benefician de un trabajo que no quieren reconocer.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "4ff5d67e-00e8-4deb-b983-954fb19207c9",
+            "sender": "Nuria",
+            "text": "Que patetico es leer a gente tan cerrada. Vuestras etiquetas son una mierda para ocultar vuestro racismo rancio.",
+            "timestamp": 1779790109.764157,
+            "reply_to": "Pilar",
+            "reply_text": "Menudo cuento chino... que zurdo mas ingenuo y ridiculo!",
+            "is_mention": false,
+            "likes": 0
+        }
+    ]
+}
