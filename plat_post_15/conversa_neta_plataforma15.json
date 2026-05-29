@@ -167,36 +167,6 @@
             "reply_text": "Que panda de imbeciles! Solo venden mentiras pa engañarnos.",
             "is_mention": false,
             "likes": 0
-        },
-        {
-            "id": "02f54790-da3d-40a2-9f8d-eb688746a497",
-            "sender": "Alberto",
-            "text": "Este informe es una puta farsa diseñada para maquillarlo todo. Es patético que pretendan pasarnos este cuento mientras la realidad en las calles es otra totalmente distinta.",
-            "timestamp": 1779875539.333718,
-            "reply_to": "Irene",
-            "reply_text": "Es una farsa totalingmente manipulada por el gobierno pa tapar su propia incompetencia gestionando las fronteras. Estos informes son una puta broma diseñada para que los burócratas sigan durmiendo la siesta mientras el control es un caos.",
-            "is_mention": false,
-            "likes": 0
-        },
-        {
-            "id": "2868055f-0de8-4a77-8c4b-ac85902f5ca6",
-            "sender": "Diego",
-            "text": "Los datos son claros y muestran q la gran mayoria de los inmigrantes trabajan y contribuyen al sistema. Es fundamental basarnos en estas cifras reales para gestionar la integracion con recursos y un seguimiento serio.",
-            "timestamp": 1779875590.537344,
-            "reply_to": "Alberto",
-            "reply_text": "Este informe es una puta farsa diseñada para maquillarlo todo. Es patético que pretendan pasarnos este cuento mientras la realidad en las calles es otra totalmente distinta.",
-            "is_mention": false,
-            "likes": 0
-        },
-        {
-            "id": "34974c8a-3525-496b-bc09-c066a781ef22",
-            "sender": "Cristina",
-            "text": "Las estadísticas oficiales suelen ignorar la realidad del día a día laboral.",
-            "timestamp": 1779875630.088847,
-            "reply_to": "Diego",
-            "reply_text": "Los datos son claros y muestran q la gran mayoria de los inmigrantes trabajan y contribuyen al sistema. Es fundamental basarnos en estas cifras reales para gestionar la integracion con recursos y un seguimiento serio.",
-            "is_mention": false,
-            "likes": 0
         }
     ]
 }
