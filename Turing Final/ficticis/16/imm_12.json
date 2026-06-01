@@ -1,0 +1,172 @@
+{
+    "post_original": {
+        "agency": "LA VANGUARDIA",
+        "title": "El Gobierno aprueba la reforma que facilita incorporar extranjeros al mercado laboral",
+        "body": "El Gobierno ha aprobado este martes en Consejo de Ministros la reforma del reglamento de Extranjería por la que se facilita la incorporación de los extranjeros al mercado de trabajo. \n\n“Por la propia naturaleza del fenómeno subyacente es imposible hacer una estimación que tampoco es el objetivo de la reforma. El objetivo es modernizar el modelo migratorio para que se propicie la migración regular y segura en toda circunstancia“, ha explicado el ministro de Inclusión, Seguridad Social y Migraciones, José Luis Escrivá, este martes en la rueda de prensa posterior a la reunión del Consejo de Ministros. \n\nEntre las medidas que se incluyen en la reforma, Escrivá ha destacado que “se racionalizan y actualizan las figuras del arraigo social y laboral y por reagrupación familiar“ y “se crea una nueva figura de arraigo por formación“ que va a permitir a migrantes que lleven dos años en España y quieran formarse en profesiones particularmente deficitarias, que puedan hacerlo. \n\nAdemás, ha precisado que se corrige una “anomalía“ que había en España pues se va a “facilitar el trabajo al terminar sus estudios a 50.000 extranjeros“; y ha añadido que también se modernizan los requisitos de acceso al trabajo autónomo, que eran “extraordinariamente complejos“. \n\n Igualmente, se “reformula“ el catálogo de ocupaciones particularmente demandadas “para que se puedan generar contrataciones en origen en las situaciones que así lo justifiquen por la evolución del mercado laboral“ y se “perfecciona el modelo de migración estacional (circular)“, todo ello acompañado de “una mejora en la gestión reduciendo trámites y haciendo que las cargas administrativas sean más razonables“, tal y como ha puntualizado Escrivá.",
+        "author": "Alex",
+        "timestamp": 1780055497.0723
+    },
+    "num_participants": 7,
+    "messages": [
+        {
+            "id": "647f45eb-6272-4b65-b3ad-bb74788f7cb1",
+            "sender": "Hugo",
+            "text": "Me preocupa q falten garantias reales.",
+            "timestamp": 1780055519.20297,
+            "reply_to": null,
+            "reply_text": null,
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "48810012-1a42-4616-938c-d8b1cd451ff5",
+            "sender": "Emma",
+            "text": "Más que un riesgo,creo q es una herramienta para gestionar una realidad que ya existe. Regular el arraigo y actualizar las profesiones demandadas ayuda a q la migración sea más ordenada y justa,reduciendo la precariedad laboral y mejorando la gestión administrativa pa todos.",
+            "timestamp": 1780055556.196235,
+            "reply_to": "Hugo",
+            "reply_text": "Me preocupa q falten garantias reales.",
+            "is_mention": false,
+            "likes": 1
+        },
+        {
+            "id": "375c30d4-e989-453f-960f-6b3923951c67",
+            "sender": "Carla",
+            "text": "Menudo cuento. Eso de que reduce la precariedad es una farsa total, es solo maquillaje para seguir explotando a la gente con parches mediocres. Me parece una mierda q vendan cuatro cambios administrativos como si fueran la panacea cuando no hay una planificación estructural real. Lo de los 50.000 estudiantes es puro postureo para tapar el agujero. Qué ingenuidad pensar que un reglamento así soluciona la explotación laboral.",
+            "timestamp": 1780055596.513793,
+            "reply_to": "Emma",
+            "reply_text": "Más que un riesgo,creo q es una herramienta para gestionar una realidad que ya existe. Regular el arraigo y actualizar las profesiones demandadas ayuda a q la migración sea más ordenada y justa,reduciendo la precariedad laboral y mejorando la gestión administrativa pa todos.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "b71bac27-275c-4d20-b722-43df0570e7a0",
+            "sender": "Víctor",
+            "text": "Qué ingenuidad... creer que simplificar trámites y bajar requisitos para autónomos va a hacer q todo sea más \"justo\". Lo único que están haciendo es abrir la puerta de par en par al fraude y a la picaresca de siempre porque el Gobierno no tiene ni idea de controlar nada. Menuda farsa pensar q esto ordena algo cuando en realidad solo facilitan que se cuezcan irregularidades sin control. Deja de vender fantasías y mira la realidad: menos papeles es más caos y más trampas.",
+            "timestamp": 1780055637.220213,
+            "reply_to": "Emma",
+            "reply_text": "Más que un riesgo,creo q es una herramienta para gestionar una realidad que ya existe. Regular el arraigo y actualizar las profesiones demandadas ayuda a q la migración sea más ordenada y justa,reduciendo la precariedad laboral y mejorando la gestión administrativa pa todos.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "89e3c724-114c-4fda-a0ec-8033a2a5d640",
+            "sender": "Oriol",
+            "text": "No creo que sea más ordenado. Solo vamos a saturar más unos servicios ya colapsados.",
+            "timestamp": 1780055669.984814,
+            "reply_to": "Emma",
+            "reply_text": "Más que un riesgo,creo q es una herramienta para gestionar una realidad que ya existe. Regular el arraigo y actualizar las profesiones demandadas ayuda a q la migración sea más ordenada y justa,reduciendo la precariedad laboral y mejorando la gestión administrativa pa todos.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "67d38758-4b53-4cf6-8e47-35d3c2642745",
+            "sender": "Lucía",
+            "text": "Menos burocracia significa mas dignidad laboral y control real,no caos. Deja de decir tonterias sobre el fraude.",
+            "timestamp": 1780055709.641641,
+            "reply_to": "Víctor",
+            "reply_text": "Qué ingenuidad... creer que simplificar trámites y bajar requisitos para autónomos va a hacer q todo sea más \"justo\". Lo único que están haciendo es abrir la puerta de par en par al fraude y a la picaresca de siempre porque el Gobierno no tiene ni idea de controlar nada. Menuda farsa pensar q esto ordena algo cuando en realidad solo facilitan que se cuezcan irregularidades sin control. Deja de vender fantasías y mira la realidad: menos papeles es más caos y más trampas.",
+            "is_mention": true,
+            "likes": 1
+        },
+        {
+            "id": "e11f1ff3-3f8f-48dc-9869-3271f4b7883e",
+            "sender": "Hugo",
+            "text": "Simplificar tramites no basta si no hay garantias contra la precariedad.",
+            "timestamp": 1780055758.802719,
+            "reply_to": "Emma",
+            "reply_text": "Más que un riesgo,creo q es una herramienta para gestionar una realidad que ya existe. Regular el arraigo y actualizar las profesiones demandadas ayuda a q la migración sea más ordenada y justa,reduciendo la precariedad laboral y mejorando la gestión administrativa pa todos.",
+            "is_mention": true,
+            "likes": 1
+        },
+        {
+            "id": "c904b6a6-963d-43b9-a07b-2d523ba9b112",
+            "sender": "Clara",
+            "text": "Menudo prejuicio el tuyo. Decir q menos papeles es mas caos es de no tener ni idea de como funciona la calle. Lo q tu llamas \"trampas\" es en realidad dar dignidad a gente que ya esta aqui trabajando. Es absurdo pensar que es mejor tener a miles de personas en la economia sumergida, sin derechos y explotadas, solo porque te asusta q el proceso sea mas sencillo. El trabajo formal es infinitamente mas facil de controlar que la clandestinidad. Menuda farsa tu vision de la realidad.",
+            "timestamp": 1780055831.303754,
+            "reply_to": "Víctor",
+            "reply_text": "Qué ingenuidad... creer que simplificar trámites y bajar requisitos para autónomos va a hacer q todo sea más \"justo\". Lo único que están haciendo es abrir la puerta de par en par al fraude y a la picaresca de siempre porque el Gobierno no tiene ni idea de controlar nada. Menuda farsa pensar q esto ordena algo cuando en realidad solo facilitan que se cuezcan irregularidades sin control. Deja de vender fantasías y mira la realidad: menos papeles es más caos y más trampas.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "445631c7-7933-4a73-9277-d24aa31c3470",
+            "sender": "Carla",
+            "text": "Dignidad no es quitar papeles,es que no te exploten. Que estupidez pensar q menos burocracia es automaticamente mas control... es el cuento de siempre para que los empresarios contraten mas rapido y mas barato sin dar garantias reales. Quitar tramites sin meter inspecciones a saco y derechos fuertes es simplemente facilitar el expolio. Me parece una mierda q vendais este parche como un avance cuando solo es una puerta abierta pa que sigan precarizando a la gente. Menudo delirio creer que un cambio administrativo soluciona el problema estructural de fondo.",
+            "timestamp": 1780055890.926468,
+            "reply_to": "Lucía",
+            "reply_text": "Menos burocracia significa mas dignidad laboral y control real,no caos. Deja de decir tonterias sobre el fraude.",
+            "is_mention": true,
+            "likes": 1
+        },
+        {
+            "id": "551599dd-af51-4ee0-a686-63631b336b98",
+            "sender": "Emma",
+            "text": "La modernización administrativa reduce el colapso al agilizar trámites y evitar expedientes infinitos. Facilitar la regularización permite un control real sobre quién trabaja y en qué sector, mejorando la recaudación y el cumplimiento laboral frente a la opacidad de la economía sumergida.",
+            "timestamp": 1780055951.193621,
+            "reply_to": "Oriol",
+            "reply_text": "No creo que sea más ordenado. Solo vamos a saturar más unos servicios ya colapsados.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "df6130b2-0eb2-48d8-b0ab-ba4aded9b812",
+            "sender": "Víctor",
+            "text": "Confundir la agilidad administrativa con la dignidad laboral es un error basico. Que un tramite sea mas rapido no significa que el trabajador este protegido ni q el Estado tenga capacidad real de supervisar q se cumplan las leyes. Al contrario,reducir los controles solo facilita que se maquillen irregularidades y q el fraude se vuelva la norma. Sin una inspeccion rigurosa y real,simplificar los papeles es simplemente darle un cheque en blanco a la picaresca para saltarse las reglas.",
+            "timestamp": 1780055993.939205,
+            "reply_to": "Lucía",
+            "reply_text": "Menos burocracia significa mas dignidad laboral y control real,no caos. Deja de decir tonterias sobre el fraude.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "158b4b2b-7c36-4a5c-8d7c-076c88d8cb0d",
+            "sender": "Emma",
+            "text": "Simplificar la burocracia no implica eliminar el control,sino modernizarlo. Con sistemas digitales y cruce de datos es mucho más fácil detectar irregularidades que con papeles infinitos. Una gestión más ágil permite q la inspección de trabajo se centre en el cumplimiento real y no en el papeleo.",
+            "timestamp": 1780056035.302327,
+            "reply_to": "Víctor",
+            "reply_text": "Confundir la agilidad administrativa con la dignidad laboral es un error basico. Que un tramite sea mas rapido no significa que el trabajador este protegido ni q el Estado tenga capacidad real de supervisar q se cumplan las leyes. Al contrario,reducir los controles solo facilita que se maquillen irregularidades y q el fraude se vuelva la norma. Sin una inspeccion rigurosa y real,simplificar los papeles es simplemente darle un cheque en blanco a la picaresca para saltarse las reglas.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "7d01615c-5707-4e9a-92e4-699b40860ff3",
+            "sender": "Carla",
+            "text": "Vender la digitalizacion como si fuera la solucion es una puta estupidez. Que el sistema sea mas rapido no significa que el trabajador este mas protegido, solo significa q el empresario puede contratar y explotar mas rapido sin q nadie se entere. Me parece una mierda creer q un cruce de datos sustituye a una inspeccion real en el terreno. Es el mismo cuento de siempre: modernizar la gestion para maquillar la precariedad estructural. Al final,la eficiencia administrativa solo sirve para que el capital gane tiempo y dinero mientras los derechos siguen siendo un chiste.",
+            "timestamp": 1780056077.073619,
+            "reply_to": "Emma",
+            "reply_text": "Simplificar la burocracia no implica eliminar el control,sino modernizarlo. Con sistemas digitales y cruce de datos es mucho más fácil detectar irregularidades que con papeles infinitos. Una gestión más ágil permite q la inspección de trabajo se centre en el cumplimiento real y no en el papeleo.",
+            "is_mention": false,
+            "likes": 0
+        },
+        {
+            "id": "7a6ddc2c-6a30-43e7-84d2-64ab8425cd6c",
+            "sender": "Víctor",
+            "text": "Qué ingenuidad pensar que un software va a solucionar la falta de gestión de este Gobierno. Creer q el \"cruce de datos\" es una solución mágica es de risa... la realidad es q simplificar los requisitos solo sirve para q los picarescos se salten la ley con más facilidad. No es modernizar el control,es eliminarlo para q las cifras cuadren en un papel mientras el fraude laboral se dispara. Menuda fantasía creer que la inspección se vuelve más eficiente solo xq haya menos papeles; lo q hay es menos rigor y más caos.",
+            "timestamp": 1780056128.268325,
+            "reply_to": "Emma",
+            "reply_text": "Simplificar la burocracia no implica eliminar el control,sino modernizarlo. Con sistemas digitales y cruce de datos es mucho más fácil detectar irregularidades que con papeles infinitos. Una gestión más ágil permite q la inspección de trabajo se centre en el cumplimiento real y no en el papeleo.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "4434b0aa-0a37-4a7d-8fbb-663c9a9494f1",
+            "sender": "Oriol",
+            "text": "La digitalización no sirve de nada si las oficinas ya están totalmente desbordadas.",
+            "timestamp": 1780056178.751873,
+            "reply_to": "Emma",
+            "reply_text": "Simplificar la burocracia no implica eliminar el control,sino modernizarlo. Con sistemas digitales y cruce de datos es mucho más fácil detectar irregularidades que con papeles infinitos. Una gestión más ágil permite q la inspección de trabajo se centre en el cumplimiento real y no en el papeleo.",
+            "is_mention": true,
+            "likes": 0
+        },
+        {
+            "id": "5f25a42c-f80e-4d67-b08d-b6ea778dad71",
+            "sender": "Clara",
+            "text": "Que risa me da tu analisis. Decir q el cruce de datos es una \"fantasia\" es de alguien que vive en el siglo pasado. Los sistemas digitales pillan el fraude mil veces mas rapido que cualquier inspector revisando papeles amarillentos en una oficina. No es eliminar el control, es dejar de ser unos torpes. Simplificar los tramites no es dar paso al caos,es quitarle el poder a la burocracia inutil para que la gente trabaje legalmente. Menuda estupidez pensar q menos papeles es menos rigor.",
+            "timestamp": 1780056235.892742,
+            "reply_to": "Víctor",
+            "reply_text": "Qué ingenuidad pensar que un software va a solucionar la falta de gestión de este Gobierno. Creer q el \"cruce de datos\" es una solución mágica es de risa... la realidad es q simplificar los requisitos solo sirve para q los picarescos se salten la ley con más facilidad. No es modernizar el control,es eliminarlo para q las cifras cuadren en un papel mientras el fraude laboral se dispara. Menuda fantasía creer que la inspección se vuelve más eficiente solo xq haya menos papeles; lo q hay es menos rigor y más caos.",
+            "is_mention": true,
+            "likes": 0
+        }
+    ]
+}

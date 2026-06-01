@@ -5,18 +5,24 @@
     <title>Turing Test - Explorador</title>
     <style>
         body { font-family: 'Inter', sans-serif; background-color: #f1f5f9; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
-        .portal-container { text-align: center; background: white; padding: 40px; border-radius: 16px; shadow: 0 10px 25px rgba(0,0,0,0.05); border: 1px solid #e2e8f0; max-width: 600px; }
-        h1 { color: #0f172a; margin-bottom: 10px; }
-        p { color: #64748b; margin-bottom: 30px; }
-        .button-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
-        .portal-btn { 
-            text-decoration: none; padding: 30px 20px; border-radius: 12px; border: 2px solid #e2e8f0;
-            transition: all 0.2s; display: flex; flex-direction: column; align-items: center; gap: 10px;
+        .portal-container { text-align: center; background: white; padding: 40px; border-radius: 20px; box-shadow: 0 20px 40px -15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0; max-width: 850px; width: 90%; }
+        h1 { color: #0f172a; margin-bottom: 10px; font-weight: 800; font-size: 2.2em; letter-spacing: -0.025em; }
+        p { color: #64748b; margin-bottom: 35px; font-size: 1.1em; }
+        .button-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+        @media (max-width: 640px) {
+            .button-grid { grid-template-columns: 1fr; }
+            .portal-container { padding: 30px 20px; }
         }
-        .portal-btn:hover { border-color: #6366f1; background-color: #f8fafc; transform: translateY(-2px); }
-        .portal-btn b { color: #1e293b; font-size: 1.1em; }
-        .portal-btn span { color: #94a3b8; font-size: 0.85em; text-align: center; }
-        .icon { font-size: 2em; }
+        .portal-btn { 
+            text-decoration: none; padding: 35px 20px; border-radius: 16px; border: 2px solid #e2e8f0;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); display: flex; flex-direction: column; align-items: center; gap: 12px;
+            background: #ffffff;
+        }
+        .portal-btn:hover { border-color: #6366f1; background-color: #f8fafc; transform: translateY(-4px); box-shadow: 0 12px 20px -10px rgba(99, 102, 241, 0.2); }
+        .portal-btn b { color: #1e293b; font-size: 1.15em; font-weight: 700; }
+        .portal-btn span { color: #64748b; font-size: 0.85em; text-align: center; line-height: 1.4; }
+        .icon { font-size: 2.5em; transition: transform 0.3s ease; }
+        .portal-btn:hover .icon { transform: scale(1.1); }
     </style>
 </head>
 <body>
@@ -33,6 +39,11 @@
                 <div class="icon">🤖</div>
                 <b>Chatroom platform</b>
                 <span>Platform simulations</span>
+            </a>
+            <a href="Turing Final/index.html" class="portal-btn">
+                <div class="icon">🎯</div>
+                <b>Turing Test (Final)</b>
+                <span>Real posts for the experiment</span>
             </a>
         </div>
     </div>
