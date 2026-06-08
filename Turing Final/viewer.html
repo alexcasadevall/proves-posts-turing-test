@@ -78,14 +78,29 @@
             const type = urlParams.get('type') || 'reals';
             const len = urlParams.get('len');
             const file = urlParams.get('file');
+            const category = urlParams.get('category');
 
-            if (!len || !file) {
-                document.getElementById('reddit-messages').innerHTML = `<p style="padding:20px; color:red; text-align:center; font-weight:bold;">Error: Missing 'len' or 'file' parameter.</p>`;
+            // Set back button destination based on type
+            const backBtn = document.querySelector('.back-btn');
+            if (type === 'middle_ground') {
+                backBtn.href = 'middle_ground/index.html';
+            } else {
+                backBtn.href = 'index.html';
+            }
+
+            // Check if required parameters are missing
+            if (!file || (type !== 'middle_ground' && !len)) {
+                document.getElementById('reddit-messages').innerHTML = `<p style="padding:20px; color:red; text-align:center; font-weight:bold;">Error: Missing required parameters.</p>`;
                 return;
             }
 
-            // Construct exact JSON path (e.g. reals/8/clim_1.json or ficticis/8/clim_1.json)
-            const fileName = `${type}/${len}/${file}.json`;
+            // Construct exact JSON path
+            let fileName;
+            if (type === 'middle_ground') {
+                fileName = `middle_ground/${category}/${file}.json`;
+            } else {
+                fileName = `${type}/${len}/${file}.json`;
+            }
 
             try {
                 const res = await fetch(fileName);

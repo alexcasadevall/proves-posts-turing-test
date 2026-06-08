@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Turing Test - Middle Ground</title>
+    <style>
+        body { font-family: 'Inter', sans-serif; line-height: 1.6; padding: 30px 20px; color: #1e293b; background-color: #f8fafc; max-width: 950px; margin: 0 auto; }
+        .back-link { text-decoration: none; color: #6366f1; font-weight: 600; font-size: 0.95em; display: inline-flex; align-items: center; gap: 6px; transition: color 0.2s; margin-bottom: 20px; }
+        .back-link:hover { color: #4f46e5; }
+        
+        header { margin-bottom: 35px; }
+        h1 { color: #0f172a; font-size: 2.2em; font-weight: 800; margin: 0 0 8px 0; letter-spacing: -0.025em; }
+        .subtitle { color: #64748b; font-size: 1.1em; margin: 0; }
+
+        .category-title {
+            font-size: 1.3em;
+            color: #0f172a;
+            margin: 25px 0 15px 0;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 8px;
+        }
+
+        .post-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 12px;
+            margin-bottom: 30px;
+        }
+
+        .post-card {
+            background: white;
+            padding: 18px 20px;
+            border-radius: 12px;
+            border: 1px solid #e2e8f0;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+        }
+
+        .post-card:hover {
+            border-color: #6366f1;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(99, 102, 241, 0.05), 0 4px 6px -2px rgba(99, 102, 241, 0.03);
+        }
+
+        .post-info {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            flex: 1;
+            padding-right: 15px;
+        }
+
+        .post-tag {
+            font-size: 0.75em;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #6366f1;
+        }
+
+        .post-title {
+            font-weight: 600;
+            color: #1e293b;
+            font-size: 1.05em;
+            line-height: 1.4;
+        }
+
+        .post-title.loading {
+            color: #94a3b8;
+            font-style: italic;
+            font-weight: 400;
+        }
+
+        .post-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 0.8em;
+            color: #64748b;
+            margin-top: 2px;
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .arrow-icon {
+            color: #cbd5e1;
+            transition: transform 0.2s, color 0.2s;
+            flex-shrink: 0;
+        }
+
+        .post-card:hover .arrow-icon {
+            color: #6366f1;
+            transform: translateX(3px);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../index.html" class="back-link">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="19" y1="12" x2="5" y2="12"></line>
+            <polyline points="12:19 5:12 12:5"></polyline>
+        </svg>
+        Back to Portal
+    </a>
+
+    <header>
+        <h1>Turing Test (Middle Ground)</h1>
+        <p class="subtitle">Explore the threads representing the middle ground of incivility, classified by topic and percentage.</p>
+    </header>
+
+    <div>
+        <div class="category-title">
+            <span>🌍</span> Climate Change Threads (Canvi Climàtic)
+        </div>
+        <div class="post-grid" id="grid-clima"></div>
+
+        <div class="category-title">
+            <span>👥</span> Immigration Threads (Immigració)
+        </div>
+        <div class="post-grid" id="grid-immigracio"></div>
+    </div>
+
+    <script>
+        const CONFIG = {
+            clima: [20, 50, 80],
+            immigracio: [20, 50, 80]
+        };
+
+        function init() {
+            const climaGrid = document.getElementById('grid-clima');
+            const immGrid = document.getElementById('grid-immigracio');
+
+            CONFIG.clima.forEach(pct => {
+                climaGrid.appendChild(createPostCard('clima', pct));
+            });
+
+            CONFIG.immigracio.forEach(pct => {
+                immGrid.appendChild(createPostCard('immigracio', pct));
+            });
+
+            // Load dynamically from JSON files
+            CONFIG.clima.forEach(pct => {
+                fetchPostJson('clima', pct);
+            });
+            CONFIG.immigracio.forEach(pct => {
+                fetchPostJson('immigracio', pct);
+            });
+        }
+
+        function createPostCard(category, pct) {
+            const card = document.createElement('a');
+            // Path to viewer.html is in parent directory
+            card.href = `../viewer.html?type=middle_ground&category=${category}&file=${pct}`;
+            card.className = 'post-card';
+            card.id = `card-${category}-${pct}`;
+
+            const displayCategory = category === 'clima' ? 'Climate Change' : 'Immigration';
+
+            card.innerHTML = `
+                <div class="post-info">
+                    <span class="post-tag">Middle Ground • ${displayCategory} (${pct}% Incivilitat)</span>
+                    <span class="post-title loading" id="title-${category}-${pct}">Loading post title...</span>
+                    <div class="post-meta">
+                        <span class="meta-item">
+                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                            </svg>
+                            <span id="msgs-${category}-${pct}">-</span> comments
+                        </span>
+                        <span class="meta-item">
+                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                                <circle cx="9" cy="7" r="4"></circle>
+                                <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                                <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                            </svg>
+                            <span id="parts-${category}-${pct}">-</span> users
+                        </span>
+                    </div>
+                </div>
+                <div class="arrow-icon">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline points="9:18 15:12 9:6"></polyline>
+                    </svg>
+                </div>
+            `;
+            return card;
+        }
+
+        async function fetchPostJson(category, pct) {
+            try {
+                const response = await fetch(`${category}/${pct}.json`);
+                if (!response.ok) throw new Error();
+                const data = await response.json();
+                
+                const titleEl = document.getElementById(`title-${category}-${pct}`);
+                const msgsEl = document.getElementById(`msgs-${category}-${pct}`);
+                const partsEl = document.getElementById(`parts-${category}-${pct}`);
+
+                if (titleEl && data.post_original) {
+                    titleEl.innerText = `${data.post_original.title} (${pct}% Incivilitat)`;
+                    titleEl.classList.remove('loading');
+                }
+                if (msgsEl && data.messages) {
+                    msgsEl.innerText = data.messages.length;
+                }
+                if (partsEl && data.num_participants !== undefined) {
+                    partsEl.innerText = data.num_participants;
+                }
+            } catch (err) {
+                const titleEl = document.getElementById(`title-${category}-${pct}`);
+                if (titleEl) {
+                    titleEl.innerText = `Error loading: ${pct}.json`;
+                    titleEl.style.color = '#ef4444';
+                }
+            }
+        }
+
+        window.onload = init;
+    </script>
+</body>
+</html>
