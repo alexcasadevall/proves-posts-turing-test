@@ -13,6 +13,9 @@
             .button-grid { grid-template-columns: 1fr; }
             .portal-container { padding: 30px 20px; }
         }
+        @media (min-width: 641px) {
+            .portal-btn.full-width { grid-column: span 2; }
+        }
         .portal-btn { 
             text-decoration: none; padding: 35px 20px; border-radius: 16px; border: 2px solid #e2e8f0;
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); display: flex; flex-direction: column; align-items: center; gap: 12px;
@@ -49,6 +52,11 @@
                 <div class="icon">⚖️</div>
                 <b>Middle Ground</b>
                 <span>Experiment threads (20%, 50%, 80%)</span>
+            </a>
+            <a href="2a Generació Turing/viewer.html?file=1.json" class="portal-btn full-width">
+                <div class="icon">🧬</div>
+                <b>2ª Generació Turing</b>
+                <span>Segona generació del Turing Test</span>
             </a>
         </div>
     </div>
