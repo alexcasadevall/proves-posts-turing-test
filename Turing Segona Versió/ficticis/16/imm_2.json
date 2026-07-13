@@ -1,0 +1,368 @@
+{
+  "post_original": {
+    "agency": "INFOLIBRE",
+    "title": "El nuevo reglamento de extranjería permitirá regularizar a 900.000 migrantes en tres años",
+    "body": "El Consejo de Ministros ha aprobado este martes una reforma del reglamento de la ley de extranjería que reduce plazos y simplifica requisitos para regularizar a migrantes que viven en España sin papeles, del que podrían beneficiarse unas 300.000 personas cada año en los próximos tres años, según informa EFE.\n\nAsí lo ha señalado la ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, en la rueda de prensa posterior al Consejo de Ministros, en el que ha detallado los principales cambios de la que ha calificado como “la reforma más integral y ambiciosa“ de este texto desde que entró en vigor, hace 13 años.\n\nEntre sus novedades, esta modificación reduce el tiempo de permanencia en España necesario para acceder a las figuras de arraigo de tres a dos años, establece que todos los visados tendrán una duración inicial de un año, incorpora mecanismos de protección para los trabajadores migrantes de temporada y refuerza la reagrupación familiar.",
+    "author": "Alex",
+    "timestamp": 1783948385.152028
+  },
+  "num_participants": 10,
+  "messages": [
+    {
+      "id": "c61620f9-5618-4579-9e31-c70e95174b7e",
+      "sender": "Sara",
+      "text": "La verdad es que esta reforma es super necesaria para frenar la explotacion laboral. Reducir el arraigo de 3 a 2 años va a ayudar un montón a que no les sigan pagando una miseria por no tener papeles. Y menos cuento con eso del efecto llamada, que es un bulo que siempre usan para no solucionar nada de fondo",
+      "timestamp": 1783948450.1488707,
+      "reply_to": null,
+      "reply_text": null,
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message supports the reform with reasoned arguments about labor exploitation and dismisses counterarguments as false claims, without insults or hostile tone."
+    },
+    {
+      "id": "ac0a3535-b20e-4cba-86af-a994f19dc1a5",
+      "sender": "Adrià",
+      "text": "Pero qué dices,Sara? Menuda mierda de argumento. Eso es un efecto llamada de manual porque Sánchez solo piensa en su sillón. Meter a 900.000 personas así de golpe va a hundir los servicios públicos y la vivienda, no te engañes.",
+      "timestamp": 1783948501.106981,
+      "reply_to": "Sara",
+      "reply_text": "La verdad es que esta reforma es super necesaria para frenar la explotacion laboral. Reducir el arraigo de 3 a 2 años va a ayudar un montón a que no les sigan pagando una miseria por no tener papeles. Y menos cuento con eso del efecto llamada, que es un bulo que siempre usan para no solucionar nada de fondo",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Contains vulgar insult ('MIERDA') and dismissive tone toward Sara's argument."
+    },
+    {
+      "id": "d57d995c-d5d8-49cd-848d-a13f4bb89a3d",
+      "sender": "Adrià",
+      "text": "Vaya cuento te traes, que buenismo el de los progres. Decir que el efecto llamada es un bulo es de no tener ni puta idea de la realidad, es pura fantasía para no ver el desastre",
+      "timestamp": 1783948521.5994968,
+      "reply_to": "Sara",
+      "reply_text": "La verdad es que esta reforma es super necesaria para frenar la explotacion laboral. Reducir el arraigo de 3 a 2 años va a ayudar un montón a que no les sigan pagando una miseria por no tener papeles. Y menos cuento con eso del efecto llamada, que es un bulo que siempre usan para no solucionar nada de fondo",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Contains insults ('puta idea'), mockery ('cuento', 'buenismo'), and contemptuous dismissal of opposing views."
+    },
+    {
+      "id": "92d3a73b-a069-49d5-9071-52cdb4eeccc8",
+      "sender": "Carla",
+      "text": "Es que lo del efecto llamada es el comodin de siempre del PP y Vox para no afrontar la realidad. La gente ya esta aqui trabajando y esta reforma solo busca que dejen de ser explotados y puedan contribuir de forma legal",
+      "timestamp": 1783948536.2718236,
+      "reply_to": "Adrià",
+      "reply_text": "Vaya cuento te traes, que buenismo el de los progres. Decir que el efecto llamada es un bulo es de no tener ni puta idea de la realidad, es pura fantasía para no ver el desastre",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message criticizes PP/Vox arguments but uses no insults, vulgar language, or dehumanizing rhetoric."
+    },
+    {
+      "id": "ab628633-041e-4d3f-8f6f-a7b4a2e59f4d",
+      "sender": "Ramon",
+      "text": "Entiendo que lo de la explotacion es real, pero meter a tanta gente sin reforzar la vivienda y sanidad es un problema de gestion de Moncloa que va a saturar todo.",
+      "timestamp": 1783948570.8639696,
+      "reply_to": "Sara",
+      "reply_text": "La verdad es que esta reforma es super necesaria para frenar la explotacion laboral. Reducir el arraigo de 3 a 2 años va a ayudar un montón a que no les sigan pagando una miseria por no tener papeles. Y menos cuento con eso del efecto llamada, que es un bulo que siempre usan para no solucionar nada de fondo",
+      "is_mention": false,
+      "likes": 1,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message expresses policy disagreement without insults, contempt, or hostile tone."
+    },
+    {
+      "id": "d628fb23-b90b-4a90-898e-80ef31d6d882",
+      "sender": "Pau",
+      "text": "El concepto de efecto llamada se usa mucho en la oposición para evitar el debate estructural. La realidad es que la mayoría de estas personas ya están aquí integradas en el mercado laboral; lo que se busca es que dejen de estar en la sombra para que coticen y contribuyan de verdad al sistema, no es solo cuestión de fronteras",
+      "timestamp": 1783948600.1667013,
+      "reply_to": "Adrià",
+      "reply_text": "Vaya cuento te traes, que buenismo el de los progres. Decir que el efecto llamada es un bulo es de no tener ni puta idea de la realidad, es pura fantasía para no ver el desastre",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message argues substantively against opposition claims without insults, contempt, or hostile tone."
+    },
+    {
+      "id": "82eac3e7-2c6c-485a-a513-88e0bd8d3048",
+      "sender": "Berta",
+      "text": "Vaya buenismo, un cheque en blanco porque no hay ni un plan real que nos salve.",
+      "timestamp": 1783948643.3605077,
+      "reply_to": "Carla",
+      "reply_text": "Es que lo del efecto llamada es el comodin de siempre del PP y Vox para no afrontar la realidad. La gente ya esta aqui trabajando y esta reforma solo busca que dejen de ser explotados y puedan contribuir de forma legal",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Contains mockery ('buenismo'), all-caps shouting for emphasis, and contemptuous dismissal of the reform as lacking real planning."
+    },
+    {
+      "id": "25580424-2975-4c17-9357-08bb65c89fb1",
+      "sender": "Irene",
+      "text": "Vaya bulla con el efecto llamada, no tienes ni idea de nada.",
+      "timestamp": 1783948668.2422166,
+      "reply_to": "Adrià",
+      "reply_text": "Vaya cuento te traes, que buenismo el de los progres. Decir que el efecto llamada es un bulo es de no tener ni puta idea de la realidad, es pura fantasía para no ver el desastre",
+      "is_mention": false,
+      "likes": 1,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Contains dismissive insult ('no tienes ni idea de nada') and contemptuous tone toward another speaker."
+    },
+    {
+      "id": "719ebf24-20e6-4bf8-b034-9b647afffedd",
+      "sender": "Eloi",
+      "text": "entiendo que el trabajo informal es un problema, pero legalizar a 300k personas cada año sin un plan de sanidad o vivienda es ir muy rápido. Es un tema de capacidad, no de ideología porque esto así no se sostiene",
+      "timestamp": 1783948703.5479646,
+      "reply_to": "Pau",
+      "reply_text": "El concepto de efecto llamada se usa mucho en la oposición para evitar el debate estructural. La realidad es que la mayoría de estas personas ya están aquí integradas en el mercado laboral; lo que se busca es que dejen de estar en la sombra para que coticen y contribuyan de verdad al sistema, no es solo cuestión de fronteras",
+      "is_mention": true,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message expresses policy disagreement respectfully without insults, contempt, or hostile tone."
+    },
+    {
+      "id": "a79a24ae-1be8-4117-ab5d-8990a3dd253d",
+      "sender": "Èric",
+      "text": "Vaya cojones con la excusa de la gestión, que lo que buscan es seguir explotandoles mientras te lloras por la vivienda",
+      "timestamp": 1783948742.2616692,
+      "reply_to": "Ramon",
+      "reply_text": "Entiendo que lo de la explotacion es real, pero meter a tanta gente sin reforzar la vivienda y sanidad es un problema de gestion de Moncloa que va a saturar todo.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Contains vulgar insult 'cojones' and all-caps shouting phrase, meeting impoliteness criteria."
+    },
+    {
+      "id": "25a3f7f3-f7a1-44a8-815a-fc3c7aa8aecc",
+      "sender": "Vila",
+      "text": "Vale,lo de la cotizacion es importante, pero la pregunta es si la sanidad y la vivienda aguantan este ritmo de 300k al año. Moncloa no responde nada sobre la capacidad real de los servicios, es puro humo.",
+      "timestamp": 1783948771.2962575,
+      "reply_to": "Pau",
+      "reply_text": "El concepto de efecto llamada se usa mucho en la oposición para evitar el debate estructural. La realidad es que la mayoría de estas personas ya están aquí integradas en el mercado laboral; lo que se busca es que dejen de estar en la sombra para que coticen y contribuyan de verdad al sistema, no es solo cuestión de fronteras",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message raises policy concerns about service capacity without insults, contempt, or hostile tone."
+    },
+    {
+      "id": "6581fb11-2865-4400-84e9-c3c333111073",
+      "sender": "Irene",
+      "text": "Menuda milonga la capacidad, ya están aquí trabajando y no es más que un excusa para seguir explotándoles",
+      "timestamp": 1783948814.7983747,
+      "reply_to": "Eloi",
+      "reply_text": "@Pau entiendo que el trabajo informal es un problema, pero legalizar a 300k personas cada año sin un plan de sanidad o vivienda es ir muy rápido. Es un tema de capacidad, no de ideología porque esto así no se sostiene",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Uses 'milonga' (dismissive slang) and contemptuous tone toward capacity concerns, treating opposing argument as mere excuse."
+    },
+    {
+      "id": "312d7501-a5db-4568-a3fe-abfd55ec1eea",
+      "sender": "Sara",
+      "text": "Entiendo lo de la saturacion, pero la sanidad sufre por falta de inversion y no por los inmigrantes que cotizan mas.",
+      "timestamp": 1783948853.531332,
+      "reply_to": "Vila",
+      "reply_text": "Vale,lo de la cotizacion es importante, pero la pregunta es si la sanidad y la vivienda aguantan este ritmo de 300k al año. Moncloa no responde nada sobre la capacidad real de los servicios, es puro humo.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message presents a reasoned argument about healthcare funding without insults, contempt, or hostile tone."
+    },
+    {
+      "id": "1172b3ff-fefd-4708-b843-95b2aa2e7840",
+      "sender": "Ramon",
+      "text": "No es excusa, es que la sanidad y vivienda no aguantan ese ritmo...",
+      "timestamp": 1783948900.8332536,
+      "reply_to": "Irene",
+      "reply_text": "Menuda milonga la capacidad, ya están aquí trabajando y no es más que un excusa para seguir explotándoles",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message expresses policy concern about service capacity without insults, contempt, or hostile language."
+    },
+    {
+      "id": "53fc4bd2-8442-4c0d-bcff-f90377d8f29a",
+      "sender": "Adrià",
+      "text": "Vaya tela con vuestro cuento de la inversion. crees que con dos duros se arregla esto? Las listas de espera estan colapsadas y no hay medico que de abasto con tanta gente nueva. Menuda fantasia de los progres.",
+      "timestamp": 1783948929.8671758,
+      "reply_to": "Sara",
+      "reply_text": "Entiendo lo de la saturacion, pero la sanidad sufre por falta de inversion y no por los inmigrantes que cotizan mas.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Contains mockery ('Vaya tela', 'Menuda fantasia'), dismissive contempt ('dos duros'), and derogatory characterization ('progres') directed at opposing viewpoint."
+    },
+    {
+      "id": "e59e216a-e2d1-43e9-8433-6393263034aa",
+      "sender": "Carla",
+      "text": "Las listas de espera son un problema real, pero es por los recortes y falta de inversión que no por la migración",
+      "timestamp": 1783948953.027181,
+      "reply_to": "Adrià",
+      "reply_text": "Vaya tela con vuestro cuento de la inversion. crees que con dos duros se arregla esto? Las listas de espera estan colapsadas y no hay medico que de abasto con tanta gente nueva. Menuda fantasia de los progres.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message presents a policy argument without insults, contempt, or hostile tone."
+    }
+  ],
+  "generation_metadata": {
+    "source": "https://alexcasadevall.github.io/proves-posts-turing-test/Turing%20Final",
+    "file_id": "imm_2",
+    "topic_id": "immigration",
+    "treatment_group": "mix_mix",
+    "generated_at": "2026-07-13T13:13:05Z",
+    "post_timestamp": 1783948385.152028,
+    "seed": 6202,
+    "names_source": "fictic",
+    "agent_names": [
+      "Carla",
+      "Eloi",
+      "Irene",
+      "Adrià",
+      "Pau",
+      "Vila",
+      "Èric",
+      "Berta",
+      "Sara",
+      "Ramon"
+    ],
+    "models": {
+      "director": {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-6",
+        "bsc_model_version": null
+      },
+      "performer": {
+        "provider": "bsc",
+        "model": "incivility",
+        "bsc_model_version": "v1"
+      },
+      "moderator": {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5",
+        "bsc_model_version": null
+      },
+      "classifier": {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5",
+        "bsc_model_version": null
+      }
+    },
+    "all_bsc": false,
+    "incivility_boost": false,
+    "length_policy": {
+      "source": "thread_real_lengths_with_jitter",
+      "jitter": [
+        0.82,
+        1.18
+      ],
+      "cap": 220,
+      "targets": [
+        66,
+        41,
+        28,
+        43,
+        23,
+        61,
+        13,
+        4,
+        40,
+        5,
+        22,
+        10,
+        19,
+        6,
+        38,
+        12
+      ],
+      "performer_max_tokens": 512
+    },
+    "surface_calibration": {
+      "expand_abbreviations": true,
+      "reduce_ellipsis": true,
+      "normalize_emotional_all_caps": true,
+      "replace_repeated_political_cliches": true,
+      "calibrate_reply_metadata_to_real_thread": true,
+      "calibrate_timestamps_to_real_thread": true,
+      "persona_style": "short",
+      "personal_hooks_added_to_personas": false,
+      "double_turn_probability": 0.18,
+      "max_double_turns": 4
+    },
+    "errors": [
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Adrià'",
+        "context": {
+          "content": "Pero qué dices,Sara? Menuda MIERDA de argumento. Eso es un efecto llamada de manual pq Sánchez solo piensa en su sillón. Meter a 900.000 personas así de golpe va a hundir los servicios públicos y la vivienda, no te engañ"
+        }
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Ramon'",
+        "context": {
+          "content": "Entiendo q lo de la explotacion es real, pero meter a tanta gente sin reforzar la vivienda y sanidad es un problema de gestion de Moncloa q va a saturar todo..."
+        }
+      },
+      {
+        "type": "auto_like",
+        "message": "Auto-like: 'Adrià' -> ab628633-041e-4d3f-8f6f-a7b4a2e59f4d (Ramon)",
+        "context": {}
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Irene'",
+        "context": {
+          "content": "Vaya BULLA con el efecto llamada, no tienes ni idea de nada."
+        }
+      },
+      {
+        "type": "auto_like",
+        "message": "Auto-like: 'Èric' -> 25580424-2975-4c17-9357-08bb65c89fb1 (Irene)",
+        "context": {}
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Èric'",
+        "context": {
+          "content": "Vaya cojones con la excusa de la gestión, q lo q buscan es seguir explotandoles MIENTRAS TE LLORAS POR LA VIVIENDA"
+        }
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Vila'",
+        "context": {
+          "content": "Vale,lo de la cotizacion es importante, pero la pregunta es si la sanidad y la vivienda aguantan este ritmo de 300k al año. Moncloa no responde nada sobre la capacidad real de los servicios... es puro humo."
+        }
+      }
+    ]
+  }
+}

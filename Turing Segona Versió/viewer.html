@@ -75,26 +75,28 @@
         async function start() {
             // Read parameters from URL query string
             const urlParams = new URLSearchParams(window.location.search);
-            const type = urlParams.get('type');
+            const type = urlParams.get('type') || 'reals';
             const len = urlParams.get('len');
             const file = urlParams.get('file');
             const category = urlParams.get('category');
 
-            // Set back button destination to the main portal index.html
+            // Set back button destination based on type
             const backBtn = document.querySelector('.back-btn');
-            backBtn.href = 'index.html';
+            if (type === 'middle_ground') {
+                backBtn.href = 'middle_ground/index.html';
+            } else {
+                backBtn.href = 'index.html';
+            }
 
             // Check if required parameters are missing
-            if (!file) {
+            if (!file || (type !== 'middle_ground' && !len)) {
                 document.getElementById('reddit-messages').innerHTML = `<p style="padding:20px; color:red; text-align:center; font-weight:bold;">Error: Missing required parameters.</p>`;
                 return;
             }
 
             // Construct exact JSON path
             let fileName;
-            if (file.endsWith('.json') || (!type && !len)) {
-                fileName = file.endsWith('.json') ? file : `${file}.json`;
-            } else if (type === 'middle_ground') {
+            if (type === 'middle_ground') {
                 fileName = `middle_ground/${category}/${file}.json`;
             } else {
                 fileName = `${type}/${len}/${file}.json`;

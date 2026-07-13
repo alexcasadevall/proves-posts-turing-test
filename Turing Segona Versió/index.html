@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Turing Test - Segona Generació</title>
+    <title>Turing Test - Final Posts</title>
     <style>
         body { font-family: 'Inter', sans-serif; line-height: 1.6; padding: 30px 20px; color: #1e293b; background-color: #f8fafc; max-width: 950px; margin: 0 auto; }
         .back-link { text-decoration: none; color: #6366f1; font-weight: 600; font-size: 0.95em; display: inline-flex; align-items: center; gap: 6px; transition: color 0.2s; margin-bottom: 20px; }
@@ -190,8 +190,8 @@
     </a>
 
     <header>
-        <h1>2ª Generació Turing</h1>
-        <p class="subtitle">Explore the real and fictitious posts of the second generation Turing Test, classified by length and topic.</p>
+        <h1>Turing Test (Final)</h1>
+        <p class="subtitle">Explore the real and fictitious posts selected for the Turing Test experiment, classified by length and topic.</p>
     </header>
 
     <!-- 6 Mode tabs -->
@@ -276,12 +276,6 @@
 
             climGrid.innerHTML = '';
             immGrid.innerHTML = '';
-
-            if (currentType === 'ficticis' && currentLen === '30') {
-                climGrid.innerHTML = '<p style="color: #64748b; font-style: italic;">No hi ha converses fictícies d\'aquesta longitud.</p>';
-                immGrid.innerHTML = '<p style="color: #64748b; font-style: italic;">No hi ha converses fictícies d\'aquesta longitud.</p>';
-                return;
-            }
 
             const activeConfig = POSTS_CONFIG[currentLen];
 

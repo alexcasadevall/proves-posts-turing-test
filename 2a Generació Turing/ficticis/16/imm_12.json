@@ -1,0 +1,383 @@
+{
+  "post_original": {
+    "agency": "LA VANGUARDIA",
+    "title": "El Gobierno aprueba la reforma que facilita incorporar extranjeros al mercado laboral",
+    "body": "El Gobierno ha aprobado este martes en Consejo de Ministros la reforma del reglamento de Extranjería por la que se facilita la incorporación de los extranjeros al mercado de trabajo. \n\n“Por la propia naturaleza del fenómeno subyacente es imposible hacer una estimación que tampoco es el objetivo de la reforma. El objetivo es modernizar el modelo migratorio para que se propicie la migración regular y segura en toda circunstancia“, ha explicado el ministro de Inclusión, Seguridad Social y Migraciones, José Luis Escrivá, este martes en la rueda de prensa posterior a la reunión del Consejo de Ministros. \n\nEntre las medidas que se incluyen en la reforma, Escrivá ha destacado que “se racionalizan y actualizan las figuras del arraigo social y laboral y por reagrupación familiar“ y “se crea una nueva figura de arraigo por formación“ que va a permitir a migrantes que lleven dos años en España y quieran formarse en profesiones particularmente deficitarias, que puedan hacerlo. \n\nAdemás, ha precisado que se corrige una “anomalía“ que había en España pues se va a “facilitar el trabajo al terminar sus estudios a 50.000 extranjeros“; y ha añadido que también se modernizan los requisitos de acceso al trabajo autónomo, que eran “extraordinariamente complejos“. \n\n Igualmente, se “reformula“ el catálogo de ocupaciones particularmente demandadas “para que se puedan generar contrataciones en origen en las situaciones que así lo justifiquen por la evolución del mercado laboral“ y se “perfecciona el modelo de migración estacional (circular)“, todo ello acompañado de “una mejora en la gestión reduciendo trámites y haciendo que las cargas administrativas sean más razonables“, tal y como ha puntualizado Escrivá.",
+    "author": "Alex",
+    "timestamp": 1783952636.5956826
+  },
+  "num_participants": 7,
+  "messages": [
+    {
+      "id": "fa72181d-7e0d-4d76-8b05-2fbf5f13e7f1",
+      "sender": "Lucía",
+      "text": "Es que me parece una locura el enfoque que le dan. Todo el mundo habla de facilitar el trabajo y la economía, pero nadie dice nada de cómo vamos a meter a más gente cuando la vivienda está imposible y los servicios públicos ya no dan abasto. Es el típico buenismo del PSOE que solo busca el efecto llamada sin pensar en la integración real de quien ya está aquí. Al final, con este ritmo, la presión sobre los servicios y el alquiler va a ser insostenible para todos",
+      "timestamp": 1783952711.7826657,
+      "reply_to": null,
+      "reply_text": null,
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Critical of policy but uses reasoned argument without insults, contempt, or dehumanizing language."
+    },
+    {
+      "id": "0b97f64c-4720-49e2-9a03-6b3832ca9a24",
+      "sender": "Carla",
+      "text": "Otra vez con el cuento del efecto llamada? Menudo bulo de facha de manual La peña se cree que es verdad solo porque lo dice Vox, que nivel de ignorancia. Es regularizar a quien ya trabaja y punto.",
+      "timestamp": 1783952765.46939,
+      "reply_to": "Lucía",
+      "reply_text": "Es que me parece una locura el enfoque que le dan. Todo el mundo habla de facilitar el trabajo y la economía, pero nadie dice nada de cómo vamos a meter a más gente cuando la vivienda está imposible y los servicios públicos ya no dan abasto. Es el típico buenismo del PSOE que solo busca el efecto llamada sin pensar en la integración real de quien ya está aquí. Al final, con este ritmo, la presión sobre los servicios y el alquiler va a ser insostenible para todos,",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Uses derogatory terms ('bulo de facha', 'nivel de ignorancia') and contemptuous dismissal of opposing views."
+    },
+    {
+      "id": "008f8b22-c4da-46f5-9742-64503e94f9ce",
+      "sender": "Hugo",
+      "text": "No es efecto llamada, la reforma es para regular a quien ya esta trabajando y ayuda a gestionar mejor los servicios y la vivienda porque integra a la economia sumergida",
+      "timestamp": 1783952794.8428404,
+      "reply_to": "Lucía",
+      "reply_text": "Es que me parece una locura el enfoque que le dan. Todo el mundo habla de facilitar el trabajo y la economía, pero nadie dice nada de cómo vamos a meter a más gente cuando la vivienda está imposible y los servicios públicos ya no dan abasto. Es el típico buenismo del PSOE que solo busca el efecto llamada sin pensar en la integración real de quien ya está aquí. Al final, con este ritmo, la presión sobre los servicios y el alquiler va a ser insostenible para todos,",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message presents policy argument without insults, contempt, or hostile tone despite disagreement."
+    },
+    {
+      "id": "51382469-c81c-4e0f-bca6-36411f2f80b2",
+      "sender": "Víctor",
+      "text": "Bulo de facha nada, la realidad es que no tienes ni idea de lo que pasa en la calle. Esa arrogancia progre de creerte mas lista que el resto es de cojones. El PSOE abre el grifo y nos dejan sin piso. todo es una mierda.",
+      "timestamp": 1783952849.344787,
+      "reply_to": "Carla",
+      "reply_text": "Otra vez con el cuento del efecto llamada? Menudo bulo de facha de manual La peña se cree que es verdad solo porque lo dice Vox, que nivel de ignorancia. Es regularizar a quien ya trabaja y punto.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message contains insults ('de cojones'), vulgarity ('MIERDA'), contempt toward opponents ('arrogancia progre'), and hostile tone throughout."
+    },
+    {
+      "id": "eaae8833-37df-4ca7-90f8-d642d64b1842",
+      "sender": "Oriol",
+      "text": "Es que mezclar la regularización con la falta de vivienda es un error de concepto muy común. Esta reforma busca integrar a gente que ya está aquí y ya consume, no crear un flujo repentino de nuevos arrivals. El problema de los alquileres es una falta de política de vivienda por parte de la derecha y la gestión de la oferta, no culpa de los trabajadores extranjeros. Culpar a la migración de la crisis de los servicios es muy conveniente pero poco riguroso.",
+      "timestamp": 1783952879.6873157,
+      "reply_to": "Lucía",
+      "reply_text": "Es que me parece una locura el enfoque que le dan. Todo el mundo habla de facilitar el trabajo y la economía, pero nadie dice nada de cómo vamos a meter a más gente cuando la vivienda está imposible y los servicios públicos ya no dan abasto. Es el típico buenismo del PSOE que solo busca el efecto llamada sin pensar en la integración real de quien ya está aquí. Al final, con este ritmo, la presión sobre los servicios y el alquiler va a ser insostenible para todos,",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message presents policy arguments without insults, contempt, or hostile tone despite disagreeing with prior speakers."
+    },
+    {
+      "id": "9d243f74-5ade-428c-8140-b99fe3ad4d3c",
+      "sender": "Clara",
+      "text": "vaya cuento el de la vivienda, la típica milonga de los fachas porque no quieren admitir que el problema es su falta de gestion. menuda puta farsa culpar a la gente de la migración por lo que no hacen ellos con el alquiler.",
+      "timestamp": 1783952905.9749227,
+      "reply_to": "Lucía",
+      "reply_text": "Es que me parece una locura el enfoque que le dan. Todo el mundo habla de facilitar el trabajo y la economía, pero nadie dice nada de cómo vamos a meter a más gente cuando la vivienda está imposible y los servicios públicos ya no dan abasto. Es el típico buenismo del PSOE que solo busca el efecto llamada sin pensar en la integración real de quien ya está aquí. Al final, con este ritmo, la presión sobre los servicios y el alquiler va a ser insostenible para todos,",
+      "is_mention": false,
+      "likes": 1,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message contains vulgar insults ('PUTA farsa'), mockery ('cuento', 'milonga'), and derogatory name-calling ('fachas')."
+    },
+    {
+      "id": "fcbdda4f-d740-4c37-980a-9fb9d32a32d7",
+      "sender": "Emma",
+      "text": "Vale,no es culpa del migrante, pero decir que no afecta a la vivienda es ser un poco ingenuo, El gobierno lanza esto sin plan de vivienda ni servicios para absorber la demanda.",
+      "timestamp": 1783952954.8389442,
+      "reply_to": "Oriol",
+      "reply_text": "Es que mezclar la regularización con la falta de vivienda es un error de concepto muy común. Esta reforma busca integrar a gente que ya está aquí y ya consume, no crear un flujo repentino de nuevos arrivals. El problema de los alquileres es una falta de política de vivienda por parte de la derecha y la gestión de la oferta, no culpa de los trabajadores extranjeros. Culpar a la migración de la crisis de los servicios es muy conveniente pero poco riguroso.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message expresses policy disagreement without insults, contempt, or hostile tone."
+    },
+    {
+      "id": "681b16ea-c0ef-4082-bdf5-739a32319761",
+      "sender": "Lucía",
+      "text": "Vale, la culpa no es del migrante, pero no es excusa porque Sánchez lanza reformas sin ningún plan de vivienda o servicios. No es solo cosa de la derecha, es falta de planificación de Moncloa",
+      "timestamp": 1783952969.6315339,
+      "reply_to": "Oriol",
+      "reply_text": "Es que mezclar la regularización con la falta de vivienda es un error de concepto muy común. Esta reforma busca integrar a gente que ya está aquí y ya consume, no crear un flujo repentino de nuevos arrivals. El problema de los alquileres es una falta de política de vivienda por parte de la derecha y la gestión de la oferta, no culpa de los trabajadores extranjeros. Culpar a la migración de la crisis de los servicios es muy conveniente pero poco riguroso.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message criticizes government planning without insults, contempt, or dehumanizing language."
+    },
+    {
+      "id": "002c899a-9999-4eac-bdec-b3c122f94708",
+      "sender": "Víctor",
+      "text": "Bulo? menudo bulling!",
+      "timestamp": 1783953020.2644207,
+      "reply_to": "Carla",
+      "reply_text": "Otra vez con el cuento del efecto llamada? Menudo bulo de facha de manual La peña se cree que es verdad solo porque lo dice Vox, que nivel de ignorancia. Es regularizar a quien ya trabaja y punto.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "All-caps shouting with accusatory tone and dismissive language constitutes impoliteness."
+    },
+    {
+      "id": "0005df33-f1c6-4686-8715-ae6abfe11ea8",
+      "sender": "Carla",
+      "text": "Menudo argumento de cuñado. Mezclar lo de la vivienda con la migración es de no tener ni idea de nada porque no tiene nada que ver",
+      "timestamp": 1783953062.972541,
+      "reply_to": "Oriol",
+      "reply_text": "Es que mezclar la regularización con la falta de vivienda es un error de concepto muy común. Esta reforma busca integrar a gente que ya está aquí y ya consume, no crear un flujo repentino de nuevos arrivals. El problema de los alquileres es una falta de política de vivienda por parte de la derecha y la gestión de la oferta, no culpa de los trabajadores extranjeros. Culpar a la migración de la crisis de los servicios es muy conveniente pero poco riguroso.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Uses insulting dismissal ('argumento de CUÑADO', 'no tener ni idea de nada') and condescending tone toward opposing viewpoint."
+    },
+    {
+      "id": "012f97a1-0036-489d-bc57-874357d186a2",
+      "sender": "Hugo",
+      "text": "Entiendo tu punto sobre la vivienda, pero me parece que estamos mezclando conceptos distintos. No es que la migración cree la demanda de la nada, sino que el problema es estructural: falta inversión en vivienda pública y servicios básicos desde hace décadas. Culpar a la reforma de extranjería por el precio de los alquileres es no ver que el verdadero problema es el modelo de mercado y la falta de planificación habitacional en sí misma. Regularizar a quienes ya están aquí es darles estabilidad y derechos, lo cual ayuda a que esa demanda sea más previsible y menos precaria para el sistema.",
+      "timestamp": 1783953078.3958318,
+      "reply_to": "Emma",
+      "reply_text": "Vale,no es culpa del migrante, pero decir que no afecta a la vivienda es ser un poco ingenuo, El gobierno lanza esto sin plan de vivienda ni servicios para absorber la demanda.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message presents reasoned policy argument without insults, contempt, or hostile tone."
+    },
+    {
+      "id": "af532de6-b36e-46bf-be45-3289644b1f9e",
+      "sender": "Clara",
+      "text": "Qué ingenuidad, Emma, es el mismo cuento de siempre puta mierda de argumento.",
+      "timestamp": 1783953106.6212304,
+      "reply_to": "Emma",
+      "reply_text": "Vale,no es culpa del migrante, pero decir que no afecta a la vivienda es ser un poco ingenuo, El gobierno lanza esto sin plan de vivienda ni servicios para absorber la demanda.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message contains vulgar insults ('PUTA MIERDA') and dismissive contempt toward another participant."
+    },
+    {
+      "id": "4806c2e1-649f-459a-b691-1ee8b9972e64",
+      "sender": "Oriol",
+      "text": "Esa es una visión algo simplista, Lucía. La falta de planificación en servicios es un problema estructural de inversión pública, no un efecto colateral de la migración. Mezclar ambos conceptos solo sirve para desviar la responsabilidad política.",
+      "timestamp": 1783953129.8134272,
+      "reply_to": "Lucía",
+      "reply_text": "Vale, la culpa no es del migrante, pero no es excusa porque Sánchez lanza reformas sin ningún plan de vivienda o servicios. No es solo cosa de la derecha, es falta de planificación de Moncloa",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message critiques argument as simplistic but uses no insults, contempt, or hostile language."
+    },
+    {
+      "id": "54afeff3-2cfa-4ff2-9d70-91ac8bdc61e7",
+      "sender": "Emma",
+      "text": "Es que es muy cómodo decir que todo es culpa de la falta de inversión estructural para no hablar de la capacidad real del sistema. Decir que la migración no añade presión a la sanidad o al alquiler es evitar la conversación Es un buenismo que no soluciona que no hay camas ni pisos para nadie.",
+      "timestamp": 1783953178.9576423,
+      "reply_to": "Oriol",
+      "reply_text": "Esa es una visión algo simplista, Lucía. La falta de planificación en servicios es un problema estructural de inversión pública, no un efecto colateral de la migración. Mezclar ambos conceptos solo sirve para desviar la responsabilidad política.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message criticizes an argument as evasive and naive without insults, contempt, or dehumanizing language."
+    },
+    {
+      "id": "07ac419b-35b6-4acf-b8f7-4a7aedf593f3",
+      "sender": "Víctor",
+      "text": "Vaya sarta de palabrería, Hugo. No me vengas con rollos estructurales que no nos engañas. Esa migración masiva solo satura los servicios y nos deja sin nada. menuda fantasía!",
+      "timestamp": 1783953196.2566895,
+      "reply_to": "Hugo",
+      "reply_text": "Entiendo tu punto sobre la vivienda, pero me parece que estamos mezclando conceptos distintos. No es que la migración cree la demanda de la nada, sino que el problema es estructural: falta inversión en vivienda pública y servicios básicos desde hace décadas. Culpar a la reforma de extranjería por el precio de los alquileres es no ver que el verdadero problema es el modelo de mercado y la falta de planificación habitacional en sí misma. Regularizar a quienes ya están aquí es darles estabilidad y derechos, lo cual ayuda a que esa demanda sea más previsible y menos precaria para el sistema.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Contains dismissive insults ('sarta de palabrería', 'rollos'), accusation of deception ('no nos engañas'), and all-caps shouting ('MENUDA FANTASÍA'), meeting impoliteness criteria."
+    },
+    {
+      "id": "ccca02fd-b673-4fdd-a248-ffe45a36653d",
+      "sender": "Lucía",
+      "text": "No es mezclar conceptos por desviar la responsabilidad,Oriol, es que no puedes separar la demanda de la capacidad de respuesta. Decir que es un problema estructural de inversión es verdad, pero esa inversión tiene un límite físico y presupuestario que se ve comprometido cuando la población crece de forma tan acelerada y sin control. No es solo \"desviar la responsabilidad\", es que la reforma de extranjería es el detonante que acelera esa presión sobre un sistema que ya está al límite. Si no hay plan de vivienda y los servicios están saturados, meter a miles de personas más para \"facilitar el mercado laboral\" es como intentar ampliar una autovía que ya está colapsada sin haber construido ni una sola carretera nueva. Al final, ese enfoque estructural que defiendes acaba siendo una excusa para seguir aplicando un buenismo que ignora la realidad de lo que pasa en las calles y en los centros de salud.",
+      "timestamp": 1783953253.1167324,
+      "reply_to": "Oriol",
+      "reply_text": "Esa es una visión algo simplista, Lucía. La falta de planificación en servicios es un problema estructural de inversión pública, no un efecto colateral de la migración. Mezclar ambos conceptos solo sirve para desviar la responsabilidad política.",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message opposes pro-migration reform with substantive policy arguments about capacity limits; no insults, contempt, or dehumanizing language present."
+    }
+  ],
+  "generation_metadata": {
+    "source": "https://alexcasadevall.github.io/proves-posts-turing-test/Turing%20Final",
+    "file_id": "imm_12",
+    "topic_id": "immigration",
+    "treatment_group": "mix_mix",
+    "generated_at": "2026-07-13T14:23:56Z",
+    "post_timestamp": 1783952636.5956826,
+    "seed": 6212,
+    "names_source": "fictic",
+    "agent_names": [
+      "Hugo",
+      "Emma",
+      "Carla",
+      "Víctor",
+      "Oriol",
+      "Lucía",
+      "Clara"
+    ],
+    "models": {
+      "director": {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-6",
+        "bsc_model_version": null
+      },
+      "performer": {
+        "provider": "bsc",
+        "model": "incivility",
+        "bsc_model_version": "v1"
+      },
+      "moderator": {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5",
+        "bsc_model_version": null
+      },
+      "classifier": {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5",
+        "bsc_model_version": null
+      }
+    },
+    "all_bsc": false,
+    "incivility_boost": false,
+    "length_policy": {
+      "source": "thread_real_lengths_with_jitter",
+      "jitter": [
+        0.82,
+        1.18
+      ],
+      "cap": 220,
+      "targets": [
+        94,
+        38,
+        23,
+        45,
+        84,
+        27,
+        20,
+        23,
+        4,
+        19,
+        104,
+        9,
+        38,
+        60,
+        22,
+        145
+      ],
+      "performer_max_tokens": 512
+    },
+    "surface_calibration": {
+      "expand_abbreviations": true,
+      "reduce_ellipsis": true,
+      "normalize_emotional_all_caps": true,
+      "replace_repeated_political_cliches": true,
+      "calibrate_reply_metadata_to_real_thread": true,
+      "calibrate_timestamps_to_real_thread": true,
+      "persona_style": "short",
+      "personal_hooks_added_to_personas": false,
+      "double_turn_probability": 0.18,
+      "max_double_turns": 4
+    },
+    "errors": [
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Carla'",
+        "context": {
+          "content": "Otra vez con el cuento del efecto llamada? Menudo bulo de facha de manual... La peña se cree que es verdad solo xq lo dice Vox, q nivel de ignorancia. Es regularizar a quien ya trabaja y punto."
+        }
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Víctor'",
+        "context": {
+          "content": "Bulo de facha nada, la realidad es q no tienes ni idea de lo que pasa en la calle. Esa arrogancia progre de creerte mas lista q el resto es de cojones. El PSOE abre el grifo y nos dejan sin piso. TODO ES UNA MIERDA."
+        }
+      },
+      {
+        "type": "auto_like",
+        "message": "Auto-like: 'Oriol' -> 9d243f74-5ade-428c-8140-b99fe3ad4d3c (Clara)",
+        "context": {}
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Lucía'",
+        "context": {
+          "content": "Vale, la culpa no es del migrante, pero no es excusa xq Sánchez lanza reformas sin ningún plan de vivienda o servicios. No es solo cosa de la derecha, es falta de planificación de Moncloa"
+        }
+      },
+      {
+        "type": "director_room_wide_opener_redirected",
+        "message": "Redirected room-wide opener for 'Víctor' to reply to 'Carla'",
+        "context": {}
+      },
+      {
+        "type": "director_room_wide_opener_redirected",
+        "message": "Redirected room-wide opener for 'Hugo' to reply to 'Emma'",
+        "context": {}
+      },
+      {
+        "type": "director_room_wide_opener_redirected",
+        "message": "Redirected room-wide opener for 'Clara' to reply to 'Emma'",
+        "context": {}
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Clara'",
+        "context": {
+          "content": "Qué ingenuidad, Emma, es el mismo cuento de siempre... PUTA MIERDA DE ARGUMENTO."
+        }
+      },
+      {
+        "type": "director_room_wide_opener_redirected",
+        "message": "Redirected room-wide opener for 'Oriol' to reply to 'Lucía'",
+        "context": {}
+      },
+      {
+        "type": "director_room_wide_opener_redirected",
+        "message": "Redirected room-wide opener for 'Víctor' to reply to 'Hugo'",
+        "context": {}
+      },
+      {
+        "type": "director_room_wide_opener_redirected",
+        "message": "Redirected room-wide opener for 'Lucía' to reply to 'Oriol'",
+        "context": {}
+      }
+    ]
+  }
+}

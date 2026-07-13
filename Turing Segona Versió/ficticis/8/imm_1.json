@@ -1,0 +1,305 @@
+{
+  "post_original": {
+    "agency": "INFOLIBRE",
+    "title": "El nuevo reglamento de extranjería permitirá regularizar a 900.000 migrantes en tres años",
+    "body": "El Consejo de Ministros ha aprobado este martes una reforma del reglamento de la ley de extranjería que reduce plazos y simplifica requisitos para regularizar a migrantes que viven en España sin papeles, del que podrían beneficiarse unas 300.000 personas cada año en los próximos tres años, según informa EFE.\n\nAsí lo ha señalado la ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, en la rueda de prensa posterior al Consejo de Ministros, en el que ha detallado los principales cambios de la que ha calificado como “la reforma más integral y ambiciosa“ de este texto desde que entró en vigor, hace 13 años.\n\nEntre sus novedades, esta modificación reduce el tiempo de permanencia en España necesario para acceder a las figuras de arraigo de tres a dos años, establece que todos los visados tendrán una duración inicial de un año, incorpora mecanismos de protección para los trabajadores migrantes de temporada y refuerza la reagrupación familiar.",
+    "author": "Alex",
+    "timestamp": 1783948013.0712953
+  },
+  "num_participants": 12,
+  "messages": [
+    {
+      "id": "57a3cbc7-8f99-499a-bd50-472858d40862",
+      "sender": "Oriol",
+      "text": "Es que con tanta regularización de golpe, los servicios públicos y el alquiler no van a aguantar el efecto llamada",
+      "timestamp": 1783948052.1830626,
+      "reply_to": null,
+      "reply_text": null,
+      "is_mention": false,
+      "likes": 1,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message expresses policy concern about regularization effects without insults, contempt, or hostile tone."
+    },
+    {
+      "id": "4d64c1cb-2279-4021-bd61-2ff6b06faef0",
+      "sender": "Víctor",
+      "text": "Otra vez con el cuento del efecto llamada? Vaya bulo más facha, no tenéis ni idea de como funciona la justicia social",
+      "timestamp": 1783948090.1063936,
+      "reply_to": "Oriol",
+      "reply_text": "Es que con tanta regularización de golpe, los servicios públicos y el alquiler no van a aguantar el efecto llamada",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Contains mockery ('Otra vez con el cuento'), name-calling ('bulo más facha'), and condescending dismissal ('no tenéis ni idea')."
+    },
+    {
+      "id": "53f3fbb0-c7b4-47a7-8714-c34c6cd8e07e",
+      "sender": "Mateu",
+      "text": "Es que no es efecto llamada porque la gente ya esta aqui, eso es lo que no entiende la gente de la PP y Vox, el problema del alquiler es otro tema aparte",
+      "timestamp": 1783948113.8621278,
+      "reply_to": "Oriol",
+      "reply_text": "Es que con tanta regularización de golpe, los servicios públicos y el alquiler no van a aguantar el efecto llamada",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message argues substantively against the 'call effect' claim without insults, contempt, or hostile tone."
+    },
+    {
+      "id": "9cccc9ee-bb5e-4e12-a1b0-d64d0a64f951",
+      "sender": "Ivan",
+      "text": "Vaya sarta de mierda, buenismo total para el alquiler...",
+      "timestamp": 1783948147.1388276,
+      "reply_to": "Víctor",
+      "reply_text": "Otra vez con el cuento del efecto llamada? Vaya bulo más facha, no tenéis ni idea de como funciona la justicia social,",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Contains vulgar insult 'mierda' and all-caps shouting phrase expressing contempt for opposing arguments."
+    },
+    {
+      "id": "1f83a0dc-3315-4210-958f-70afeb996cf9",
+      "sender": "Sara",
+      "text": "Claro, claro, qué facil es decir eso con el buenismo de Sanchez. Menuda chorrada lo de que el alquiler es \"otro tema\", si metes a 900 mil mas a la vez colapsas todo. esto es un desastre para los servicios publicos.",
+      "timestamp": 1783948213.9527378,
+      "reply_to": "Mateu",
+      "reply_text": "Es que no es efecto llamada porque la gente ya esta aqui, eso es lo que no entiende la gente de la PP y Vox, el problema del alquiler es otro tema aparte,",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Contains impoliteness (chorrada, buenismo mockery) and all-caps shouting (ESTO ES UN DESASTRE) expressing contempt."
+    },
+    {
+      "id": "34610a98-f45e-4774-8a8d-80c8c81e49a7",
+      "sender": "Marina",
+      "text": "Pero no ves que la regularizacion es para los que ya estan aqui? Ese efecto llamada es un mito del PP/Vox",
+      "timestamp": 1783948259.3663964,
+      "reply_to": "Oriol",
+      "reply_text": "Es que con tanta regularización de golpe, los servicios públicos y el alquiler no van a aguantar el efecto llamada",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message presents a factual argument about regularization without insults, contempt, or hostile tone."
+    },
+    {
+      "id": "0b386326-dbd4-463e-bda0-a53d9f813ec9",
+      "sender": "Emma",
+      "text": "Aunque ya estén, meter a tanta gente de golpe presiona el alquiler y los servicios municipales y Moncloa no tiene un plan real de gestion para esto.. es lo mas logico",
+      "timestamp": 1783948280.598212,
+      "reply_to": "Mateu",
+      "reply_text": "Es que no es efecto llamada porque la gente ya esta aqui, eso es lo que no entiende la gente de la PP y Vox, el problema del alquiler es otro tema aparte,",
+      "is_mention": false,
+      "likes": 0,
+      "is_incivil": false,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Message presents a policy argument without insults, contempt, or hostile tone."
+    },
+    {
+      "id": "ae7b434d-b191-425c-abcb-df32c502c0c7",
+      "sender": "Isona",
+      "text": "vaya cuento, que bulo de facha",
+      "timestamp": 1783948322.81564,
+      "reply_to": "Sara",
+      "reply_text": "Claro, claro, qué facil es decir eso con el buenismo de Sanchez. Menuda chorrada lo de que el alquiler es \"otro tema\", si metes a 900 mil mas a la vez colapsas todo. esto ES UN desastre para los servicios publicos.",
+      "is_mention": false,
+      "likes": 1,
+      "is_incivil": true,
+      "is_like_minded": null,
+      "inferred_participant_stance": null,
+      "classification_rationale": "Uses derogatory slur 'facha' and dismissive language ('cuento', 'bulo') to attack opposing viewpoints."
+    }
+  ],
+  "generation_metadata": {
+    "source": "https://alexcasadevall.github.io/proves-posts-turing-test/Turing%20Final",
+    "file_id": "imm_1",
+    "topic_id": "immigration",
+    "treatment_group": "mix_mix",
+    "generated_at": "2026-07-13T13:06:53Z",
+    "post_timestamp": 1783948013.0712953,
+    "seed": 6201,
+    "names_source": "fictic",
+    "agent_names": [
+      "Mateu",
+      "Carla",
+      "Víctor",
+      "Ivan",
+      "Marina",
+      "Emma",
+      "Isona",
+      "Sara",
+      "Miguel",
+      "Oriol",
+      "Núria",
+      "Biel"
+    ],
+    "models": {
+      "director": {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-6",
+        "bsc_model_version": null
+      },
+      "performer": {
+        "provider": "bsc",
+        "model": "incivility",
+        "bsc_model_version": "v1"
+      },
+      "moderator": {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5",
+        "bsc_model_version": null
+      },
+      "classifier": {
+        "provider": "anthropic",
+        "model": "claude-haiku-4-5",
+        "bsc_model_version": null
+      }
+    },
+    "all_bsc": false,
+    "incivility_boost": false,
+    "length_policy": {
+      "source": "thread_real_lengths_with_jitter",
+      "jitter": [
+        0.82,
+        1.18
+      ],
+      "cap": 220,
+      "targets": [
+        13,
+        23,
+        25,
+        4,
+        40,
+        20,
+        23,
+        6,
+        13,
+        113,
+        13,
+        14,
+        28,
+        48,
+        29,
+        22
+      ],
+      "performer_max_tokens": 512
+    },
+    "surface_calibration": {
+      "expand_abbreviations": true,
+      "reduce_ellipsis": true,
+      "normalize_emotional_all_caps": true,
+      "replace_repeated_political_cliches": true,
+      "calibrate_reply_metadata_to_real_thread": true,
+      "calibrate_timestamps_to_real_thread": true,
+      "persona_style": "short",
+      "personal_hooks_added_to_personas": false,
+      "double_turn_probability": 0.18,
+      "max_double_turns": 4
+    },
+    "errors": [
+      {
+        "type": "auto_like",
+        "message": "Auto-like: 'Ivan' -> 57a3cbc7-8f99-499a-bd50-472858d40862 (Oriol)",
+        "context": {}
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Víctor'",
+        "context": {
+          "content": "Otra vez con el cuento del efecto llamada? Vaya bulo más facha, no tenéis ni idea de como funciona la justicia social..."
+        }
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Sara'",
+        "context": {
+          "content": "Claro, claro... qué facil es decir eso con el buenismo de Sanchez. Menuda chorrada lo de que el alquiler es \"otro tema\", si metes a 900 mil mas a la vez colapsas todo. ESTO ES UN DESASTRE para los servicios publicos."
+        }
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Emma'",
+        "context": {
+          "content": "Aunque ya estén, meter a tanta gente de golpe presiona el alquiler y los servicios municipales y Moncloa no tiene un plan real de gestion para esto.. es lo mas logico"
+        }
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Biel'",
+        "context": {
+          "content": "Vaya la otra, siempre con lo mismo. Que si bulo, que si facha... ME DA RABIA que no tengáis ni un argumento serio y lo unico que sabais hacer es soltar esa palabrita para callar a los demas. Es el pan de cada dia con los"
+        }
+      },
+      {
+        "type": "auto_like",
+        "message": "Auto-like: 'Mateu' -> fe2c4f6e-d985-462f-837d-8559714bc504 (Miguel)",
+        "context": {}
+      },
+      {
+        "type": "auto_like",
+        "message": "Auto-like: 'Marina' -> fe2c4f6e-d985-462f-837d-8559714bc504 (Miguel)",
+        "context": {}
+      },
+      {
+        "type": "auto_like",
+        "message": "Auto-like: 'Marina' -> ae7b434d-b191-425c-abcb-df32c502c0c7 (Isona)",
+        "context": {}
+      },
+      {
+        "type": "auto_like",
+        "message": "Auto-like: 'Isona' -> fe2c4f6e-d985-462f-837d-8559714bc504 (Miguel)",
+        "context": {}
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Núria'",
+        "context": {
+          "content": "Vaya sarta de tonterias... la culpa es del desastre q dejó el PP, no de la gente. MENUDO PEDAZO DE IDIOTA!"
+        }
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Oriol'",
+        "context": {
+          "content": "Entiendo q formalizar ayuda, pero meter 300.000 personas cada año sin plan de vivienda o sanidad no es sostenible. No es un bulo, es falta de planificación de Moncloa"
+        }
+      },
+      {
+        "type": "director_action_invalid_reply_target",
+        "message": "attempt 1/3: Director returned reply target '5d5ca064-670c-495b-a380-4b7b76ccb8ca' for 'Ivan', but that message is not a valid reply target for the chosen speaker",
+        "context": {}
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Ivan'",
+        "context": {
+          "content": "Planificación? JAJAJA qué risa, si lo diles q es planificar es pq no ves q sanchismo solo quiere abrir las puertas y ya. VA A SER UN DESASTRE... la sanidad y la vivienda petando pq no dan abasto"
+        }
+      },
+      {
+        "type": "auto_like",
+        "message": "Auto-like: 'Núria' -> 80347fd9-d8c3-4fe7-9c01-1bfb87f0d5ec (Víctor)",
+        "context": {}
+      },
+      {
+        "type": "stock_formula_seen",
+        "message": "Stock formula seen from 'Ivan'",
+        "context": {
+          "content": "\"Cuento de la derecha\"? JAJAJA qué risa me das, eres un buenista de manual. 300.000 mas cada año es COLAPSAR TODO lo q queda de sanidad y vivienda"
+        }
+      }
+    ],
+    "derived_from_16": true
+  }
+}

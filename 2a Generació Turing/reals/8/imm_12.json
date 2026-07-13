@@ -1,0 +1,100 @@
+{
+    "post_original": {
+        "agency": "LA VANGUARDIA",
+        "title": "El Gobierno aprueba la reforma que facilita incorporar extranjeros al mercado laboral",
+        "body": "El Gobierno ha aprobado este martes en Consejo de Ministros la reforma del reglamento de Extranjería por la que se facilita la incorporación de los extranjeros al mercado de trabajo. \n\n“Por la propia naturaleza del fenómeno subyacente es imposible hacer una estimación que tampoco es el objetivo de la reforma. El objetivo es modernizar el modelo migratorio para que se propicie la migración regular y segura en toda circunstancia“, ha explicado el ministro de Inclusión, Seguridad Social y Migraciones, José Luis Escrivá, este martes en la rueda de prensa posterior a la reunión del Consejo de Ministros. \n\nEntre las medidas que se incluyen en la reforma, Escrivá ha destacado que “se racionalizan y actualizan las figuras del arraigo social y laboral y por reagrupación familiar“ y “se crea una nueva figura de arraigo por formación“ que va a permitir a migrantes que lleven dos años en España y quieran formarse en profesiones particularmente deficitarias, que puedan hacerlo. \n\nAdemás, ha precisado que se corrige una “anomalía“ que había en España pues se va a “facilitar el trabajo al terminar sus estudios a 50.000 extranjeros“; y ha añadido que también se modernizan los requisitos de acceso al trabajo autónomo, que eran “extraordinariamente complejos“. \n\n Igualmente, se “reformula“ el catálogo de ocupaciones particularmente demandadas “para que se puedan generar contrataciones en origen en las situaciones que así lo justifiquen por la evolución del mercado laboral“ y se “perfecciona el modelo de migración estacional (circular)“, todo ello acompañado de “una mejora en la gestión reduciendo trámites y haciendo que las cargas administrativas sean más razonables“, tal y como ha puntualizado Escrivá.",
+        "author": "Regname1900",
+        "timestamp": 1658866630.0
+    },
+    "num_participants": 10,
+    "messages": [
+        {
+            "id": "ihrlbtc",
+            "parent_id": null,
+            "sender": "Miguel",
+            "real_author": "Zachajya",
+            "text": "El buen dumping social que hace siempre el PSOE, que la gente lo defiende aunque le perjudique porque si no eres xenofobo.",
+            "timestamp": 1658866700.0,
+            "reply_to": null,
+            "reply_text": "",
+            "likes": 0
+        },
+        {
+            "id": "ihrpl0f",
+            "parent_id": "ihrlbtc",
+            "sender": "Sergi",
+            "real_author": "O0uyeah",
+            "text": "Si lo que quieres es que las cosas sigan igual, si no tienes ningún interés en que las personas que sufren la tragedia del sistema actual puedan tener una vida mejor, si lo único que te importa es tu propia situación a costa de la vida de los pobres creados por este mismo sistema, si prefieres que justamente aquellos que sufren sean tratados  con toda la violencia hoy moralmente aceptable, lo que te hace xenófobo es la ignorancia la cual permite tragar con cualquier tipo de propaganda reaccionaria.   La xenofobia es el reflejo de la ignorancia más burda. Nada más y nada menos.",
+            "timestamp": 1658866753.0,
+            "reply_to": "Miguel",
+            "reply_text": "El buen dumping social que hace siempre el PSOE, que la gente lo defiende aunque le perjudique porque si no eres xenofobo.",
+            "likes": 0
+        },
+        {
+            "id": "ihrz7e4",
+            "parent_id": "ihrlbtc",
+            "sender": "Helena",
+            "real_author": "YoGroo",
+            "text": "Qué es dumping social?",
+            "timestamp": 1658866783.0,
+            "reply_to": "Miguel",
+            "reply_text": "El buen dumping social que hace siempre el PSOE, que la gente lo defiende aunque le perjudique porque si no eres xenofobo.",
+            "likes": 0
+        },
+        {
+            "id": "ihs3rur",
+            "parent_id": "ihrz7e4",
+            "sender": "Miguel",
+            "real_author": "Zachajya",
+            "text": "Cuando metes en tu país un montón de mano de obra para que haya más competencia por conseguir un trabajo y la gente este dispuesta a aceptar peores condiciones de trabajo.   Beneficia a los empresarios y jode a los trabajadores, porque básicamente hace que los empresarios puedan decir \"si no te gustan las condiciones, hay otras veinte personas interesadas en este puesto\".   En España hemos estado muchos años en esa situación. Primero por la política de \"papeles para todos\" de Zapatero, luego por la crisis que puso la tasa de paro al 20%. Ahora que en sectores como la hosteleria faaltan camareros y cocineros (porque las condiciones que hay en esos puestos son una mierda), pues traes trabajadores de fuera y asi los empresarios no tienen que ofrecer mejores condiciones para encontrar trabajadores. Eso es el dumping social.",
+            "timestamp": 1658866843.0,
+            "reply_to": "Helena",
+            "reply_text": "Qué es dumping social?",
+            "likes": 0
+        },
+        {
+            "id": "ihs7v9y",
+            "parent_id": "ihs3rur",
+            "sender": "Helena",
+            "real_author": "YoGroo",
+            "text": "Entonces dices que los que nos tienen jodidos son los empresarios, pero que hay que acabar con los explotados? Te dan miedo los empresarios?",
+            "timestamp": 1658866868.0,
+            "reply_to": "Miguel",
+            "reply_text": "Cuando metes en tu país un montón de mano de obra para que haya más competencia por conseguir un trabajo y la gente este dispuesta a aceptar peores condiciones de trabajo. Beneficia a los empresarios ...",
+            "likes": 1
+        },
+        {
+            "id": "ihs89uw",
+            "parent_id": "ihs7v9y",
+            "sender": "Miguel",
+            "real_author": "Zachajya",
+            "text": "¿Y tú quieres acabar con los empresarios, acaso?   Porque esa es la forma perfecta de mandar la economía de un país al fango.",
+            "timestamp": 1658866902.0,
+            "reply_to": "Helena",
+            "reply_text": "Entonces dices que los que nos tienen jodidos son los empresarios, pero que hay que acabar con los explotados? Te dan miedo los empresarios?",
+            "likes": 0
+        },
+        {
+            "id": "ihs8ko7",
+            "parent_id": "ihs89uw",
+            "sender": "Helena",
+            "real_author": "YoGroo",
+            "text": "No seamos tan radicales tampoco, se puede hablar.",
+            "timestamp": 1658866952.0,
+            "reply_to": "Miguel",
+            "reply_text": "¿Y tú quieres acabar con los empresarios, acaso? Porque esa es la forma perfecta de mandar la economía de un país al fango.",
+            "likes": 0
+        },
+        {
+            "id": "ihs93mg",
+            "parent_id": "ihs8ko7",
+            "sender": "Miguel",
+            "real_author": "Zachajya",
+            "text": "El tema es que la economía está a punto de equilibrarse por el proceso:  1) Falta mano de obra.  2) Los empresarios ofrecen mejores condiciones de trabajo para conseguir mano de obra.   Si el gobierno va y mete en la ecuación un montón de gente dispuesta a trabajar con malas condiciones o bajos salarios, te cargas el proceso. Y ya me imagino a la gente dentro de unos años quejandose de que el capitalismo no se autoregula cuando el gobierno ha intervenido para impedirlo.",
+            "timestamp": 1658866967.0,
+            "reply_to": "Helena",
+            "reply_text": "No seamos tan radicales tampoco, se puede hablar.",
+            "likes": 0
+        }
+    ]
+}
