@@ -314,9 +314,14 @@
             const displayCategory = category === 'clim' ? 'Climate Change' : 'Immigration';
             const displayType = type === 'reals' ? 'Real' : 'Fictici';
 
+            let deleteBadge = '';
+            if (category === 'imm' && [3, 7, 8, 10, 13].includes(Number(num)) && (len === '8' || len === '16')) {
+                deleteBadge = `<span style="color: #ef4444; font-weight: bold; font-size: 0.9em; margin-left: 8px; background-color: #fee2e2; padding: 2px 6px; border-radius: 4px; border: 1px solid #fca5a5; display: inline-flex; align-items: center; gap: 4px;">❌ (ELIMINAR)</span>`;
+            }
+
             card.innerHTML = `
                 <div class="post-info">
-                    <span class="post-tag">${displayType} • ${displayCategory} #${num}</span>
+                    <span class="post-tag">${displayType} • ${displayCategory} #${num}${deleteBadge}</span>
                     <span class="post-title loading" id="title-${type}-${len}-${fileId}">Loading post title...</span>
                     <div class="post-meta">
                         <span class="meta-item">
