@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes media framing and government handling without insults, contempt, or dehumanizing language toward groups."
+      "likes": 0
     },
     {
       "id": "09de84ae-0ddc-4142-9b79-55749fa0eb5b",
@@ -30,11 +26,7 @@
       "reply_to": "Pau",
       "reply_text": "Puede que la delincuencia se mantenga estable como dicen, pero este tipo de artículos de El País siempre se quedan en la superficie y lo que hace la Moncloa es básicamente maquillarlo todo. Al final te dan datos de criminalidad que no cuentan la historia completa y se olvidan de lo que vemos cada día en la calle, como la presión brutal que hay en los servicios públicos o lo imposible que es pillar un piso ahora mismo. Es muy fácil hablar de estadísticas de delitos cuando ignoras por completo el agobio que sufre la gente con la vivienda y la sanidad por la llegada constante de gente sin un plan real de integración, un poco de realismo nos vendría bien.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('Menudo cambio de tema'), condescension ('realismo de cuñao'), and dismissive contempt toward the interlocutor's reasoning."
+      "likes": 0
     },
     {
       "id": "4e96c7bb-7a20-42bf-94a5-4554c390db38",
@@ -44,11 +36,7 @@
       "reply_to": "Pau",
       "reply_text": "Puede que la delincuencia se mantenga estable como dicen, pero este tipo de artículos de El País siempre se quedan en la superficie y lo que hace la Moncloa es básicamente maquillarlo todo. Al final te dan datos de criminalidad que no cuentan la historia completa y se olvidan de lo que vemos cada día en la calle, como la presión brutal que hay en los servicios públicos o lo imposible que es pillar un piso ahora mismo. Es muy fácil hablar de estadísticas de delitos cuando ignoras por completo el agobio que sufre la gente con la vivienda y la sanidad por la llegada constante de gente sin un plan real de integración, un poco de realismo nos vendría bien.",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message acknowledges housing concerns while defending research findings and critiquing PP rhetoric; no insults, threats, or dehumanization present."
+      "likes": 1
     },
     {
       "id": "3f1fdd42-1bd5-47ab-aae9-a3d54fe1c57f",
@@ -58,11 +46,7 @@
       "reply_to": "Gerard",
       "reply_text": "Menudo cambio de tema,Pau. Aceptas los datos pero luego te vas con la milonga de la vivienda y la sanidad para justificar el estigma. Es el típico truco de los bulos de siempre. Menudo realismo de cuñao, que no te crees los datos por el puro prejuicio.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('listillo', 'buenismo'), vulgar language ('mierda'), mockery, and contemptuous tone dismissing opposing arguments."
+      "likes": 0
     },
     {
       "id": "d0e8f066-45d8-4c36-b507-dd1b4e25eb82",
@@ -72,11 +56,7 @@
       "reply_to": "Gerard",
       "reply_text": "Menudo cambio de tema,Pau. Aceptas los datos pero luego te vas con la milonga de la vivienda y la sanidad para justificar el estigma. Es el típico truco de los bulos de siempre. Menudo realismo de cuñao, que no te crees los datos por el puro prejuicio.",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains multiple insults (buenista, flipao), mockery, condescension, and contempt toward Gerard's intelligence and credibility."
+      "likes": 0
     },
     {
       "id": "a7dcb3d4-fb0d-4731-8059-97c168870683",
@@ -86,11 +66,7 @@
       "reply_to": "Gerard",
       "reply_text": "Menudo cambio de tema,Pau. Aceptas los datos pero luego te vas con la milonga de la vivienda y la sanidad para justificar el estigma. Es el típico truco de los bulos de siempre. Menudo realismo de cuñao, que no te crees los datos por el puro prejuicio.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes government policy and statistics without insults, contempt, or dehumanizing language toward any group."
+      "likes": 0
     },
     {
       "id": "a556e1fe-038e-4deb-b03c-bad38d002214",
@@ -100,11 +76,7 @@
       "reply_to": "Jordi",
       "reply_text": "@Gerard Sí claro, todo son bulos para los que no salen del Twitter progre y viven en una burbuja de cristal. Qué nivel, Gerard. Te crees el cuento de los estudios y los datos porque es lo que te han metido en la cabeza para que no veas la realidad. Eres un buenista de manual,un flipao que se cree que por leer cuatro papers de la universidad ya sabe lo que pasa. Mientras tu cara de póker se queda pegada a la pantalla soltando sermones, la gente normal tiene que lidiar con el caos que hay en los barrios. Baja de la nube y deja de dar lecciones de vida, que das una vergüenza ajena impresionante. Menuda peli te montas que no te la crees ni tu madre.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains contempt and belittling ('agotador', 'huir', 'pereza intelectual') directed at the other participant's reasoning."
+      "likes": 0
     },
     {
       "id": "915e5ebc-9359-4579-bcb0-d11e8e42a71e",
@@ -114,11 +86,7 @@
       "reply_to": "Raül",
       "reply_text": "Vale, Gerard, que el vinculo directo con el crimen sea difuso es un punto, pero no sirve de nada tachar de bulo lo que pasa con la vivienda y la sanidad. Una cosa es la estadistica y otra la capacidad de integracion real de un pais, y ahi es donde la Moncloa nos esta dando la estafa con su falta de un plan serio. No es prejuicio, es que la presion sobre los servicios publicos es un problema estructural que no se arregla con papers de la universidad.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('fachas'), dismissive contempt ('cuentito'), and mocking tone ('Que no te cansa')."
+      "likes": 0
     },
     {
       "id": "b1f65dda-2e66-400c-866f-036d6e32bb6b",
@@ -128,11 +96,7 @@
       "reply_to": "Raül",
       "reply_text": "Vale, Gerard, que el vinculo directo con el crimen sea difuso es un punto, pero no sirve de nada tachar de bulo lo que pasa con la vivienda y la sanidad. Una cosa es la estadistica y otra la capacidad de integracion real de un pais, y ahi es donde la Moncloa nos esta dando la estafa con su falta de un plan serio. No es prejuicio, es que la presion sobre los servicios publicos es un problema estructural que no se arregla con papers de la universidad.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message uses reasoned argument and policy critique without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "8a518e1b-d105-4584-9fee-83d7df10a21a",
@@ -142,11 +106,7 @@
       "reply_to": "Gerard",
       "reply_text": "Menudo cambio de tema,Pau. Aceptas los datos pero luego te vas con la milonga de la vivienda y la sanidad para justificar el estigma. Es el típico truco de los bulos de siempre. Menudo realismo de cuñao, que no te crees los datos por el puro prejuicio.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message opposes pro-immigration stance with substantive policy arguments about integration and public services without insults, threats, or hate speech."
+      "likes": 0
     },
     {
       "id": "f7c80a42-b8bd-4a90-b699-2dde79f15feb",
@@ -156,11 +116,7 @@
       "reply_to": "Clàudia",
       "reply_text": "Es agotador que recurras al desprecio en lugar de al argumento. Llamar \"buenismo\" a la criminología no es debatir, es huir. La sobrerrepresentación se explica por la precariedad y falta de arraigo, no por la nacionalidad. La distorsión viene del relato de Vox y el PP sobre \"delitos importados\", no de los datos académicos. Menuda pereza intelectual...",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes government policy without insults, threats, or hate speech; uses reasoned argument about service capacity."
+      "likes": 1
     },
     {
       "id": "04ea4b96-5a47-41f2-8e7c-e56b32c8abde",
@@ -170,11 +126,7 @@
       "reply_to": "Pau",
       "reply_text": "No es cuestión de querer huir del debate o de no aceptar los datos, Gerard. Es que reducirlo todo a si la criminalidad sube o baja estadisticamente es una visión muy incompleta. Vale, aceptemos que la relacion directa con el delito sea mas baja de lo que se cree, pero eso no quita que el problema real sea mucho mas profundo y estructural. Al final, el debate se queda en un bucle de bulos contra datos mientras la Moncloa evita hablar de lo que importa: la capacidad de absorcion del pais. No se trata de estigmatizar a nadie por su nacionalidad, se trata de que no hay un plan de integracion serio y eso acaba saturando la vivienda y la sanidad de una forma que los datos de criminalidad no alcanzan a reflejar. Es muy facil quedarse en la superficie de la criminologia para decir que no pasa nada,pero la gente que intenta alquilar un piso o ir al medico siente esa presion cada dia. No es un truco de cuñao,es que nos estan vendiendo una gestion de la inmigracion que no tiene en cuenta la sostenibilidad de los servicios publicos.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques policy arguments without insults, threats, hate speech, or antidemocratic advocacy."
+      "likes": 0
     },
     {
       "id": "b634482d-4c16-4e0b-9ec1-edcd6a2b0479",
@@ -184,11 +136,7 @@
       "reply_to": "Raül",
       "reply_text": "Es que no es lo que dije, Clàudia. No estoy diciendo que la nacionalidad sea el factor determinante del crimen, eso es lo que os encanta debatir para no entrar al trapo. Mi punto es que la Moncloa está fallando estrepitosamente al no tener un plan de integración real que gestione la llegada de gente, y eso es lo que acaba colapsando la vivienda y la sanidad. El problema es la falta de capacidad de absorción y la gestión de la Moncloa, no el prejuicio de los datos. Se puede estar de acuerdo con la criminologia y aun así ver que la gestion de los servicios publicos es un desastre por no planificar la llegada de personas.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents substantive policy argument about service funding without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "81b1b2c1-c3d2-4575-814a-6a359ab4ff53",
@@ -198,11 +146,7 @@
       "reply_to": "Clàudia",
       "reply_text": "Es cierto que la integración y la gestión de servicios son temas clave, pero usar la \"capacidad de absorción\" como argumento es un poco un callejon sin salida si no ves de donde viene la saturación. No es que la gente llegue y colapse todo de repente, es que llevamos años sufriendo los recortes y la desinversión estructural del PP en sanidad y vivienda, que es lo que realmente ha dejado los servicios en un estado tan critico. Culpar a los flujos migratorios de la falta de pisos o de la espera en el centro de salud es ignorar que el problema de fondo es el modelo de austeridad que nos han vendido, no la llegada de personas que vienen a trabajar. Al final, lo que hacen es desplazar la responsabilidad de una mala gestion de los servicios publicos hacia la inmigración para no hablar de la falta de inversion real.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar insult ('puta idea'), all-caps shouting ('MENUDA PANTOMIMA'), and contemptuous dismissal of opposing arguments."
+      "likes": 0
     },
     {
       "id": "c932c4b3-4bd2-4bfe-8f93-98b70bc29b74",
@@ -212,11 +156,7 @@
       "reply_to": "Clàudia",
       "reply_text": "Es cierto que la integración y la gestión de servicios son temas clave, pero usar la \"capacidad de absorción\" como argumento es un poco un callejon sin salida si no ves de donde viene la saturación. No es que la gente llegue y colapse todo de repente, es que llevamos años sufriendo los recortes y la desinversión estructural del PP en sanidad y vivienda, que es lo que realmente ha dejado los servicios en un estado tan critico. Culpar a los flujos migratorios de la falta de pisos o de la espera en el centro de salud es ignorar que el problema de fondo es el modelo de austeridad que nos han vendido, no la llegada de personas que vienen a trabajar. Al final, lo que hacen es desplazar la responsabilidad de una mala gestion de los servicios publicos hacia la inmigración para no hablar de la falta de inversion real.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('palabrería', 'mierda'), mockery ('de coña'), contempt ('buenista'), and hostile dismissal of opposing arguments."
+      "likes": 0
     },
     {
       "id": "0dfca539-9edd-4033-8bce-f98ba85611e0",
@@ -226,11 +166,7 @@
       "reply_to": "Raül",
       "reply_text": "Es que no es lo que dije, Clàudia. No estoy diciendo que la nacionalidad sea el factor determinante del crimen, eso es lo que os encanta debatir para no entrar al trapo. Mi punto es que la Moncloa está fallando estrepitosamente al no tener un plan de integración real que gestione la llegada de gente, y eso es lo que acaba colapsando la vivienda y la sanidad. El problema es la falta de capacidad de absorción y la gestión de la Moncloa, no el prejuicio de los datos. Se puede estar de acuerdo con la criminologia y aun así ver que la gestion de los servicios publicos es un desastre por no planificar la llegada de personas.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Uses dismissive tone ('Venga ya'), name-calling ('facha'), and accusatory framing that attacks the interlocutor's motives rather than engaging substantively."
+      "likes": 0
     }
   ]
 }

@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses concern about climate denial and polarization without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "6affa0e6-1cf2-4ae2-a0b7-55b0da7ef5fb",
@@ -30,11 +26,7 @@
       "reply_to": "Sònia",
       "reply_text": "me ha dejado bastante chocada eso de que casi un 30% sea negacionista es una cifra preocupante si te pones a pensar en la polarización que menciona el articulo. parece que la falta de informacion real ha permitido que la derecha explote ese escepticismo y nos estan frenando la transicion.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains dismissive mockery ('VAYA CUENTO') and belittling name-calling ('ecologistas de salon') directed at Sònia's position."
+      "likes": 0
     },
     {
       "id": "e81f01a2-a5c1-4257-bcd9-90c7e465e335",
@@ -44,11 +36,7 @@
       "reply_to": "Sònia",
       "reply_text": "me ha dejado bastante chocada eso de que casi un 30% sea negacionista es una cifra preocupante si te pones a pensar en la polarización que menciona el articulo. parece que la falta de informacion real ha permitido que la derecha explote ese escepticismo y nos estan frenando la transicion.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message opposes green transition policies with reasoned skepticism but contains no insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "d7949889-fb70-43bb-99b4-cf3a59d0f339",
@@ -58,11 +46,7 @@
       "reply_to": "Paula",
       "reply_text": "Es verdad que ese 29% suena fuerte, pero no creo que sea solo cosa de la derecha o de falta de info, sino más bien una cuestión de sentido común y realismo. Si te fijas bien en el resto de los datos, hay un escepticismo muy grande con el coche eléctrico y el cierre de las nucleares que cruza todo el espectro politico, incluso con gente de izquierdas. No es que la gente sea ignorante, es que las medidas de la Agenda 2030 y de Moncloa a veces parecen desconectadas de la realidad del día a día de un español medio, La gente tiene dudas muy lógicas sobre la autonomía de los coches o sobre cómo se va a garantizar la luz sin las centrales. Al final, el problema es que el Gobierno intenta imponer todo desde arriba con un discurso muy cerrado y no entiende que la transición tiene que ser algo práctico, no solo una imposicion ideologica que nos acabe saliendo cara a todos.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('pura ignorancia', 'cuñao'), mockery ('película'), contempt ('MENUDA FARSA'), and derogatory characterization of opposing views."
+      "likes": 0
     },
     {
       "id": "86a4b426-2a17-4935-9b11-0025a0b0f7b3",
@@ -72,11 +56,7 @@
       "reply_to": "Sònia",
       "reply_text": "me ha dejado bastante chocada eso de que casi un 30% sea negacionista es una cifra preocupante si te pones a pensar en la polarización que menciona el articulo. parece que la falta de informacion real ha permitido que la derecha explote ese escepticismo y nos estan frenando la transicion.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses skepticism about climate policies without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "94c33a76-57ef-4601-95df-eecef212216c",
@@ -86,11 +66,7 @@
       "reply_to": "Paula",
       "reply_text": "Es verdad que ese 29% suena fuerte, pero no creo que sea solo cosa de la derecha o de falta de info, sino más bien una cuestión de sentido común y realismo. Si te fijas bien en el resto de los datos, hay un escepticismo muy grande con el coche eléctrico y el cierre de las nucleares que cruza todo el espectro politico, incluso con gente de izquierdas. No es que la gente sea ignorante, es que las medidas de la Agenda 2030 y de Moncloa a veces parecen desconectadas de la realidad del día a día de un español medio, La gente tiene dudas muy lógicas sobre la autonomía de los coches o sobre cómo se va a garantizar la luz sin las centrales. Al final, el problema es que el Gobierno intenta imponer todo desde arriba con un discurso muy cerrado y no entiende que la transición tiene que ser algo práctico, no solo una imposicion ideologica que nos acabe saliendo cara a todos.",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message disagrees with Paula's framing but uses no insults, contempt, or dehumanizing language; presents a political argument without impoliteness."
+      "likes": 0
     },
     {
       "id": "2580cda0-c52f-4926-8674-da5695172e25",
@@ -100,11 +76,7 @@
       "reply_to": "Vila",
       "reply_text": "Vaya película te pegas llamando \"sentido común\" a la pura ignorancia de los negacionistas. Eso de que es \"realismo\" es el discurso típico de cuñao que usa el PP y Vox para lavarse las manos y seguir vendiendo la moto de los combustibles fósiles. menuda farsa es intentar disfrazar la falta de cultura científica de algo práctico, porque al final lo que buscan es frenar la transición a base de mentiras y propaganda de la derecha.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains direct insults ('arrogancia', 'no tienes ni idea'), mockery of opponents, contempt ('ecologistas de salon'), and all-caps accusation ('TODO ES UNA FARSA')."
+      "likes": 0
     },
     {
       "id": "a4909726-ef7e-42d6-9a30-cb0642a47fed",
@@ -114,11 +86,7 @@
       "reply_to": "Lucía",
       "reply_text": "Es verdad que ese 29% asusta, pero no es solo culpa de la derecha. Mira los otros datos: la duda con el coche electrico o la nuclear cruza todo el espectro. No es ignorancia, es que las medidas de Moncloa son pura imposicion desde arriba sin tener en cuenta la realidad del dia a dia.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains contempt and belittling ('los que se creen listos', 'ignorar la evidencia') directed at those who question climate science."
+      "likes": 0
     }
   ]
 }

@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes government policy as unrealistic but uses no insults, contempt, or dehumanizing language."
+      "likes": 1
     },
     {
       "id": "c9e2b817-81d2-423e-abd7-840270054cd6",
@@ -30,11 +26,7 @@
       "reply_to": "Raül",
       "reply_text": "Es que no me extraña nada lo de la encuesta. Al final la peña se da cuenta de que lo que propone Moncloa es un poco irreal para el dia a dia. Si mas de la mitad apoya lo de las nucleares y la gente duda tanto del coche electrico, es porque no les compran el cuento de la transicion rapida sin mirar la realidad. Un 58% a favor de extender la vida de las centrales dice mucho, parece que el gobierno va por libre con su agenda y no tiene ni idea de lo que necesita la gente de verdad",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Uses contemptuous name-calling ('cuñados negacionistas') and sarcastic mockery ('VAYA PASADA') to belittle opposing views."
+      "likes": 0
     },
     {
       "id": "951e19c5-60c7-43de-b292-9af2eaf67079",
@@ -44,11 +36,7 @@
       "reply_to": "Alba",
       "reply_text": "Claro... que hagamos las leyes según lo que digan los cuñados negacionistas vaya pasada de encuesta.",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses skepticism about climate policy without insults, contempt, or dehumanizing language."
+      "likes": 1
     },
     {
       "id": "1a6bf479-3fc3-4747-927d-3df09ae481e1",
@@ -58,11 +46,7 @@
       "reply_to": "Raül",
       "reply_text": "Es que no me extraña nada lo de la encuesta. Al final la peña se da cuenta de que lo que propone Moncloa es un poco irreal para el dia a dia. Si mas de la mitad apoya lo de las nucleares y la gente duda tanto del coche electrico, es porque no les compran el cuento de la transicion rapida sin mirar la realidad. Un 58% a favor de extender la vida de las centrales dice mucho, parece que el gobierno va por libre con su agenda y no tiene ni idea de lo que necesita la gente de verdad",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains multiple insults (idiota, cuñao, parvida, mierda), contempt, and mockery toward those with different climate views."
+      "likes": 1
     },
     {
       "id": "d40cfe3a-e96b-454a-aa38-0c205db41a08",
@@ -72,11 +56,7 @@
       "reply_to": "Pau",
       "reply_text": "Es que no podemos legislar basándonos solo en el alarmismo, Alba. Al final, la realidad es que los ciclos de la Tierra han sido así siempre y la Tierra siempre ha tenido sus fases. Me parece excesivo tratar de forzar todo este cambio de golpe cuando no tenemos garantías de que las soluciones que proponen funcionen. Es más una cuestión de pragmatismo que de negacionismo puro y duro.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents scientific counterargument without insults, contempt, or dehumanizing language despite disagreement."
+      "likes": 0
     },
     {
       "id": "1576d0e7-79ac-4b14-b39b-ca8f225cc5d1",
@@ -86,11 +66,7 @@
       "reply_to": "Pau",
       "reply_text": "Es que no podemos legislar basándonos solo en el alarmismo, Alba. Al final, la realidad es que los ciclos de la Tierra han sido así siempre y la Tierra siempre ha tenido sus fases. Me parece excesivo tratar de forzar todo este cambio de golpe cuando no tenemos garantías de que las soluciones que proponen funcionen. Es más una cuestión de pragmatismo que de negacionismo puro y duro.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains mockery ('Vaya tela'), contempt ('Es EL BUENO argumentazo'), and dismissive tone ('Qué vergüenza'), meeting impoliteness criteria."
+      "likes": 0
     },
     {
       "id": "507374c2-a8de-4ca0-8ff4-b783150d2bde",
@@ -100,11 +76,7 @@
       "reply_to": "Nil",
       "reply_text": "Pero qué dices, Raül. de verdad que te crees que la ciencia funciona por votación popular. Es el típico razonamiento de cuñao que piensa que porque un montón de negacionistas digan que la Tierra se calienta sola por arte de magia ya está la verdad de su lado. O sea, que si la mitad de la peña fuera idiota y dijera que el cielo es verde, entonces legislaríamos en verde? menuda parvida. Me parto con lo de que la gente \"se da cuenta\" de la realidad, la realidad es que la peña tiene una pereza intelectual de locos y prefiere seguir con el mismo modelo de mierda de siempre porque les da pereza cambiar. No es \"realidad\", es puro cortoplacismo de gente que no tiene ni pajolera idea de la magnitud del colapso que se viene. Lo de las nucleares y el coche electrico es la excusa perfecta pa no hacer nada y seguir contaminando como si no hubiera un mañana. Es de traca pensar que una encuesta de demoscopia tiene mas peso que los datos climáticos que son ineludibles. Estamos perdidos con tanto negacionista que cree que su opinión es mas importante que la fisica. es de juzgado de guardia, en serio.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains mockery, contempt, insults ('insoportables', 'cansinos'), and belittling tone toward opposing group ('progres de salón')."
+      "likes": 0
     },
     {
       "id": "bb2668e1-4971-43b7-afbc-8a40c4c2a437",
@@ -114,11 +86,7 @@
       "reply_to": "Marina",
       "reply_text": "Vaya tela, sigue con el cuento de los ciclos naturales. Es EL bueno argumentazo del lobby petrolero porque parece pragmatismo pero es negacionismo de salón. Qué vergüenza que sigamos con esto en 2024.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains mockery, contempt, insults ('de traca', 'menuda película', 'cansinos'), dehumanizing stereotypes about left-wing groups, and all-caps hostility."
+      "likes": 0
     },
     {
       "id": "29da72d6-f0a4-4c48-a757-5f12c88bad5c",
@@ -128,11 +96,7 @@
       "reply_to": "Marina",
       "reply_text": "Vaya tela, sigue con el cuento de los ciclos naturales. Es EL bueno argumentazo del lobby petrolero porque parece pragmatismo pero es negacionismo de salón. Qué vergüenza que sigamos con esto en 2024.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message disagrees with climate policy implementation without insults, contempt, or hostile tone; uses reasoned critique."
+      "likes": 0
     },
     {
       "id": "477f16ce-8a57-42af-9d86-04ef1e7d0874",
@@ -142,11 +106,7 @@
       "reply_to": "Adrià",
       "reply_text": "Vale, Marina,que el cambio climático sea real y causado por el hombre no es ninguna duda, pero me parece un poco perezoso decir que todo el que cuestiona las medidas es un negacionista. Se puede estar de acuerdo con la ciencia y aun así pensar que cerrar la nuclear o forzar el coche eléctrico es un error de ejecución que nos va a arruinar. No es ser un lobby de la gasolina, es simplemente pragmatismo sobre que medidas funcionan y cuáles no.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues substantively against pragmatism objection without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "0d0de13b-b4e7-4399-98ac-79611d40a49b",
@@ -156,11 +116,7 @@
       "reply_to": "Marina",
       "reply_text": "Vaya tela, sigue con el cuento de los ciclos naturales. Es EL bueno argumentazo del lobby petrolero porque parece pragmatismo pero es negacionismo de salón. Qué vergüenza que sigamos con esto en 2024.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains direct insults ('soberbia', 'salida fácil'), mockery ('ecologistas de salón'), all-caps shouting, and contemptuous dismissal of opposing group."
+      "likes": 0
     },
     {
       "id": "bf58638e-6be2-45e2-a420-1b73660883e8",
@@ -170,11 +126,7 @@
       "reply_to": "Adrià",
       "reply_text": "Vale, Marina,que el cambio climático sea real y causado por el hombre no es ninguna duda, pero me parece un poco perezoso decir que todo el que cuestiona las medidas es un negacionista. Se puede estar de acuerdo con la ciencia y aun así pensar que cerrar la nuclear o forzar el coche eléctrico es un error de ejecución que nos va a arruinar. No es ser un lobby de la gasolina, es simplemente pragmatismo sobre que medidas funcionan y cuáles no.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques pragmatism argument with evidence but lacks insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "05c19711-f0bb-47c7-a369-d47c47ec8e39",
@@ -184,11 +136,7 @@
       "reply_to": "Vila",
       "reply_text": "Menuda soberbia la tuya... Marina. Decir que todo el que tiene sentido comun es un negacionista es la salida fácil de vuestras movidas de ecologistas de salon. NO tenéis NI idea de que es la realidad. Por vuestra culpa nadie se fia de los progres.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar insult ('puta farsa'), dismissive contempt ('marron que os vais a comer'), and hostile tone toward opposing viewpoint."
+      "likes": 0
     },
     {
       "id": "0a88d014-11a1-4537-b0c2-57db82323c81",
@@ -198,11 +146,7 @@
       "reply_to": "Enric",
       "reply_text": "Es verdad que el detalle de la ejecucion es clave y no se puede ignorar, pero ese argumento del pragmatismo se usa siempre para posponer lo que realmente toca hacer. Si usamos la logica de \"que medida es perfecta\" para no mover ni un dedo, lo que acabamos crece es la paralisis que es disfrazar de sentido comun, y el coste de no hacer nada ahora va a ser mucho mayor que el de la transicion. Al final, ese pragmatismo de elegir solo lo que no nos molesta o que parece mas barato a corto plazo nos esta llevando directo al muro, porque el tiempo de la ciencia no espera a que las medidas sean comodas para todo el mundo",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes policy execution and economic impact without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "f4b1d4e8-a72a-4aa0-a87d-649cc3802c1e",
@@ -212,11 +156,7 @@
       "reply_to": "Enric",
       "reply_text": "Es verdad que el detalle de la ejecucion es clave y no se puede ignorar, pero ese argumento del pragmatismo se usa siempre para posponer lo que realmente toca hacer. Si usamos la logica de \"que medida es perfecta\" para no mover ni un dedo, lo que acabamos crece es la paralisis que es disfrazar de sentido comun, y el coste de no hacer nada ahora va a ser mucho mayor que el de la transicion. Al final, ese pragmatismo de elegir solo lo que no nos molesta o que parece mas barato a corto plazo nos esta llevando directo al muro, porque el tiempo de la ciencia no espera a que las medidas sean comodas para todo el mundo",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues for climate transition urgency without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "293127ad-5833-47e7-9e6d-88ad3502eca3",
@@ -226,11 +166,7 @@
       "reply_to": "Marina",
       "reply_text": "Es verdad que la ejecución es clave, pero posponer la transición por eso es un error; el coste de la dependencia fósil y la sequía ya lo están pagando los trabajadores y agricultores, no es solo una cuestión de la luz, es la supervivencia de todo el sistema...",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned opposition to climate transition policies without insults, contempt, or hostile tone."
+      "likes": 0
     }
   ]
 }

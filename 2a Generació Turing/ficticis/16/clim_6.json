@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains dismissive mockery ('numerito'), vulgar intensifier ('ES UN ROBO'), and contemptuous language toward political opponents ('progresos')."
+      "likes": 0
     },
     {
       "id": "338b7f2a-037a-454e-a0c3-89e9af986470",
@@ -30,11 +26,7 @@
       "reply_to": "Paula",
       "reply_text": "Otra vez con el numerito del calor? ES UN robo para meternos más impuestos, los progresos no paran.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message cites factual data and opposes climate denial without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "1ce2c830-4b05-4c72-963b-3545dc239d04",
@@ -44,11 +36,7 @@
       "reply_to": "Paula",
       "reply_text": "Otra vez con el numerito del calor? ES UN robo para meternos más impuestos, los progresos no paran.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents factual climate impacts without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "d80c3769-52a5-4e35-ae74-c8ba9ac9a058",
@@ -58,11 +46,7 @@
       "reply_to": "Oscar",
       "reply_text": "No son solo impuestos, son 1500 muertes en Europa por culpa de los negacionistas.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Uses dismissive mockery ('Vaya PASADA'), contemptuous tone toward opposing views, and dehumanizing political language ('chiringuito')."
+      "likes": 0
     },
     {
       "id": "95310d79-45ef-48e8-9342-56c04138dace",
@@ -72,11 +56,7 @@
       "reply_to": "Paula",
       "reply_text": "Otra vez con el numerito del calor? ES UN robo para meternos más impuestos, los progresos no paran.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses concern about climate impacts without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "1ef07826-ae8a-4ec8-b0f1-2f933c94a2b6",
@@ -86,11 +66,7 @@
       "reply_to": "Dani",
       "reply_text": "Negacionistas? Vaya pasada. Las muertes son por la incompetencia de Sánchez y su chiringuito climático, no por culpa de nadie",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques logical inconsistency without insults, vulgarity, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "b114718e-4dd5-481e-8853-a30936505233",
@@ -100,11 +76,7 @@
       "reply_to": "Marta",
       "reply_text": "Pues no es solo una cuestión de impuestos, es que estamos viendo la agricultura morir y hospitales colapsados por el calor. Reducir esto a un tema fiscal es ignorar la realidad de lo que pasa este verano.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains impoliteness through belittling ('ingenuidad'), contempt ('ecologistas de salón'), and dismissive all-caps accusation ('VAYA PANTOMIMA')."
+      "likes": 0
     },
     {
       "id": "d07283cd-c877-461d-9942-216a2627dd9c",
@@ -114,11 +86,7 @@
       "reply_to": "Marina",
       "reply_text": "O sea que culpar a Sanchez de muertes en toda Europa es lógico? Es un negacionismo de manual",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a political argument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "df4d91b6-a628-43c2-9c63-3db6b028a49a",
@@ -128,11 +96,7 @@
       "reply_to": "Dani",
       "reply_text": "Negacionistas? Vaya pasada. Las muertes son por la incompetencia de Sánchez y su chiringuito climático, no por culpa de nadie",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('ridículo', 'estupidez'), name-calling ('negacionista'), and belittling language ('no tienes ni idea')."
+      "likes": 0
     },
     {
       "id": "ba05c502-22c0-4172-8b9f-ac9f581e35d2",
@@ -142,11 +106,7 @@
       "reply_to": "Marina",
       "reply_text": "O sea que culpar a Sanchez de muertes en toda Europa es lógico? Es un negacionismo de manual",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains contempt and belittling ('pereza mental increíble') directed at opposing viewpoint holders."
+      "likes": 0
     },
     {
       "id": "581f4114-3607-48d5-bd82-b71e3ce1b211",
@@ -156,11 +116,7 @@
       "reply_to": "Nil",
       "reply_text": "Pero que ridículo eres, Culpar a Sánchez de muertes en toda Europa? No tienes ni idea de nada, menuda estupidez de negacionista.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains direct insults ('friki'), name-calling ('negacionista su cara'), vulgarity ('robarnos'), and contemptuous dismissal ('q nivel de ignorancia')."
+      "likes": 0
     },
     {
       "id": "d8396982-0148-4a67-ab9a-3092ac7f45f2",
@@ -170,11 +126,7 @@
       "reply_to": "Paula",
       "reply_text": "Negacionista su cara, friki que hipocrita sois que os tragais todo lo que dice Moncloa y Bruselas sin pensar. El chiringuito climatico es para robarnos la pasta, que nivel de ignorancia",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('negacionistas de cuñao'), insults ('VAYA NIVEL de ignorancia'), and contemptuous tone toward opposing views."
+      "likes": 0
     },
     {
       "id": "93793521-f905-4b6b-bf74-5c05533fda32",
@@ -184,11 +136,7 @@
       "reply_to": "Nil",
       "reply_text": "Pero que ridículo eres, Culpar a Sánchez de muertes en toda Europa? No tienes ni idea de nada, menuda estupidez de negacionista.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('vaya'), contempt toward 'progres', and dismissive characterization of climate policy as a scam to rob citizens."
+      "likes": 0
     },
     {
       "id": "6647d4af-0eb7-4ca2-a9f3-0be51301dbbc",
@@ -198,11 +146,7 @@
       "reply_to": "Adrià",
       "reply_text": "vaya, el insulto de \"negacionista\" para no tener que pensar es el truco favorito de los progres. Menuda comentadura para defender el chiringuito climatico de Moncloa y Bruselas, que lo unico que hacen es vaciar los bolsillos de la gente",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains multiple insults (negacionistas de mierda, estupidez), name-calling (ignorante total), and contemptuous tone toward opposing views."
+      "likes": 0
     },
     {
       "id": "ebacc52f-c65c-4c9c-be23-c30967524531",
@@ -212,11 +156,7 @@
       "reply_to": "Dani",
       "reply_text": "Negacionistas? Vaya pasada. Las muertes son por la incompetencia de Sánchez y su chiringuito climático, no por culpa de nadie",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes an argument without insults, vulgarity, or dehumanizing language; uses direct disagreement on substantive grounds."
+      "likes": 0
     },
     {
       "id": "d2f4f701-6b31-41f9-b612-b08e1275dc3e",
@@ -226,11 +166,7 @@
       "reply_to": "Núria",
       "reply_text": "Es que sois unos negacionistas de cuñao... de verdad vais a negar que hay 1500 muertos por el calor porque no os cuadra la agenda? vaya nivel de ignorancia que de verdad",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses political disagreement about climate policy costs without insults, contempt, or dehumanizing language."
+      "likes": 0
     }
   ]
 }

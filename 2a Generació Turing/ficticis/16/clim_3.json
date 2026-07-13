@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar language ('mierda'), dismissive insults ('farsa'), and all-caps shouting ('QUE PASA!') expressing contempt."
+      "likes": 0
     },
     {
       "id": "f06aa3e0-cd86-4071-9691-a3a6a23512ae",
@@ -30,11 +26,7 @@
       "reply_to": "Lucía",
       "reply_text": "Menuda farsa la de este gobierno, sanchismo puro intentando vendernos el coche eléctrico cuando todo el mundo sabe que es una mierda. Nos quieren obligar a todo con su Agenda 2030 mientras la nuclear la quieren cerrar. que pasa!, es que no nos escucháis?",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message cites survey data to present a nuanced counterargument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "09fe47a7-6f6b-43c5-85cc-005247ed90d5",
@@ -44,11 +36,7 @@
       "reply_to": "Lucía",
       "reply_text": "Menuda farsa la de este gobierno, sanchismo puro intentando vendernos el coche eléctrico cuando todo el mundo sabe que es una mierda. Nos quieren obligar a todo con su Agenda 2030 mientras la nuclear la quieren cerrar. que pasa!, es que no nos escucháis?",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message respectfully disagrees with prior claims, cites scientific evidence, contains no insults or hostile language."
+      "likes": 0
     },
     {
       "id": "65d64d89-26ac-4040-b6cb-9def37242902",
@@ -58,11 +46,7 @@
       "reply_to": "Miguel",
       "reply_text": "Pero si el 62% quiere facilidades con el coche electrico y la preocupacion climatica es de 6,9/10, no es tan mala la cosa como parece porque los datos son mas matizados",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('no tienes ni idea'), vulgar language ('MIERDA'), contempt ('cuento te montas'), and derogatory stereotyping ('ecologistas de salon')."
+      "likes": 0
     },
     {
       "id": "f09f39c8-35d0-4664-9d0a-cc38271002ee",
@@ -72,11 +56,7 @@
       "reply_to": "Miguel",
       "reply_text": "Pero si el 62% quiere facilidades con el coche electrico y la preocupacion climatica es de 6,9/10, no es tan mala la cosa como parece porque los datos son mas matizados",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents policy disagreement with data citations; no insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "9ecdd90f-43e6-4192-bb45-26cdb9425f6d",
@@ -86,11 +66,7 @@
       "reply_to": "Emma",
       "reply_text": "Vaya cuento te montas, no tienes ni idea, ese 62% es querer que nos subvencionen su basura porque el 94% sabe que la red de carga es una mierda. Puros ecologistas de salon de la Moncloa.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Multiple insults, name-calling ('negacionista', 'cuñaos'), vulgar language ('mierda'), and contemptuous dismissal of opponent's intelligence."
+      "likes": 0
     },
     {
       "id": "a07ab99c-7350-4e1f-b7ba-19b98f84f24e",
@@ -100,11 +76,7 @@
       "reply_to": "Gerard",
       "reply_text": "Vale, la preocupacion climatica es real, pero no mires solo eso. La gente no quiere que nos impongan un modelo a ciegas: el 58% quiere mantener la nuclear y la mitad duda del coche electrico. El gobierno va por libre ignorando el sentido comun de la mitad del pais.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques public opinion and policy approach without insults, contempt, or hostile tone toward individuals."
+      "likes": 0
     },
     {
       "id": "0760e69f-aa4d-4b90-b3e5-16fab8b47bc9",
@@ -114,11 +86,7 @@
       "reply_to": "Gerard",
       "reply_text": "Vale, la preocupacion climatica es real, pero no mires solo eso. La gente no quiere que nos impongan un modelo a ciegas: el 58% quiere mantener la nuclear y la mitad duda del coche electrico. El gobierno va por libre ignorando el sentido comun de la mitad del pais.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('cuñao de manual'), contempt ('increíble', 'ingenuidad tremendo'), and dismissive condescension toward opposing views."
+      "likes": 0
     },
     {
       "id": "44eb13e5-ed98-4e85-bd47-44ff0f49b5b9",
@@ -128,11 +96,7 @@
       "reply_to": "Nil",
       "reply_text": "El problema de basar la política climática en lo que dicta el \"sentido común\" es que la opinión pública es muy contradictoria. La encuesta muestra que la gente quiere agua para regadío pero se opone a restricciones en sequía, lo cual no es precisamente una estrategia sólida. La ciencia del IPCC no depende de si un porcentaje duda del coche eléctrico o no, la transición debe ser técnica y no solo por consenso",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses political disagreement about technocracy and democratic consent without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "b0b76bc5-a945-4808-96d4-02ccc1eb0866",
@@ -142,11 +106,7 @@
       "reply_to": "Nil",
       "reply_text": "El problema de basar la política climática en lo que dicta el \"sentido común\" es que la opinión pública es muy contradictoria. La encuesta muestra que la gente quiere agua para regadío pero se opone a restricciones en sequía, lo cual no es precisamente una estrategia sólida. La ciencia del IPCC no depende de si un porcentaje duda del coche eléctrico o no, la transición debe ser técnica y no solo por consenso",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message opposes climate policy with political criticism but lacks insults, contempt, or dehumanizing language."
+      "likes": 1
     },
     {
       "id": "548c1a0d-40ec-412c-b8cf-a29b9854af4c",
@@ -156,11 +116,7 @@
       "reply_to": "Miguel",
       "reply_text": "Pero si el 62% quiere facilidades con el coche electrico y la preocupacion climatica es de 6,9/10, no es tan mala la cosa como parece porque los datos son mas matizados",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains multiple insults, vulgar intensifiers, mockery, contempt, and all-caps shouting accusations directed at political opponents."
+      "likes": 1
     },
     {
       "id": "7e1c3f61-d0b3-4534-bb46-14594d03ece6",
@@ -170,11 +126,7 @@
       "reply_to": "Anna",
       "reply_text": "Entiendo lo de la ciencia, pero ignorar lo que quiere la gente es pura tecnocracia de Moncloa. Sin consenso no hay democracia, solo nos imponen cosas que no funcionan.",
       "is_mention": true,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message respectfully disagrees with Anna's technocracy claim, defending evidence-based policy without insults or hostility."
+      "likes": 1
     },
     {
       "id": "f3f92032-5d55-4ceb-9ede-bf68ebeb9d54",
@@ -184,11 +136,7 @@
       "reply_to": "Neus",
       "reply_text": "Es que es increíble cómo os encanta usar ese argumento tan vacío del \"sentido común\" para intentar frenar lo que es estrictamente necesario. Vale, te concedo que la transición tiene que ser ordenada y planificada para no liarla, pero me parece de un nivel de ingenuidad tremendo pensar que la opinión de una encuesta sustituye al consenso científico. No puedes basar la supervivencia del planeta en que a la mitad de la gente le dé pereza cambiar sus hábitos o que prefiera lo viejo porque es lo que conoce. Ese es el gran truco del bloque del PP y Vox: alimentar esa confusión y usar los porcentajes de encuestas para venderte la idea de que el Gobierno va por libre, cuando en realidad solo están intentando bloquear la acción climática real porque no quieren soltar el modelo de siempre. Confundir la popularidad de una medida con su eficacia técnica es un error de manual que os han enseñado para que no veáis la realidad. Menuda pérdida de tiempo que es debatir con esta lógica de cuñao de manual",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains mockery, belittling ('dándoselas de sabios'), contempt ('ingenuos'), and dismissive tone toward opponents."
+      "likes": 0
     },
     {
       "id": "27f60ed2-8f5b-495e-b07a-54bd1947dd4e",
@@ -198,11 +146,7 @@
       "reply_to": "Emma",
       "reply_text": "pero qué narices estás diciendo, Miguel? Te has tomado ya el zumo de la Agenda 2030 o qué? Ese 62% no es que \"quiera facilidades\", es que la gente es necesaria y quiere que le regalen dinero para no quedarse tirada en la autovía con un coche de juguete que no tiene potencia ni para subir una cuesta. qué nivel DE ignorancia! Me parto con lo de que los datos son \"matizados\", lo único matizado es cómo los zurdos de la Moncloa nos quieren vaciar la cartera para financiar sus movidas verdes que no funcionan. Ese 6,9 de preocupación es de risa, la gente sabe perfectamente que nos están vendiendo la moto con un sacrificio económico inútil que solo nos va a empobrecer a nosotros, a los de siempre, mientras los de arriba se llenan la boca con el clima. vaya farsa! Nos quieren obligar a cambiar hábitos por un cuento chino mientras China e India siguen escupiendo humo como si nada. deja DE hacerte EL listillo con las encuestas Y acepta que nos están tomando por idiotas!",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('negacionista de manual'), mockery ('de risa'), contempt ('cuñao', 'cutre'), and dismissive tone toward Emma."
+      "likes": 0
     },
     {
       "id": "25960f7e-b4b8-49c8-814f-fac6cf962ac4",
@@ -212,11 +156,7 @@
       "reply_to": "Lucía",
       "reply_text": "Vaya par de ecologistas de salón,dándoselas de sabios mientras nos dicen que somos ingenuos. Es muy fácil dar lecciones desde el salón de tu casa porque no te toca pagar la factura de sus locuras con tu sueldo",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('argumento de mierda', 'VAYA LENTEJAS'), contempt, mockery ('ignorancia que tenéis es de otro planeta'), and hostile tone toward opposing group."
+      "likes": 0
     },
     {
       "id": "c3e398a9-218a-4ff3-9298-03b12d596394",
@@ -226,11 +166,7 @@
       "reply_to": "Emma",
       "reply_text": "pero qué narices estás diciendo, Miguel? Te has tomado ya el zumo de la Agenda 2030 o qué? Ese 62% no es que \"quiera facilidades\", es que la gente es necesaria y quiere que le regalen dinero para no quedarse tirada en la autovía con un coche de juguete que no tiene potencia ni para subir una cuesta. qué nivel DE ignorancia! Me parto con lo de que los datos son \"matizados\", lo único matizado es cómo los zurdos de la Moncloa nos quieren vaciar la cartera para financiar sus movidas verdes que no funcionan. Ese 6,9 de preocupación es de risa, la gente sabe perfectamente que nos están vendiendo la moto con un sacrificio económico inútil que solo nos va a empobrecer a nosotros, a los de siempre, mientras los de arriba se llenan la boca con el clima. vaya farsa! Nos quieren obligar a cambiar hábitos por un cuento chino mientras China e India siguen escupiendo humo como si nada. deja DE hacerte EL listillo con las encuestas Y acepta que nos están tomando por idiotas!",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('cuñao'), dismissive language ('vaga'), and all-caps shouting for emphasis on accusations."
+      "likes": 0
     }
   ]
 }

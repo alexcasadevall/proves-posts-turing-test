@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses concern about climate data and criticism of climate denial without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "5f0fd68b-0e38-40ed-a4c1-29aa909b982b",
@@ -30,11 +26,7 @@
       "reply_to": "Ivet",
       "reply_text": "Es impresionante lo de la anomalía de 2,1 grados que marca la Aemet, de verdad que da bastante miedo ver como suben las temperaturas cada año Me da una sensación de cansancio ver que esto es una realidad y que los negacionistas siguen viviendo en una burbuja sin tomarse la emergencia en serio.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar intensifier ('de mierda'), dismissive mockery ('Otra vez con el cuento'), and contemptuous tone toward climate concerns."
+      "likes": 0
     },
     {
       "id": "d1d64448-14a5-46e1-a455-b29d93b9f053",
@@ -44,11 +36,7 @@
       "reply_to": "Clàudia",
       "reply_text": "Otra vez con el cuento de la emergencia climática? Menudo chiringuito montan los progres para quitarnos pasta con más impuestos, ya cansan con su agenda 2030 de mierda.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message calmly disputes a claim using scientific data without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "66fda2b5-941e-4db5-a1a0-528aad14f0b3",
@@ -58,11 +46,7 @@
       "reply_to": "Ivet",
       "reply_text": "Es impresionante lo de la anomalía de 2,1 grados que marca la Aemet, de verdad que da bastante miedo ver como suben las temperaturas cada año Me da una sensación de cansancio ver que esto es una realidad y que los negacionistas siguen viviendo en una burbuja sin tomarse la emergencia en serio.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('numerito'), contempt ('Ecologistas de salon'), and all-caps shouting ('VAYA FARSA'), meeting impoliteness criteria."
+      "likes": 0
     },
     {
       "id": "0f221473-26d0-4063-b0e2-69888fa75886",
@@ -72,11 +56,7 @@
       "reply_to": "Clàudia",
       "reply_text": "Otra vez con el cuento de la emergencia climática? Menudo chiringuito montan los progres para quitarnos pasta con más impuestos, ya cansan con su agenda 2030 de mierda.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Simple factual statement distinguishing scientific data from political interpretation; no insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "43f99b64-7a41-4629-a55b-47dd6c33d683",
@@ -86,11 +66,7 @@
       "reply_to": "Juan",
       "reply_text": "Es que no es un cuento de politicos, los datos son de la Aemet y son puramente cientificos. Es un poco frustrante que se ignore la realidad de los termometros para hablar de impuestos.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes government policy and spending without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "2962d3b3-e25e-4c70-bdbd-b8f0d2a3346a",
@@ -100,11 +76,7 @@
       "reply_to": "Berta",
       "reply_text": "Burbuja? Lo que es una burbuja es el cuento del miedo que os venden. Menudo numerito con el pacto de Sanchez, puro marketing para sacar pasta de la gente. Ecologistas de salon, vaya farsa!",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('necia', 'sandeces'), vulgar language ('VAYA MIERDA'), and contemptuous tone toward climate skeptics."
+      "likes": 0
     },
     {
       "id": "31cde619-40bc-41ee-9872-27ca2958d64a",
@@ -114,11 +86,7 @@
       "reply_to": "Helena",
       "reply_text": "Vale, los termometros no mienten, pero el problema es que no por tener mas calor nos vayan a solucionar la vida con mas burocracia y pactos vacios. al final los que pagamos los autónomos y el campo somos los que sufrimos la gestion de Moncloa, que siempre es mas gasto y menos soluciones reales",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('Menuda tontería'), condescension, and dismissive tone toward Helena's position."
+      "likes": 1
     }
   ]
 }

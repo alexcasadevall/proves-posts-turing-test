@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses concern about youth radicalization and education without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "b218e2a3-650d-4198-9a6d-0fe92648dde0",
@@ -30,11 +26,7 @@
       "reply_to": "Oscar",
       "reply_text": "Me da mucha cosa ver a chavales tan jovenes haciendo el saludo nazi, es que se nota que la educacion esta fallando bastante.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains dismissive insult ('tonteria'), contemptuous tone toward education advocates ('buenistas'), and stereotyping of immigration as inherently negative."
+      "likes": 0
     },
     {
       "id": "575909f3-a900-4bdb-9c11-32e7a103d282",
@@ -44,11 +36,7 @@
       "reply_to": "Mar",
       "reply_text": "Menuda tonteria lo de la educacion los chavales reaccionan al desastre de inmigracion que traen los buenistas!",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques an argument as simplistic without insults, contempt, or hostile tone."
+      "likes": 1
     },
     {
       "id": "9a3a1a69-7002-4a8f-ac73-cc217272ba79",
@@ -58,11 +46,7 @@
       "reply_to": "Oscar",
       "reply_text": "Me da mucha cosa ver a chavales tan jovenes haciendo el saludo nazi, es que se nota que la educacion esta fallando bastante.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains dismissive name-calling ('escapatoria'), contemptuous tone, and all-caps shouting ('VAYA PASADA') directed at opposing argument."
+      "likes": 0
     },
     {
       "id": "66b3ec31-5aa1-4aaa-ae73-5dd6b8c8b59d",
@@ -72,11 +56,7 @@
       "reply_to": "Lucía",
       "reply_text": "Esa idea de que la inmigración es un desastre es muy simplista y carece de base.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques immigration policy and government without insults, threats, or hate speech."
+      "likes": 0
     },
     {
       "id": "ca4303fc-aa4d-402a-b6cb-f4d7fcaf598d",
@@ -86,11 +66,7 @@
       "reply_to": "Mar",
       "reply_text": "Menuda tonteria lo de la educacion los chavales reaccionan al desastre de inmigracion que traen los buenistas!",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar insult ('mierda'), all-caps shouting, and dehumanizing stereotyping of political group ('progres')."
+      "likes": 0
     },
     {
       "id": "780df815-8de2-4267-a362-9408b8b8a5b8",
@@ -100,11 +76,7 @@
       "reply_to": "Lucía",
       "reply_text": "Esa idea de que la inmigración es un desastre es muy simplista y carece de base.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('buenista de salón'), insults ('joder'), contempt, and belittling characterizations of opponents."
+      "likes": 0
     },
     {
       "id": "b369c7c5-6bb5-4586-8d6c-0f5733d5471f",
@@ -114,11 +86,7 @@
       "reply_to": "Núria",
       "reply_text": "Puede que no todo sea un desastre, pero la presión en sanidad y vivienda es real. Lo que ignoran los buenistas es que este modelo de la Moncloa ya no da para mas",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a political argument without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "5567bf03-a8ba-4638-8d1a-f3679949b635",
@@ -128,11 +96,7 @@
       "reply_to": "Núria",
       "reply_text": "Puede que no todo sea un desastre, pero la presión en sanidad y vivienda es real. Lo que ignoran los buenistas es que este modelo de la Moncloa ya no da para mas",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a political argument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "f90ab33f-df21-4984-9644-f15b3b2398ec",
@@ -142,11 +106,7 @@
       "reply_to": "Helena",
       "reply_text": "La presión es real por la especulacion y los recortes de la PP, no por los bulos de siempre con los migrantes",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('PROGRE de manual'), dismissal ('Vaya cuento'), and contemptuous tone toward opposing views."
+      "likes": 0
     },
     {
       "id": "6d0520c8-edcb-476e-98cf-6e16ac9d6f79",
@@ -156,11 +116,7 @@
       "reply_to": "Oscar",
       "reply_text": "Es verdad que la presión en vivienda y sanidad existe, pero el problema es la especulacion y los recortes de la PP, no la gente que llega para trabajar y aportar",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('INGENUO'), dismissive tone ('deja de dar la brasa'), and all-caps shouting for emphasis."
+      "likes": 0
     },
     {
       "id": "80b9c19a-971f-4842-8ca1-7cb342038656",
@@ -170,11 +126,7 @@
       "reply_to": "Mar",
       "reply_text": "@Oscar y mientras tanto quién paga los platos rotos? Deja de dar la brasa con la PP que es la Moncloa la que NO para de traer gente! Menudo ingenuo eres",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents political argument without insults, contempt, or hostile tone despite disagreement."
+      "likes": 1
     },
     {
       "id": "6db3fbfb-f601-4e90-a093-abfcd0841952",
@@ -184,11 +136,7 @@
       "reply_to": "Mar",
       "reply_text": "@Oscar y mientras tanto quién paga los platos rotos? Deja de dar la brasa con la PP que es la Moncloa la que NO para de traer gente! Menudo ingenuo eres",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('cuñao') and dismissive contempt ('vaya nivel'), meeting impoliteness criteria."
+      "likes": 0
     },
     {
       "id": "34bebe0e-f3b3-4552-a525-a84c614e0532",
@@ -198,11 +146,7 @@
       "reply_to": "Lucía",
       "reply_text": "Es que es el bulo de siempre. La presión en servicios es real, pero viene de la especulacion y de los recortes en vivienda, no de la gente que llega a trabajar.",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a substantive policy argument about immigration and service capacity without insults, contempt, or hostile tone."
+      "likes": 1
     },
     {
       "id": "2cc252d3-10d9-4572-aef6-3a189a0e3a76",
@@ -212,11 +156,7 @@
       "reply_to": "Lucía",
       "reply_text": "Es que es el bulo de siempre. La presión en servicios es real, pero viene de la especulacion y de los recortes en vivienda, no de la gente que llega a trabajar.",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a balanced argument acknowledging multiple factors without insults, contempt, or hostile tone."
+      "likes": 1
     },
     {
       "id": "8f84b032-8293-4d9a-b485-9aa30d6bfc1d",
@@ -226,11 +166,7 @@
       "reply_to": "Ignasi",
       "reply_text": "Vale, la especulacion es un problema real que no se puede negar, pero es muy simplista culpar solo a eso. Si no tienes en cuenta el volumen de gente que llega, el analisis esta cojo porque la capacidad de los servicios tambien tiene un limite fisico independientemente de que gobierno sea.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains repeated name-calling ('cuñao', 'disparate') and dismissive contempt toward opposing arguments."
+      "likes": 0
     }
   ]
 }

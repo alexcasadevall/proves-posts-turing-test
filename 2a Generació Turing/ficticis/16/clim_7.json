@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses concern about heat waves and dismisses climate denial without insults, contempt, or dehumanizing language."
+      "likes": 1
     },
     {
       "id": "e07a00e0-9b5b-4a56-80f8-8737df779d7d",
@@ -30,11 +26,7 @@
       "reply_to": "Marc",
       "reply_text": "Lo de que sea una de las olas más largas desde 1975 es para preocuparse de verdad, sobre todo con las mínimas tan altas ya está bien de cuñados diciendo que \"siempre ha hecho calor\" cuando los datos no mienten",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains dismissive mockery ('drama', 'ecologistas de salon'), contemptuous tone, and conspiratorial framing ('vender la moto', 'Agenda 2030')."
+      "likes": 0
     },
     {
       "id": "ad9004a3-4b53-48e2-949d-35841c5633a9",
@@ -44,11 +36,7 @@
       "reply_to": "Marc",
       "reply_text": "Lo de que sea una de las olas más largas desde 1975 es para preocuparse de verdad, sobre todo con las mínimas tan altas ya está bien de cuñados diciendo que \"siempre ha hecho calor\" cuando los datos no mienten",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses skepticism about climate data and scientific motives without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "4e836144-ff60-4ab8-a3ab-569cb51072c9",
@@ -58,11 +46,7 @@
       "reply_to": "Alba",
       "reply_text": "Claro que si, los datos no mienten pero que quien los elige y que interes tiene detras. la verdad es que es mas un tema de marketing que de ciencia,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('tonteria', 'negacionista de manual', 'ignorancia') and contemptuous tone toward opposing viewpoint."
+      "likes": 0
     },
     {
       "id": "4ce50a59-c95e-4018-a846-7d82a3d2fb6d",
@@ -72,11 +56,7 @@
       "reply_to": "Alba",
       "reply_text": "Claro que si, los datos no mienten pero que quien los elige y que interes tiene detras. la verdad es que es mas un tema de marketing que de ciencia,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults (negacionismo de manual, PARIDITA, disparate), vulgar intensifier (Joder), mockery, and contemptuous tone toward Alba's position."
+      "likes": 0
     },
     {
       "id": "c2496752-02e1-4e75-848c-5863e5804820",
@@ -86,11 +66,7 @@
       "reply_to": "Marc",
       "reply_text": "Lo de que sea una de las olas más largas desde 1975 es para preocuparse de verdad, sobre todo con las mínimas tan altas ya está bien de cuñados diciendo que \"siempre ha hecho calor\" cuando los datos no mienten",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Uses derogatory term 'progres de salon' and dismissive framing to belittle opponents' positions."
+      "likes": 1
     },
     {
       "id": "925f3884-1785-4325-a02f-3c9bd4fde705",
@@ -100,11 +76,7 @@
       "reply_to": "Alba",
       "reply_text": "Claro que si, los datos no mienten pero que quien los elige y que interes tiene detras. la verdad es que es mas un tema de marketing que de ciencia,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents factual argument about AEMET data and health risks without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "9275ae7d-3dca-4bce-a273-57c066c5296d",
@@ -114,11 +86,7 @@
       "reply_to": "Hugo",
       "reply_text": "Vale, es verdad que hace un calor de locos y no se puede negar, pero me parece que siempre saltais directo a las medidas de la Agenda 2030. Al final los que pagamos el pato con tanto impuesto y restriccion son los agricultores y las familias de siempre, no los progres de salon",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses political disagreement about policy responses without insults, contempt, or dehumanizing language."
+      "likes": 1
     },
     {
       "id": "efec6a7c-7d0a-4816-b8bb-bd4216184ef4",
@@ -128,11 +96,7 @@
       "reply_to": "Marta",
       "reply_text": "Entiendo que la prensa sea a veces un poco sensacionalista, pero lo de Badajoz no es marketing, son mediciones reales de la AEMET. Minimizarlo como una estrategia comercial es peligroso para la gente mayor y los trabajadores,que se enfrentan al riesgo de verdad.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses political concern about policy responses without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "6fca1090-19bf-45b0-86f0-ef61d72ad7e3",
@@ -142,11 +106,7 @@
       "reply_to": "Eloi",
       "reply_text": "Vale, el calor es real y hay que cuidarse, pero el peligro de verdad es que usen esto de excusa para meternos más restricciones y deudas...",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message respectfully distinguishes between political debate and scientific data without insults or hostility."
+      "likes": 0
     },
     {
       "id": "e734e588-1bbf-43e9-8eb7-03544f62cea8",
@@ -156,11 +116,7 @@
       "reply_to": "Marta",
       "reply_text": "Entiendo que la prensa sea a veces un poco sensacionalista, pero lo de Badajoz no es marketing, son mediciones reales de la AEMET. Minimizarlo como una estrategia comercial es peligroso para la gente mayor y los trabajadores,que se enfrentan al riesgo de verdad.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses political skepticism about climate policy without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "afb91d87-98f3-4d02-9985-4f50bb9e4e9b",
@@ -170,11 +126,7 @@
       "reply_to": "Eloi",
       "reply_text": "Vale, el calor es real y hay que cuidarse, pero el peligro de verdad es que usen esto de excusa para meternos más restricciones y deudas...",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar intensifier 'mierd', name-calling ('IRRESPONSABLE'), and contemptuous dismissal of opposing arguments."
+      "likes": 0
     },
     {
       "id": "99975801-6df2-4e61-baba-06c103ac0c85",
@@ -184,11 +136,7 @@
       "reply_to": "Hugo",
       "reply_text": "Nadie duda de lo que dice el termometro pero el problema es que usan esos datos porque les conviene para meter mas politica y mas impuestos de la Agenda 2030",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('GILIPOLEZ'), all-caps shouting, and dismissive insults ('no tienes ni idea')."
+      "likes": 0
     },
     {
       "id": "226ddca4-414d-40cb-926d-6f72a7334ca4",
@@ -198,11 +146,7 @@
       "reply_to": "Eloi",
       "reply_text": "Vale, el calor es real y hay que cuidarse, pero el peligro de verdad es que usen esto de excusa para meternos más restricciones y deudas...",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('cuñao', 'paranoia', 'pereza') and mockery of opposing viewpoint with contemptuous tone."
+      "likes": 0
     },
     {
       "id": "80876425-71e2-4a08-ac5f-7b760a01333b",
@@ -212,11 +156,7 @@
       "reply_to": "Hugo",
       "reply_text": "Nadie duda de lo que dice el termometro pero el problema es que usan esos datos porque les conviene para meter mas politica y mas impuestos de la Agenda 2030",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Uses mockery and belittling ('teoría de cuñao', 'comodín típico') to dismiss opposing viewpoint with contempt."
+      "likes": 0
     },
     {
       "id": "f05741ef-0757-4202-a8db-6203d4946877",
@@ -226,11 +166,7 @@
       "reply_to": "Hugo",
       "reply_text": "Nadie duda de lo que dice el termometro pero el problema es que usan esos datos porque les conviene para meter mas politica y mas impuestos de la Agenda 2030",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('imbecilidad de locos', 'chorrada'), all-caps shouting ('VAYA PARANOIA'), and contemptuous dismissal of opposing views."
+      "likes": 0
     }
   ]
 }

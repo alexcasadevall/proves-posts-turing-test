@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes climate policy implementation without insults, contempt, or dehumanizing language; uses political references appropriately."
+      "likes": 0
     },
     {
       "id": "53c16d8e-7e68-4072-9766-b5b6b8abe5d5",
@@ -30,11 +26,7 @@
       "reply_to": "Raül",
       "reply_text": "Es que leer estas noticias te deja una sensacion de que viven en otro planeta. ese dato de que el 75% no incrementaria medidas ni con subvenciones lo dice todo. No es que no quieran, es que la realidad de una pyme o de un autonomo en España es muy distinta a lo que se planea en los despachos de la Moncloa o con la Agenda 2030. Estan asfixiando al tejido empresarial con normativas y exigencias que no tienen sentido practico cuando apenas llegan a fin de mes. Obligar a la construccion o a la hosteleria a hacer cambios estructurales asi por asi es una locura, la gente se va a quedar sin margen de maniobra por seguir unos objetivos que parecen desconectados de la economia real al final la que paga el pato es la pequeña empresa que no tiene ni para luz.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned climate argument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "3b9c1af8-74f0-415f-8604-44e5413752b7",
@@ -44,11 +36,7 @@
       "reply_to": "Raül",
       "reply_text": "Es que leer estas noticias te deja una sensacion de que viven en otro planeta. ese dato de que el 75% no incrementaria medidas ni con subvenciones lo dice todo. No es que no quieran, es que la realidad de una pyme o de un autonomo en España es muy distinta a lo que se planea en los despachos de la Moncloa o con la Agenda 2030. Estan asfixiando al tejido empresarial con normativas y exigencias que no tienen sentido practico cuando apenas llegan a fin de mes. Obligar a la construccion o a la hosteleria a hacer cambios estructurales asi por asi es una locura, la gente se va a quedar sin margen de maniobra por seguir unos objetivos que parecen desconectados de la economia real al final la que paga el pato es la pequeña empresa que no tiene ni para luz.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains insults ('vaya cuento', 'negacionista'), vulgar language ('ES UNA MIERDA'), mockery ('MENUDA MILONGA'), and contemptuous tone toward Raül's argument."
+      "likes": 0
     },
     {
       "id": "8a32b508-9ce4-47d9-86df-b881758ce24b",
@@ -58,11 +46,7 @@
       "reply_to": "Lluís",
       "reply_text": "No es solo cuestión de pymes, que si las grandes con todos sus recursos también están bastante inactivas. El problema es que ese retraso en sectores como la construccion nos va a salir carisimo luego con inundaciones o calor extremo. Al final, la inaccion va a golpear mas fuerte a la economia real que cualquier normativa.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains vulgar intensifier 'MENUDO' in all-caps, derogatory term 'chiringuito', and dismissive insult 'vendehumos' targeting climate policy advocates."
+      "likes": 0
     },
     {
       "id": "19ff7f33-c3ee-4982-a8c1-291b19d09c02",
@@ -72,11 +56,7 @@
       "reply_to": "Raül",
       "reply_text": "Es que leer estas noticias te deja una sensacion de que viven en otro planeta. ese dato de que el 75% no incrementaria medidas ni con subvenciones lo dice todo. No es que no quieran, es que la realidad de una pyme o de un autonomo en España es muy distinta a lo que se planea en los despachos de la Moncloa o con la Agenda 2030. Estan asfixiando al tejido empresarial con normativas y exigencias que no tienen sentido practico cuando apenas llegan a fin de mes. Obligar a la construccion o a la hosteleria a hacer cambios estructurales asi por asi es una locura, la gente se va a quedar sin margen de maniobra por seguir unos objetivos que parecen desconectados de la economia real al final la que paga el pato es la pequeña empresa que no tiene ni para luz.",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message uses respectful tone, acknowledges opposing view, and presents reasoned argument without insults or hostility."
+      "likes": 0
     },
     {
       "id": "2e9ddaaf-17bc-4be4-8048-2168f40fb999",
@@ -86,11 +66,7 @@
       "reply_to": "Lluís",
       "reply_text": "No es solo cuestión de pymes, que si las grandes con todos sus recursos también están bastante inactivas. El problema es que ese retraso en sectores como la construccion nos va a salir carisimo luego con inundaciones o calor extremo. Al final, la inaccion va a golpear mas fuerte a la economia real que cualquier normativa.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses political disagreement about EU regulation and SME burden without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "d9d7c099-9578-46b1-97fc-803c676aa949",
@@ -100,11 +76,7 @@
       "reply_to": "Víctor",
       "reply_text": "Y crees que mas normativas de Bruselas van a arreglar algo? menudo CHIRINGUITO climatico, vendehumos",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('negacionista de manual', 'falta de luces', 'cuñado'), mockery (eye-roll emoji), condescension, and contemptuous tone toward another participant."
+      "likes": 0
     },
     {
       "id": "73f2a273-4a4e-4d20-8439-8236d52e6989",
@@ -114,11 +86,7 @@
       "reply_to": "Lucía",
       "reply_text": "Vaya cuento te traes,Raül la típica excusa de negacionista para no hacerse cargo de nada. Pymes? menuda milonga! Lo que pasa es que los lobbies y la derecha de siempre te venden la moto de la \"economía real\" pa que no se mueva ni un dedo. ES una mierda!",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned argument about structural economic constraints without insults, contempt, or hostile tone."
+      "likes": 0
     }
   ]
 }

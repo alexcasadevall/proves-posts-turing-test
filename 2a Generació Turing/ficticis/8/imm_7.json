@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques framing without insults, impoliteness, threats to democracy, or hate speech; uses reasoned argument citing the study."
+      "likes": 0
     },
     {
       "id": "914e42a2-30c3-483b-9319-f76682061f0b",
@@ -30,11 +26,7 @@
       "reply_to": "Noa",
       "reply_text": "Es que me agota un poco como lo plantean siempre como si fuera una invasión o un caos sin sentido. Si te fijas en lo que dice el propio estudio de Funcas, el problema real es que no hay una estrategia de regularizacion coherente desde hace años, ni con unos ni con otros. No es que la gente llegue de la nada, es que el sistema administrativo va lentisimo y los tiene en un limbo total. Casi el 90% es gente de latinoamérica que viene a trabajar, no es una \"crisis\" de personas, es una crisis de gestión de papeles. Se crea ese exceso de irregularidad porque el ritmo de llegada supera por mucho la capacidad de darles la situacion legal. Al final lo que hay es un cuello de botella administrativo que los gobiernos (sea quien sea) no saben o no quieren arreglar con una politica seria_",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains insults ('No me jodas', 'puta farsa'), mockery, contempt toward the interlocutor, and hostile dismissive tone throughout."
+      "likes": 0
     },
     {
       "id": "eba14389-92c4-46d5-8e1e-932a4ede0769",
@@ -44,11 +36,7 @@
       "reply_to": "Ivan",
       "reply_text": "Crisis de gestión de papeles? No me jodas, Noa, que nos tomas por idiotas, Es la excusa DE siempre para no decir la verdad. No es que el sistema sea lento, es que no quieren que se pare la entrada. El sanchismo y la gente de Moncloa tienen muy claro lo que hacen: dejan que entre todo el mundo sin control porque necesitan mano de obra barata para que la economía no colapse y, de paso, se aseguran los votos de los que vienen. Decir que es un \"cuello de botella administrativo\" es una puta farsa para que los buenistas se queden tranquilos mientras los servicios públicos y la vivienda se van al carajo. No es un problema de papeles, es que NO hay control de fronteras y lo saben perfectamente. Se llenan la boca hablando de gestión pero lo que hay es una dejadez total porque les renta que la gente viva en ese limbo. Es una estrategia de manual: que lleguen, que se instalen y ya nos apañaremos con el caos que han montao. Menuda milonga te has marcado, de verdad que no hay quien os siga el rollo con tanto cuento Es una falta de respeto para la gente que sí cumple.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message uses reasoned argument and policy analysis without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "f5b63d1e-1ee9-4fda-a2a0-9dd4f8d660b3",
@@ -58,11 +46,7 @@
       "reply_to": "Noa",
       "reply_text": "Es que me agota un poco como lo plantean siempre como si fuera una invasión o un caos sin sentido. Si te fijas en lo que dice el propio estudio de Funcas, el problema real es que no hay una estrategia de regularizacion coherente desde hace años, ni con unos ni con otros. No es que la gente llegue de la nada, es que el sistema administrativo va lentisimo y los tiene en un limbo total. Casi el 90% es gente de latinoamérica que viene a trabajar, no es una \"crisis\" de personas, es una crisis de gestión de papeles. Se crea ese exceso de irregularidad porque el ritmo de llegada supera por mucho la capacidad de darles la situacion legal. Al final lo que hay es un cuello de botella administrativo que los gobiernos (sea quien sea) no saben o no quieren arreglar con una politica seria_",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains mockery ('Qué nivel de buenismo'), dismissive contempt ('os lo creéis todo'), and derogatory language ('milonga'), meeting impoliteness criteria."
+      "likes": 0
     },
     {
       "id": "fe81edfa-3fee-4080-9b64-afbc0214c071",
@@ -72,11 +56,7 @@
       "reply_to": "Ivan",
       "reply_text": "Crisis de gestión de papeles? No me jodas, Noa, que nos tomas por idiotas, Es la excusa DE siempre para no decir la verdad. No es que el sistema sea lento, es que no quieren que se pare la entrada. El sanchismo y la gente de Moncloa tienen muy claro lo que hacen: dejan que entre todo el mundo sin control porque necesitan mano de obra barata para que la economía no colapse y, de paso, se aseguran los votos de los que vienen. Decir que es un \"cuello de botella administrativo\" es una puta farsa para que los buenistas se queden tranquilos mientras los servicios públicos y la vivienda se van al carajo. No es un problema de papeles, es que NO hay control de fronteras y lo saben perfectamente. Se llenan la boca hablando de gestión pero lo que hay es una dejadez total porque les renta que la gente viva en ese limbo. Es una estrategia de manual: que lleguen, que se instalen y ya nos apañaremos con el caos que han montao. Menuda milonga te has marcado, de verdad que no hay quien os siga el rollo con tanto cuento Es una falta de respeto para la gente que sí cumple.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message uses reasoned argument and data references without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "d224b3c5-f850-4f12-a335-616f23b670f8",
@@ -86,11 +66,7 @@
       "reply_to": "Ivan",
       "reply_text": "Crisis de gestión de papeles? No me jodas, Noa, que nos tomas por idiotas, Es la excusa DE siempre para no decir la verdad. No es que el sistema sea lento, es que no quieren que se pare la entrada. El sanchismo y la gente de Moncloa tienen muy claro lo que hacen: dejan que entre todo el mundo sin control porque necesitan mano de obra barata para que la economía no colapse y, de paso, se aseguran los votos de los que vienen. Decir que es un \"cuello de botella administrativo\" es una puta farsa para que los buenistas se queden tranquilos mientras los servicios públicos y la vivienda se van al carajo. No es un problema de papeles, es que NO hay control de fronteras y lo saben perfectamente. Se llenan la boca hablando de gestión pero lo que hay es una dejadez total porque les renta que la gente viva en ese limbo. Es una estrategia de manual: que lleguen, que se instalen y ya nos apañaremos con el caos que han montao. Menuda milonga te has marcado, de verdad que no hay quien os siga el rollo con tanto cuento Es una falta de respeto para la gente que sí cumple.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains impoliteness through dismissive language ('deja de flipar') and condescending tone toward opposing viewpoint."
+      "likes": 0
     },
     {
       "id": "f3fc4d4b-112b-4e72-be4c-3424d0e54259",
@@ -100,11 +76,7 @@
       "reply_to": "Noa",
       "reply_text": "Es que me cansa un poco ese enfoque de conspiración constante. Si fuera un plan secreto de Moncloa, no habría crecido tanto la población irregular con gobiernos de otros colores. Los datos de Funcas son claros: es un fallo estructural de regularización, no un diseño para ganar votos. El problema es la falta de una estrategia que acompañe la llegada, porque ese limbo es lo que realmente genera caos administrativo",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes policy decisions and systemic failures without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "55844e5b-b2a2-4668-b3b6-df4881179f02",
@@ -114,11 +86,7 @@
       "reply_to": "Lucía",
       "reply_text": "Vale, entiendo lo que dices de que no es solo culpa de un solo gobierno, pero eso de llamarlo \"fallo estructural\" me parece una forma muy cómoda de que todos se laven las manos. Al final, culpar al sistema es no exigirle nada a nadie y eso nos deja sin una estrategia real de fronteras o integración. La presión en la sanidad y la vivienda es real y no es un error burocrático cualquiera, es la consecuencia de no haber tomado decisiones políticas claras en décadas porque se ha preferido la inercia. Al final, la falta de orden es una decisión política en sí misma y nos la comemos nosotros",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes economic system and political decisions without insults, contempt, or dehumanizing language toward any group."
+      "likes": 0
     }
   ]
 }

@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar language ('mierda'), dismissive insults ('farsa'), and all-caps shouting ('QUE PASA!') expressing contempt."
+      "likes": 0
     },
     {
       "id": "f06aa3e0-cd86-4071-9691-a3a6a23512ae",
@@ -30,11 +26,7 @@
       "reply_to": "Lucía",
       "reply_text": "Menuda farsa la de este gobierno, sanchismo puro intentando vendernos el coche eléctrico cuando todo el mundo sabe que es una mierda. Nos quieren obligar a todo con su Agenda 2030 mientras la nuclear la quieren cerrar. que pasa!, es que no nos escucháis?",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message cites survey data to present a nuanced counterargument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "09fe47a7-6f6b-43c5-85cc-005247ed90d5",
@@ -44,11 +36,7 @@
       "reply_to": "Lucía",
       "reply_text": "Menuda farsa la de este gobierno, sanchismo puro intentando vendernos el coche eléctrico cuando todo el mundo sabe que es una mierda. Nos quieren obligar a todo con su Agenda 2030 mientras la nuclear la quieren cerrar. que pasa!, es que no nos escucháis?",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message respectfully disagrees with prior claims, cites scientific evidence, contains no insults or hostile language."
+      "likes": 0
     },
     {
       "id": "65d64d89-26ac-4040-b6cb-9def37242902",
@@ -58,11 +46,7 @@
       "reply_to": "Miguel",
       "reply_text": "Pero si el 62% quiere facilidades con el coche electrico y la preocupacion climatica es de 6,9/10, no es tan mala la cosa como parece porque los datos son mas matizados",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('no tienes ni idea'), vulgar language ('MIERDA'), contempt ('cuento te montas'), and derogatory stereotyping ('ecologistas de salon')."
+      "likes": 0
     },
     {
       "id": "f09f39c8-35d0-4664-9d0a-cc38271002ee",
@@ -72,11 +56,7 @@
       "reply_to": "Miguel",
       "reply_text": "Pero si el 62% quiere facilidades con el coche electrico y la preocupacion climatica es de 6,9/10, no es tan mala la cosa como parece porque los datos son mas matizados",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents policy disagreement with data citations; no insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "9ecdd90f-43e6-4192-bb45-26cdb9425f6d",
@@ -86,11 +66,7 @@
       "reply_to": "Emma",
       "reply_text": "Vaya cuento te montas, no tienes ni idea, ese 62% es querer que nos subvencionen su basura porque el 94% sabe que la red de carga es una mierda. Puros ecologistas de salon de la Moncloa.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Multiple insults, name-calling ('negacionista', 'cuñaos'), vulgar language ('mierda'), and contemptuous dismissal of opponent's intelligence."
+      "likes": 0
     },
     {
       "id": "a07ab99c-7350-4e1f-b7ba-19b98f84f24e",
@@ -100,11 +76,7 @@
       "reply_to": "Gerard",
       "reply_text": "Vale, la preocupacion climatica es real, pero no mires solo eso. La gente no quiere que nos impongan un modelo a ciegas: el 58% quiere mantener la nuclear y la mitad duda del coche electrico. El gobierno va por libre ignorando el sentido comun de la mitad del pais.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques public opinion and policy approach without insults, contempt, or hostile tone toward individuals."
+      "likes": 0
     },
     {
       "id": "0760e69f-aa4d-4b90-b3e5-16fab8b47bc9",
@@ -114,11 +86,7 @@
       "reply_to": "Gerard",
       "reply_text": "Vale, la preocupacion climatica es real, pero no mires solo eso. La gente no quiere que nos impongan un modelo a ciegas: el 58% quiere mantener la nuclear y la mitad duda del coche electrico. El gobierno va por libre ignorando el sentido comun de la mitad del pais.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('cuñao de manual'), contempt ('increíble', 'ingenuidad tremendo'), and dismissive condescension toward opposing views."
+      "likes": 0
     }
   ]
 }

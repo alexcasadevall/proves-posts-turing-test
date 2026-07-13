@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Critical of government policy but uses measured language without insults, contempt, or dehumanizing rhetoric."
+      "likes": 0
     },
     {
       "id": "2b87d848-2bd0-4e84-893e-8a5f561f0629",
@@ -30,11 +26,7 @@
       "reply_to": "Pol",
       "reply_text": "Es que es increíble ver estas cifras y no pensar que no hay ni un mínimo de orden. 838.000 personas en situación irregular es una barbaridad y lo peor es que no es que no se pueda gestionar, es que simplemente no hay una estrategia migratoria real por parte de Moncloa. Se han dejado llevar por el momento y han permitido que la bolsa de irregulares crezca de esta forma tan descontrolada desde 2017. Al final lo que tenemos es una falta de planificación total que acaba presionando todos nuestros servicios públicos y la convivencia. No digo que los inmigrantes sean el problema, el problema es la inaccion de un gobierno que no sabe ni que hacer con los flujos de gente que entran",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('cuñao'), mockery ('la coña'), contempt ('VAYA FARSA'), and derogatory characterization of opposing views."
+      "likes": 0
     },
     {
       "id": "aeeaed87-5f42-4452-8122-55f24c795d17",
@@ -44,11 +36,7 @@
       "reply_to": "Pol",
       "reply_text": "Es que es increíble ver estas cifras y no pensar que no hay ni un mínimo de orden. 838.000 personas en situación irregular es una barbaridad y lo peor es que no es que no se pueda gestionar, es que simplemente no hay una estrategia migratoria real por parte de Moncloa. Se han dejado llevar por el momento y han permitido que la bolsa de irregulares crezca de esta forma tan descontrolada desde 2017. Al final lo que tenemos es una falta de planificación total que acaba presionando todos nuestros servicios públicos y la convivencia. No digo que los inmigrantes sean el problema, el problema es la inaccion de un gobierno que no sabe ni que hacer con los flujos de gente que entran",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('cuñao', 'facha'), mockery, contempt, and vulgarity ('VAYA FARSA'), meeting impoliteness criteria."
+      "likes": 0
     },
     {
       "id": "ac2d8b91-e8f5-42be-9419-b9c41255fb22",
@@ -58,11 +46,7 @@
       "reply_to": "Isona",
       "reply_text": "Y qué es ese \"orden\" del que hablas, un orden para que los empresarios sigan explotando a la peña sin pagarles ni un duro? Qué nivel de cuñao Ese cuento de la \"falta de estrategia\" es el discurso facha de siempre para no decir que lo que buscan es mano de obra barata y sin derechos. vaya farsa! que solo piensan en el beneficio de cuatro explotadores mientras los demas sufrimos la precariedat",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques government management without insults, vulgarity, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "e3fc599f-0b9e-4d8d-8c69-bcd053a67d90",
@@ -72,11 +56,7 @@
       "reply_to": "Pol",
       "reply_text": "Es que es increíble ver estas cifras y no pensar que no hay ni un mínimo de orden. 838.000 personas en situación irregular es una barbaridad y lo peor es que no es que no se pueda gestionar, es que simplemente no hay una estrategia migratoria real por parte de Moncloa. Se han dejado llevar por el momento y han permitido que la bolsa de irregulares crezca de esta forma tan descontrolada desde 2017. Al final lo que tenemos es una falta de planificación total que acaba presionando todos nuestros servicios públicos y la convivencia. No digo que los inmigrantes sean el problema, el problema es la inaccion de un gobierno que no sabe ni que hacer con los flujos de gente que entran",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned policy argument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "07c7aa94-e78a-4903-9dec-76c64d965d79",
@@ -86,11 +66,7 @@
       "reply_to": "Isona",
       "reply_text": "Y qué es ese \"orden\" del que hablas, un orden para que los empresarios sigan explotando a la peña sin pagarles ni un duro? Qué nivel de cuñao Ese cuento de la \"falta de estrategia\" es el discurso facha de siempre para no decir que lo que buscan es mano de obra barata y sin derechos. vaya farsa! que solo piensan en el beneficio de cuatro explotadores mientras los demas sufrimos la precariedat",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses policy concern about integration and service capacity without insults, contempt, or hostile tone."
+      "likes": 1
     },
     {
       "id": "3ce06097-1366-4d5f-82ab-90447f046ce9",
@@ -100,11 +76,7 @@
       "reply_to": "Sílvia",
       "reply_text": "Es que ese aumento del 680% en irregulares desde 2017 es un fallo de gestión de Moncloa que colapsa todo.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned policy critique without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "15360ba8-501b-4851-916b-127c65b831ec",
@@ -114,11 +86,7 @@
       "reply_to": "Helena",
       "reply_text": "Vale,integrar es clave pero sin gestion lo de Moncloa colapsa la vivienda y los servicios publicos de verdad no es solo miedo",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains insults ('ingenuidad', 'milongas', 'puta'), mockery ('Venga ya'), condescension, and all-caps shouting ('BURRADA'), meeting impoliteness criteria."
+      "likes": 0
     }
   ]
 }

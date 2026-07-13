@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses concern about corporate inaction on climate change without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "cb2ac2f4-083b-4e7a-8bb4-c5e3665d4939",
@@ -30,11 +26,7 @@
       "reply_to": "Hugo",
       "reply_text": "Es increíble que el 75% de las empresas no haga nada. La ciencia pide cambios urgentes y el sector empresarial apenas se mueve,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar intensifiers ('de cojones'), mockery ('cuento', 'laurima'), all-caps outrage ('TOMADURA DE PELO'), and contemptuous dismissal of climate advocates."
+      "likes": 0
     },
     {
       "id": "4905c06b-c1f7-4e54-a8fe-f520a7c87314",
@@ -44,11 +36,7 @@
       "reply_to": "Hugo",
       "reply_text": "Es increíble que el 75% de las empresas no haga nada. La ciencia pide cambios urgentes y el sector empresarial apenas se mueve,",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar language ('puta'), name-calling ('iluso'), and dismissive contempt ('BUENISTA') with shouting cues."
+      "likes": 1
     },
     {
       "id": "43c3593c-eedf-4852-a7f4-c084023f409c",
@@ -58,11 +46,7 @@
       "reply_to": "Enric",
       "reply_text": "Y quién paga la puta cuenta, iluso? todo ES caro ya, no seas tan buenista.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message uses strong language but lacks insults, contempt, or personal attacks; argues substantively about business climate inaction."
+      "likes": 0
     },
     {
       "id": "84677c78-2a44-4dcf-ac06-5d384d0fbdf7",
@@ -72,11 +56,7 @@
       "reply_to": "Hugo",
       "reply_text": "Es increíble que el 75% de las empresas no haga nada. La ciencia pide cambios urgentes y el sector empresarial apenas se mueve,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned economic argument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "3da9516c-7d6b-4f30-a9f6-5ae79ddb8237",
@@ -86,11 +66,7 @@
       "reply_to": "Enric",
       "reply_text": "Y quién paga la puta cuenta, iluso? todo ES caro ya, no seas tan buenista.",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('CUÑAO'), dismissive tone, and condescending language ('vaya nivel de negacionismo')."
+      "likes": 0
     },
     {
       "id": "328b0b2d-8dca-4d30-b5dd-601adc4f725f",
@@ -100,11 +76,7 @@
       "reply_to": "Helena",
       "reply_text": "Es verdad que las cifras asustan, pero no es solo falta de voluntad. Con la carga de regulaciones y los costes de energía tan altos, las pymes apenas pueden sobrevivir es un problema de estructura y apoyo real, no de que las empresas sean malas o no quieran ayudar.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains dismissive language ('milongas', 'pereza mental'), contempt ('no les importa un pimiento'), and all-caps shouting ('ES NEGACIONISMO PURA Y DURO')."
+      "likes": 0
     },
     {
       "id": "c88e9449-027a-4893-b175-92ce3608c244",
@@ -114,11 +86,7 @@
       "reply_to": "Mar",
       "reply_text": "@Enric Pero qué dices @Enric? Vaya nivel de negacionismo, que dejes de ser un cuñao y te enteres de la evidencia ya",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message defends SMEs' position on climate measures without insults, contempt, or hostile tone."
+      "likes": 0
     }
   ]
 }

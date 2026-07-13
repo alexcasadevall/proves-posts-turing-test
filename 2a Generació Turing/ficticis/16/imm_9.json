@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses a political opinion about border security without insults, contempt, or hostile tone."
+      "likes": 1
     },
     {
       "id": "aea69621-878e-4092-800e-a27fd2c9177f",
@@ -30,11 +26,7 @@
       "reply_to": "Xavi",
       "reply_text": "pues con estas fronteras abiertas es normal que crucen sin que nadie se de cuenta.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('tonteria de cuñado'), mockery, contempt ('QUE NIVEL!'), and derogatory characterization ('fachas de Vox')."
+      "likes": 0
     },
     {
       "id": "9a8a4ac8-33c8-434c-93bf-e91525883046",
@@ -44,11 +36,7 @@
       "reply_to": "Xavi",
       "reply_text": "pues con estas fronteras abiertas es normal que crucen sin que nadie se de cuenta.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes an argument as silly but contains no insults, contempt, or hostile language directed at persons."
+      "likes": 0
     },
     {
       "id": "5130eb9e-89fd-40dd-b18e-001a14b29d9e",
@@ -58,11 +46,7 @@
       "reply_to": "Oriol",
       "reply_text": "Qué tontería, si los servicios de inteligencia y el fbi han funcionado perfecto",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains name-calling ('payaso'), insults ('MENUDA PARADA DE IDIOTAS'), and contemptuous tone toward Oriol."
+      "likes": 0
     },
     {
       "id": "edfb1a7b-2591-445a-a0be-2b913b4d8242",
@@ -72,11 +56,7 @@
       "reply_to": "Xavi",
       "reply_text": "pues con estas fronteras abiertas es normal que crucen sin que nadie se de cuenta.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message uses reasoned argument without insults, contempt, or hostile tone despite disagreeing with others."
+      "likes": 0
     },
     {
       "id": "6a338a1e-7e24-482e-b5aa-3ca5b626b7c9",
@@ -86,11 +66,7 @@
       "reply_to": "Ivan",
       "reply_text": "Vaya de buenista que eres Oriol, que payaso, los tios cruzan en patera sin que nadie se de cuenta y tu respuesta es que son \"fachas\". menuda parada DE idiotas! que nivel de desastre",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains direct insults ('no tienes ni idea de nada', 'Menuda tonteria') and dismissive contempt toward another participant."
+      "likes": 0
     },
     {
       "id": "bc259b1d-31a2-4ebf-a29e-d64fb127cb36",
@@ -100,11 +76,7 @@
       "reply_to": "Júlia",
       "reply_text": "Es que decir que las fronteras están abiertas es un poco simplista. Han llegado en patera por Almería y la inteligencia ha hecho su trabajo detectándolos, eso es lo importante. El tema no es la ideología de fronteras, sino la necesidad de más recursos y mejor coordinación para rastrear estas rutas irregulares que ya conocemos. no es que entren sin control así porque sí.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses a policy criticism without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "a0fb279f-529e-4c23-9974-08e492d24656",
@@ -114,11 +86,7 @@
       "reply_to": "Hugo",
       "reply_text": "Vale, el arresto es un acierto, pero no nos engañemos que lleguen así por Almería sin control previo ya es un fallo de gestión de fronteras importante.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques an argument as simplistic without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "afc9f1c4-8ee4-4659-9b76-80f91cb2f669",
@@ -128,11 +96,7 @@
       "reply_to": "Carla",
       "reply_text": "Ay Ivan, no tienes ni idea de nada. El fbi y la inteligencia española han detectado la celula, eso es que el sistema funciona. Menuda tonteria de bulo de fronteras abiertas",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains direct insult ('q eres de loza'), vulgar intensifier ('miera'), all-caps shouting ('MENUDA VERGÜENZA'), and contemptuous tone toward Carla."
+      "likes": 0
     },
     {
       "id": "bece34af-f26e-4c1b-8528-797cf23d865a",
@@ -142,11 +106,7 @@
       "reply_to": "Xavi",
       "reply_text": "pues con estas fronteras abiertas es normal que crucen sin que nadie se de cuenta.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "All-caps insult 'SON UNOS IRRESPONSABLES' and contemptuous dismissal of government policy constitute impoliteness."
+      "likes": 0
     },
     {
       "id": "f675bdab-437b-46b0-b798-6bc8b2d214d6",
@@ -156,11 +116,7 @@
       "reply_to": "Dani",
       "reply_text": "Lo importante es que la inteligencia ha funcionado perfectamente. Reducirlo solo a un fallo de fronteras es muy simplista",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses political disagreement without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "909e8b3b-14f3-4ff8-ae6f-5321e0feb6bb",
@@ -170,11 +126,7 @@
       "reply_to": "Dani",
       "reply_text": "Lo importante es que la inteligencia ha funcionado perfectamente. Reducirlo solo a un fallo de fronteras es muy simplista",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('Vaya pelicula te pegas'), sarcasm, and contemptuous tone toward perceived naivety about security."
+      "likes": 0
     },
     {
       "id": "528947be-4b1d-4a5b-929d-567ef86ed46b",
@@ -184,11 +136,7 @@
       "reply_to": "Xavi",
       "reply_text": "pues con estas fronteras abiertas es normal que crucen sin que nadie se de cuenta.",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('mierda'), name-calling ('fachas'), mockery ('laza'), and contemptuous tone toward other users."
+      "likes": 0
     },
     {
       "id": "b69638f6-c2cb-45d1-94c3-82780be3fb9d",
@@ -198,11 +146,7 @@
       "reply_to": "Oriol",
       "reply_text": "pero porque seguís con esa historia? Lo de las fronteras es el gran fallo de este buenismo de Moncloa que deja pasar a todo el mundo sin control, son unos irresponsables, que esperan que lleguen cien más para gestionar la inmigración de una vez",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a policy argument about border control and security without insults, contempt, or hostile language."
+      "likes": 0
     },
     {
       "id": "46624e79-05fc-4bb1-a143-c98a28fb96b9",
@@ -212,11 +156,7 @@
       "reply_to": "Júlia",
       "reply_text": "Es que decir que las fronteras están abiertas es un poco simplista. Han llegado en patera por Almería y la inteligencia ha hecho su trabajo detectándolos, eso es lo importante. El tema no es la ideología de fronteras, sino la necesidad de más recursos y mejor coordinación para rastrear estas rutas irregulares que ya conocemos. no es que entren sin control así porque sí.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses a policy concern about border security without insults, contempt, or hostile language."
+      "likes": 0
     },
     {
       "id": "0482aade-f623-4fb0-81f1-5634363cff8e",
@@ -226,11 +166,7 @@
       "reply_to": "Ivan",
       "reply_text": "Vaya pelicula te pegas que funciona la inteligencia si cruzan todo el pais? buenismo puro!",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a reasoned counterargument without insults, contempt, or hostile tone."
+      "likes": 0
     }
   ]
 }

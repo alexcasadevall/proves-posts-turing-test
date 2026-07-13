@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses strong policy disagreement with critical tone but lacks insults, contempt, or dehumanizing language toward groups or individuals."
+      "likes": 1
     },
     {
       "id": "0db8e15a-300b-42ef-bcca-f0e7540f64f3",
@@ -30,11 +26,7 @@
       "reply_to": "Sergi",
       "reply_text": "Es que no tienen ni idea de la realidad, otra reforma mas para facilitar la entrada de gente y todo el mundo feliz en Moncloa pero nadie piensa en lo que va a pasar despues. Con la que esta con el tema de la vivienda y los alquileres por las nubes, de verdad creen que meter mas gente al mercado laboral sin mas control va a solucionar algo? Al revés, va a haber mas presion sobre los servicios publicos que ya estan al limite y la vivienda va a estar aun mas dificil para los que ya estamos aqui. Es el buenismo de siempre, se piensan que la economia se mueve solo con inmigracion masiva y se olvidan de la capacidad de integracion o de la infraestructura que tenemos. Al final el que paga el pato es el ciudadano de a pie que no tiene ni donde vivir ni que servicios usar que funcionen bien. Menuda locura de medida, de verdad que no tienen limites con tanto experimento social",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('fachas de mierda'), name-calling, contempt, and all-caps shouting; meets impoliteness dimension."
+      "likes": 0
     },
     {
       "id": "0cf041b9-5f0a-4157-a368-633fe9a0354e",
@@ -44,11 +36,7 @@
       "reply_to": "Sergi",
       "reply_text": "Es que no tienen ni idea de la realidad, otra reforma mas para facilitar la entrada de gente y todo el mundo feliz en Moncloa pero nadie piensa en lo que va a pasar despues. Con la que esta con el tema de la vivienda y los alquileres por las nubes, de verdad creen que meter mas gente al mercado laboral sin mas control va a solucionar algo? Al revés, va a haber mas presion sobre los servicios publicos que ya estan al limite y la vivienda va a estar aun mas dificil para los que ya estamos aqui. Es el buenismo de siempre, se piensan que la economia se mueve solo con inmigracion masiva y se olvidan de la capacidad de integracion o de la infraestructura que tenemos. Al final el que paga el pato es el ciudadano de a pie que no tiene ni donde vivir ni que servicios usar que funcionen bien. Menuda locura de medida, de verdad que no tienen limites con tanto experimento social",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents policy arguments without insults, contempt, or hostile tone despite disagreeing with prior speakers."
+      "likes": 0
     },
     {
       "id": "72621b16-c057-430d-9d92-cab48ce54a03",
@@ -58,11 +46,7 @@
       "reply_to": "Anna",
       "reply_text": "La regularización no crea gente nueva, solo da derechos a que ya están aquí trabajando y pagando. La presión en servicios es por falta de inversión, no porque lleguen trabajadores, eso es lo que dicen el PP y Vox para no invertir en integración.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message uses dismissive mockery ('MENUDO BUENISMO') and condescending tone toward opposing viewpoint."
+      "likes": 0
     },
     {
       "id": "28219253-c4e0-48b2-aff9-b9b4007c0db8",
@@ -72,11 +56,7 @@
       "reply_to": "Anna",
       "reply_text": "La regularización no crea gente nueva, solo da derechos a que ya están aquí trabajando y pagando. La presión en servicios es por falta de inversión, no porque lleguen trabajadores, eso es lo que dicen el PP y Vox para no invertir en integración.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains mockery ('VAJA PELICULA'), sarcasm, contempt toward government policies, and dismissive tone toward opposing views."
+      "likes": 0
     },
     {
       "id": "b54b8157-6119-4885-86cd-ed9002b52c1d",
@@ -86,11 +66,7 @@
       "reply_to": "Sergi",
       "reply_text": "Es que no tienen ni idea de la realidad, otra reforma mas para facilitar la entrada de gente y todo el mundo feliz en Moncloa pero nadie piensa en lo que va a pasar despues. Con la que esta con el tema de la vivienda y los alquileres por las nubes, de verdad creen que meter mas gente al mercado laboral sin mas control va a solucionar algo? Al revés, va a haber mas presion sobre los servicios publicos que ya estan al limite y la vivienda va a estar aun mas dificil para los que ya estamos aqui. Es el buenismo de siempre, se piensan que la economia se mueve solo con inmigracion masiva y se olvidan de la capacidad de integracion o de la infraestructura que tenemos. Al final el que paga el pato es el ciudadano de a pie que no tiene ni donde vivir ni que servicios usar que funcionen bien. Menuda locura de medida, de verdad que no tienen limites con tanto experimento social",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques PP and Vox policy positions without insults, threats, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "bdadb511-63e1-4118-ae24-a3d4abcebe24",
@@ -100,11 +76,7 @@
       "reply_to": "Anna",
       "reply_text": "La regularización no crea gente nueva, solo da derechos a que ya están aquí trabajando y pagando. La presión en servicios es por falta de inversión, no porque lleguen trabajadores, eso es lo que dicen el PP y Vox para no invertir en integración.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains stereotyping ('ir de más progres') and dismissive contempt toward opposing viewpoint despite civil framing."
+      "likes": 0
     },
     {
       "id": "6def6db2-3927-414b-a4ee-111d40a41a6e",
@@ -114,11 +86,7 @@
       "reply_to": "Noa",
       "reply_text": "Ese es el error que venden siempre el PP y Vox. La regularizacion no hace que aparezca gente de la nada, que ya estan aqui viviendo y trabajando, solo les da legalidad para no explotarlos tanto",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents policy criticism without insults, contempt, or dehumanizing language."
+      "likes": 0
     }
   ]
 }

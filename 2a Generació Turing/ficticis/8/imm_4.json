@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar intensifier 'mierda', all-caps outrage phrase 'MENUDA PASADA', and contemptuous dismissal of immigration policy as 'bienismo'."
+      "likes": 0
     },
     {
       "id": "23ce671b-3727-436b-92ce-f899dc20f856",
@@ -30,11 +26,7 @@
       "reply_to": "Noa",
       "reply_text": "838.000 sin papeles, es que es de no creer lo que está pasando. la moncloa y sus fronteras abiertas nos van a arruinar a todos los españoles, menuda pasada de bienismo de mierda,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message corrects a misreading of the article and proposes policy solutions without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "0ca04565-5ce8-413a-bf4d-d9f75842af09",
@@ -44,11 +36,7 @@
       "reply_to": "Noa",
       "reply_text": "838.000 sin papeles, es que es de no creer lo que está pasando. la moncloa y sus fronteras abiertas nos van a arruinar a todos los españoles, menuda pasada de bienismo de mierda,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('mierda'), mockery ('BULO de manual'), and derogatory characterization ('milonga facha')."
+      "likes": 0
     },
     {
       "id": "7dc37c99-1263-4fc2-a443-cf0bcf6cb603",
@@ -58,11 +46,7 @@
       "reply_to": "Marc",
       "reply_text": "Es que el artículo dice claramente que el problema es la falta de una estrategia y la lentitud para regularizar, no que las fronteras estén abiertas. La gente ya está aqui trabajando y moviendo la economia, lo que hace falta es darles papeles para evitar la precariedad y el trabajo en negro.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message uses a metaphor to argue against regularization without border control; no insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "7af2f0cf-3110-4dcf-a8f6-b8abcebe48b5",
@@ -72,11 +56,7 @@
       "reply_to": "Pau",
       "reply_text": "Vaya bulo de manual, Noa. Lo de las fronteras abiertas es una milonga facha, es un fallo administrativo de mierda",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned disagreement without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "cb447ffd-1df0-4a0a-a7e4-d216bb38997d",
@@ -86,11 +66,7 @@
       "reply_to": "Pau",
       "reply_text": "Vaya bulo de manual, Noa. Lo de las fronteras abiertas es una milonga facha, es un fallo administrativo de mierda",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques Pau's argument and presents factual data without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "e717befe-d0f5-4779-8777-93619f9fdc4d",
@@ -100,11 +76,7 @@
       "reply_to": "Lluís",
       "reply_text": "Vale, dar papeles ayuda, pero sin controlar la entrada la regularizacion no sirve de nada, es como querer vaciar el mar con un cubo sin tapar el agujero.",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Uses 'cuñao' as a belittling insult and dismissive mockery of Lluís's argument."
+      "likes": 0
     },
     {
       "id": "dfc126e7-a30a-4e78-9d94-f53c1e5cce07",
@@ -114,11 +86,7 @@
       "reply_to": "Enric",
       "reply_text": "Decir que todo es un bulo facha es la forma mas facil de no querer analizar la realidad, Pau. El articulo dice claramente que los irregulares han subido un 680% desde 2017, asi que no es un invento de Vox, sino la falta de una estrategia seria por parte del PSOE.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains insults ('mierda', 'farsa', 'PARANOIA', 'ignorancia'), mockery ('qué ganas de repetir'), and contemptuous dismissal ('menuda PARANOIA de facha tenéis')."
+      "likes": 0
     }
   ]
 }

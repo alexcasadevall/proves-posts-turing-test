@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Critique of policy and governance approach without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "9ff58814-c7ba-4ba0-972e-f90f1cbff892",
@@ -30,11 +26,7 @@
       "reply_to": "Vila",
       "reply_text": "Sin estrategia y con tanto buenismo, esto acaba colapsando los servicios publicos.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('fachas'), mockery ('menuda tontería'), contempt ('que nivel de ignorancia'), and belittling tone toward opposing groups."
+      "likes": 0
     },
     {
       "id": "01395b71-68fc-4d3e-b480-3b246baccac6",
@@ -44,11 +36,7 @@
       "reply_to": "Pol",
       "reply_text": "Menuda tonteria lo del buenismo, siempre con lo mismo los fachas para asustar a la gente, Que no es bondad,es que si no los regularizas el patronal te explota a ellos y la economia sumergida se va al carajo. ES LO mas logico para que coticen y dejen de vivir en la precariedad, pero claro, para los de Vox esto no es estrategia, es puro miedo que nivel de ignorancia, de verdad.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents policy argument about immigration control and public services without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "e5843163-8942-49a5-8498-7faa9a678860",
@@ -58,11 +46,7 @@
       "reply_to": "Vila",
       "reply_text": "Sin estrategia y con tanto buenismo, esto acaba colapsando los servicios publicos.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains impoliteness: dismissive mockery ('menuda tonteria'), name-calling ('bulo'), and all-caps shouting ('QUE NIVEL') expressing contempt."
+      "likes": 0
     },
     {
       "id": "f242fe1f-fd69-4909-a1ed-9b78b255beaf",
@@ -72,11 +56,7 @@
       "reply_to": "Pol",
       "reply_text": "Menuda tonteria lo del buenismo, siempre con lo mismo los fachas para asustar a la gente, Que no es bondad,es que si no los regularizas el patronal te explota a ellos y la economia sumergida se va al carajo. ES LO mas logico para que coticen y dejen de vivir en la precariedad, pero claro, para los de Vox esto no es estrategia, es puro miedo que nivel de ignorancia, de verdad.",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message questions resource allocation for regularization without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "b5aba945-9fd6-46b2-b9d2-1f93418c4fea",
@@ -86,11 +66,7 @@
       "reply_to": "Ramon",
       "reply_text": "No es solo miedo, es gestión. Si entran sin control, la economía se precariza y los servicios públicos no dan abasto para todos. Es pura lógica.",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues policy position respectfully without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "3b7eac70-97e4-4123-bd09-bf7cf42cc73b",
@@ -100,11 +76,7 @@
       "reply_to": "Roger",
       "reply_text": "@Ramon la precaridad no viene de la entrada en si, sino de que el sistema no permite regularizar a tiempo. Eso es lo que crea la economía sumergida, no la llegada de la gente. falta una estrategia de integracion real y no solo vigilar la frontera para evitar el caos.",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains impoliteness (mockery, condescension 'Menudo buenismo'), all-caps accusation, and dismissive contempt toward opposing views."
+      "likes": 1
     },
     {
       "id": "2b1f9472-e941-496e-9b2b-f5aaa079bac5",
@@ -114,11 +86,7 @@
       "reply_to": "Juan",
       "reply_text": "@Pol no es miedo, es gestion. y con que recursos regularizas todo sin colapsar mas vivienda y servicios?",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues policy position on immigration integration without insults, contempt, or hostile tone."
+      "likes": 1
     }
   ]
 }

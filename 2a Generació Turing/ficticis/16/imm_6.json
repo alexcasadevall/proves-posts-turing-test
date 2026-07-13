@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Critical of government policy but uses measured language without insults, contempt, or dehumanizing rhetoric."
+      "likes": 0
     },
     {
       "id": "2b87d848-2bd0-4e84-893e-8a5f561f0629",
@@ -30,11 +26,7 @@
       "reply_to": "Pol",
       "reply_text": "Es que es increíble ver estas cifras y no pensar que no hay ni un mínimo de orden. 838.000 personas en situación irregular es una barbaridad y lo peor es que no es que no se pueda gestionar, es que simplemente no hay una estrategia migratoria real por parte de Moncloa. Se han dejado llevar por el momento y han permitido que la bolsa de irregulares crezca de esta forma tan descontrolada desde 2017. Al final lo que tenemos es una falta de planificación total que acaba presionando todos nuestros servicios públicos y la convivencia. No digo que los inmigrantes sean el problema, el problema es la inaccion de un gobierno que no sabe ni que hacer con los flujos de gente que entran",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('cuñao'), mockery ('la coña'), contempt ('VAYA FARSA'), and derogatory characterization of opposing views."
+      "likes": 0
     },
     {
       "id": "aeeaed87-5f42-4452-8122-55f24c795d17",
@@ -44,11 +36,7 @@
       "reply_to": "Pol",
       "reply_text": "Es que es increíble ver estas cifras y no pensar que no hay ni un mínimo de orden. 838.000 personas en situación irregular es una barbaridad y lo peor es que no es que no se pueda gestionar, es que simplemente no hay una estrategia migratoria real por parte de Moncloa. Se han dejado llevar por el momento y han permitido que la bolsa de irregulares crezca de esta forma tan descontrolada desde 2017. Al final lo que tenemos es una falta de planificación total que acaba presionando todos nuestros servicios públicos y la convivencia. No digo que los inmigrantes sean el problema, el problema es la inaccion de un gobierno que no sabe ni que hacer con los flujos de gente que entran",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('cuñao', 'facha'), mockery, contempt, and vulgarity ('VAYA FARSA'), meeting impoliteness criteria."
+      "likes": 0
     },
     {
       "id": "ac2d8b91-e8f5-42be-9419-b9c41255fb22",
@@ -58,11 +46,7 @@
       "reply_to": "Isona",
       "reply_text": "Y qué es ese \"orden\" del que hablas, un orden para que los empresarios sigan explotando a la peña sin pagarles ni un duro? Qué nivel de cuñao Ese cuento de la \"falta de estrategia\" es el discurso facha de siempre para no decir que lo que buscan es mano de obra barata y sin derechos. vaya farsa! que solo piensan en el beneficio de cuatro explotadores mientras los demas sufrimos la precariedat",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques government management without insults, vulgarity, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "e3fc599f-0b9e-4d8d-8c69-bcd053a67d90",
@@ -72,11 +56,7 @@
       "reply_to": "Pol",
       "reply_text": "Es que es increíble ver estas cifras y no pensar que no hay ni un mínimo de orden. 838.000 personas en situación irregular es una barbaridad y lo peor es que no es que no se pueda gestionar, es que simplemente no hay una estrategia migratoria real por parte de Moncloa. Se han dejado llevar por el momento y han permitido que la bolsa de irregulares crezca de esta forma tan descontrolada desde 2017. Al final lo que tenemos es una falta de planificación total que acaba presionando todos nuestros servicios públicos y la convivencia. No digo que los inmigrantes sean el problema, el problema es la inaccion de un gobierno que no sabe ni que hacer con los flujos de gente que entran",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned policy argument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "07c7aa94-e78a-4903-9dec-76c64d965d79",
@@ -86,11 +66,7 @@
       "reply_to": "Isona",
       "reply_text": "Y qué es ese \"orden\" del que hablas, un orden para que los empresarios sigan explotando a la peña sin pagarles ni un duro? Qué nivel de cuñao Ese cuento de la \"falta de estrategia\" es el discurso facha de siempre para no decir que lo que buscan es mano de obra barata y sin derechos. vaya farsa! que solo piensan en el beneficio de cuatro explotadores mientras los demas sufrimos la precariedat",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses policy concern about integration and service capacity without insults, contempt, or hostile tone."
+      "likes": 1
     },
     {
       "id": "3ce06097-1366-4d5f-82ab-90447f046ce9",
@@ -100,11 +76,7 @@
       "reply_to": "Sílvia",
       "reply_text": "Es que ese aumento del 680% en irregulares desde 2017 es un fallo de gestión de Moncloa que colapsa todo.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned policy critique without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "15360ba8-501b-4851-916b-127c65b831ec",
@@ -114,11 +86,7 @@
       "reply_to": "Helena",
       "reply_text": "Vale,integrar es clave pero sin gestion lo de Moncloa colapsa la vivienda y los servicios publicos de verdad no es solo miedo",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains insults ('ingenuidad', 'milongas', 'puta'), mockery ('Venga ya'), condescension, and all-caps shouting ('BURRADA'), meeting impoliteness criteria."
+      "likes": 0
     },
     {
       "id": "46e968c5-a244-43ad-8fae-42aeebe0b9f6",
@@ -128,11 +96,7 @@
       "reply_to": "Pol",
       "reply_text": "Es que es increíble ver estas cifras y no pensar que no hay ni un mínimo de orden. 838.000 personas en situación irregular es una barbaridad y lo peor es que no es que no se pueda gestionar, es que simplemente no hay una estrategia migratoria real por parte de Moncloa. Se han dejado llevar por el momento y han permitido que la bolsa de irregulares crezca de esta forma tan descontrolada desde 2017. Al final lo que tenemos es una falta de planificación total que acaba presionando todos nuestros servicios públicos y la convivencia. No digo que los inmigrantes sean el problema, el problema es la inaccion de un gobierno que no sabe ni que hacer con los flujos de gente que entran",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('nivel de cuñado'), mockery, condescension, and all-caps shouting ('ES un DESASTRE'), meeting impoliteness criteria."
+      "likes": 0
     },
     {
       "id": "1baa73cb-c34c-4bc4-a510-50f9ae202551",
@@ -142,11 +106,7 @@
       "reply_to": "Marc",
       "reply_text": "Es que no es solo culpa de un gobierno, es un problema estructural de falta de canales legales. El cuello de botella es la burocracia y esa ausencia de estrategia migratoria real.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains dismissive language ('rollos', 'pura EXCUSA'), contempt ('cuento de buenistas'), and hostile tone toward Marc's argument."
+      "likes": 0
     },
     {
       "id": "bff2e307-2158-4c5a-a54b-a6de46e760b7",
@@ -156,11 +116,7 @@
       "reply_to": "Marc",
       "reply_text": "Es que no es solo culpa de un gobierno, es un problema estructural de falta de canales legales. El cuello de botella es la burocracia y esa ausencia de estrategia migratoria real.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes government policy without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "6d9ea189-1b17-4772-9621-3f3bda117cb8",
@@ -170,11 +126,7 @@
       "reply_to": "Sònia",
       "reply_text": "@Pol En serio, Pol? O sea que si les damos papeles la gente viene mas porque si? Vaya nivel de cuñado, No tiene sentido que creas que el problema es la regularizacion y no la falta de gestion. ES un desastre de razonamiento...",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Uses 'DISTRACCIÓN' in caps and dismissive tone ('menuda') to mock and belittle an opposing argument."
+      "likes": 0
     },
     {
       "id": "b929e8e4-e6f5-4c72-891d-50341735c4f6",
@@ -184,11 +136,7 @@
       "reply_to": "Sílvia",
       "reply_text": "Menuda distracción, con 838.000 irregulares presionando el piso no culpes solo a los pisos vacios porque no es así.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents policy analysis without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "e471d4a4-7943-4477-a7cb-5a2b91ed006a",
@@ -198,11 +146,7 @@
       "reply_to": "Sònia",
       "reply_text": "@Pol En serio, Pol? O sea que si les damos papeles la gente viene mas porque si? Vaya nivel de cuñado, No tiene sentido que creas que el problema es la regularizacion y no la falta de gestion. ES un desastre de razonamiento...",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('BUENISTA'), dismissive tone, and contemptuous characterization of opposing argument."
+      "likes": 0
     },
     {
       "id": "ceb5ae7e-df33-491f-af78-1d17e7562a08",
@@ -212,11 +156,7 @@
       "reply_to": "Marc",
       "reply_text": "El problema es que la falta de reformas en el arraigo crea ese desfase, no es solo falta de voluntad. Es un fallo del mercado laboral que no se resuelve solo con fronteras",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar insult 'MIERDA', name-calling 'no entiendes NADA', and dismissive contempt toward Marc."
+      "likes": 0
     },
     {
       "id": "dc2d27c8-1f77-497e-bb9e-6549e9fd44ce",
@@ -226,11 +166,7 @@
       "reply_to": "Pol",
       "reply_text": "Vale, la burocracia es un lío, pero no es la causa real. El problema es que Moncloa no quiere controlar las fronteras y nos vende la falta de estrategia porque no tienen voluntad politica de limitar entradas.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned policy argument about immigration and labor market integration without insults, contempt, or hostile tone."
+      "likes": 0
     }
   ]
 }

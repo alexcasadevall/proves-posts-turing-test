@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses policy concern about regularization effects without insults, contempt, or hostile tone."
+      "likes": 1
     },
     {
       "id": "4d64c1cb-2279-4021-bd61-2ff6b06faef0",
@@ -30,11 +26,7 @@
       "reply_to": "Oriol",
       "reply_text": "Es que con tanta regularización de golpe, los servicios públicos y el alquiler no van a aguantar el efecto llamada",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('Otra vez con el cuento'), name-calling ('bulo más facha'), and condescending dismissal ('no tenéis ni idea')."
+      "likes": 0
     },
     {
       "id": "53f3fbb0-c7b4-47a7-8714-c34c6cd8e07e",
@@ -44,11 +36,7 @@
       "reply_to": "Oriol",
       "reply_text": "Es que con tanta regularización de golpe, los servicios públicos y el alquiler no van a aguantar el efecto llamada",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues substantively against the 'call effect' claim without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "9cccc9ee-bb5e-4e12-a1b0-d64d0a64f951",
@@ -58,11 +46,7 @@
       "reply_to": "Víctor",
       "reply_text": "Otra vez con el cuento del efecto llamada? Vaya bulo más facha, no tenéis ni idea de como funciona la justicia social,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar insult 'mierda' and all-caps shouting phrase expressing contempt for opposing arguments."
+      "likes": 0
     },
     {
       "id": "1f83a0dc-3315-4210-958f-70afeb996cf9",
@@ -72,11 +56,7 @@
       "reply_to": "Mateu",
       "reply_text": "Es que no es efecto llamada porque la gente ya esta aqui, eso es lo que no entiende la gente de la PP y Vox, el problema del alquiler es otro tema aparte,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains impoliteness (chorrada, buenismo mockery) and all-caps shouting (ESTO ES UN DESASTRE) expressing contempt."
+      "likes": 0
     },
     {
       "id": "34610a98-f45e-4774-8a8d-80c8c81e49a7",
@@ -86,11 +66,7 @@
       "reply_to": "Oriol",
       "reply_text": "Es que con tanta regularización de golpe, los servicios públicos y el alquiler no van a aguantar el efecto llamada",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a factual argument about regularization without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "0b386326-dbd4-463e-bda0-a53d9f813ec9",
@@ -100,11 +76,7 @@
       "reply_to": "Mateu",
       "reply_text": "Es que no es efecto llamada porque la gente ya esta aqui, eso es lo que no entiende la gente de la PP y Vox, el problema del alquiler es otro tema aparte,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a policy argument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "ae7b434d-b191-425c-abcb-df32c502c0c7",
@@ -114,11 +86,7 @@
       "reply_to": "Sara",
       "reply_text": "Claro, claro, qué facil es decir eso con el buenismo de Sanchez. Menuda chorrada lo de que el alquiler es \"otro tema\", si metes a 900 mil mas a la vez colapsas todo. esto ES UN desastre para los servicios publicos.",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Uses derogatory slur 'facha' and dismissive language ('cuento', 'bulo') to attack opposing viewpoints."
+      "likes": 1
     },
     {
       "id": "fe2c4f6e-d985-462f-837d-8559714bc504",
@@ -128,11 +96,7 @@
       "reply_to": "Isona",
       "reply_text": "vaya cuento, que bulo de facha",
       "is_mention": false,
-      "likes": 3,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues policy position without insults, contempt, or dehumanizing language despite disagreeing with opposing views."
+      "likes": 3
     },
     {
       "id": "00673230-408f-48e0-be85-d30e1b56dce7",
@@ -142,11 +106,7 @@
       "reply_to": "Isona",
       "reply_text": "vaya cuento, que bulo de facha",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains impoliteness: insults ('estupidez'), contempt ('buenistas'), all-caps shouting ('ME DA RABIA', 'QUÉ NIVEL'), and dismissive mockery of opponents."
+      "likes": 0
     },
     {
       "id": "f8ca67f4-daca-4afb-bc2a-1078baf51db6",
@@ -156,11 +116,7 @@
       "reply_to": "Marina",
       "reply_text": "Pero no ves que la regularizacion es para los que ya estan aqui? Ese efecto llamada es un mito del PP/Vox",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses disagreement with policy without insults, contempt, or hostile language."
+      "likes": 0
     },
     {
       "id": "aca7f684-f5d4-4675-9bb3-4112fe8e944b",
@@ -170,11 +126,7 @@
       "reply_to": "Biel",
       "reply_text": "Vaya la otra, siempre con lo mismo. Que si bulo, que si facha ME DA rabia que no tengáis ni un argumento serio y lo unico que sabais hacer es soltar esa palabrita para callar a los demas. Es el pan de cada dia con los buenistas, que si te quejas de la vivienda o de que los servicios publicos estan hasta arriba, es que eres un facha. qué nivel de estupidez! Es facil decir eso cuando no te toca pagar el alquiler o esperar horas en el medico. Dejad de vivir en una fantasía y de usar el \"facha\" como escudo para no afrontar la realidad que tiene la calle.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('tonterias', 'IDIOTA') and name-calling directed at others in the conversation."
+      "likes": 0
     },
     {
       "id": "5d5ca064-670c-495b-a380-4b7b76ccb8ca",
@@ -184,11 +136,7 @@
       "reply_to": "Miguel",
       "reply_text": "Es que el tema de la presión en servicios es el bulo de siempre de la derecha. La reforma es para gente que ya lleva años aportando sin papeles, así que lo que se busca es precisamente que dejen de estar en la economía sumergida y empiecen a cotizar de verdad para que el sistema sea mas sostenible",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques policy implementation without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "80347fd9-d8c3-4fe7-9c01-1bfb87f0d5ec",
@@ -198,11 +146,7 @@
       "reply_to": "Oriol",
       "reply_text": "Entiendo que formalizar ayuda, pero meter 300.000 personas cada año sin plan de vivienda o sanidad no es sostenible. No es un bulo, es falta de planificación de Moncloa",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues policy position without insults, contempt, or dehumanizing language toward groups or individuals."
+      "likes": 1
     },
     {
       "id": "51e40cda-841b-4af4-b5b4-3eba30f7bdf0",
@@ -212,11 +156,7 @@
       "reply_to": "Víctor",
       "reply_text": "Es que es de cajones que la planificación sea precisamente esto, que gente que ya está aquí trabaje y pague su seguridad social en vez de estar en la sombra. El cuento de que esto es \"meter\" gente es puro cuento de la derecha para no aceptar la realidad.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery (JAJAJA), contempt toward government policy, dismissive tone, and hostile framing of opposing views."
+      "likes": 0
     },
     {
       "id": "912af638-5e46-4138-8a9c-fbf779ac50b6",
@@ -226,11 +166,7 @@
       "reply_to": "Víctor",
       "reply_text": "Es que es de cajones que la planificación sea precisamente esto, que gente que ya está aquí trabaje y pague su seguridad social en vez de estar en la sombra. El cuento de que esto es \"meter\" gente es puro cuento de la derecha para no aceptar la realidad.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('qué risa me das'), name-calling ('buenista de manual'), and all-caps shouting for emphasis ('COLAPSAR TODO')."
+      "likes": 0
     }
   ]
 }

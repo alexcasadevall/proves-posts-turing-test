@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses concern about youth radicalization and education without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "b218e2a3-650d-4198-9a6d-0fe92648dde0",
@@ -30,11 +26,7 @@
       "reply_to": "Oscar",
       "reply_text": "Me da mucha cosa ver a chavales tan jovenes haciendo el saludo nazi, es que se nota que la educacion esta fallando bastante.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains dismissive insult ('tonteria'), contemptuous tone toward education advocates ('buenistas'), and stereotyping of immigration as inherently negative."
+      "likes": 0
     },
     {
       "id": "575909f3-a900-4bdb-9c11-32e7a103d282",
@@ -44,11 +36,7 @@
       "reply_to": "Mar",
       "reply_text": "Menuda tonteria lo de la educacion los chavales reaccionan al desastre de inmigracion que traen los buenistas!",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques an argument as simplistic without insults, contempt, or hostile tone."
+      "likes": 1
     },
     {
       "id": "9a3a1a69-7002-4a8f-ac73-cc217272ba79",
@@ -58,11 +46,7 @@
       "reply_to": "Oscar",
       "reply_text": "Me da mucha cosa ver a chavales tan jovenes haciendo el saludo nazi, es que se nota que la educacion esta fallando bastante.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains dismissive name-calling ('escapatoria'), contemptuous tone, and all-caps shouting ('VAYA PASADA') directed at opposing argument."
+      "likes": 0
     },
     {
       "id": "66b3ec31-5aa1-4aaa-ae73-5dd6b8c8b59d",
@@ -72,11 +56,7 @@
       "reply_to": "Lucía",
       "reply_text": "Esa idea de que la inmigración es un desastre es muy simplista y carece de base.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques immigration policy and government without insults, threats, or hate speech."
+      "likes": 0
     },
     {
       "id": "ca4303fc-aa4d-402a-b6cb-f4d7fcaf598d",
@@ -86,11 +66,7 @@
       "reply_to": "Mar",
       "reply_text": "Menuda tonteria lo de la educacion los chavales reaccionan al desastre de inmigracion que traen los buenistas!",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar insult ('mierda'), all-caps shouting, and dehumanizing stereotyping of political group ('progres')."
+      "likes": 0
     },
     {
       "id": "780df815-8de2-4267-a362-9408b8b8a5b8",
@@ -100,11 +76,7 @@
       "reply_to": "Lucía",
       "reply_text": "Esa idea de que la inmigración es un desastre es muy simplista y carece de base.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('buenista de salón'), insults ('joder'), contempt, and belittling characterizations of opponents."
+      "likes": 0
     },
     {
       "id": "b369c7c5-6bb5-4586-8d6c-0f5733d5471f",
@@ -114,11 +86,7 @@
       "reply_to": "Núria",
       "reply_text": "Puede que no todo sea un desastre, pero la presión en sanidad y vivienda es real. Lo que ignoran los buenistas es que este modelo de la Moncloa ya no da para mas",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a political argument without insults, contempt, or dehumanizing language."
+      "likes": 0
     }
   ]
 }

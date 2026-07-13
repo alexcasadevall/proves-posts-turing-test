@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Critique of policy and governance approach without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "9ff58814-c7ba-4ba0-972e-f90f1cbff892",
@@ -30,11 +26,7 @@
       "reply_to": "Vila",
       "reply_text": "Sin estrategia y con tanto buenismo, esto acaba colapsando los servicios publicos.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains name-calling ('fachas'), mockery ('menuda tontería'), contempt ('que nivel de ignorancia'), and belittling tone toward opposing groups."
+      "likes": 0
     },
     {
       "id": "01395b71-68fc-4d3e-b480-3b246baccac6",
@@ -44,11 +36,7 @@
       "reply_to": "Pol",
       "reply_text": "Menuda tonteria lo del buenismo, siempre con lo mismo los fachas para asustar a la gente, Que no es bondad,es que si no los regularizas el patronal te explota a ellos y la economia sumergida se va al carajo. ES LO mas logico para que coticen y dejen de vivir en la precariedad, pero claro, para los de Vox esto no es estrategia, es puro miedo que nivel de ignorancia, de verdad.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents policy argument about immigration control and public services without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "e5843163-8942-49a5-8498-7faa9a678860",
@@ -58,11 +46,7 @@
       "reply_to": "Vila",
       "reply_text": "Sin estrategia y con tanto buenismo, esto acaba colapsando los servicios publicos.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains impoliteness: dismissive mockery ('menuda tonteria'), name-calling ('bulo'), and all-caps shouting ('QUE NIVEL') expressing contempt."
+      "likes": 0
     },
     {
       "id": "f242fe1f-fd69-4909-a1ed-9b78b255beaf",
@@ -72,11 +56,7 @@
       "reply_to": "Pol",
       "reply_text": "Menuda tonteria lo del buenismo, siempre con lo mismo los fachas para asustar a la gente, Que no es bondad,es que si no los regularizas el patronal te explota a ellos y la economia sumergida se va al carajo. ES LO mas logico para que coticen y dejen de vivir en la precariedad, pero claro, para los de Vox esto no es estrategia, es puro miedo que nivel de ignorancia, de verdad.",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message questions resource allocation for regularization without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "b5aba945-9fd6-46b2-b9d2-1f93418c4fea",
@@ -86,11 +66,7 @@
       "reply_to": "Ramon",
       "reply_text": "No es solo miedo, es gestión. Si entran sin control, la economía se precariza y los servicios públicos no dan abasto para todos. Es pura lógica.",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues policy position respectfully without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "3b7eac70-97e4-4123-bd09-bf7cf42cc73b",
@@ -100,11 +76,7 @@
       "reply_to": "Roger",
       "reply_text": "@Ramon la precaridad no viene de la entrada en si, sino de que el sistema no permite regularizar a tiempo. Eso es lo que crea la economía sumergida, no la llegada de la gente. falta una estrategia de integracion real y no solo vigilar la frontera para evitar el caos.",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains impoliteness (mockery, condescension 'Menudo buenismo'), all-caps accusation, and dismissive contempt toward opposing views."
+      "likes": 1
     },
     {
       "id": "2b1f9472-e941-496e-9b2b-f5aaa079bac5",
@@ -114,11 +86,7 @@
       "reply_to": "Juan",
       "reply_text": "@Pol no es miedo, es gestion. y con que recursos regularizas todo sin colapsar mas vivienda y servicios?",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues policy position on immigration integration without insults, contempt, or hostile tone."
+      "likes": 1
     },
     {
       "id": "ffba5ba0-32c7-48e9-9937-a9b5b9411eda",
@@ -128,11 +96,7 @@
       "reply_to": "Jordi",
       "reply_text": "Bulo? Claro, claro, lo que pasa es que el papeleo es el culpable y no que dejen entrar a todo el mundo sin control. Menudo buenismo, de verdad. moncloa nos toma por idiotas con este cuento. 838 mil personas sin papeles y tú con lo del bulo, que nivel.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('menuda película de cuñao'), contempt ('pura charla'), and derogatory ideological slur ('facha')."
+      "likes": 0
     },
     {
       "id": "e9e480a0-85fb-4f71-9de8-36eb279b96df",
@@ -142,11 +106,7 @@
       "reply_to": "Clara",
       "reply_text": "Es cierto que la presión en servicios y vivienda es un reto real, pero el problema de fondo no es la gente que llega, sino la falta de una estrategia de integracion que funcione. Si no agilizamos los procesos de regularizacion y el arraigo, acabamos condenando a miles a la economia sumergida y eso es lo que de verdad satura todo el sistema en lugar de aprovechar su mano de obra.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains impoliteness ('cuento de buenista'), dismissive contempt toward opposing view, and all-caps shouting for emphasis."
+      "likes": 0
     },
     {
       "id": "f3b0f9e0-9b2a-43ab-92a2-3d9849880b1f",
@@ -156,11 +116,7 @@
       "reply_to": "Roger",
       "reply_text": "@Ramon la precaridad no viene de la entrada en si, sino de que el sistema no permite regularizar a tiempo. Eso es lo que crea la economía sumergida, no la llegada de la gente. falta una estrategia de integracion real y no solo vigilar la frontera para evitar el caos.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('buenistas', 'papanatismo puro'), mockery ('Menudo cuento'), and contemptuous tone toward opposing views."
+      "likes": 0
     },
     {
       "id": "99928a07-9d87-4000-b4a3-36cf61d81546",
@@ -170,11 +126,7 @@
       "reply_to": "Lucía",
       "reply_text": "O sea que si les damos papeles a todos mas rapido ya no hay problema? Menudo cuento,los buenistas siempre esquivando el volumen de gente, es de papanatismo puro",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "All-caps word combined with dismissive tone and accusation of demagoguery constitutes impoliteness."
+      "likes": 0
     },
     {
       "id": "6f62da0b-46c6-48e9-b401-2cb8e9d1d87f",
@@ -184,11 +136,7 @@
       "reply_to": "Lucía",
       "reply_text": "O sea que si les damos papeles a todos mas rapido ya no hay problema? Menudo cuento,los buenistas siempre esquivando el volumen de gente, es de papanatismo puro",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues policy position civilly without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "24519924-2aee-48fb-9079-093a1a88fc59",
@@ -198,11 +146,7 @@
       "reply_to": "Xavi",
       "reply_text": "No es cuestión de volumen, es que el sistema actual es ineficiente. El mismo articulo dice que la falta de una estrategia y la lentitud de la regularizacion crean ese limbo administrativo que alimenta la economia sumergida. Usar el arraigo como una regularizacion extraordinaria no es ser buenista, es gestionar la realidad para que la gente no viva en la precariedad.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses policy disagreement without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "360e8034-fb39-494b-92d4-2ed9e62bbb40",
@@ -212,11 +156,7 @@
       "reply_to": "Lucía",
       "reply_text": "O sea que si les damos papeles a todos mas rapido ya no hay problema? Menudo cuento,los buenistas siempre esquivando el volumen de gente, es de papanatismo puro",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents policy argument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "48a6713c-6e47-4d41-8285-7dc303b1ba7d",
@@ -226,11 +166,7 @@
       "reply_to": "Vila",
       "reply_text": "Vale, la lentitud de los papeles es un problema, pero el volumen de llegadas supera cualquier gestion administrativa por mucho, con esto colapsan la vivienda y la sanidad.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques political management without insults, contempt, or dehumanizing language."
+      "likes": 0
     }
   ]
 }

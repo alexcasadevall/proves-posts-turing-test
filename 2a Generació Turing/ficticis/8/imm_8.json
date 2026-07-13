@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses skepticism about statistics and raises concerns about integration capacity without insults, contempt, or dehumanizing language."
+      "likes": 1
     },
     {
       "id": "6181fd28-bc4a-4cb0-9faf-911efd9913ff",
@@ -30,11 +26,7 @@
       "reply_to": "Júlia",
       "reply_text": "Esos datos de las ayudas suenan muy bien para la prensa, pero la realidad en el dia a dia es otra. Esos porcentajes no te dicen nada de la presión que hay en los alquileres o como se estan saturando los servicios de mi barrio. Al final es mucho buenismo de las estadísticas, pero la capacidad de integracion y de aguantar el ritmo de todo esto tiene un limite que no sale en la encuenta.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('facherio'), mockery ('Vaya cuento'), condescension, and all-caps shouting ('VAYA PASOTA'), meeting impoliteness criteria."
+      "likes": 0
     },
     {
       "id": "69050911-bb93-4b4e-8496-27583926e617",
@@ -44,11 +36,7 @@
       "reply_to": "Júlia",
       "reply_text": "Esos datos de las ayudas suenan muy bien para la prensa, pero la realidad en el dia a dia es otra. Esos porcentajes no te dicen nada de la presión que hay en los alquileres o como se estan saturando los servicios de mi barrio. Al final es mucho buenismo de las estadísticas, pero la capacidad de integracion y de aguantar el ritmo de todo esto tiene un limite que no sale en la encuenta.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message respectfully disagrees with anecdotal reasoning, cites methodology, and avoids insults or contempt."
+      "likes": 0
     },
     {
       "id": "9ef34985-96ad-4139-ab81-7a0c5a4f3cd4",
@@ -58,11 +46,7 @@
       "reply_to": "Juan",
       "reply_text": "Vaya cuento con tu \"realidad\", Julia. Menudo facherio de barrio te mandas, creyendote mas que un estudio de 3100 personas... Es el tipico bulo de Vox para que la peña se sienta especial. vaya pasota!",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('VAYA PASOTA'), name-calling ('buenista'), dismissive contempt ('q nivel'), and all-caps shouting."
+      "likes": 0
     },
     {
       "id": "8d1bb5fa-e8ae-4707-9eba-1b1a61ea379f",
@@ -72,11 +56,7 @@
       "reply_to": "Núria",
       "reply_text": "Entiendo que lo que ves en tu calle es real, pero no puedes ningunear un estudio sistemático de 3.100 personas solo por una percepción personal. Usar la \"anécdota\" como si fuera una verdad absoluta es precisamente lo que permite que sigan existiendo bulos sobre la saturación de servicios sin base real,algo que Vox aprovecha muy bien. No es buenismo, es que la metodología de la encuesta es mucho más fiable que una impresión subjetiva de barrio",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('menuda VERDAD de progre'), contempt ('os tragais'), stereotyping ('vuestro bando'), and dismissive hostility toward opposing group."
+      "likes": 0
     },
     {
       "id": "c9cd8a7f-94e4-4112-9942-af8447e11cc5",
@@ -86,11 +66,7 @@
       "reply_to": "Júlia",
       "reply_text": "Esos datos de las ayudas suenan muy bien para la prensa, pero la realidad en el dia a dia es otra. Esos porcentajes no te dicen nada de la presión que hay en los alquileres o como se estan saturando los servicios de mi barrio. Al final es mucho buenismo de las estadísticas, pero la capacidad de integracion y de aguantar el ritmo de todo esto tiene un limite que no sale en la encuenta.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a reasoned argument about housing causes without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "5ee3f261-23d0-4202-b777-53f592220157",
@@ -100,11 +76,7 @@
       "reply_to": "Júlia",
       "reply_text": "Esos datos de las ayudas suenan muy bien para la prensa, pero la realidad en el dia a dia es otra. Esos porcentajes no te dicen nada de la presión que hay en los alquileres o como se estan saturando los servicios de mi barrio. Al final es mucho buenismo de las estadísticas, pero la capacidad de integracion y de aguantar el ritmo de todo esto tiene un limite que no sale en la encuenta.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a policy argument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "e04234ea-4df8-47d0-9ab7-cfdd31bf8fef",
@@ -114,11 +86,7 @@
       "reply_to": "Núria",
       "reply_text": "Entiendo que lo que ves en tu calle es real, pero no puedes ningunear un estudio sistemático de 3.100 personas solo por una percepción personal. Usar la \"anécdota\" como si fuera una verdad absoluta es precisamente lo que permite que sigan existiendo bulos sobre la saturación de servicios sin base real,algo que Vox aprovecha muy bien. No es buenismo, es que la metodología de la encuesta es mucho más fiable que una impresión subjetiva de barrio",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('Menuda ingenuidad'), contempt ('progre que se traga'), and dismissive tone toward opposing views."
+      "likes": 0
     }
   ]
 }

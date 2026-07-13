@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message supports the reform with reasoned arguments about labor exploitation and dismisses counterarguments as false claims, without insults or hostile tone."
+      "likes": 0
     },
     {
       "id": "ac0a3535-b20e-4cba-86af-a994f19dc1a5",
@@ -30,11 +26,7 @@
       "reply_to": "Sara",
       "reply_text": "La verdad es que esta reforma es super necesaria para frenar la explotacion laboral. Reducir el arraigo de 3 a 2 años va a ayudar un montón a que no les sigan pagando una miseria por no tener papeles. Y menos cuento con eso del efecto llamada, que es un bulo que siempre usan para no solucionar nada de fondo",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar insult ('MIERDA') and dismissive tone toward Sara's argument."
+      "likes": 0
     },
     {
       "id": "d57d995c-d5d8-49cd-848d-a13f4bb89a3d",
@@ -44,11 +36,7 @@
       "reply_to": "Sara",
       "reply_text": "La verdad es que esta reforma es super necesaria para frenar la explotacion laboral. Reducir el arraigo de 3 a 2 años va a ayudar un montón a que no les sigan pagando una miseria por no tener papeles. Y menos cuento con eso del efecto llamada, que es un bulo que siempre usan para no solucionar nada de fondo",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('puta idea'), mockery ('cuento', 'buenismo'), and contemptuous dismissal of opposing views."
+      "likes": 0
     },
     {
       "id": "92d3a73b-a069-49d5-9071-52cdb4eeccc8",
@@ -58,11 +46,7 @@
       "reply_to": "Adrià",
       "reply_text": "Vaya cuento te traes, que buenismo el de los progres. Decir que el efecto llamada es un bulo es de no tener ni puta idea de la realidad, es pura fantasía para no ver el desastre",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes PP/Vox arguments but uses no insults, vulgar language, or dehumanizing rhetoric."
+      "likes": 0
     },
     {
       "id": "ab628633-041e-4d3f-8f6f-a7b4a2e59f4d",
@@ -72,11 +56,7 @@
       "reply_to": "Sara",
       "reply_text": "La verdad es que esta reforma es super necesaria para frenar la explotacion laboral. Reducir el arraigo de 3 a 2 años va a ayudar un montón a que no les sigan pagando una miseria por no tener papeles. Y menos cuento con eso del efecto llamada, que es un bulo que siempre usan para no solucionar nada de fondo",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses policy disagreement without insults, contempt, or hostile tone."
+      "likes": 1
     },
     {
       "id": "d628fb23-b90b-4a90-898e-80ef31d6d882",
@@ -86,11 +66,7 @@
       "reply_to": "Adrià",
       "reply_text": "Vaya cuento te traes, que buenismo el de los progres. Decir que el efecto llamada es un bulo es de no tener ni puta idea de la realidad, es pura fantasía para no ver el desastre",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues substantively against opposition claims without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "82eac3e7-2c6c-485a-a513-88e0bd8d3048",
@@ -100,11 +76,7 @@
       "reply_to": "Carla",
       "reply_text": "Es que lo del efecto llamada es el comodin de siempre del PP y Vox para no afrontar la realidad. La gente ya esta aqui trabajando y esta reforma solo busca que dejen de ser explotados y puedan contribuir de forma legal",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('buenismo'), all-caps shouting for emphasis, and contemptuous dismissal of the reform as lacking real planning."
+      "likes": 0
     },
     {
       "id": "25580424-2975-4c17-9357-08bb65c89fb1",
@@ -114,11 +86,7 @@
       "reply_to": "Adrià",
       "reply_text": "Vaya cuento te traes, que buenismo el de los progres. Decir que el efecto llamada es un bulo es de no tener ni puta idea de la realidad, es pura fantasía para no ver el desastre",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains dismissive insult ('no tienes ni idea de nada') and contemptuous tone toward another speaker."
+      "likes": 1
     },
     {
       "id": "719ebf24-20e6-4bf8-b034-9b647afffedd",
@@ -128,11 +96,7 @@
       "reply_to": "Pau",
       "reply_text": "El concepto de efecto llamada se usa mucho en la oposición para evitar el debate estructural. La realidad es que la mayoría de estas personas ya están aquí integradas en el mercado laboral; lo que se busca es que dejen de estar en la sombra para que coticen y contribuyan de verdad al sistema, no es solo cuestión de fronteras",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses policy disagreement respectfully without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "a79a24ae-1be8-4117-ab5d-8990a3dd253d",
@@ -142,11 +106,7 @@
       "reply_to": "Ramon",
       "reply_text": "Entiendo que lo de la explotacion es real, pero meter a tanta gente sin reforzar la vivienda y sanidad es un problema de gestion de Moncloa que va a saturar todo.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar insult 'cojones' and all-caps shouting phrase, meeting impoliteness criteria."
+      "likes": 0
     },
     {
       "id": "25a3f7f3-f7a1-44a8-815a-fc3c7aa8aecc",
@@ -156,11 +116,7 @@
       "reply_to": "Pau",
       "reply_text": "El concepto de efecto llamada se usa mucho en la oposición para evitar el debate estructural. La realidad es que la mayoría de estas personas ya están aquí integradas en el mercado laboral; lo que se busca es que dejen de estar en la sombra para que coticen y contribuyan de verdad al sistema, no es solo cuestión de fronteras",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message raises policy concerns about service capacity without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "6581fb11-2865-4400-84e9-c3c333111073",
@@ -170,11 +126,7 @@
       "reply_to": "Eloi",
       "reply_text": "@Pau entiendo que el trabajo informal es un problema, pero legalizar a 300k personas cada año sin un plan de sanidad o vivienda es ir muy rápido. Es un tema de capacidad, no de ideología porque esto así no se sostiene",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Uses 'milonga' (dismissive slang) and contemptuous tone toward capacity concerns, treating opposing argument as mere excuse."
+      "likes": 0
     },
     {
       "id": "312d7501-a5db-4568-a3fe-abfd55ec1eea",
@@ -184,11 +136,7 @@
       "reply_to": "Vila",
       "reply_text": "Vale,lo de la cotizacion es importante, pero la pregunta es si la sanidad y la vivienda aguantan este ritmo de 300k al año. Moncloa no responde nada sobre la capacidad real de los servicios, es puro humo.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a reasoned argument about healthcare funding without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "1172b3ff-fefd-4708-b843-95b2aa2e7840",
@@ -198,11 +146,7 @@
       "reply_to": "Irene",
       "reply_text": "Menuda milonga la capacidad, ya están aquí trabajando y no es más que un excusa para seguir explotándoles",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses policy concern about service capacity without insults, contempt, or hostile language."
+      "likes": 0
     },
     {
       "id": "53fc4bd2-8442-4c0d-bcff-f90377d8f29a",
@@ -212,11 +156,7 @@
       "reply_to": "Sara",
       "reply_text": "Entiendo lo de la saturacion, pero la sanidad sufre por falta de inversion y no por los inmigrantes que cotizan mas.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('Vaya tela', 'Menuda fantasia'), dismissive contempt ('dos duros'), and derogatory characterization ('progres') directed at opposing viewpoint."
+      "likes": 0
     },
     {
       "id": "e59e216a-e2d1-43e9-8433-6393263034aa",
@@ -226,11 +166,7 @@
       "reply_to": "Adrià",
       "reply_text": "Vaya tela con vuestro cuento de la inversion. crees que con dos duros se arregla esto? Las listas de espera estan colapsadas y no hay medico que de abasto con tanta gente nueva. Menuda fantasia de los progres.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a policy argument without insults, contempt, or hostile tone."
+      "likes": 0
     }
   ]
 }

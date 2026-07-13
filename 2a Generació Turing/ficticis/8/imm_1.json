@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses policy concern about regularization effects without insults, contempt, or hostile tone."
+      "likes": 1
     },
     {
       "id": "4d64c1cb-2279-4021-bd61-2ff6b06faef0",
@@ -30,11 +26,7 @@
       "reply_to": "Oriol",
       "reply_text": "Es que con tanta regularización de golpe, los servicios públicos y el alquiler no van a aguantar el efecto llamada",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('Otra vez con el cuento'), name-calling ('bulo más facha'), and condescending dismissal ('no tenéis ni idea')."
+      "likes": 0
     },
     {
       "id": "53f3fbb0-c7b4-47a7-8714-c34c6cd8e07e",
@@ -44,11 +36,7 @@
       "reply_to": "Oriol",
       "reply_text": "Es que con tanta regularización de golpe, los servicios públicos y el alquiler no van a aguantar el efecto llamada",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message argues substantively against the 'call effect' claim without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "9cccc9ee-bb5e-4e12-a1b0-d64d0a64f951",
@@ -58,11 +46,7 @@
       "reply_to": "Víctor",
       "reply_text": "Otra vez con el cuento del efecto llamada? Vaya bulo más facha, no tenéis ni idea de como funciona la justicia social,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains vulgar insult 'mierda' and all-caps shouting phrase expressing contempt for opposing arguments."
+      "likes": 0
     },
     {
       "id": "1f83a0dc-3315-4210-958f-70afeb996cf9",
@@ -72,11 +56,7 @@
       "reply_to": "Mateu",
       "reply_text": "Es que no es efecto llamada porque la gente ya esta aqui, eso es lo que no entiende la gente de la PP y Vox, el problema del alquiler es otro tema aparte,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains impoliteness (chorrada, buenismo mockery) and all-caps shouting (ESTO ES UN DESASTRE) expressing contempt."
+      "likes": 0
     },
     {
       "id": "34610a98-f45e-4774-8a8d-80c8c81e49a7",
@@ -86,11 +66,7 @@
       "reply_to": "Oriol",
       "reply_text": "Es que con tanta regularización de golpe, los servicios públicos y el alquiler no van a aguantar el efecto llamada",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a factual argument about regularization without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "0b386326-dbd4-463e-bda0-a53d9f813ec9",
@@ -100,11 +76,7 @@
       "reply_to": "Mateu",
       "reply_text": "Es que no es efecto llamada porque la gente ya esta aqui, eso es lo que no entiende la gente de la PP y Vox, el problema del alquiler es otro tema aparte,",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a policy argument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "ae7b434d-b191-425c-abcb-df32c502c0c7",
@@ -114,11 +86,7 @@
       "reply_to": "Sara",
       "reply_text": "Claro, claro, qué facil es decir eso con el buenismo de Sanchez. Menuda chorrada lo de que el alquiler es \"otro tema\", si metes a 900 mil mas a la vez colapsas todo. esto ES UN desastre para los servicios publicos.",
       "is_mention": false,
-      "likes": 1,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Uses derogatory slur 'facha' and dismissive language ('cuento', 'bulo') to attack opposing viewpoints."
+      "likes": 1
     }
   ]
 }

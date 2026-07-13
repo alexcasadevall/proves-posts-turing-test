@@ -16,11 +16,7 @@
       "reply_to": null,
       "reply_text": null,
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message criticizes climate policy implementation without insults, contempt, or dehumanizing language; uses political references appropriately."
+      "likes": 0
     },
     {
       "id": "53c16d8e-7e68-4072-9766-b5b6b8abe5d5",
@@ -30,11 +26,7 @@
       "reply_to": "Raül",
       "reply_text": "Es que leer estas noticias te deja una sensacion de que viven en otro planeta. ese dato de que el 75% no incrementaria medidas ni con subvenciones lo dice todo. No es que no quieran, es que la realidad de una pyme o de un autonomo en España es muy distinta a lo que se planea en los despachos de la Moncloa o con la Agenda 2030. Estan asfixiando al tejido empresarial con normativas y exigencias que no tienen sentido practico cuando apenas llegan a fin de mes. Obligar a la construccion o a la hosteleria a hacer cambios estructurales asi por asi es una locura, la gente se va a quedar sin margen de maniobra por seguir unos objetivos que parecen desconectados de la economia real al final la que paga el pato es la pequeña empresa que no tiene ni para luz.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned climate argument without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "3b9c1af8-74f0-415f-8604-44e5413752b7",
@@ -44,11 +36,7 @@
       "reply_to": "Raül",
       "reply_text": "Es que leer estas noticias te deja una sensacion de que viven en otro planeta. ese dato de que el 75% no incrementaria medidas ni con subvenciones lo dice todo. No es que no quieran, es que la realidad de una pyme o de un autonomo en España es muy distinta a lo que se planea en los despachos de la Moncloa o con la Agenda 2030. Estan asfixiando al tejido empresarial con normativas y exigencias que no tienen sentido practico cuando apenas llegan a fin de mes. Obligar a la construccion o a la hosteleria a hacer cambios estructurales asi por asi es una locura, la gente se va a quedar sin margen de maniobra por seguir unos objetivos que parecen desconectados de la economia real al final la que paga el pato es la pequeña empresa que no tiene ni para luz.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains insults ('vaya cuento', 'negacionista'), vulgar language ('ES UNA MIERDA'), mockery ('MENUDA MILONGA'), and contemptuous tone toward Raül's argument."
+      "likes": 0
     },
     {
       "id": "8a32b508-9ce4-47d9-86df-b881758ce24b",
@@ -58,11 +46,7 @@
       "reply_to": "Lluís",
       "reply_text": "No es solo cuestión de pymes, que si las grandes con todos sus recursos también están bastante inactivas. El problema es que ese retraso en sectores como la construccion nos va a salir carisimo luego con inundaciones o calor extremo. Al final, la inaccion va a golpear mas fuerte a la economia real que cualquier normativa.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains vulgar intensifier 'MENUDO' in all-caps, derogatory term 'chiringuito', and dismissive insult 'vendehumos' targeting climate policy advocates."
+      "likes": 0
     },
     {
       "id": "19ff7f33-c3ee-4982-a8c1-291b19d09c02",
@@ -72,11 +56,7 @@
       "reply_to": "Raül",
       "reply_text": "Es que leer estas noticias te deja una sensacion de que viven en otro planeta. ese dato de que el 75% no incrementaria medidas ni con subvenciones lo dice todo. No es que no quieran, es que la realidad de una pyme o de un autonomo en España es muy distinta a lo que se planea en los despachos de la Moncloa o con la Agenda 2030. Estan asfixiando al tejido empresarial con normativas y exigencias que no tienen sentido practico cuando apenas llegan a fin de mes. Obligar a la construccion o a la hosteleria a hacer cambios estructurales asi por asi es una locura, la gente se va a quedar sin margen de maniobra por seguir unos objetivos que parecen desconectados de la economia real al final la que paga el pato es la pequeña empresa que no tiene ni para luz.",
       "is_mention": true,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message uses respectful tone, acknowledges opposing view, and presents reasoned argument without insults or hostility."
+      "likes": 0
     },
     {
       "id": "2e9ddaaf-17bc-4be4-8048-2168f40fb999",
@@ -86,11 +66,7 @@
       "reply_to": "Lluís",
       "reply_text": "No es solo cuestión de pymes, que si las grandes con todos sus recursos también están bastante inactivas. El problema es que ese retraso en sectores como la construccion nos va a salir carisimo luego con inundaciones o calor extremo. Al final, la inaccion va a golpear mas fuerte a la economia real que cualquier normativa.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message expresses political disagreement about EU regulation and SME burden without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "d9d7c099-9578-46b1-97fc-803c676aa949",
@@ -100,11 +76,7 @@
       "reply_to": "Víctor",
       "reply_text": "Y crees que mas normativas de Bruselas van a arreglar algo? menudo CHIRINGUITO climatico, vendehumos",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains insults ('negacionista de manual', 'falta de luces', 'cuñado'), mockery (eye-roll emoji), condescension, and contemptuous tone toward another participant."
+      "likes": 0
     },
     {
       "id": "73f2a273-4a4e-4d20-8439-8236d52e6989",
@@ -114,11 +86,7 @@
       "reply_to": "Lucía",
       "reply_text": "Vaya cuento te traes,Raül la típica excusa de negacionista para no hacerse cargo de nada. Pymes? menuda milonga! Lo que pasa es que los lobbies y la derecha de siempre te venden la moto de la \"economía real\" pa que no se mueva ni un dedo. ES una mierda!",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents reasoned argument about structural economic constraints without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "e0aeafec-f3d1-4ac3-abce-e1436a46e13a",
@@ -128,11 +96,7 @@
       "reply_to": "Lucía",
       "reply_text": "Vaya cuento te traes,Raül la típica excusa de negacionista para no hacerse cargo de nada. Pymes? menuda milonga! Lo que pasa es que los lobbies y la derecha de siempre te venden la moto de la \"economía real\" pa que no se mueva ni un dedo. ES una mierda!",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains multiple insults (MENUDA PARIDA, mierda), name-calling (progres, casta), mockery, and contemptuous tone toward other participants."
+      "likes": 0
     },
     {
       "id": "8d0e6453-074b-47b4-963b-3bea0fa6ed84",
@@ -142,11 +106,7 @@
       "reply_to": "Alba",
       "reply_text": "Es verdad que la inaccion tiene su coste, pero culpar solo a los lobbies es muy facil. La realidad es que las pymes no pueden absorber tanto gasto sin ayuda de verdad, no basta con promesas, es una realidad estructural mas que una falta de ganas de las empresas.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains multiple insults (coñazo, cuñao, parásitos, huevos), vulgar language (joder), contempt, and dehumanizing characterizations of businesses."
+      "likes": 0
     },
     {
       "id": "019c6879-8ebb-49ef-ad42-d25aa50e8929",
@@ -156,11 +116,7 @@
       "reply_to": "Ramon",
       "reply_text": "Vale, entiendo que la inaccion tiene un coste, pero el problema es que nos imponen un modelo de Bruselas que no tiene ni idea de la realidad. Al final, la normativa solo traslada toda la carga a las pymes",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Uses all-caps shouting, name-calling ('negacionistas'), and dismissive contempt ('EXCUSAS DE MANUAL', 'menuda milonga')."
+      "likes": 0
     },
     {
       "id": "d98a67c1-9f0f-47e4-a7dd-3a0e78410886",
@@ -170,11 +126,7 @@
       "reply_to": "Ismael",
       "reply_text": "Pero mira esta niña, Lucía, se cree que ha descubierto la pólvora con sus teorías de ecologista de salón. menuda parida! Vienes aquí a hablar de avaricia y de \"economía real\" como si no supieras nada de lo que es currar de verdad o intentar sacar adelante un negocio con la espalda rota. Aquí el problema no es la avaricia,es que la panda de progres de Moncloa y su agenda 2030 nos quiere asfixiar con impuestos y leyes de mierda que no sirven ni pa un alfiler. Se llenan la boca con el planeta pero lo que quieren es mas control y mas chiringuitos pa sus amigos de la política. Y las pymes? Para la casta todo, para el que produce nada. Nos imponen una transición verde que es un invento pa que los de arriba se llenen de pasta mientras el resto nos partimos el culo pa pagar la luz y no quebrar. Es de coña que te creas que las empresas tienen mas dinero que agua pa gastarse en caprichos de Bruselas y de Sánchez. Menos sermones de Instagram y mas mirar la realidad, que es que nos están robando la vida con estas movidas climáticas que no son mas que una estafa pa controlarnos a todos. joder que cansinos sois con vuestro idealismo de pacotilla",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Contains mockery ('Menuda teoría'), dismissive language ('milonga'), and contemptuous tone toward Ismael's argument."
+      "likes": 0
     },
     {
       "id": "45eb855a-f7b2-4d26-98dd-f9b4236b6d3a",
@@ -184,11 +136,7 @@
       "reply_to": "Lucía",
       "reply_text": "Esa historia de la \"realidad estructural\" es el coñazo de siempre, una excusa de cuñao para no admitir que lo que hay es una falta de narices de compromiso. De verdad nos vamos a tragar que no pueden invertir un poco porque no tienen pasta? por favor! Es la misma milonga que usan los grandes y los de siempre para seguir exprimiendo el planeta sin soltar ni un euro de beneficio. Lo que pasa es que es mucho más cómodo decir que \"no se puede\" que cambiar el modelo de negocio y dejar de ser unos parásitos. Estamos esperando a que las temperaturas suban 3 grados pa ver si así les sale de las narices invertir, mientras los lobbies se ríen de nosotros. Es la tiranía del beneficio inmediato, la avaricia de toda la vida disfrazada de necesidad económica. No es que sea imposible, es que no quieren perder ni un céntimo de su margen de beneficio. Menudo alibi que se sacan que tienen, nos están vendiendo la moto con que es un problema de costes cuando es un problema de falta de huevos de las empresas que no quieren dejar de ser tan rentables a costa de la vida de todos.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message presents a reasoned counterargument about regulatory costs without insults, contempt, or hostile tone."
+      "likes": 0
     },
     {
       "id": "baa8d7de-52de-49f3-b94c-3d80c9a6df66",
@@ -198,11 +146,7 @@
       "reply_to": "Lucía",
       "reply_text": "Esa historia de la \"realidad estructural\" es el coñazo de siempre, una excusa de cuñao para no admitir que lo que hay es una falta de narices de compromiso. De verdad nos vamos a tragar que no pueden invertir un poco porque no tienen pasta? por favor! Es la misma milonga que usan los grandes y los de siempre para seguir exprimiendo el planeta sin soltar ni un euro de beneficio. Lo que pasa es que es mucho más cómodo decir que \"no se puede\" que cambiar el modelo de negocio y dejar de ser unos parásitos. Estamos esperando a que las temperaturas suban 3 grados pa ver si así les sale de las narices invertir, mientras los lobbies se ríen de nosotros. Es la tiranía del beneficio inmediato, la avaricia de toda la vida disfrazada de necesidad económica. No es que sea imposible, es que no quieren perder ni un céntimo de su margen de beneficio. Menudo alibi que se sacan que tienen, nos están vendiendo la moto con que es un problema de costes cuando es un problema de falta de huevos de las empresas que no quieren dejar de ser tan rentables a costa de la vida de todos.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message critiques policy burden on SMEs without insults, contempt, or dehumanizing language."
+      "likes": 0
     },
     {
       "id": "27911cc6-c8c1-4a13-af2c-e99151caac62",
@@ -212,11 +156,7 @@
       "reply_to": "Gerard",
       "reply_text": "Menuda teoría, Ismael, de verdad, la típica milonga de que todo es un plan de la Agenda 2030 para controlarnos. Es la excusa de manual para no afrontar la realidad: el 75% de las empresas no movería un dedo ni aunque les regalen la pasta.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": true,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message contains multiple insults, mockery, contempt, and derogatory language toward Gerard and climate advocates (negacionistas, tontos, vendehumos, ingenuos)."
+      "likes": 0
     },
     {
       "id": "5f3945dc-9455-4d24-927e-4f7e66924f04",
@@ -226,11 +166,7 @@
       "reply_to": "Víctor",
       "reply_text": "Pero qué dices, Gerard. Vaya tela con lo que sueltas! Negacionistas? por favor! Menuda pedrada acabas de tirar. Lo del 75% no es una \"excusa\", es que la peña tiene dos dedos de frente y sabe perfectamente que nos están intentando colar un gol por la escuadra. Ese dato que tanto te flipa es la prueba de que las empresas no son tontas. No es que no quieran ayudar, es que están hasta el moño de que nos quieran robar con la excusa de \"salvar el planeta\". Es un fraude lucrativo, eso es lo que es. Se inventan un problema que no existe,o que se exagera como si no hubiera un mañana, solo para meter más impuestos coercitivos y crear un chiringuito de subvenciones que se reparten entre los de siempre. Todo este cuento del cambio climático es una forma de control absoluto de los colectivistas para asfixiar al trabajador y al pequeño empresario. Nos quieren con la soga al cuello, pagando cada vez más por movernos, por calentar la casa o por producir nada, mientras los de la Agenda 2030 se llenan los bolsillos con la pasta de la Unión Europea. menuda farsa! Dejad de ser tan ingenuos y de dar crédito a lo que dicen los vendehumos de turno, que nos la están metiendo doblada y os quedáis tan anchos.",
       "is_mention": false,
-      "likes": 0,
-      "is_incivil": false,
-      "is_like_minded": null,
-      "inferred_participant_stance": null,
-      "classification_rationale": "Message acknowledges cost concerns while presenting policy critique without insults, contempt, or dehumanizing language."
+      "likes": 0
     }
   ]
 }
